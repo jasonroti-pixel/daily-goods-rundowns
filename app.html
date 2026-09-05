@@ -438,6 +438,64 @@ a:hover{text-decoration:underline}
 }
 @media(min-width:901px){.prep-close{display:none!important}}
 .prep-close{font-family:'Press Start 2P',monospace;font-size:0.42rem;background:none;border:none;color:var(--pink);cursor:pointer;position:absolute;top:12px;right:12px;padding:4px}
+
+/* ═══ ADD STORY ═══ */
+.add-story-btn{
+  font-family:'Press Start 2P',monospace;font-size:0.3rem;padding:8px 10px;
+  background:transparent;border:2px solid var(--yellow);color:var(--yellow);
+  cursor:pointer;white-space:nowrap;
+}
+.add-story-btn:hover{background:rgba(255,215,0,0.08)}
+.add-form-overlay{
+  position:fixed;top:0;right:0;bottom:0;left:0;z-index:600;
+  background:var(--overlay-bg);
+  display:flex;align-items:center;justify-content:center;
+  transition:opacity 0.3s,visibility 0.3s;
+}
+.add-form-overlay.hidden{opacity:0;visibility:hidden;pointer-events:none}
+.add-form-box{background:var(--surface);border:3px solid var(--yellow);padding:28px 32px;max-width:520px;width:90%}
+.add-form-title{font-family:'Press Start 2P',monospace;font-size:0.5rem;color:var(--yellow);margin-bottom:20px;text-shadow:0 0 8px rgba(255,215,0,0.3)}
+.add-form-row{margin-bottom:14px}
+.add-form-label{font-family:'Press Start 2P',monospace;font-size:0.3rem;color:var(--text-dim);margin-bottom:6px;display:block}
+.add-form-input{
+  font-family:'IBM Plex Mono',monospace;font-size:0.85rem;
+  padding:8px 10px;background:var(--bg);color:var(--text);
+  border:2px solid var(--border);width:100%;outline:none;
+}
+.add-form-input:focus{border-color:var(--cyan)}
+.add-form-input::placeholder{color:var(--text-dim)}
+.add-form-select{
+  font-family:'IBM Plex Mono',monospace;font-size:0.85rem;
+  padding:8px 10px;background:var(--bg);color:var(--text);
+  border:2px solid var(--border);outline:none;cursor:pointer;
+}
+.add-form-select:focus{border-color:var(--cyan)}
+.add-form-inline{display:flex;gap:10px}
+.add-form-inline>*{flex:1}
+.add-form-actions{display:flex;gap:10px;margin-top:20px}
+.add-form-submit{
+  font-family:'Press Start 2P',monospace;font-size:0.38rem;
+  padding:10px 20px;border:2px solid var(--green);background:transparent;
+  color:var(--green);cursor:pointer;flex:1;
+}
+.add-form-submit:hover{background:rgba(57,255,20,0.1)}
+.add-form-cancel{
+  font-family:'Press Start 2P',monospace;font-size:0.38rem;
+  padding:10px 20px;border:2px solid var(--text-dim);background:transparent;
+  color:var(--text-dim);cursor:pointer;flex:1;
+}
+.add-form-cancel:hover{border-color:var(--pink);color:var(--pink)}
+.story-card.custom .story-title::before{
+  content:'CUSTOM';font-family:'Press Start 2P',monospace;font-size:0.24rem;
+  color:var(--yellow);background:rgba(255,215,0,0.12);border:1px solid var(--yellow);
+  padding:2px 5px;margin-right:8px;vertical-align:middle;
+}
+.custom-delete{
+  font-family:'Press Start 2P',monospace;font-size:0.24rem;
+  background:none;border:1px solid var(--pink);color:var(--pink);
+  padding:2px 6px;cursor:pointer;margin-left:8px;
+}
+.custom-delete:hover{background:rgba(255,45,123,0.12)}
 </style>
 </head>
 <body>
@@ -565,6 +623,38 @@ a:hover{text-decoration:underline}
 
 <div class="toast" id="toast"></div>
 
+<!-- ═══ ADD STORY FORM ═══ -->
+<div class="add-form-overlay hidden" id="addStoryOverlay">
+  <div class="add-form-box">
+    <div class="add-form-title">+ ADD CUSTOM STORY</div>
+    <div class="add-form-row">
+      <label class="add-form-label">TITLE *</label>
+      <input class="add-form-input" id="addTitle" type="text" placeholder="Story headline...">
+    </div>
+    <div class="add-form-row">
+      <label class="add-form-label">URL</label>
+      <input class="add-form-input" id="addUrl" type="url" placeholder="https://...">
+    </div>
+    <div class="add-form-row add-form-inline">
+      <div>
+        <label class="add-form-label">DATE *</label>
+        <input class="add-form-input" id="addDate" type="date">
+      </div>
+      <div>
+        <label class="add-form-label">SLOT *</label>
+        <select class="add-form-select" id="addSlot" style="width:100%">
+          <option value="am">MORNING</option>
+          <option value="pm">EVENING</option>
+        </select>
+      </div>
+    </div>
+    <div class="add-form-actions">
+      <button class="add-form-submit" onclick="submitCustomStory()">ADD STORY</button>
+      <button class="add-form-cancel" onclick="hideAddStory()">CANCEL</button>
+    </div>
+  </div>
+</div>
+
 <script>
 /* ═══ NICO IMAGES ═══ */
 const NICO_IMG = {
@@ -584,6 +674,7 @@ let currentDate = null;
 let currentSlot = null;
 let searchQuery = '';
 let options = { email: '', hideBackups: false, showScores: true, theme: 'auto' };
+let customStories = [];
 
 function storyId(s) { return s.date + '|' + s.slot + '|' + s.title.substring(0, 60); }
 
@@ -600,6 +691,19 @@ function saveSelections() {
 }
 function saveOptions() {
   try { localStorage.setItem('jaystation-opts', JSON.stringify(options)); } catch(e) {}
+}
+function loadCustomStories() {
+  try {
+    const s = localStorage.getItem('jaystation-custom');
+    if (s) customStories = JSON.parse(s);
+  } catch(e) {}
+}
+function saveCustomStories() {
+  try { localStorage.setItem('jaystation-custom', JSON.stringify(customStories)); } catch(e) {}
+}
+function mergeCustomStories() {
+  allStories = allStories.filter(s => !s._custom);
+  customStories.forEach(s => allStories.push(s));
 }
 
 function isDaytime() {
@@ -636,6 +740,71 @@ function toggleTheme() {
   const cur = getEffectiveTheme();
   options.theme = cur === 'day' ? 'night' : 'day';
   saveOptions(); applyTheme();
+}
+
+function showAddStory() {
+  const overlay = document.getElementById('addStoryOverlay');
+  overlay.classList.remove('hidden');
+  document.getElementById('addTitle').value = '';
+  document.getElementById('addUrl').value = '';
+  const dateInput = document.getElementById('addDate');
+  if (currentDate) dateInput.value = currentDate;
+  else dateInput.value = new Date().toISOString().split('T')[0];
+  document.getElementById('addSlot').value = currentSlot || 'am';
+  document.getElementById('addTitle').focus();
+}
+function hideAddStory() {
+  document.getElementById('addStoryOverlay').classList.add('hidden');
+}
+document.addEventListener('keydown', function(e) {
+  const overlay = document.getElementById('addStoryOverlay');
+  if (!overlay || overlay.classList.contains('hidden')) return;
+  if (e.key === 'Escape') hideAddStory();
+  if (e.key === 'Enter' && e.target.tagName !== 'SELECT') submitCustomStory();
+});
+function submitCustomStory() {
+  const title = document.getElementById('addTitle').value.trim();
+  const url = document.getElementById('addUrl').value.trim();
+  const date = document.getElementById('addDate').value;
+  const slot = document.getElementById('addSlot').value;
+  if (!title) { showToast('TITLE REQUIRED'); return; }
+  if (!date) { showToast('DATE REQUIRED'); return; }
+  const story = {
+    _custom: true,
+    _id: Date.now() + '-' + Math.random().toString(36).substr(2,6),
+    title: title,
+    url: url || '',
+    date: date,
+    slot: slot,
+    category: 'ADDED STORIES',
+    angle: '',
+    bullets: [],
+    debate: '',
+    score: '',
+    source: '',
+    is_backup: false
+  };
+  customStories.push(story);
+  saveCustomStories();
+  mergeCustomStories();
+  hideAddStory();
+  if (currentView === 'stories' && currentDate === date && currentSlot === slot) {
+    renderStories(); renderPrep();
+  } else if (currentView === 'rundowns') {
+    renderApp();
+  }
+  showToast('CUSTOM STORY ADDED');
+}
+function deleteCustomStory(customId) {
+  customStories = customStories.filter(s => s._id !== customId);
+  saveCustomStories();
+  const removedStory = allStories.find(s => s._custom && s._id === customId);
+  if (removedStory) selectedIds.delete(storyId(removedStory));
+  mergeCustomStories();
+  saveSelections();
+  renderStories(); renderPrep();
+  if (currentView === 'rundowns') renderApp();
+  showToast('CUSTOM STORY DELETED');
 }
 
 function showToast(msg) {
@@ -726,7 +895,8 @@ function renderRundownSelect() {
   const dates = getDates();
   let h = '<div class="rundown-select">';
   h += '<div class="rundown-header"><img class="nico-img nico-wag" style="width:48px;height:auto" src="'+NICO_IMG.walk+'" alt="Nico">';
-  h += '<div><div class="section-title">SELECT YOUR RUNDOWN</div><div class="section-sub">Pick a date to browse stories and build your loadout</div></div></div>';
+  h += '<div><div class="section-title">SELECT YOUR RUNDOWN</div><div class="section-sub">Pick a date to browse stories and build your loadout</div></div>';
+  h += '<button class="add-story-btn" onclick="showAddStory()" style="margin-left:auto">+ ADD STORY</button></div>';
   h += '<div class="rundown-grid">';
   dates.forEach(d => {
     const f = formatDate(d.date);
@@ -766,7 +936,8 @@ function renderStoryBrowser() {
   }
   h += '<div class="search-bar"><input class="search-input" type="text" placeholder="Search stories..." value="'+escAttr(searchQuery)+'" oninput="updateSearch(this.value)">';
   h += '<button class="filter-btn'+(options.hideBackups?' active':'')+'" onclick="options.hideBackups=!options.hideBackups;saveOptions();renderStories()">HIDE BACKUPS</button>';
-  h += '<button class="select-all-btn" onclick="selectAllVisible()">SELECT ALL</button></div>';
+  h += '<button class="select-all-btn" onclick="selectAllVisible()">SELECT ALL</button>';
+  h += '<button class="add-story-btn" onclick="showAddStory()">+ ADD STORY</button></div>';
   h += '<div id="storyList"></div></div>';
   // prep panel
   h += '<div class="prep-panel" id="prepPanel"><button class="prep-close" onclick="togglePrep()">X</button>';
@@ -797,12 +968,13 @@ function getFilteredStories() {
 function groupByCategory(stories) {
   const g={},o=[];
   stories.forEach(s => { if(!g[s.category]){g[s.category]={main:[],backup:[]};o.push(s.category)} if(s.is_backup)g[s.category].backup.push(s);else g[s.category].main.push(s); });
+  o.sort((a,b) => (a==='ADDED STORIES'?-1:b==='ADDED STORIES'?1:0));
   return {groups:g,order:o};
 }
 
 function renderStoryCard(story) {
   const id=storyId(story),sel=selectedIds.has(id)?' selected':'',eid=escAttr(id);
-  let h='<div class="story-card'+sel+'" data-id="'+eid+'">';
+  let h='<div class="story-card'+sel+(story._custom?' custom':'')+'" data-id="'+eid+'">';
   h+='<div class="story-title">'+escHtml(story.title)+'</div>';
   if(story.angle)h+='<div class="story-angle">'+escHtml(story.angle)+'</div>';
   if(story.bullets.length){h+='<ul class="story-bullets">';story.bullets.forEach(b=>{h+='<li>'+escHtml(b.trim())+'</li>'});h+='</ul>'}
@@ -811,6 +983,7 @@ function renderStoryCard(story) {
   if(story.score&&options.showScores)h+='<span class="story-score">'+escHtml(story.score)+'</span>';
   if(story.source){h+='<span class="story-source">'+escHtml(story.source.split('|')[0].trim())+'</span>'}
   if(story.url)h+='<a class="story-link" href="'+escAttr(story.url)+'" target="_blank" rel="noopener" onclick="event.stopPropagation()">SOURCE</a>';
+  if(story._custom)h+='<button class="custom-delete" data-custom-id="'+escAttr(story._id)+'" onclick="event.stopPropagation();deleteCustomStory(this.getAttribute(\'data-custom-id\'))">DELETE</button>';
   h+='</div></div>';
   return h;
 }
@@ -858,7 +1031,7 @@ function renderPrep(){
     byDate[key].forEach(s=>{
       const id=escAttr(storyId(s));
       h+='<div class="prep-item" data-prep-id="'+id+'"><button class="prep-remove" title="Remove">X</button>';
-      h+='<div class="prep-item-cat"><img class="nico-icon-menu" src="'+NICO_IMG.icon+'" alt="">'+escHtml(s.category)+'</div>';
+      h+='<div class="prep-item-cat"><img class="nico-icon-menu" src="'+NICO_IMG.icon+'" alt="">'+(s._custom?'<span style="color:var(--yellow);margin-right:4px">CUSTOM</span>':'')+escHtml(s.category)+'</div>';
       h+='<div class="prep-item-title">'+escHtml(s.title)+'</div>';
       if(s.angle)h+='<div class="prep-item-angle">'+escHtml(s.angle)+'</div>';
       if(s.debate)h+='<div class="prep-item-debate">'+escHtml(s.debate)+'</div>';
@@ -882,7 +1055,7 @@ function buildPrepText(){
     const[date,slot]=key.split(' ');const f=formatDate(date);
     t+='--- '+f.full.toUpperCase()+' ('+slotLabel(slot)+') ---\n\n';
     byDate[key].forEach((s,i)=>{
-      t+=(i+1)+'. '+s.title+'\n   Category: '+s.category+'\n';
+      t+=(i+1)+'. '+(s._custom?'[CUSTOM] ':'')+s.title+'\n   Category: '+s.category+'\n';
       if(s.angle)t+='   Angle: '+s.angle+'\n';
       if(s.bullets.length)s.bullets.forEach(b=>{t+='   - '+b.trim()+'\n'});
       if(s.debate)t+='   Debate Starter: '+s.debate+'\n';
@@ -910,7 +1083,7 @@ function emailPrep(){
 
 /* ═══ INIT ═══ */
 async function init(){
-  loadState(); applyTheme(); renderStars();
+  loadState(); loadCustomStories(); applyTheme(); renderStars();
   document.getElementById('nicoIntro').src = NICO_IMG.intro;
 
   const app=document.getElementById('appContent');
@@ -939,6 +1112,7 @@ async function init(){
       return;
     }
   }
+  mergeCustomStories();
 }
 init();
 </script>
