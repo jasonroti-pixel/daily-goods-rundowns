@@ -23,6 +23,59 @@
   --pink:#ff2d7b;
   --yellow:#ffd700;
   --red:#ff3a3a;
+  --overlay-bg:rgba(6,5,15,0.92);
+  --scanline:rgba(0,0,0,0.06);
+  --shadow-color:rgba(0,0,0,0.5);
+  --sky-top:#06050f;
+  --sky-mid:#1a1040;
+  --sky-bottom:#6b2090;
+  --skyline-a:#0c0820;
+  --skyline-b:#0e0a24;
+  --skyline-c:#14103a;
+  --skyline-d:#100c28;
+  --skyline-e:#120e30;
+  --skyline-f:#1a1548;
+  --skyline-accent:#201860;
+  --skyline-detail:#16123e;
+  --skyline-bright:#18144a;
+  --skyline-frame:#221c5a;
+  --skyline-window:#2a2470;
+  --star-color:#fff;
+}
+[data-theme="day"]{
+  --bg:#e8f0f8;
+  --surface:#f0f4fa;
+  --surface-raised:#ffffff;
+  --border:#b8c8e0;
+  --border-bright:#8da4c8;
+  --text:#2a3650;
+  --text-dim:#6878a0;
+  --text-bright:#0e1a30;
+  --cyan:#0078c8;
+  --orange:#d45000;
+  --purple:#7b2db8;
+  --green:#1a8a00;
+  --pink:#c8185a;
+  --yellow:#b89000;
+  --red:#c82020;
+  --overlay-bg:rgba(200,216,240,0.94);
+  --scanline:rgba(255,255,255,0.04);
+  --shadow-color:rgba(0,0,0,0.12);
+  --sky-top:#1a8ae0;
+  --sky-mid:#48b0f0;
+  --sky-bottom:#90d8ff;
+  --skyline-a:#3a5068;
+  --skyline-b:#4a6078;
+  --skyline-c:#506888;
+  --skyline-d:#384860;
+  --skyline-e:#425870;
+  --skyline-f:#5878a0;
+  --skyline-accent:#7090b0;
+  --skyline-detail:#6080a0;
+  --skyline-bright:#5070a0;
+  --skyline-frame:#6888a8;
+  --skyline-window:#88a8c8;
+  --star-color:transparent;
 }
 html{font-size:14px}
 body{
@@ -32,7 +85,7 @@ body{
 }
 body::after{
   content:'';position:fixed;top:0;right:0;bottom:0;left:0;
-  background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(0,0,0,0.06) 2px,rgba(0,0,0,0.06) 4px);
+  background:repeating-linear-gradient(0deg,transparent,transparent 2px,var(--scanline) 2px,var(--scanline) 4px);
   pointer-events:none;z-index:9999;
 }
 a{color:var(--cyan);text-decoration:none}
@@ -67,9 +120,36 @@ a:hover{text-decoration:underline}
 .skyline-canvas{position:absolute;bottom:0;left:0;width:100%;height:65%}
 .sky-gradient{
   position:absolute;top:0;right:0;bottom:0;left:0;
-  background:linear-gradient(180deg,#06050f 0%,#0c0a24 30%,#1a1040 55%,#2d1866 75%,#4a1a7a 90%,#6b2090 100%);
+  background:linear-gradient(180deg,var(--sky-top) 0%,color-mix(in srgb,var(--sky-top),var(--sky-mid)) 30%,var(--sky-mid) 55%,color-mix(in srgb,var(--sky-mid),var(--sky-bottom)) 75%,var(--sky-bottom) 100%);
 }
 .stars{position:absolute;top:0;right:0;bottom:0;left:0}
+[data-theme="day"] .stars{opacity:0}
+[data-theme="day"] .skyline-canvas{filter:saturate(0.4) brightness(2.2) contrast(0.7)}
+[data-theme="day"] .intro-title{text-shadow:0 0 20px rgba(0,120,200,0.5),0 0 60px rgba(0,120,200,0.2),0 4px 0 #004870,0 8px 0 #003050}
+[data-theme="day"] .intro-subtitle{text-shadow:0 0 10px rgba(123,45,184,0.3)}
+[data-theme="day"] .topbar-logo:hover .topbar-title-text{text-shadow:0 0 16px rgba(0,120,200,0.5)}
+[data-theme="day"] .topbar-title-text{text-shadow:0 0 10px rgba(0,120,200,0.3)}
+[data-theme="day"] .score-display{text-shadow:none}
+[data-theme="day"] .section-title{text-shadow:none}
+[data-theme="day"] .prep-header{text-shadow:none}
+[data-theme="day"] .options-title{text-shadow:none}
+[data-theme="day"] .menu-btn.start{text-shadow:0 0 8px rgba(0,120,200,0.3)}
+[data-theme="day"] .menu-btn.start:hover{background:rgba(0,120,200,0.1);box-shadow:0 0 20px rgba(0,120,200,0.2),inset 0 0 20px rgba(0,120,200,0.06)}
+[data-theme="day"] .menu-btn.options:hover{background:rgba(123,45,184,0.06)}
+.theme-toggle{
+  font-family:'Press Start 2P',monospace;font-size:0.5rem;
+  background:transparent;border:2px solid var(--border-bright);
+  color:var(--text);cursor:pointer;padding:8px 14px;
+  transition:all 0.15s;min-width:260px;text-align:center;
+}
+.theme-toggle:hover{border-color:var(--yellow);color:var(--yellow)}
+.theme-toggle:active{transform:scale(0.96)}
+.topbar-theme{
+  font-family:'Press Start 2P',monospace;font-size:0.55rem;
+  background:transparent;border:none;color:var(--yellow);
+  cursor:pointer;padding:6px;line-height:1;
+}
+.topbar-theme:hover{text-shadow:0 0 8px var(--yellow)}
 
 .intro-content{
   position:relative;z-index:10;
@@ -139,7 +219,7 @@ a:hover{text-decoration:underline}
 /* ═══ OPTIONS MODAL ═══ */
 .options-overlay{
   position:fixed;top:0;right:0;bottom:0;left:0;z-index:600;
-  background:rgba(6,5,15,0.92);
+  background:var(--overlay-bg);
   display:flex;align-items:center;justify-content:center;
   transition:opacity 0.3s,visibility 0.3s;
 }
@@ -162,7 +242,7 @@ a:hover{text-decoration:underline}
   position:sticky;top:0;z-index:100;
   background:var(--surface);border-bottom:3px solid var(--border-bright);
   padding:8px 20px;display:flex;align-items:center;justify-content:space-between;gap:12px;
-  box-shadow:0 4px 0 var(--border),0 6px 24px rgba(0,0,0,0.5);
+  box-shadow:0 4px 0 var(--border),0 6px 24px var(--shadow-color);
 }
 .topbar-logo{
   display:flex;align-items:center;gap:10px;
@@ -350,7 +430,7 @@ a:hover{text-decoration:underline}
   .story-debate{color:#555}.story-meta{display:none}
 }
 @media(max-width:900px){
-  .prep-panel{position:fixed;top:0;right:-100%;width:100%;max-width:400px;height:100vh;max-height:100vh;z-index:150;transition:right 0.3s;border-left:3px solid var(--cyan);box-shadow:-8px 0 30px rgba(0,0,0,0.6)}
+  .prep-panel{position:fixed;top:0;right:-100%;width:100%;max-width:400px;height:100vh;max-height:100vh;z-index:150;transition:right 0.3s;border-left:3px solid var(--cyan);box-shadow:-8px 0 30px var(--shadow-color)}
   .prep-panel.open{right:0}
   .prep-toggle-btn{display:block}
   .prep-close{display:block!important}
@@ -434,6 +514,7 @@ a:hover{text-decoration:underline}
     <div class="intro-menu">
       <button class="menu-btn start" onclick="startGame()">START</button>
       <button class="menu-btn options" onclick="showOptions()">OPTIONS</button>
+      <button class="theme-toggle" id="introThemeBtn" onclick="toggleTheme()"></button>
     </div>
   </div>
 
@@ -449,6 +530,10 @@ a:hover{text-decoration:underline}
     <div class="option-row">
       <span class="option-label">Your email (for prep sheet)</span>
       <input class="option-input" type="email" id="optEmail" placeholder="you@example.com">
+    </div>
+    <div class="option-row">
+      <span class="option-label">Theme</span>
+      <button class="option-toggle" id="optTheme" onclick="toggleOption('theme')">AUTO</button>
     </div>
     <div class="option-row">
       <span class="option-label">Hide backup stories</span>
@@ -470,6 +555,7 @@ a:hover{text-decoration:underline}
       <div class="topbar-title-text">JAYSTATION<span class="sub">STORY SCOUT ARCADE</span></div>
     </div>
     <div class="topbar-right">
+      <button class="topbar-theme" id="topbarThemeBtn" onclick="toggleTheme()" title="Toggle day/night"></button>
       <div class="score-display"><img class="nico-icon-menu" style="width:14px" alt=""> LOADOUT<br><span class="count" id="prepCount">0</span> STORIES</div>
       <button class="prep-toggle-btn" onclick="togglePrep()">LOADOUT</button>
     </div>
@@ -497,7 +583,7 @@ let currentView = 'rundowns';
 let currentDate = null;
 let currentSlot = null;
 let searchQuery = '';
-let options = { email: '', hideBackups: false, showScores: true };
+let options = { email: '', hideBackups: false, showScores: true, theme: 'auto' };
 
 function storyId(s) { return s.date + '|' + s.slot + '|' + s.title.substring(0, 60); }
 
@@ -514,6 +600,42 @@ function saveSelections() {
 }
 function saveOptions() {
   try { localStorage.setItem('jaystation-opts', JSON.stringify(options)); } catch(e) {}
+}
+
+function isDaytime() {
+  const h = new Date().getHours();
+  return h >= 6 && h < 19;
+}
+function getEffectiveTheme() {
+  if (options.theme === 'day') return 'day';
+  if (options.theme === 'night') return 'night';
+  return isDaytime() ? 'day' : 'night';
+}
+function applyTheme() {
+  const t = getEffectiveTheme();
+  if (t === 'day') document.documentElement.setAttribute('data-theme', 'day');
+  else document.documentElement.removeAttribute('data-theme');
+  updateThemeButtons();
+}
+function updateThemeButtons() {
+  const t = getEffectiveTheme();
+  const icon = t === 'day' ? '☀' : '☾';
+  const label = t === 'day' ? 'DAY MODE' : 'NIGHT MODE';
+  const ib = document.getElementById('introThemeBtn');
+  if (ib) ib.textContent = icon + ' ' + label;
+  const tb = document.getElementById('topbarThemeBtn');
+  if (tb) tb.textContent = icon;
+  const ob = document.getElementById('optTheme');
+  if (ob) {
+    const labels = { auto: 'AUTO', day: 'DAY', night: 'NIGHT' };
+    ob.textContent = labels[options.theme] || 'AUTO';
+    ob.classList.toggle('on', options.theme !== 'auto');
+  }
+}
+function toggleTheme() {
+  const cur = getEffectiveTheme();
+  options.theme = cur === 'day' ? 'night' : 'day';
+  saveOptions(); applyTheme();
 }
 
 function showToast(msg) {
@@ -556,6 +678,11 @@ function closeOptions() {
 function toggleOption(opt) {
   if (opt === 'backups') options.hideBackups = !options.hideBackups;
   else if (opt === 'scores') options.showScores = !options.showScores;
+  else if (opt === 'theme') {
+    const cycle = { auto: 'day', day: 'night', night: 'auto' };
+    options.theme = cycle[options.theme] || 'auto';
+    applyTheme();
+  }
   saveOptions(); syncOptionUI();
 }
 function syncOptionUI() {
@@ -565,6 +692,7 @@ function syncOptionUI() {
   const s = document.getElementById('optScores');
   s.textContent = options.showScores ? 'ON' : 'OFF';
   s.classList.toggle('on', options.showScores);
+  updateThemeButtons();
 }
 function goHome() { currentView = 'rundowns'; currentDate = null; currentSlot = null; searchQuery = ''; renderApp(); }
 
@@ -782,7 +910,7 @@ function emailPrep(){
 
 /* ═══ INIT ═══ */
 async function init(){
-  loadState(); renderStars();
+  loadState(); applyTheme(); renderStars();
   document.getElementById('nicoIntro').src = NICO_IMG.intro;
 
   const app=document.getElementById('appContent');
