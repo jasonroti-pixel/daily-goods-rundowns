@@ -748,7 +748,7 @@ function groupByCategory(stories) {
 
 function renderStoryCard(story) {
   const id=storyId(story),sel=selectedIds.has(id)?' selected':'',eid=escAttr(id);
-  let h='<div class="story-card'+sel+'" onclick="toggleStory(\''+eid+'\')" data-id="'+eid+'">';
+  let h='<div class="story-card'+sel+'" data-id="'+eid+'">';
   h+='<div class="story-title">'+escHtml(story.title)+'</div>';
   if(story.angle)h+='<div class="story-angle">'+escHtml(story.angle)+'</div>';
   if(story.bullets.length){h+='<ul class="story-bullets">';story.bullets.forEach(b=>{h+='<li>'+escHtml(b.trim())+'</li>'});h+='</ul>'}
@@ -803,7 +803,7 @@ function renderPrep(){
     h+='<div class="prep-date-group">'+f.full.toUpperCase()+' - '+slotLabel(slot)+'</div>';
     byDate[key].forEach(s=>{
       const id=escAttr(storyId(s));
-      h+='<div class="prep-item"><button class="prep-remove" onclick="removeFromPrep(\''+id+'\')" title="Remove">X</button>';
+      h+='<div class="prep-item" data-prep-id="'+id+'"><button class="prep-remove" title="Remove">X</button>';
       h+='<div class="prep-item-cat">'+escHtml(s.category)+'</div>';
       h+='<div class="prep-item-title">'+escHtml(s.title)+'</div>';
       if(s.angle)h+='<div class="prep-item-angle">'+escHtml(s.angle)+'</div>';
@@ -858,6 +858,21 @@ function emailPrep(){
 async function init(){
   loadState(); renderStars();
   drawNico('nicoIntro', 8);
+
+  const app=document.getElementById('appContent');
+  app.addEventListener('click',function(e){
+    const card=e.target.closest('.story-card');
+    if(card&&!e.target.closest('.story-link')){
+      const id=card.getAttribute('data-id');
+      if(id)toggleStory(id);
+      return;
+    }
+    const rm=e.target.closest('.prep-remove');
+    if(rm){
+      const item=rm.closest('.prep-item');
+      if(item){const id=item.getAttribute('data-prep-id');if(id)removeFromPrep(id)}
+    }
+  });
 
   try{
     const r=await fetch('stories.json');
