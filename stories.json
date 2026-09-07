@@ -3,84 +3,16 @@
     "date": "2026-09-07",
     "slot": "am",
     "category": "THE LIST",
-    "title": "Carlos Alcaraz had no clue who he was facing next at US Open in hilarious moment: \u2018Oh my",
-    "angle": "The world's top tennis star had a totally relatable 'wait, who am I playing?' moment mid-tournament \u2014 a funny, human glitch from someone who's supposed to have it all locked in.",
+    "title": "Scientists find a way to slash computer memory energy use by orders of magnitude",
+    "angle": "Every phone, laptop and data center on the planet burns energy just holding memory in place \u2014 a breakthrough here means cooler devices, longer battery life, and less power-hungry AI infrastructure.",
     "bullets": [
-      " Carlos Alcaraz was caught off guard when asked about his next US Open opponent.",
-      " His reaction \u2014 a stunned 'Oh my god' \u2014 is what made the moment go viral.",
-      " It's a lighthearted glimpse at just how packed and blurry a Grand Slam run can get, even for the No. 1 guy in the sport.",
-      " Ever been so buried in your own week that you legitimately forgot what's next on your schedule? Alcaraz just did it on a US Open mic."
-    ],
-    "debate": "",
-    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
-    "url": "https://nypost.com/2026/09/06/sports/carlos-alcaraz-had-no-idea-who-he-was-facing-in-us-open-quarterfinals/",
-    "score": "86/90",
-    "is_backup": false
-  },
-  {
-    "date": "2026-09-07",
-    "slot": "am",
-    "category": "THE LIST",
-    "title": "China\u2019s CO2 emissions fall in Q2 2026 due to plummeting oil use.",
-    "angle": "China is the world's biggest carbon emitter, so any real dip in its output is a global climate headline \u2014 this one's tied to falling oil use, which could hint at a bigger shift in how the world's second-largest economy powers itself.",
-    "bullets": [
-      " China's CO2 emissions fell in the second quarter of 2026",
-      " China is the world's largest emitter, so a real decline carries global climate weight",
-      " Is this the start of China actually peaking on emissions, or just a blip we'll forget about in six months?"
-    ],
-    "debate": "",
-    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.carbonbrief.org/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use",
-    "score": "78/90",
-    "is_backup": false
-  },
-  {
-    "date": "2026-09-07",
-    "slot": "am",
-    "category": "THE LIST",
-    "title": "President proposes 'New America' name for New Mexico",
-    "angle": "A sitting president floating a total rename of a U.S. state is the kind of headline that sounds fake until you check the byline twice - it's pure 'did that really just happen' fodder for a two-host debate.",
-    "bullets": [
-      " Comes straight from the President himself, not a fringe lawmaker or online joke",
-      " New Mexico's had that name since before statehood in 1912 - a rebrand like this would be historic",
-      " Would you actually get behind renaming a state - and if so, what should your state be called instead?"
-    ],
-    "debate": "",
-    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.kob.com/news/top-news/president-proposes-renaming-new-mexico-as-new-america/",
-    "score": "78/90",
-    "is_backup": false
-  },
-  {
-    "date": "2026-09-07",
-    "slot": "am",
-    "category": "THE LIST",
-    "title": "GPT-6 Astra beat Portal, and it only cost $571.18",
-    "angle": "A next-gen AI model reportedly played through the classic puzzle game Portal completely on its own \u2014 and did it on a budget of under six hundred bucks, which is the kind of 'wait, how cheap?' detail that makes the AI-is-coming-for-everything conversation feel very real, very fast.",
-    "bullets": [
-      " It's circulating out of r/technology, where the AI community is treating it as a benchmark flex for reasoning and problem-solving.",
-      " If an AI can out-think a puzzle game built to trick humans for under $600, what's the first 'that's-a-human-job' task you'd bet it beats next?"
+      " Researchers say the method could cut computer memory energy use by orders of magnitude",
+      " Comes as AI data centers are straining power grids across North America",
+      " If this actually scales, would you care more that your phone battery lasts days, or that AI data centers stop guzzling your local power grid?"
     ],
     "debate": "",
     "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990897/gpt-6-astra-beat-portal-and-it-only-cost-571-18",
-    "score": "78/90",
-    "is_backup": false
-  },
-  {
-    "date": "2026-09-07",
-    "slot": "am",
-    "category": "THE LIST",
-    "title": "Private German rocket makes history, reaches orbit from European soil",
-    "angle": "A private German company reportedly just pulled off the first orbital launch from European soil - a huge deal because Europe has never had its own commercial path to orbit without leaning on the US or Russia.",
-    "bullets": [
-      " It's being called the first orbital launch from European soil",
-      " Marks a historic milestone for Europe's independent space industry",
-      " Why does it matter that a private company - not NASA or a government - just put Europe in the space race?"
-    ],
-    "debate": "",
-    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "",
+    "url": "https://www.sciencedaily.com/releases/2026/09/260906170132.htm",
     "score": "78/90",
     "is_backup": false
   },
@@ -89,33 +21,82 @@
     "slot": "am",
     "category": "THE LIST",
     "title": "FBI investigating 153 million US and Canadian driver\u2019s licenses leaked on Russian",
-    "angle": "This isn't some random data breach \u2014 it's basically every driver in the US and Canada, and the guy running the Pentagon got scooped up in it too. The FBI's now involved, which tells you how serious this one is.",
+    "angle": "This isn't some random data dump \u2014 it's basically every driver in the US and Canada rolled into one leak, and somehow it includes the sitting Secretary of Defense. That's the kind of story that makes everyone check if their own license number is floating around Russian cybercrime forums.",
     "bullets": [
-      " 153 million US and Canadian driver's licenses reportedly leaked on a Russian cybercrime forum",
+      " 153 million US and Canadian driver's licenses reportedly leaked onto a Russian cybercrime forum",
       " Leaked data reportedly includes that of US Secretary of Defense Pete Hegseth",
-      " Suspected source: an ID-authentication service provider used to verify licenses",
-      " If the Secretary of Defense's own ID isn't safe from hackers, what makes anyone think yours is?"
+      " Source is suspected to be a third-party ID-authentication service provider, not the government directly",
+      " If the Defense Secretary's ID isn't safe, what makes you think yours is?"
     ],
     "debate": "",
     "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
     "url": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-investigating-153-million-us-and-canadian-drivers-licenses-leaked-on",
     "score": "78/90",
-    "is_backup": true
+    "is_backup": false
   },
   {
     "date": "2026-09-07",
     "slot": "am",
     "category": "THE LIST",
     "title": "Trump Says Canada\u2019s Dollar \u2018Imbalance\u2019 With US Is Unacceptable",
-    "angle": "Trump is once again picking a fight over the US-Canada relationship, this time zeroing in on the currency imbalance \u2014 and given how touchy trade and tariff talk has been between the two countries, this is the kind of comment that can move markets and rattle Ottawa fast.",
+    "angle": "Trump is once again picking a fight over trade with Canada, this time zeroing in on the currency gap between the loonie and the greenback - a comment that could be the opening shot in a new round of tariff talk between the two countries.",
     "bullets": [
-      " Trump publicly called the Canada-US dollar 'imbalance' unacceptable",
-      " Comes amid ongoing friction over US-Canada trade relations",
-      " Does another Trump broadside against Canada actually move the loonie, or is this just noise at this point?"
+      " Donald Trump called the dollar 'imbalance' between the US and Canada unacceptable",
+      " Is this just Trump venting, or the first sign of new tariff threats aimed at Canada?"
     ],
     "debate": "",
     "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
     "url": "https://www.bloomberg.com/news/articles/2026-09-06/trump-says-canada-s-dollar-imbalance-with-us-is-unacceptable",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "\"Get up, Governor\": Donald Trump attacks Mark Carney again",
+    "angle": "Trump taking fresh shots at Canada's Prime Minister is the latest round in an ongoing cross-border feud that keeps spilling into US-Canada relations - and it's got Canadians talking today.",
+    "bullets": [
+      " Trump's latest jab: \"Get up, Governor\" \u2014 aimed directly at Canadian PM Mark Carney",
+      " It's part of a recurring pattern of Trump publicly needling Carney",
+      " Story is lighting up r/canada as Canadians react to the dig",
+      " Does Trump needling Carney actually land, or has the 'Governor' bit officially worn out its welcome?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.journaldemontreal.com/2026/09/06/get-up-governor---trump-sattaque-de-nouveau-a-carney",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Far-right victory in German state expected to send shockwaves throughout the world",
+    "angle": "A far-right party winning power in a German state isn't just a local election story \u2014 it's the kind of shift that rattles allies, markets, and the whole conversation about where Europe's headed next.",
+    "bullets": [
+      " Does a state-level vote in Germany actually change anything for us over here, or is this just scary headlines?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/far-right-afd-germany-world-reaction-9.7334688?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Reporting on 9/11: The day the world changed",
+    "angle": "With the 25th anniversary of 9/11 coming up, CBC correspondents who were in the newsroom that morning are opening up about the chaos of covering the biggest story of their careers in real time \u2014 a gut-check moment for anyone who remembers exactly where they were.",
+    "bullets": [
+      " Correspondents Adrienne Arsenault, Ioanna Roumeliotis, Paul Hunter and David Common are reflecting on covering 9/11 as it happened.",
+      " They describe it as starting like any other workday in the CBC newsroom \u2014 until it wasn't.",
+      " Ask listeners: where were you and what do you remember most clearly from that morning?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/player/play/9.7333608?cmp=rss",
     "score": "78/90",
     "is_backup": true
   },
@@ -123,34 +104,31 @@
     "date": "2026-09-07",
     "slot": "am",
     "category": "THE LIST",
-    "title": "\"Get up, Governor\": Donald Trump attacks Mark Carney again",
-    "angle": "Trump's needling of Mark Carney \u2014 this time telling him to 'get up, Governor' \u2014 keeps the US-Canada tension storyline alive, and the 'Governor' dig (implying Canada should just be a US state) always gets a rise out of both sides of the border.",
+    "title": "Multiple people stabbed in Crown Heights as notoriously violent West Indian American Day",
+    "angle": "The West Indian American Day Parade is one of the biggest cultural celebrations in the country, but it's dogged by a violent reputation every single year \u2014 and right on cue, three people got stabbed in Crown Heights before it even started.",
     "bullets": [
-      " Trump's latest jab quotes him telling Carney: \"Get up, Governor.\"",
-      " This is the latest round in an ongoing Trump vs. Carney back-and-forth",
-      " Is Trump's 'Governor' jab just trolling, or is it actually landing a political point about Canada-US relations?"
+      " Three men were stabbed in Crown Heights, Brooklyn early Monday morning, according to police",
+      " Police describe the parade as \"notoriously violent\" \u2014 this isn't the first time violence has overshadowed the event",
+      " Every year the parade's culture gets buried under violence headlines \u2014 is that a security failure, a media narrative, or both?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/07/us-news/multiple-people-stabbed-in-crown-heights-as-notoriously-violent-west-indian-american-day-p",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "'The single largest obstacle': Expert questions whether Canada can trust another U.S.",
+    "angle": "An expert is saying the quiet part out loud: after years of tariff whiplash and broken promises, trust might be the one thing no new U.S.-Canada trade deal can paper over.",
+    "bullets": [
+      " If Washington came back with a 'better deal' tomorrow, would you actually believe them - or is trust already gone?"
     ],
     "debate": "",
     "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.journaldemontreal.com/2026/09/06/get-up-governor---trump-sattaque-de-nouveau-a-carney",
-    "score": "78/90",
-    "is_backup": true
-  },
-  {
-    "date": "2026-09-07",
-    "slot": "am",
-    "category": "CANADIAN NEWS",
-    "title": "B.C. drought forces volunteers to rescue salmon from drying streams",
-    "angle": "It's a wild visual - people wading into shrinking creeks to physically scoop up stranded salmon - and it's a stark, human-scale snapshot of how bad the drought and heat have gotten out west.",
-    "bullets": [
-      " Volunteers in B.C. are physically relocating stranded salmon and other fish from drying streams into deeper water.",
-      " Scientists say the rescues are getting harder to keep up with as waterways keep shrinking.",
-      " Extreme heat is cited as a key driver intensifying the drought conditions.",
-      " Ever think about how much unseen, unpaid work goes into just keeping a species alive during a bad summer?"
-    ],
-    "debate": "",
-    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.cbc.ca/news/science/bc-drought-rescuing-fish-drying-rivers-9.7330420?cmp=rss",
+    "url": "",
     "score": "78/90",
     "is_backup": false
   },
@@ -158,17 +136,20 @@
     "date": "2026-09-07",
     "slot": "am",
     "category": "CANADIAN NEWS",
-    "title": "Counter-tariffs won't just affect the cost of goods for Canadians. They'll hit the trailers",
-    "angle": "Everyone's braced for pricier produce and toilet paper, but this one's sneaky - the actual semi-trailers that move goods across the border are caught in the counter-tariff crossfire, which could ripple into shipping costs on basically everything.",
+    "title": "Supercharged El Ni\u00f1o heading for record strength; Canada\u2019s winter may \u2018take a holiday,\u2019",
+    "angle": "A former fighter pilot who publicly ripped Canada's F-35 deal is now the guy deciding how Ottawa spends its ballooning defence budget - that's the kind of political irony that writes itself.",
     "bullets": [
-      " Canada's counter-tariffs are worth billions of dollars aimed at American imports",
-      " Semi-trailers used to physically haul that freight are themselves getting hit with the tariffs",
-      " That means the cost of moving goods could rise on top of the cost of the goods themselves",
-      " It's not just what's on the shelf that's about to cost more - it's the truck that got it there."
+      " A climatologist is warning this could be a record-strength El Ni\u00f1o winter",
+      " Would you be thrilled or genuinely disappointed if winter barely showed up this year?",
+      " Stephen Fuhr is a former fighter pilot who was mocked for opposing the F-35 purchase",
+      " He's now overseeing Canada's defence procurement",
+      " He could be steering a dramatic increase in the defence budget",
+      " He's been a long-time critic of buying U.S. jets specifically",
+      " Is this a case of 'told you so' vindication, or a conflict of interest waiting to happen?"
     ],
     "debate": "",
-    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.cbc.ca/news/canada/manitoba/trucking-semi-trailer-costs-us-tariffs-9.7330014?cmp=rss",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/stephen-fuhr-canada-defence-procurement-rcaf-f35-9.7333073",
     "score": "78/90",
     "is_backup": false
   },
@@ -176,32 +157,14 @@
     "date": "2026-09-07",
     "slot": "am",
     "category": "CANADIAN NEWS",
-    "title": "How Prince Harry and Meghan's return to Britain is setting off 'shockwaves'",
-    "angle": "Every Sussex trip back to the UK turns into a national soap opera, and reports of 'shockwaves' inside the Royal Family suggest this visit is no different \u2014 a story North American audiences can't get enough of no matter how many times we've been here before.",
+    "title": "It's back to school season. Here's why there's a push to get rid of cars at dropoff and pickup",
+    "angle": "It's the first week back to school, which means gridlock chaos at every dropoff zone in the country \u2014 and a Canadian non-profit thinks the fix is just... no cars at all.",
     "bullets": [
-      " Are you still invested in every twist of the Harry-and-Meghan-vs-the-Palace saga, or are you completely over it at this point?"
+      " Would you actually park a block away and walk your kid in, or is the pickup line chaos just the price of convenience?"
     ],
     "debate": "",
     "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.cbc.ca/news/world/prince-harry-meghan-duchess-sussex-return-united-kingdom-canada-new-bill-king-charles-9.7332868",
-    "score": "78/90",
-    "is_backup": false
-  },
-  {
-    "date": "2026-09-07",
-    "slot": "am",
-    "category": "CANADIAN NEWS",
-    "title": "B.C. man lost for 5 nights in mountains near Squamish shares survival story",
-    "angle": "A survival story with a happy ending always hits on radio \u2014 five nights alone in the wilderness near Squamish is the kind of real-life thriller listeners can't help but lean into.",
-    "bullets": [
-      " A B.C. man survived 5 nights lost in the mountains near Squamish",
-      " He's now speaking publicly about how he made it through",
-      " Details on exactly how he survived and was found are still emerging",
-      " Ask listeners: if you were stranded overnight in the mountains, what's the one thing you'd wish you had with you?"
-    ],
-    "debate": "",
-    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/stansilav-volo-survival-story-9.7333975?cmp=rss",
+    "url": "https://www.cbc.ca/news/climate/school-streets-canada-9.7320074?cmp=rss",
     "score": "78/90",
     "is_backup": true
   },
@@ -209,17 +172,17 @@
     "date": "2026-09-07",
     "slot": "am",
     "category": "CANADIAN NEWS",
-    "title": "U.S. envoys Witkoff and Kushner hold talks in Ukraine after meeting with Putin",
-    "angle": "Two of Trump's closest dealmakers just went from the Kremlin straight to Kyiv - that's the kind of shuttle diplomacy that signals something might actually be moving after four and a half years of war.",
+    "title": "Why more than 150 years later, Hamilton's Nine Hour Movement still matters",
+    "angle": "It's a Canadian labour story with a twist: the workers technically lost, but their march is the reason we don't work 12-hour shifts today, and it's landing right as the 4-day workweek debate is back in the news.",
     "bullets": [
-      " Steve Witkoff and Jared Kushner made their first official visit to Ukraine on Sunday.",
-      " Talks in Kyiv were described as \"encouraging.\"",
-      " It's part of a renewed push to end Russia's full-scale invasion, now past 4\u00bd years.",
-      " Is sending the President's son-in-law to negotiate peace smart dealmaking or a red flag?"
+      " On May 15, 1872, roughly 1,500 workers marched through Hamilton, Ontario demanding a shorter workday.",
+      " Their ask: cut the workday down to nine hours.",
+      " Historians credit it with paving the way for the worker protection laws we have today, 150+ years later.",
+      " If workers marched in the streets for a 9-hour day in 1872, what would it take to get people marching for a 4-day week now?"
     ],
     "debate": "",
     "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.cbc.ca/news/world/witkoff-kushner-arrive-ukraine-after-russia-visit-9.7334181?cmp=rss",
+    "url": "https://www.cbc.ca/news/canada/hamilton/nine-hour-movement-hamilton-9.7333061?cmp=rss",
     "score": "78/90",
     "is_backup": true
   },
@@ -227,16 +190,17 @@
     "date": "2026-09-07",
     "slot": "am",
     "category": "CANADIAN NEWS",
-    "title": "I almost skipped my colon cancer screening, but my bottom and I survived the scope",
-    "angle": "Colon cancer screening rates are lagging even though everyone knows early detection saves lives, and this guy's brutally honest, funny take on dodging his own scope is the kind of real talk that might actually get listeners to book theirs.",
+    "title": "Dutch elm disease ravaged Canadian cities. Can we help trees protect themselves?",
+    "angle": "Dutch elm disease wiped out the leafy canopies that used to line streets in cities across Canada and the U.S., and now researchers are deliberately giving healthy elms the disease to find the rare ones that fight it off.",
     "bullets": [
-      " Stephen Workman knew the risks of delaying screening \u2014 late-stage colon cancer diagnoses \u2014 but still tried to avoid his own colonoscopy",
-      " He eventually faced the procedure by leaning into humour instead of dread",
-      " Who's been putting off a screening they know they need \u2014 call in and confess."
+      " Scientists in Vermont spent the whole summer infecting thousands of elm trees with Dutch elm disease on purpose.",
+      " Dutch elm disease has been decimating elm populations across the U.S. and Canada for decades.",
+      " Many Canadian cities lost their iconic elm-lined streets to this exact plague.",
+      " Ask listeners: did your street used to be lined with elm trees before this disease wiped them out?"
     ],
     "debate": "",
     "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.cbc.ca/news/canada/first-person-colon-cancer-screening-9.7312698?cmp=rss",
+    "url": "https://www.cbc.ca/news/science/dutch-elm-disease-9.7329751?cmp=rss",
     "score": "78/90",
     "is_backup": true
   },
@@ -244,86 +208,83 @@
     "date": "2026-09-07",
     "slot": "am",
     "category": "ENTERTAINMENT",
-    "title": "Lilly Wachowski Is \u201cKinda Done\u201d With \u2018Matrix\u2019 Franchise As Drew Goddard Takes Over: \u201cI",
-    "angle": "One of the original architects of a generation-defining franchise is publicly stepping back right as a new director takes the reins \u2014 that's a juicy passing-the-torch moment fans will have opinions on.",
+    "title": "Nathan Fielder and Lance Oppenheim\u2019s Elizabeth Holmes Doc Revealed as Telluride\u2019s",
+    "angle": "Telluride's mystery screening slot is always a bomb, and this year it detonated with a documentary about the Theranos fraud queen, made by the guy behind 'The Rehearsal' - that combo alone guarantees this one's getting talked about.",
     "bullets": [
-      " Lilly Wachowski, co-creator of The Matrix, says she's \"kinda done\" with the franchise.",
-      " Her exact words: \"I don't wanna play in that sandbox anymore.\"",
-      " Drew Goddard is reportedly taking over the next chapter of the series.",
-      " Should a franchise like The Matrix live on without its original creator, or does that kill what made it special?"
+      " Nathan Fielder (\"The Rehearsal,\" \"Nathan For You\") and Lance Oppenheim are the filmmakers behind the project.",
+      " It was unveiled as the Telluride Film Festival's secret/surprise screening - a slot notoriously used to unveil awards-season bombshells.",
+      " Nathan Fielder's whole thing is cringe-comedy realism - can that style actually do justice to a story this dark, or does it risk turning a fraud that hurt real patients into a joke?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/elizabeth-holmes-documentary-trailer-teaser-watch-1236692828/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Ziwe preview of upcoming guests: Hasan Piker, Kathy Griffin, Vic Mensa, Wanda Sykes,",
+    "angle": "Ziwe's confrontational interview style already makes stars squirm - this season she's got a stacked guest list and, apparently, someone who couldn't take the heat and walked.",
+    "bullets": [
+      " Confirmed upcoming guests include Hasan Piker, Kathy Griffin, Vic Mensa, and Wanda Sykes",
+      " One unnamed guest reportedly walks out in the middle of their interview",
+      " Ziwe is known for uncomfortable, pointed questions that put celebrities on the spot",
+      " Callers: place your bets - which of these four do you think is the one who walks out?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://v.redd.it/oww1gufinynh1",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Rob Reiner posthumous Emmys 2026 win for \u2018The Bear\u2019 makes history \u2014 and has special",
+    "angle": "A posthumous Emmy win is always a gut-punch moment, and this one's got extra weight because it's Rob Reiner, a guy who basically helped invent the modern sitcom, going out on top for a scene-stealing guest role on one of TV's hottest shows.",
+    "bullets": [
+      " Rob Reiner passed away in December 2025",
+      " He was nominated back in July for Best Guest Actor in a Comedy",
+      " Which posthumous award moment actually made you tear up \u2014 this one, or someone else's?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Mom Saves Shocking Amount of Money Thrifting Daughter\u2019s Dorm Room Decor",
+    "angle": "Back-to-school move-in season hits every family's wallet at once, and this taps straight into the thrifting/budget-hack trend parents are obsessed with right now.",
+    "bullets": [
+      " Call in: what's the best thrift-store or dollar-store hack you've used to furnish a dorm, apartment, or first place on the cheap? ON-AIR BIT BREAKDOWN - Step 1: The Budget Reveal - Kick off the segment -> Hosts each guess how much they think a full dorm room decor haul would normally cost retail before revealing the thrifted total. - Step 2: Thrift or Skip - Quick-fire round -> Run through common dorm items (mini fridge, rug, desk lamp, wall art) and have each host say whether they'd trust buying it secondhand or not. - Step 3: Listener Hacks - Open the phone lines -> Take calls or texts from listeners sharing their own best thrifted dorm/apartment finds. People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "VNRc3lzMGJwZFZ6ODFfT0h4NjIwTC1jeXBhVDBTOEZB?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPclRvd0NOXzBCaHBUSlB0Rm9iNWpZaTRqbF9ELThkTGxONDY1WDZH",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Julie Andrews Wins Emmy for Bridgerton Voiceover After Revealing She\u2019s Retired from",
+    "angle": "Julie Andrews took home an Emmy for narrating Bridgerton as the mysterious Lady Whistledown - a huge career moment that lands right as she's opened up about stepping away from on-screen acting for good.",
+    "bullets": [
+      " Julie Andrews won an Emmy for her voiceover work as Lady Whistledown on Bridgerton",
+      " Andrews has long said health issues affected her voice, pushing her toward voice work over performing on camera",
+      " A Mary Poppins icon just proved you don't need to be on screen to steal the show - what's your favorite Julie Andrews role of all time?"
     ],
     "debate": "",
     "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://deadline.com/2026/09/lilly-wachowski-kinda-done-matrix-franchise-1237069655/",
-    "score": "78/90",
-    "is_backup": false
-  },
-  {
-    "date": "2026-09-07",
-    "slot": "am",
-    "category": "ENTERTAINMENT",
-    "title": "Mariska Hargitay Wins 2 Emmys For Her Documentary 'My Mom Jayne'",
-    "angle": "This isn't just an awards story \u2014 it's the 'Law & Order: SVU' star stepping out from behind the badge to tell an intensely personal family story, and the Emmy voters rewarded her for it twice.",
-    "bullets": [
-      " Mariska Hargitay \u2014 best known as Captain Olivia Benson on 'Law & Order: SVU' \u2014 won 2 Emmys for her documentary.",
-      " It marks a rare turn for Hargitay from in-front-of-camera drama star to documentary filmmaker.",
-      " Which TV star would you most want to see turn the camera around and make a documentary about their own family?"
-    ],
-    "debate": "",
-    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://deadline.com/2026/09/mariska-hargitay-primetime-emmy-wins-my-mom-jayne-1237069307/",
-    "score": "78/90",
-    "is_backup": false
-  },
-  {
-    "date": "2026-09-07",
-    "slot": "am",
-    "category": "ENTERTAINMENT",
-    "title": "Susan Sarandon Says She\u2019s \u2018Still Had Movies Taken Away Recently\u2019 Over Palestine",
-    "angle": "Sarandon's claiming there's an active industry blacklist tied to her Palestine advocacy \u2014 that's a live-wire mix of Hollywood politics, cancel culture, and free speech that always gets a studio talking.",
-    "bullets": [
-      " Susan Sarandon says she's \"still had movies taken away recently\" because of her support for Palestine.",
-      " She claims \"there are agencies that are telling people not to hire me.\"",
-      " Sarandon was dropped by her talent agency UTA back in 2022 following comments at a pro-Palestinian rally.",
-      " Is this real industry blacklisting, or just Hollywood politics as usual \u2014 where do you land?"
-    ],
-    "debate": "",
-    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://variety.com/2026/film/festivals/susan-sarandon-movies-taken-away-palestine-support-1236853245/",
-    "score": "78/90",
-    "is_backup": false
-  },
-  {
-    "date": "2026-09-07",
-    "slot": "am",
-    "category": "ENTERTAINMENT",
-    "title": "Nicolas Cage Reacts To 'Spider-Noir' Cancellation",
-    "angle": "Nicolas Cage fans have waited years to see him finally suit up as a live-action Spider-Man variant, so a cancellation reaction from Cage himself is instant clickbait for comic book nerds and pop culture watchers alike.",
-    "bullets": [
-      " Callers: are you actually bummed 'Spider-Noir' got cancelled, or was this always a passion-project long shot?"
-    ],
-    "debate": "",
-    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://deadline.com/2026/09/nicolas-cage-reaction-spider-noir-cancellation-1237069665/",
-    "score": "78/90",
-    "is_backup": false
-  },
-  {
-    "date": "2026-09-07",
-    "slot": "am",
-    "category": "ENTERTAINMENT",
-    "title": "Ms Rachel meets a mom and her toddler who have been trapped in Dilley Detention Center:",
-    "angle": "A kids' YouTube star known for gentle toddler content is now the one breaking a hard story - a mom and baby stuck in immigration detention, allergy needs ignored, and a reporter reduced to tears. That collision of \"safe space\" creator and brutal reality is exactly what gets people talking.",
-    "bullets": [
-      " Ms Rachel met a mother, Laura, and her toddler being held at Dilley Detention Center",
-      " Laura's toddler has a milk allergy - staff reportedly told her to just mix water with milk instead",
-      " Laura is pregnant and was released from the facility",
-      " A reporter on scene when Laura was released cried, saying they'd never seen anyone so hungry",
-      " Does it change the conversation when it's a beloved kids' entertainer, not a politician, sounding the alarm?"
-    ],
-    "debate": "",
-    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://v.redd.it/92ujhyqj6wnh1",
+    "url": "https://people.com/emmys-2026-julie-andrews-wins-bridgerton-voiceover-12068816?taid=6a9e150561ca2a0001e33c72&utm_campa",
     "score": "78/90",
     "is_backup": true
   },
@@ -331,17 +292,17 @@
     "date": "2026-09-07",
     "slot": "am",
     "category": "ENTERTAINMENT",
-    "title": "Susan Sarandon said she\u2019s still had movies taken away recently over her outspoken",
-    "angle": "A two-time Oscar winner claiming she's actively losing work over a political stance is a live wire \u2014 it taps the bigger Hollywood fight over who gets \"canceled\" for speaking on Israel-Palestine, and it's the kind of claim that splits a room instantly.",
+    "title": "Mr. T slams new Netflix documentary about his life as 'garbage': 'It pissed me off'",
+    "angle": "A celebrity trashing the story of his own life on a major streamer is instant watercooler gold \u2014 everyone loves an origin-story controversy, and \"garbage\" is a hell of a review from the guy it's about.",
     "bullets": [
-      " Susan Sarandon says she's had movies taken away from her recently because of her outspoken support for Palestine",
-      " She was previously dropped by talent agency UTA back in 2023 after comments at a pro-Palestinian rally",
-      " She's framing this as an ongoing, current consequence \u2014 not just old news from a couple years back",
-      " Should actors ever lose roles over their political views off-set, or is that just the industry protecting its bottom line?"
+      " Mr. T is publicly blasting a new Netflix documentary about his own life.",
+      " He called the film \"garbage.\"",
+      " His exact quote: \"It pissed me off.\"",
+      " Would you trust a documentary about your own life to a studio, or demand full control of the story?"
     ],
     "debate": "",
-    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://v.redd.it/stzu4smajwnh1",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/05/entertainment/mr-t-slams-netflix-documentary-about-his-life/",
     "score": "78/90",
     "is_backup": true
   },
@@ -350,9 +311,9 @@
     "slot": "am",
     "category": "ENTERTAINMENT",
     "title": "Lili Reinhart pays homage to Kate Hudson in How to Lose a Guy in 10 Days",
-    "angle": "Early-2000s rom-com nostalgia is having a moment, and a young star tipping her hat to a genre-defining icon like Kate Hudson is exactly the kind of pop-culture full-circle moment that gets fans buzzing online.",
+    "angle": "A 2000s rom-com classic just got a nostalgic nod from a new generation of stars, and pop culture loves nothing more than a good throwback moment.",
     "bullets": [
-      " What's the one early-2000s rom-com you wish they'd remake or reference today?"
+      " Callers: what's the one rom-com look you'd recreate in a heartbeat?"
     ],
     "debate": "",
     "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
@@ -364,31 +325,14 @@
     "date": "2026-09-07",
     "slot": "am",
     "category": "ENTERTAINMENT",
-    "title": "Study explores how an extreme male self-improvement trend known as looksmaxxing",
-    "angle": "A new study says this extreme male beauty-and-status obsession didn't go viral by accident \u2014 it rode a pipeline of outrage, TikTok clips, and news coverage straight into the mainstream, which raises the classic chicken-or-egg question: does covering a fringe trend kill it or feed it?",
+    "title": "Newsom Can't Dodge the Data-Center Backlash Anymore",
+    "angle": "AI data centers are quietly driving up electricity bills and draining water nationwide, and now that backlash is landing squarely on Gavin Newsom's desk in California - a state that loves to sell itself as tech-friendly. It matters beyond California because every state courting AI investment is about to face the same fight.",
     "bullets": [
-      " Researchers tracked how \"looksmaxxing\" jumped from obscure internet forums into everyday conversation.",
-      " Does reporting on a weird internet trend kill it \u2014 or is media coverage literally step three in the pipeline that makes it mainstream?"
-    ],
-    "debate": "",
-    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.psypost.org/study-outlines-the-five-stage-pipeline-clavicular-used-to-spread-diagnostic-masculinity-and-looksmaxxing/",
-    "score": "78/90",
-    "is_backup": true
-  },
-  {
-    "date": "2026-09-07",
-    "slot": "am",
-    "category": "ENTERTAINMENT",
-    "title": "Cut the cameras: Flock surveillance cameras spur rare bipartisan backlash",
-    "angle": "Privacy fights almost never unite both political sides, but the pushback against Flock's surveillance cameras is doing exactly that - and it's a rare 'wait, they agree on something?' moment worth digging into.",
-    "bullets": [
-      " Flock Safety cameras scan license plates in communities across the country, and the backlash against them is picking up steam.",
-      " Would you trade a few solved crimes for a camera network that tracks every car in town, including yours?"
+      " Would you want a massive AI data center built in your town if it meant cheaper tech but a higher power bill?"
     ],
     "debate": "",
     "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.theguardian.com/technology/2026/sep/05/flock-cameras-political-backlash",
+    "url": "https://www.bloomberg.com/opinion/articles/2026-09-05/newsom-can-t-dodge-california-s-data-center-backlash-anymore",
     "score": "78/90",
     "is_backup": true
   },
@@ -396,36 +340,47 @@
     "date": "2026-09-07",
     "slot": "am",
     "category": "ENTERTAINMENT",
-    "title": "AI data centers are transforming rural land markets\u2014 and fueling a backlash",
-    "angle": "Tech giants racing to build AI data centers are snapping up farmland across the country, and it's splitting rural communities between landowners cashing in and neighbors fighting the noise, power drain, and water use next door.",
+    "title": "A Kentucky man with a meat allergy was craving a burger. So he got into ostrich farming -",
+    "angle": "Tick bites are giving more Americans a red meat allergy, and ostrich meat \u2014 which looks and tastes like beef \u2014 is becoming the workaround. It's a quirky, relatable trend story about a guy who turned his own diagnosis into a business.",
     "bullets": [
-      " AI data center construction is driving up rural land prices in areas that never used to see this kind of demand",
-      " Some farmers and property owners are selling in and profiting from the boom",
-      " Other residents are pushing back, organizing against new development in their area",
-      " Would you sell your family land to a data center for a payday, or fight to keep it out of your backyard?"
+      " Brent Williams, a farmer in Danville, Kentucky, was diagnosed with alpha-gal syndrome about seven years ago \u2014 a red meat allergy triggered by tick bites.",
+      " A friend pitched him on starting an ostrich farm four years ago, and Williams jumped in partly out of personal motivation.",
+      " Ostrich meat is red when raw and tastes similar to beef \u2014 making it a workaround for allergy sufferers craving a burger.",
+      " U.S. ostrich farmers say they're seeing a wave of new customers who developed the tick-triggered allergy.",
+      " Anyone else know someone who got a weird food allergy from a tick bite \u2014 call in, we want to hear it. Associated Press (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
     ],
     "debate": "",
-    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.cnbc.com/2026/09/06/ai-data-centers-are-transforming-rural-land-markets-fueling-backlash.html",
-    "score": "78/90",
+    "source": "",
+    "url": "https://apnews.com/article/kentucky-farm-alphagal-tick-ostrich-steak-allergy-15cedc20aac4f0650e0d24d05a577139",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Carmakers Have a New Idea to Boost EV Range: Add a Gas Engine - wsj.com",
+    "angle": "Range anxiety is still the number one reason people won't buy an EV, so automakers are floating a wild workaround: sticking a small gas engine back in to stretch the battery range. It's a real head-scratcher for anyone who thought 'electric' meant no gas, period.",
+    "bullets": [
+      " Automakers are reportedly reviving the idea of pairing a small gas engine with an EV battery, purely to stretch driving range.",
+      " At what point does an 'EV' with a gas engine stop being an EV at all?"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.wsj.com/business/autos/carmakers-have-a-new-idea-to-boost-ev-range-add-a-gas-engine-16bbcc34",
+    "score": "",
     "is_backup": true
   },
   {
     "date": "2026-09-07",
     "slot": "am",
     "category": "LIFESTYLE CHAT",
-    "title": "'Rapunzel Syndrome': 16-year-old girl presented to emergency department with vomiting.",
-    "angle": "It's a real medical case doctors are calling 'Rapunzel Syndrome' - a hairball so big it blocked her stomach and intestine - and the wild part is how slow and small the habit was before it turned into an emergency.",
-    "bullets": [
-      " A 16-year-old girl went to the ER with vomiting",
-      " A CT scan found a hairball blocking her stomach and small intestine",
-      " She needed surgery to remove it",
-      " She'd been pulling out and eating her hair for two years - but only ~3 strands, once a week",
-      " It only took a few strands a week to snowball into surgery - what's a tiny habit you didn't realize was adding up until it blew up on you?"
-    ],
+    "title": "Ireland surpasses 3 GW of installed solar capacity and sets a new generation record of 1.3",
+    "angle": "Ireland surpasses 3 GW of installed solar capacity and sets a new generation record of 1.3 GW on the national grid. I At certain hours, solar farms supplied more than 1/3 of the country\u2019s total dispatchable electricity generation.",
+    "bullets": [],
     "debate": "",
-    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.sciencealert.com/extremely-rare-rapunzel-syndrome-can-cause-a-hairball-so-large-it-requires-surgery",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.review-energy.com/solar/ireland-surpasses-3-gw-of-installed-solar-capacity-and-sets-a-new-generation-record",
     "score": "78/90",
     "is_backup": false
   },
@@ -433,30 +388,12 @@
     "date": "2026-09-07",
     "slot": "am",
     "category": "LIFESTYLE CHAT",
-    "title": "Modelling projects drylands will cover about 40% of all land on Earth by 2100 under a high",
-    "angle": "New modelling suggests drylands could swallow up 40% of Earth's land by the end of the century - a wild, tangible number that makes climate change feel less abstract and more like a map you can actually picture.",
-    "bullets": [
-      " Researchers project drylands could cover about 40% of all land on Earth by 2100",
-      " That's under a high emissions scenario - so it's a worst-case, not a guarantee",
-      " Less moisture cycling back means more land tips into dry, desert-like conditions over time",
-      " Does a number like '40% of the planet' actually change how people think about climate change, or is it too big to feel real?"
-    ],
-    "debate": "",
-    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://iopscience.iop.org/article/10.1088/1748-9326/ae9b29",
-    "score": "78/90",
-    "is_backup": true
-  },
-  {
-    "date": "2026-09-07",
-    "slot": "am",
-    "category": "LIFESTYLE CHAT",
     "title": "People with type 2 diabetes who start cholesterol-lowering statins early may face a lower",
-    "angle": "Statins are already one of the most prescribed drugs in North America, and this Danish study suggests starting them early if you have type 2 diabetes could lower your dementia risk down the road \u2014 a reason for a lot of listeners to actually like taking their meds.",
+    "angle": "Millions of people with type 2 diabetes already take statins for their heart - this study suggests jumping on them early might also protect your brain, which is exactly the kind of \"wait, my pill does what?\" news that gets people talking about their own prescriptions.",
     "bullets": [
-      " Those who started cholesterol-lowering statins earlier in their diagnosis showed a lower risk of dementia later on.",
-      " Statins are already one of the most commonly prescribed drugs in North America, so this could affect a huge chunk of listeners.",
-      " If you're already popping a statin for your cholesterol, would finding out it might also protect your brain change how you feel about that daily pill?"
+      " Starting cholesterol-lowering statins early was linked to a lower risk of dementia",
+      " Diabetes itself is already a known risk factor for cognitive decline, which is why the statin timing angle matters",
+      " Anyone on the show on statins or with diabetes in the family - would news like this change how fast you'd start taking them?"
     ],
     "debate": "",
     "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
@@ -467,17 +404,34 @@
   {
     "date": "2026-09-07",
     "slot": "am",
-    "category": "CLOSER: THE KICKER/GOODBYES",
-    "title": "Ukraine Weighs Taxing OnlyFans Porn to Fund Drones and Defense",
-    "angle": "It's the ultimate 'only in 2026' headline - a country literally taxing racy content subscriptions to help fund its defense against Russia, and the internet cannot handle the mental image.",
+    "category": "LIFESTYLE CHAT",
+    "title": "A symbiotic fungus that lives inside the human gut appears capable of protecting us from",
+    "angle": "It sounds like a sci-fi plot twist: a fungus already living in your gut might shield your body from radiation damage. It's early mouse research, but it's the kind of 'wait, what?' science story that makes people picture astronauts, cancer patients, even nuclear disaster survivors getting a protective pill someday.",
     "bullets": [
-      " Ukraine is reportedly weighing a tax on OnlyFans earnings as a funding stream for its war effort",
-      " Story is making the rounds via r/nottheonion, the internet's home for 'you can't make this up' headlines",
-      " Would you be more likely to subscribe to something knowing part of it funds a war effort - or does that make it weirder?"
+      " Researchers tested a gut fungus called Mucor racemosus on mice exposed to radiation.",
+      " Mice given the fungus showed less weight loss after radiation exposure.",
+      " If a gut-fungus pill could protect you from radiation someday, would you actually take it?"
     ],
     "debate": "",
-    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://clashreport.com/world/articles/ukraine-weighs-taxing-onlyfans-porn-to-fund-drones-and-defense-d9rrna1wp8w",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/scientists-find-a-fungus-that-could-protect-the-body-from-radiation",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "A farmer turned 70 acres of his Oregon barley farm into a wetland; now it hosts 140 bird",
+    "angle": "It's the ultimate good-news palate cleanser \u2014 one guy carved up his own farm and accidentally built a five-star hotel for endangered wildlife.",
+    "bullets": [
+      " Karl Wenner, co-owner of Lakeside Farms near Klamath Falls, Oregon, converted 70 acres of his 400-acre barley farm into wetland back in 2021.",
+      " At least 140 bird species have been spotted there since the conversion.",
+      " One farmer, 70 acres, and now 140 species call it home \u2014 proof one person really can rewild a corner of the planet."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://timesofindia.indiatimes.com/world/us/a-farmer-turned-70-acres-of-his-oregon-barley-farm-into-a-wetland-now-it-hosts-140-bird",
     "score": "78/90",
     "is_backup": false
   },
@@ -486,9 +440,11 @@
     "slot": "am",
     "category": "CLOSER: THE KICKER/GOODBYES",
     "title": "Art Collector bids $4,000 on broken vacuum cleaner only to discover it was trash",
-    "angle": "It's the ultimate 'you had one job' art-world story \u2014 a bidder convinced they scored a high-concept sculpture actually paid a fortune for literal garbage, and it's blowing up because it roasts the whole pretentious art-auction scene.",
+    "angle": "It's the ultimate art-world facepalm \u2014 proof that sometimes the emperor really has no clothes, and a broken vacuum with a price tag can fool a paying collector.",
     "bullets": [
-      " Is this proof modern art is a scam, or proof this collector just got scammed?"
+      " A collector reportedly bid $4,000, thinking they were buying a piece of art.",
+      " Turns out it wasn't an installation at all \u2014 just trash that got mixed in.",
+      " Be honest \u2014 could you actually tell modern art apart from garbage? ON-AIR BIT BREAKDOWN - Step 1: Art or Trash? - 60-second live round -> Pull up a few random 'modern art' images vs. actual junk photos and have each host guess which is which, no cheating. - Step 2: The Reveal - After each guess -> Show the answer and keep score \u2014 loser has to admit they'd have bid on the vacuum too. - Step 3: Phone Line Vote - Wrap-up -> Ask listeners to text in the most ridiculous 'art' they've ever seen sell for real money."
     ],
     "debate": "",
     "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
@@ -501,12 +457,12 @@
     "slot": "am",
     "category": "BREAKOUT WATCH",
     "title": "An arthritis drug has helped people with severe alopecia grow back all their scalp hair in",
-    "angle": "This is the kind of good-news science story that hits home for millions dealing with hair loss \u2014 a repurposed arthritis drug just posted real, big-trial numbers for growing back a full head of hair.",
+    "angle": "Alopecia has been basically untreatable for millions of people, so a drug that regrows a full head of hair in big clinical trials is genuinely huge \u2014 and a great note to end the show on.",
     "bullets": [
-      " Up to 22.5% of patients grew back all their scalp hair after just 24 weeks.",
-      " On the highest dose, more than half of patients regained at least 80% of their scalp hair.",
-      " It's an arthritis drug being repurposed \u2014 not something originally built for hair loss.",
-      " Anyone in your life dealt with sudden hair loss \u2014 would news like this actually give them hope, or has \"miracle hair drug\" been oversold before?"
+      " Two large Phase 3 trials tested an arthritis drug on people with severe alopecia",
+      " Up to 22.5% of patients grew back all their scalp hair after 24 weeks",
+      " More than half of patients on the highest dose got back at least 80% of their hair",
+      " Anyone in your life dealing with alopecia who needs to hear this story today?"
     ],
     "debate": "",
     "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
@@ -518,16 +474,17 @@
     "date": "2026-09-07",
     "slot": "am",
     "category": "BREAKOUT WATCH",
-    "title": "Patient Who Received Pig Kidney Becomes First To Progress to Human Kidney Transplant",
-    "angle": "This is the kind of medical-first that makes people sit up \u2014 a patient who made history getting a pig kidney has now become the first to move on to a full human kidney transplant, a real sign that the wild 'animal organ' science is actually working as a bridge to save lives.",
+    "title": "A single injection has lowered a major inherited heart disease risk factor by up to 97% and",
+    "angle": "This is the stuff people actually want on a lifestyle segment \u2014 a single injection tackling a heart disease risk factor that's basically genetic fate, since Lp(a) doesn't budge no matter how clean you eat or how hard you train.",
     "bullets": [
-      " Doctors say this patient is the first pig-kidney recipient to progress to a full human kidney transplant.",
-      " It's being called a milestone moment for xenotransplantation \u2014 the field of transplanting animal organs into humans.",
-      " Wild science, happy ending \u2014 proof this pig-kidney experiment is actually buying real patients real time."
+      " Effects held strong for nearly a year after just one dose",
+      " Lp(a) is inherited, raises heart disease risk, and currently has no approved targeted treatment",
+      " Diet and exercise do not meaningfully move Lp(a) levels",
+      " Anybody's doctor ever mentioned Lp(a) or told them 'it just runs in the family' about their heart risk \u2014 call in, because this might be the fix."
     ],
     "debate": "",
     "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://hms.harvard.edu/news/patient-who-received-pig-kidney-becomes-first-progress-human-kidney-transplant",
+    "url": "https://newsroom.clevelandclinic.org/2026/08/28/first-in-human-long-acting-gene-silencing-therapy-significantly-lowers-heart-disease-",
     "score": "78/90",
     "is_backup": false
   },
@@ -535,14 +492,17 @@
     "date": "2026-09-07",
     "slot": "am",
     "category": "BREAKOUT WATCH",
-    "title": "The Tetris Company confirms it had nothing to do with the White House's racist rip-off:",
-    "angle": "The actual makers of Tetris just publicly distanced themselves from a White House video accused of using their game's look for something racist \u2014 a beloved 40-year-old puzzle brand getting dragged into a political firestorm it never signed up for.",
+    "title": "OpenAI's chief scientist says AI labs may need to slow down: 'No one is prepared for the",
+    "angle": "When the guy driving AI development from inside OpenAI says the industry might need to slow down, that's not fear-mongering from the outside - that's an insider blowing the whistle, and it's exactly the kind of quote that makes people nervous about where this is all headed.",
     "bullets": [
-      " When the White House borrows your brand for something ugly, is a statement like this enough \u2014 or is the damage already done?"
+      " OpenAI's chief scientist says AI labs 'may need to slow down' on development.",
+      " His warning, word for word: 'No one is prepared for the consequences.'",
+      " Coming from inside one of the biggest AI labs in the world - not a outside critic.",
+      " If the people building AI are telling us to slow down, should we be more worried - or less, since at least someone's watching?"
     ],
     "debate": "",
     "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.pcgamer.com/gaming-industry/the-tetris-company-confirms-it-had-nothing-to-do-with-the-white-houses-racist-rip-off-we-b",
+    "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
     "score": "78/90",
     "is_backup": false
   },
@@ -551,16 +511,34 @@
     "slot": "am",
     "category": "BREAKOUT WATCH",
     "title": "At Telluride Film Festival, Bill Gates Compares Lack of Control Over AI to HAL in \u20182001\u2019:",
-    "angle": "Bill Gates dropped a chilling pop-culture comparison at Telluride, likening today's AI to the murderous computer from '2001: A Space Odyssey' \u2014 a perfect hook for the real anxiety people have about AI ignoring commands.",
+    "angle": "Bill Gates just compared today's AI to the murderous computer from '2001: A Space Odyssey' \u2014 a tech legend saying we can't fully control or shut down AI is the kind of quote that makes an audience sit up.",
     "bullets": [
       " Bill Gates made the comparison on stage at the Telluride Film Festival",
-      " His quote: *'You could say \"Please shut down,\" and it would say, \"OK, I took that under advisement, but...\"'* - straight out of HAL 9000 from '2001: A Space Odyssey'",
-      " He also compared AI to a sci-fi alien invasion, saying 'the aliens are here \u2014 a foreign intelligence with a different set of motivations that we can't even understand'",
-      " Is Gates being dead serious or just doing a movie-nerd bit - does AI actually scare you like HAL does?"
+      " He referenced HAL 9000 from *2001: A Space Odyssey* to describe losing control over AI",
+      " His quote: 'You could say \"please shut down,\" and it would say, \"OK, I took that under advisement, but...\"'",
+      " He also compared AI to a sci-fi alien invasion, saying it's 'a foreign intelligence with a different set of motivations that we can't even understand'",
+      " Does it freak you out more that Bill Gates said this, or that he's probably right?"
     ],
     "debate": "",
     "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
     "url": "https://variety.com/2026/film/news/bill-gates-ai-controls-telluride-film-festival-2001-1236853326/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Reform UK's Treasury spokesperson Robert Jenrick reacts to the female protestor",
+    "angle": "A politician laughing off violence against a protestor is exactly the kind of tone-deaf soundbite that blows up online \u2014 it's got real political stakes but reads like pure cringe content, which is why it's crossing over into pop culture chatter.",
+    "bullets": [
+      " Robert Jenrick, Reform UK's Treasury spokesperson, reacted to a female protestor being assaulted by attendees with: \"Oh boo hoo\"",
+      " Jenrick doubled down afterward, saying protestors should \"get a life\"",
+      " Is mocking a protestor who got assaulted just brutal honesty, or is this a full-blown PR disaster waiting to happen?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/fmzoulp62xnh1",
     "score": "78/90",
     "is_backup": false
   },
