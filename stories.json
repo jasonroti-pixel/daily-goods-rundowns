@@ -1,6 +1,514 @@
 [
   {
     "date": "2026-09-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+    "angle": "Elizabeth Holmes is one of the most talked-about fraudsters in modern business history, and a surprise, under-wraps documentary dropping at a major film festival is exactly the kind of \"wait, what?\" pop-culture moment that gets people searching and talking.",
+    "bullets": [
+      " It premiered at the Telluride Film Festival, one of the industry's top launchpads for awards-season buzz.",
+      " Early reaction is being described as the film having \"stunned\" the festival crowd.",
+      " Are we still fascinated by Elizabeth Holmes, or are we just tired of true-crime grifters getting the Hollywood treatment?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "A Plane Almost Crashing Into a Bunch of Cybercabs Is a Reminder That They\u2019re \u2018Piling Up\u2019",
+    "angle": "A near-miss between an aircraft and a cluster of Tesla's driverless Cybercabs is turning into an unplanned PR headache, exposing that the futuristic fleet is reportedly just sitting around unused instead of picking up riders.",
+    "bullets": [
+      " A plane almost crashed into a group of parked Tesla Cybercabs.",
+      " Elon Musk reacted to the near-miss with a one-word review: 'Weird.'",
+      " If Musk's big robotaxi bet is just sitting in a lot dodging planes, is the self-driving hype outrunning the reality? gizmodo.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/a-plane-almost-crashing-into-a-bunch-of-cybercabs-is-a-reminder-that-theyre-piling-up-unused-2000808322",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Prince William\u2019s Idea of a \u2018Fun Evening\u2019 with Kate Middleton Includes a Surprising Reality",
+    "angle": "A rare peek behind the palace curtain \u2014 turns out the future King just wants to kick back with Kate and watch reality TV like the rest of us, which is exactly the kind of relatable royal gossip that gets clicks.",
+    "bullets": [
+      " Story centers on Prince William's idea of a \"fun evening\" with Kate Middleton",
+      " Report comes from People.com",
+      " Before we tell you \u2014 what reality show do YOU think the future King of England is secretly obsessed with? ON-AIR BIT BREAKDOWN - Step 1: Take the Guesses - 60 seconds, cold open into the story -> Both hosts throw out their guess for which reality show William is into before revealing the answer - Step 2: Phone Line Poll - Quick callout after the reveal -> Ask listeners to call/text their own 'surprising guilty pleasure show' to compare with William's pick People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "Slp0V3FnZDFQcGIzNlVUOW5OWGtaeXJsN2ZyU0N3Si1mODRhdw?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNEZQTk5MNGZVZTBjaUI3cVVOR0VYUlNMSHVCLVpIRVpJTGJjaGtZSn",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "An Assam teacher just won India's National Teachers' Award after turning his students",
+    "angle": "It's the ultimate role-reversal tearjerker \u2014 students becoming the teachers for their own mothers, many of whom never learned to read or use a smartphone to pay for groceries. Feel-good, family-angle story that's spreading fast because it's the kind of thing that makes you want to call your mom.",
+    "bullets": [
+      " A teacher in Assam, India just won the country's National Teachers' Award",
+      " His program is called \"Each One Teach One\" \u2014 students are trained to go home and teach literacy and digital payments to their own mothers",
+      " Many of the moms involved had never learned to read or use basic digital payment apps",
+      " Call in: what's something small your own kid (or you, as a kid) ever taught a parent how to do?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://m.economictimes.com/news/new-updates/assam-teacher-won-national-teachers-award-for-sending-his-students-home-to-tea",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+    "angle": "This is the kind of creepy-tech story that makes anyone with a smart TV check their settings tonight - a major brand accused of snooping on audio and other devices on your home network hits close to home for basically everyone listening.",
+    "bullets": [
+      " Reports out of r/technology claim LG smart TVs are logging audio even with the screen off",
+      " Raises fresh questions about what smart TV manufacturers collect by default and whether users can actually opt out",
+      " Do you even know what your smart TV is listening to right now - and would you actually go dig through the settings to check?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "CD and vinyl sales are surging as frustration with digital media keeps growing",
+    "angle": "Physical media is having a real moment as listeners get fed up with streaming \u2014 vanishing playlists, price hikes, algorithm fatigue \u2014 and go back to owning something they can actually hold. It's a nostalgia trend with real dollars behind it, and everyone on the show has an opinion on their own music collection.",
+    "bullets": [
+      " Callers: do you still buy CDs or vinyl, or are you all-in on streaming \u2014 and what would it take to make you switch back?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/113756-sales-cd-vinyl-music-sees-strong-resurgence-amid.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "A Decade of Hype, 3,000 Roofs, and One Redirect URL: Tesla Kills the Solar Roof",
+    "angle": "Elon Musk promised a roof that would replace shingles and power your house \u2014 a decade and reportedly only about 3,000 installs later, Tesla just let the page quietly redirect and walked away. It's a juicy \"promise vs. reality\" story that plays to anyone skeptical of tech hype cycles.",
+    "bullets": [
+      " Only about 3,000 roofs were ever installed, per the reporting",
+      " Tesla didn't announce the end \u2014 it just redirected the product's URL, according to the post title",
+      " Story is trending on Reddit's r/technology",
+      " Is this just Musk moving on to the next shiny thing, or proof the Solar Roof was always more sizzle than steak?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gadgetreview.com/a-decade-of-hype-3000-roofs-and-one-redirect-url-tesla-kills-the-solar-roof",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Adobe ends an 18-year era as AI pressure mounts",
+    "angle": "Adobe is walking away from something it's run for nearly two decades, and the reported reason is AI pressure \u2014 a real signal that even software giants are getting forced into big, uncomfortable changes by the AI race.",
+    "bullets": [
+      " Adobe is reportedly ending an 18-year-old chapter of its business.",
+      " If AI can end an 18-year Adobe era overnight, what's the next 'safe' tech product that isn't?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://sg.finance.yahoo.com/news/adobe-ends-18-era-ai-191300355.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "No talks scheduled as Canada's counter-tariffs against U.S. set to take effect at 12:01 a.m.",
+    "angle": "This is the kind of story that hits wallets on both sides of the border - and the fact that nobody's even talking right now makes it feel like this could drag on a while.",
+    "bullets": [
+      " Canada's counter-tariffs against the U.S. are set to kick in at 12:01 a.m.",
+      " As of now, there are no talks scheduled between the two countries to head it off",
+      " Who blinks first - and how long before regular people start feeling this at the checkout?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/no-talks-scheduled-canada-counter-tariffs-9.7334813",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Charles confirms Harry and Meghan to remain non-working royals after their return to U.K.",
+    "angle": "This settles the big lingering question after Harry and Meghan's recent U.K. visit - are they easing back into royal life? Charles just shut that door, and it's a fresh chapter in the family drama Canadians have been glued to for years.",
+    "bullets": [
+      " King Charles personally authorized a letter to senior British officials",
+      " It confirms Prince Harry and Meghan remain non-working royals",
+      " Comes right after the couple's return to the U.K.",
+      " Is this Charles closing the door for good, or just keeping it politely ajar?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/charles-harry-meghan-non-working-royals-u-k-9.7335005?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "'It's incredible,' Winnipeg man says after car blows over onto someone else's lawn in storm",
+    "angle": "'It's incredible,' Winnipeg man says after car blows over onto someone else's lawn in storm",
+    "bullets": [],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-storm-power-outages-sept-7-9.7334754?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Flights to Jakarta resume after volcanic ash forced 2-day closure of several Indonesian",
+    "angle": "Flights to Jakarta resume after volcanic ash forced 2-day closure of several Indonesian airports",
+    "bullets": [],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/jakarta-flights-resume-volcano-9.7335242?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "New prize named for late author Andrew Pyper will recognize horror and thriller writers",
+    "angle": "A widow turns grief into action \u2014 Heidi Pyper says her husband, bestselling thriller author Andrew Pyper, never got a shot at Canada's biggest literary prizes just because of his genre, so she's launching a new one to fix that.",
+    "bullets": [
+      " Heidi Pyper, widow of author Andrew Pyper, is behind the new literary prize.",
+      " She says horror and thriller writers are shut out of Canada's top literary prizes because of their genre.",
+      " Andrew Pyper was a bestselling horror/thriller novelist who was never considered for those major awards.",
+      " Is it snobbery that horror and thriller novels get treated as lesser than 'literary fiction' \u2014 or is there a real difference in craft?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/radio/thecurrent/andrew-pyper-prize-writers-legacy-9.7333138?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Quebec overhauled its bottle deposit-refund system. Is it working?",
+    "angle": "Quebec blew up its old bottle deposit system and rolled out a shiny new one called Consignaction back in 2023 \u2014 and two years later, people are still split on whether it's actually easier to get your money back or just a bigger hassle.",
+    "bullets": [
+      " Consignaction, Quebec's overhauled bottle deposit-refund system, launched its first phase back in 2023.",
+      " CBC reports the program has gotten mixed reviews from users since day one.",
+      " Be honest \u2014 do you actually haul your empties back for the deposit, or is there a growing bottle graveyard in your garage right now?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/montreal/consignaction-modernize-bottle-recycling-in-quebec-9.7334842?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Rob Reiner and Betty Gilpin Win 2026 Emmys for Guest Actor and Actress in a Comedy",
+    "angle": "Two beloved industry veterans just picked up hardware ahead of the big Emmy night, and Rob Reiner's win gives hosts a fun excuse to talk about his surprise turn on one of TV's buzziest shows.",
+    "bullets": [
+      " Rob Reiner won Best Guest Actor in a Comedy Series for his role in The Bear",
+      " Betty Gilpin took home Best Guest Actress in a Comedy Series",
+      " Wins came at Night 2 of the Creative Arts Emmys, the lead-up event to the main show",
+      " Rob Reiner popping up on The Bear and winning an Emmy for it - did you even know he was on that show? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/tv/tv-news/rob-reiner-betty-glipin-win-2026-emmy-guest-actor-actress-comedy-1236692785/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Andrew Garfield Hopes \u2018The Uprising\u2019 Makes Billionaires \u201cScared Sh*tless\u201d: \u201cThey\u2019re The",
+    "angle": "Garfield's out promoting his new film 'The Uprising' and he's not being subtle about the target \u2014 he wants the ultra-rich to feel it. That's a spicy soundbite that doubles as a mini class-warfare debate.",
+    "bullets": [
+      " Andrew Garfield says he wants his new project 'The Uprising' to make billionaires \"scared sh*tless\"",
+      " He calls the ultra-wealthy \"the most soul sick\" among us",
+      " Quote comes straight from press for the upcoming film",
+      " Is it brave for a movie star to call out billionaires, or a little rich coming from Hollywood?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://deadline.com/2026/09/andrew-garfield-hopes-uprising-billionaires-scared-shtless-1237070457/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "What to know about the new Elizabeth Holmes documentary from Nathan Fielder",
+    "angle": "Nathan Fielder is one of the most unpredictable voices in comedy/doc filmmaking right now, so pairing him with the Theranos saga - already one of the wildest true-crime stories of the decade - has people buzzing about what angle he'll take.",
+    "bullets": [
+      " Knowing Nathan Fielder's style, do you think this doc plays it straight or gets weird with it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://abcnews.com/GMA/News/new-elizabeth-holmes-documentary-nathan-fielder/story?id=136253720",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Mr. T slams new Netflix documentary about his life as 'garbage': 'It pissed me off'",
+    "angle": "A celebrity publicly disowning the story of his own life is instant watercooler material \u2014 it raises the bigger question of who really controls your narrative once a streamer owns the rights to it.",
+    "bullets": [
+      " Mr. T blasted the new Netflix documentary about his own life, calling it 'garbage.'",
+      " He didn't hold back on his reaction, saying the film 'pissed me off.'",
+      " If someone made a documentary about YOUR life, do you think you'd actually recognize yourself in it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/05/entertainment/mr-t-slams-netflix-documentary-about-his-life/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Gary Oldman Says a James Bond Has Been Picked \u2014 and He\u2019s Hoping It\u2019s Jack Lowden",
+    "angle": "The internet's favorite guessing game \u2014 who's the next 007 \u2014 just got gas thrown on it by a legit Oscar winner who claims the decision's already made, and he's rooting for a specific guy.",
+    "bullets": [
+      " Oldman says he's personally hoping the choice is Jack Lowden",
+      " If Gary Oldman's right and it's already locked in \u2014 who do you want it to be, and is Jack Lowden even on your radar?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/gary-oldman-james-bond-cast-picked-jack-lowden-slow-horses-1236693169/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Macklemore speaks out after backlash to his appearance at Ed Sheeran concert: \"Wanting",
+    "angle": "Macklemore popped up at an Ed Sheeran concert and got dragged for it online \u2014 now he's firing back, and it's turning into another round of \"can musicians just make music without a political litmus test.\"",
+    "bullets": [
+      " Macklemore faced backlash over his appearance at an Ed Sheeran concert.",
+      " He responded directly, saying: \"Wanting all humans to be treated equal should never be controversial.\"",
+      " Should artists just stay out of politics on stage, or is Macklemore right that this shouldn't even be a debate?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/3wzd2dsvi5oh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Vivian Wilson mocks AI and the robotics craze in her campaign for Desigual",
+    "angle": "Vivian Wilson stepping out to poke fun at the AI/robotics craze is instant tabloid gold given her family \u2014 it's the kind of celebrity-meets-tech crossover that gets social media buzzing fast.",
+    "bullets": [
+      " Vivian Wilson stars in a new campaign for the fashion brand Desigual",
+      " Story is circulating on Reddit's r/fauxmoi, a celebrity gossip hub known for surfacing under-the-radar entertainment news",
+      " Is it funnier or more pointed that she's the one mocking robot-hype, given whose daughter she is?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/faqs0k9qk3oh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Throwback to the time Chris Pratt said if he wasn\u2019t an actor he\u2019d be a cop: \u201cProbably",
+    "angle": "This old Chris Pratt quote is doing the rounds again on r/fauxmoi, and it's the kind of blunt celebrity honesty that always gets people either laughing or side-eyeing \u2014 a Marvel star casually joking about planting guns is prime watercooler material.",
+    "bullets": [
+      " Chris Pratt was once asked what he'd be doing if he weren't an actor.",
+      " His answer: a cop \u2014 and \"probably crooked.\"",
+      " He listed the specifics: \"on the payroll,\" \"turn a blind eye to corruption,\" \"shoot a dude,\" \"plant a gun.\"",
+      " He capped it off calling it all just \"the usual.\"",
+      " Dark joke or too far for a guy who plays heroes for a living \u2014 where's the line for celebrity \"honesty\"?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/m9f1b1cw43oh1.jpeg",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Pink Faces Backlash After Calling on Ed Sheeran to Apologise and Refund Fans Over",
+    "angle": "A celebrity pile-on that pits pop stars against each other is easy watercooler fuel, and it taps into the bigger question of how far artists should go to answer for what happens on someone else's stage.",
+    "bullets": [
+      " Pink publicly called on Ed Sheeran to apologize and refund fans.",
+      " Pink is now facing backlash online over the ask.",
+      " Should Ed Sheeran be on the hook for something that happened during Macklemore's set \u2014 or is Pink out of line here?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/pink-calls-sheeran-apology-refunds-macklemore-performance-1763650",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Outrage as Georgetown students reportedly plan Charlie Kirk \u2018lookalike contest\u2019 on",
+    "angle": "This is a college campus controversy that's blowing up online \u2014 an anonymous student app post allegedly mocking a slain political figure just weeks after his assassination, racking up thousands of upvotes and igniting a real debate about where campus 'edgy humor' crosses into cruelty.",
+    "bullets": [
+      " Reported contest is planned for Sept. 10, the anniversary of Charlie Kirk's assassination",
+      " Promoted on Fizz, an anonymous college social app",
+      " Post reportedly drew thousands of upvotes from students",
+      " Story location: Georgetown University",
+      " Is this dark-humor free speech or a new low for campus culture \u2014 where's the line?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/07/us-news/georgetown-students-plan-charlie-kirk-lookalike-contest-on-assassination-anniversary/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Ciara announces pregnancy with baby No. 5, her 4th with Russell Wilson - ABC News -",
+    "angle": "A major R&B star and an NFL quarterback growing their family is easy, feel-good celebrity news that gets casual listeners talking about blended families and big broods.",
+    "bullets": [
+      " Ciara has announced she's pregnant with baby No. 5",
+      " This will be her and husband Russell Wilson's 4th child together",
+      " Five kids, one famous family \u2014 call in and tell us the biggest family size you'd actually want. Abcnews.com (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://abcnews.com/GMA/Culture/ciara-announces-pregnancy-baby-5-4th-russell-wilson/story?id\\\\u003d136246192",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Bhutan has eliminated dog transmitted rabies as a public health problem, with zero human",
+    "angle": "Zero human rabies deaths since 2023, and the WHO just made it official \u2014 Bhutan's the first country in Southeast Asia to pull this off, which is a genuinely rare good-news headline in public health.",
+    "bullets": [
+      " Bhutan has eliminated dog-transmitted rabies as a public health problem",
+      " Zero human rabies deaths recorded since 2023",
+      " Bhutan is the first country in Southeast Asia to reach this milestone",
+      " When's the last time you heard a country flat-out beat a disease \u2014 what other 'small nation, huge win' stories deserve more airtime?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.who.int/news/item/04-09-2026-who-validates-bhutan-for-eliminating-dog-transmitted-human-rabies",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A symbiotic fungus that lives inside the human gut appears capable of protecting us from",
+    "angle": "Scientists found a fungus already living in your gut might shield your body from radiation damage \u2014 a weirdly hopeful nugget of science that doubles as a fun 'wait, what's living inside me?' conversation starter.",
+    "bullets": [
+      " In experiments, mice given the fungus and then exposed to radiation had less weight loss",
+      " Radiation-exposed mice with the fungus also showed reduced inflammation and lower oxidative stress",
+      " Ask listeners: does knowing there's fungus living in your gut right now freak you out \u2014 or make you feel weirdly protected?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/scientists-find-a-fungus-that-could-protect-the-body-from-radiation",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Why slow breathing calms us down: A new study maps the specific brain circuit that",
+    "angle": "Everyone's been told to 'take a deep breath' when stressed \u2014 now researchers say they've actually found the exact brain wiring that makes slow nasal breathing switch off anxiety, turning folk wisdom into hard neuroscience.",
+    "bullets": [
+      " Published in PNAS, a top-tier peer-reviewed science journal",
+      " Researchers say they mapped a specific brain circuit connecting nasal airflow to anti-anxiety signals",
+      " Ask listeners: does the slow-breathing trick actually calm you down, or is it just placebo you've been sold for years? ON-AIR BIT BREAKDOWN - Step 1: The Live Test - 30 seconds, cold open -> Both hosts take 5 slow nasal breaths on air and report how they feel before vs. after - Step 2: Caller Verdict - Phone lines open -> Take a caller who swears breathing exercises calm them down and have them explain what it actually feels like - Step 3: The Skeptic Take - 30 seconds -> One host pushes back: 'so my therapist was basically doing real neuroscience on me this whole time?'"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/scientists-identify-a-nose-to-brain-circuit-that-links-anxiety-and-breathing",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Wisconsin has approved 7,300+ MW of solar since 2019, planted 54 million+ trees since",
+    "angle": "Wisconsin isn't the state you'd guess is crushing it on clean energy, but the numbers are real - and it's a nice reminder that good environmental news is out there, it just doesn't trend like the bad stuff.",
+    "bullets": [
+      " Wisconsin has approved more than 7,300 megawatts of solar power since 2019",
+      " More than $15 million has been paid out in home energy rebates",
+      " Utilities clocked CO2 levels 45% below 2005 levels in 2024",
+      " Quick, name a state you'd never guess is winning at clean energy - Wisconsin's apparently on that list."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wispolitics.com/2026/gov-evers-gov-evers-office-of-sustainability-and-clean-energy-celebrate-2026-clean-energy-plan-pr",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-07",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Snoop Dogg wants to pay someone US$10K a month to taste ice cream",
+    "angle": "It's the ultimate 'sign me up' story \u2014 a legit celebrity dangling a five-figure paycheck for what sounds like the easiest job on earth, which makes it prime callback bait for the whole show.",
+    "bullets": [
+      " Snoop Dogg reportedly wants to hire someone whose only job is to taste ice cream.",
+      " Story's currently blowing up on Reddit's r/nottheonion for how real it sounds.",
+      " Would you uproot your life for a job that just pays you to eat ice cream? ON-AIR BIT BREAKDOWN - Step 1: The Pitch - 30 seconds, cold open to the bit -> Each host makes their 10-second case for why THEY should be Snoop's official taster. - Step 2: The Taste Test - Live in-studio -> Bring in a couple tubs of ice cream, hosts blind-rate them like judges, keep score out loud. - Step 3: The Verdict - Wrap-up, tease phones/social -> Ask listeners to vote who's got the more 'hireable' palate and tease it into the break."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://globalnews.ca/news/12049644/snoop-dogg-wants-to-pay-someone-us10k-month-taste-ice-cream/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-07",
     "slot": "am",
     "category": "THE LIST",
     "title": "Scientists find a way to slash computer memory energy use by orders of magnitude",
