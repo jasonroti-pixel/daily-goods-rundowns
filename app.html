@@ -465,6 +465,15 @@ a:hover{text-decoration:underline}
 .add-form-title{font-family:'Press Start 2P',monospace;font-size:0.5rem;color:var(--yellow);margin-bottom:20px;text-shadow:0 0 8px rgba(255,215,0,0.3)}
 .add-form-row{margin-bottom:14px}
 .add-form-label{font-family:'Press Start 2P',monospace;font-size:0.3rem;color:var(--text-dim);margin-bottom:6px;display:block}
+.add-form-textarea{
+  font-family:'IBM Plex Mono',monospace;font-size:0.85rem;
+  padding:8px 10px;background:var(--bg);color:var(--text);
+  border:2px solid var(--border);width:100%;resize:vertical;
+  min-height:60px;line-height:1.5;
+}
+.add-form-textarea:focus{border-color:var(--cyan);outline:none}
+.add-form-textarea::placeholder{color:var(--text-dim)}
+.add-form-hint{font-family:'Press Start 2P',monospace;font-size:0.22rem;color:var(--text-dim);margin-top:4px}
 .add-form-input{
   font-family:'IBM Plex Mono',monospace;font-size:0.85rem;
   padding:8px 10px;background:var(--bg);color:var(--text);
@@ -643,6 +652,15 @@ a:hover{text-decoration:underline}
     <div class="add-form-row">
       <label class="add-form-label">URL</label>
       <input class="add-form-input" id="addUrl" type="url" placeholder="https://...">
+    </div>
+    <div class="add-form-row">
+      <label class="add-form-label">SUMMARY / THOUGHTS</label>
+      <textarea class="add-form-textarea" id="addAngle" rows="3" placeholder="Your angle on this story — why it matters, how to talk about it..."></textarea>
+    </div>
+    <div class="add-form-row">
+      <label class="add-form-label">TALKING POINTS</label>
+      <textarea class="add-form-textarea" id="addBullets" rows="3" placeholder="One point per line&#10;Each line becomes a bullet point&#10;Great for key facts or debate hooks"></textarea>
+      <div class="add-form-hint">ONE POINT PER LINE</div>
     </div>
     <div class="add-form-row add-form-inline">
       <div>
@@ -823,6 +841,8 @@ function showAddStory() {
   overlay.classList.remove('hidden');
   document.getElementById('addTitle').value = '';
   document.getElementById('addUrl').value = '';
+  document.getElementById('addAngle').value = '';
+  document.getElementById('addBullets').value = '';
   const dateInput = document.getElementById('addDate');
   if (currentDate) dateInput.value = currentDate;
   else dateInput.value = new Date().toISOString().split('T')[0];
@@ -836,11 +856,14 @@ document.addEventListener('keydown', function(e) {
   const overlay = document.getElementById('addStoryOverlay');
   if (!overlay || overlay.classList.contains('hidden')) return;
   if (e.key === 'Escape') hideAddStory();
-  if (e.key === 'Enter' && e.target.tagName !== 'SELECT') submitCustomStory();
+  if (e.key === 'Enter' && e.target.tagName !== 'SELECT' && e.target.tagName !== 'TEXTAREA') submitCustomStory();
 });
 function submitCustomStory() {
   const title = document.getElementById('addTitle').value.trim();
   const url = document.getElementById('addUrl').value.trim();
+  const angle = document.getElementById('addAngle').value.trim();
+  const bulletsRaw = document.getElementById('addBullets').value.trim();
+  const bullets = bulletsRaw ? bulletsRaw.split('\n').map(b => b.trim()).filter(b => b) : [];
   const date = document.getElementById('addDate').value;
   const slot = document.getElementById('addSlot').value;
   if (!title) { showToast('TITLE REQUIRED'); return; }
@@ -853,8 +876,8 @@ function submitCustomStory() {
     date: date,
     slot: slot,
     category: 'ADDED STORIES',
-    angle: '',
-    bullets: [],
+    angle: angle,
+    bullets: bullets,
     debate: '',
     score: '',
     source: '',

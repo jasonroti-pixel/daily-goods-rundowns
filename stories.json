@@ -1,5 +1,587 @@
 [
   {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "8th-grade dropout accused of blowing $240M Bitcoin haul on Ferraris and $4M club nights",
+    "angle": "A guy who never finished middle school allegedly social-engineered his way into a quarter-billion dollars in Bitcoin and then torched it on supercars and nightclub tabs - it's the kind of true-crime-meets-flex story that's built for a live debate about crypto security and what people do with sudden money.",
+    "bullets": [
+      " Accused ringleader Malone Lam allegedly ran the scheme with co-conspirators using social engineering to con a crypto investor.",
+      " Prosecutors say the money went toward Ferraris and club nights costing as much as $4 million a pop.",
+      " Lam is described as an 8th-grade dropout - no formal education behind an alleged nine-figure heist.",
+      " You've got zero degrees and zero coding job - could you actually pull off a $240 million crypto con, or does this scream 'inside help'?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/08/tech/alleged-cryptoscam-ringleader-set-for-plea-hearing-in-240m-bitcoin-theft/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "No constitutional right to clean water, federal court finds",
+    "angle": "A federal court just said access to clean drinking water isn't guaranteed by the Constitution - a ruling that instantly reads like satire but is dead serious, and it's the kind of headline that makes people ask 'wait, what IS actually in there?'",
+    "bullets": [
+      " A federal court found there is no constitutional right to clean water in the U.S.",
+      " It reopens the bigger question of what basic protections actually ARE guaranteed under the Constitution",
+      " Should clean water be a constitutional right in 2026 - yes or no, phone lines are open."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.usatoday.com/story/news/nation/2026/09/07/court-constitution-right-clean-water/91649488007/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "US police fear covert recording with Meta glasses",
+    "angle": "Meta's smart glasses look like everyday sunglasses but can quietly shoot video, and now police say that's becoming a real problem for privacy and law enforcement alike. It's the kind of 'wait, what?' tech story that makes everyone side-eye the person next to them.",
+    "bullets": [
+      " Police are raising concerns that Meta's smart glasses can record video without any obvious tell to the people around the wearer",
+      " Would you even notice if the stranger next to you was recording you with their glasses right now? ON-AIR BIT BREAKDOWN - Step 1: Set the Scene - 30 seconds -> Hosts explain that Meta's smart glasses can look totally normal while recording, and cops are now flagging it as a real concern. - Step 2: Spot the Signal - 1 minute -> Hosts debate whether there should be a mandatory light, sound, or visible cue anytime smart glasses are recording. - Step 3: Phone Lines Open - 2-3 minutes -> Ask listeners to call or text: creeped out or not a big deal? Would they wear a pair themselves?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ua.news/en/world/politsiia-ssha-poboiuietsia-prikhovanogo-zapisu-okuliarami-meta",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "A data center in Denmark gives away heat that data centers often waste. It runs water from",
+    "angle": "With AI driving a data center boom (and a growing backlash over how much power and water they guzzle), a Danish city found a way to turn that wasted server heat into free home heating \u2014 a rare good-news twist on a story that's usually all complaints.",
+    "bullets": [
+      " That warmed water gets boosted by heat pumps to a temperature usable in home radiators",
+      " It plugs directly into the city's existing district heating network",
+      " Every data center popping up in your backyard is a fight over power and water \u2014 would you want one nearby if it meant your heating bill dropped?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://scienceblog.com/m-a-data-center-in-denmark-gives-away-heat-that-data-centers-often-waste-it-runs-water-from-the-citys-heat",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "US police fear Meta smart glasses could be used to secretly record them",
+    "angle": "Meta's smart glasses can record video and audio without anyone around knowing, and now the people worried about it are the police themselves - a wild privacy role-reversal that flips the usual \"who's watching who\" debate.",
+    "bullets": [
+      " Police officers are reportedly raising concerns about Meta's smart glasses being used to secretly record them on duty",
+      " It's a twist on the usual privacy debate - normally it's citizens worried about being recorded by law enforcement, not the other way around",
+      " If cops don't want to be secretly recorded, should regular people?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Adobe ends an 18-year era as AI pressure mounts",
+    "angle": "When a software giant that's shaped how the world creates content for nearly two decades hits an inflection point because of AI, that's a signal the whole industry is watching \u2014 and a good gut-check on how fast this AI wave is moving.",
+    "bullets": [
+      " Reports point to an 18-year era at Adobe coming to a close",
+      " Is AI moving so fast that even the biggest tech giants can't out-run it anymore?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://sg.finance.yahoo.com/news/adobe-ends-18-era-ai-191300355.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "A Decade of Hype, 3,000 Roofs, and One Redirect URL: Tesla Kills the Solar Roof",
+    "angle": "Elon Musk once called the Solar Roof a bigger deal than the car business - a decade later it's quietly getting buried behind a redirect link, and almost nobody noticed.",
+    "bullets": [
+      " Despite years of promotion, only about 3,000 roofs were ever actually installed.",
+      " Is this proof Musk overhypes moonshot products, or just smart triage of a business that never scaled?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gadgetreview.com/a-decade-of-hype-3000-roofs-and-one-redirect-url-tesla-kills-the-solar-roof",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "ICE Plans to Spend Millions on Boston Dynamics Dog Robots",
+    "angle": "A federal immigration enforcement agency reportedly gearing up to spend millions on robotic dogs is exactly the kind of tech-meets-government story that gets people talking about surveillance, spending priorities, and where this all heads next.",
+    "bullets": [
+      " ICE is reportedly planning to spend millions of dollars on robot dogs",
+      " Robot dogs for immigration enforcement \u2014 smart use of tech, or a surveillance line we shouldn't be crossing?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.404media.co/ice-plans-to-spends-millions-on-boston-dynamics-dog-robots",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Canada's retaliatory tariffs on U.S. goods officially in effect",
+    "angle": "This is the trade fight hitting home now - retaliatory tariffs mean price tags on everyday goods could start creeping up on both sides of the border.",
+    "bullets": [
+      " Canada's retaliatory tariffs on U.S. goods are now officially in effect",
+      " Move comes as a direct response in the ongoing Canada-U.S. trade dispute",
+      " Curious what's about to cost you more at the store - anyone notice prices jump on U.S. brands yet?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://toronto.citynews.ca/2026/09/08/canadas-retaliatory-tariffs-on-u-s-goods-officially-in-effect/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Carney warns of tough times ahead in national address as retaliatory tariffs kick in",
+    "angle": "The Prime Minister just went on national TV to say the economy's about to hurt - that's the kind of blunt, no-spin moment that gets people talking about their own wallets.",
+    "bullets": [
+      " Mark Carney delivered a national address warning of \"tough times ahead\" for Canadians",
+      " It's a rare direct-to-camera moment from the PM - not a press conference, a national address",
+      " Are you already feeling the tariff squeeze, or is this still just political talk to you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "New prize named for late author Andrew Pyper will recognize horror and thriller writers",
+    "angle": "It's a genre-snobbery story with heart \u2014 a widow calling out Canada's literary establishment for overlooking horror and thriller writers, then doing something about it in her late husband's name.",
+    "bullets": [
+      " Heidi Pyper says horror and thriller writers like her late husband don't get the recognition they deserve.",
+      " Andrew Pyper was never considered for Canada's top literary prizes because of the genre he wrote in.",
+      " Do horror and thriller writers get treated like second-class authors compared to \"literary fiction\"?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/radio/thecurrent/andrew-pyper-prize-writers-legacy-9.7333138?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Quebec overhauled its bottle deposit-refund system. Is it working?",
+    "angle": "Quebec revamped how you get your deposit back on bottles and cans a couple years ago, and the reviews are all over the map \u2014 it's the kind of everyday hassle story that gets everyone chiming in with their own horror story.",
+    "bullets": [
+      " User reviews since launch have been mixed \u2014 some praise it, others say it still needs work.",
+      " Has anyone actually had a smooth experience getting their bottle deposit back, or is it a nightmare every time?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/montreal/consignaction-modernize-bottle-recycling-in-quebec-9.7334842?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "As students get back to class, car-free dropoffs and pickups are coming to some schools",
+    "angle": "It's back-to-school week, and a Canadian non-profit is pushing schools to ban the car dropoff line entirely \u2014 a change that hits every parent's morning routine and instantly splits people into 'love it' and 'not a chance' camps.",
+    "bullets": [
+      " They're running pilot projects aimed at clearing regular student dropoff and pickup zones of cars.",
+      " Would a car-free dropoff zone actually get you walking your kid the last block, or just make your mornings way worse?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/climate/school-streets-canada-9.7320074?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Flights to Jakarta resume after volcanic ash forced 2-day closure of several Indonesian",
+    "angle": "Nearly 3,000 flights grounded by volcanic ash is the kind of travel-chaos story that makes anyone with a trip booked anywhere near Asia start refreshing flight trackers - and it's a good excuse to talk near-miss travel horror stories.",
+    "bullets": [
+      " Flights to and from Jakarta, Indonesia's capital, resumed early Tuesday",
+      " A volcanic eruption sent ash into the sky, forcing airports to shut down",
+      " Several Indonesian airports were closed for two days",
+      " Ever had a trip blown up by weather, ash, or something totally out of your control - what happened?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/jakarta-flights-resume-volcano-9.7335242?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Nathan Fielder and Lance Oppenheim\u2019s Elizabeth Holmes Doc \u2018You Can See Everything\u2019:",
+    "angle": "A24 dropped a surprise Elizabeth Holmes docudrama from Nathan Fielder \u2014 the guy behind The Rehearsal \u2014 and critics walked out saying \"what the f*** did I just watch?\" That's the kind of reaction that makes people book a theater ticket.",
+    "bullets": [
+      " Title is \"You Can See Everything\" \u2014 a docudrama about Theranos founder and convicted fraudster Elizabeth Holmes",
+      " It's from Nathan Fielder and Lance Oppenheim, distributed by A24",
+      " Had a surprise screening at the Telluride Film Festival",
+      " First reactions included \"Shocking,\" \"Brilliant,\" \"Insane,\" and \"What the f* did I just watch?\"",
+      " Are we officially at Peak Elizabeth Holmes content, or is Nathan Fielder weird enough to make this one actually worth it? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-first-reactions-nathan-fielder-a24-1236693077/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Macklemore speaks out after backlash to his appearance at Ed Sheeran concert: \"Wanting",
+    "angle": "Macklemore's guest appearance with Ed Sheeran set off a wave of online backlash, and now he's firing back with a pointed statement - instant fuel for a debate about artists, politics, and who gets to share a stage.",
+    "bullets": [
+      " Macklemore is responding directly to backlash over his surprise appearance at an Ed Sheeran concert",
+      " His response: \"Wanting all humans to be treated equal should never be controversial.\"",
+      " Should artists have to answer for who they share a stage with, or is that backlash gone too far?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/3wzd2dsvi5oh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Mayor Mamdani says he will be attending 9/11 events and memorial.. he wants this week",
+    "angle": "NYC's mayor spelling out that he'll show up to his own city's 9/11 memorial became a talking point online, with critics asking why that's even in question in the first place.",
+    "bullets": [
+      " Mayor Mamdani says he will attend 9/11 memorial events this week",
+      " He wants the focus on families who lost loved ones, first responders, and everyday New Yorkers who helped each other that day",
+      " Should a mayor even have to publicly promise he's attending his own city's 9/11 memorial?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/hhc082jx06oh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Before Olivia Rodrigo commissioned them to design a dress, Palestinian brand N\u00f6l",
+    "angle": "It's a celebrity fashion story with a gut-punch backstory \u2014 a small Palestinian label was on the verge of closing after their materials got destroyed, and then Olivia Rodrigo showed up wanting a custom piece. That's the kind of human-interest twist that makes a fashion segment hit different.",
+    "bullets": [
+      " N\u00f6l Collective, a Palestinian fashion brand, was reportedly on the verge of shutting down completely.",
+      " Their fabric shipment was destroyed by Israeli customs before it ever reached them.",
+      " Olivia Rodrigo then commissioned the brand to design a custom dress for her.",
+      " One pop star's dress order can be the difference between a small brand surviving or shutting its doors \u2014 that's real star power."
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/1icv083bf5oh1.jpeg",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Taylor Sheridan\u2019s wild on-set demand revealed by \u2018Lioness\u2019 star Jill Wagner: \u2018He forces you",
+    "angle": "A juicy behind-the-scenes reveal about Hollywood's toughest showrunner - Sheridan's reputation for brutal realism on set gives hosts a fun \"would you do it\" angle with real star-power name recognition.",
+    "bullets": [
+      " Jill Wagner, 47, stars on Paramount+'s 'Lioness'",
+      " She revealed Taylor Sheridan literally had her run into fire for a scene",
+      " Wagner says it became one of her \"favorite moments\" on the show despite the danger",
+      " Sheridan is known across his shows ('Yellowstone,' 'Lioness') for demanding hands-on, no-stunt-double realism from his cast",
+      " Would you run into actual fire for a role, or is that where you tell the director to call your stunt double?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/08/entertainment/taylor-sheridans-wild-on-set-demand-revealed-by-lioness-star-jill-wagner/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "James Bond Has Been Picked, Says Gary Oldman, Who Hopes forJack Lowden - Variety",
+    "angle": "Bond casting is the entertainment world's longest-running guessing game, and now Gary Oldman himself is dropping hints \u2014 teasing his own Slow Horses co-star for the role.",
+    "bullets": [
+      " He's hoping it's his Slow Horses co-star Jack Lowden",
+      " Oldman says he has \"inside info\" on the casting decision",
+      " Who's YOUR pick for the next James Bond \u2014 call in and make the case. Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/global/james-bond-picked-says-gary-oldman-hopes-for-jack-lowden-1236853973/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Nick Offerman Calls Out Ben Shapiro For \u201cRampant Homophobia\u201d In His 'Last of Us'",
+    "angle": "Nick Offerman Calls Out Ben Shapiro For \u201cRampant Homophobia\u201d In His 'Last of Us' Criticisms: \u201cI\u2019m Embarrassed for His Reading Comprehension\u201d",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/nick-offerman-blasts-ben-shapiro-homophobia-last-of-us/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Nathan Fielder reveals Elizabeth Holmes doc filmed in secret over 3 years",
+    "angle": "Nathan Fielder built his whole career on elaborate, hidden-camera mind-games \u2014 so hearing he quietly shot a documentary on one of the most notorious fraudsters in recent memory for three straight years is the kind of reveal that makes you go 'wait, HOW did nobody know?'",
+    "bullets": [
+      " Nathan Fielder revealed he secretly filmed a documentary about Elizabeth Holmes.",
+      " How does a comedian secretly follow the Theranos founder around for three years and nobody leaks it? Entertainment Weekly (via Google News) (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD"
+    ],
+    "debate": "DUXpzUzA4blMzWHc?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVG1tMHVwYVZ6TjJtNFdFMFBkTzNmM1JMSzYxYzF6YjM0TTNfU1g5UFd",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Ole Miss fan shares craziest DMs she\u2019s gotten since viral game moment: \u2018Bankrupt me\u2019",
+    "angle": "She went viral during an Ole Miss game and got a crash course in 24-hour internet fame \u2014 now she's sharing the unhinged DM flood that came with it, which is exactly the kind of 'wait, people really said THAT' content that blows up group chats.",
+    "bullets": [
+      " A college football fan became an overnight viral moment during an Ole Miss game broadcast.",
+      " One DM she received reportedly read: 'Bankrupt me.'",
+      " She's now speaking out about what her first 24 hours of internet fame actually looked like.",
+      " Ever gone viral by accident \u2014 what's the weirdest message a stranger has ever sent you?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/08/sports/ole-miss-fan-shares-the-craziest-dms-shes-gotten-since-viral-game-moment/",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Ole Miss fan shares craziest DMs she's gotten since viral game moment: 'Bankrupt me'",
+    "angle": "She had one viral moment at a college football game \u2014 now her inbox is a horror show of strangers sliding in, including one guy offering to 'bankrupt' himself for her. It's the classic internet-fame-has-a-price story that always gets a room talking.",
+    "bullets": [
+      " An Ole Miss fan went viral off a moment caught during a game broadcast.",
+      " She's now publicly sharing the DMs flooding her inbox since.",
+      " One standout message: a guy telling her to 'bankrupt me.'",
+      " Call in: what's the wildest DM you've ever gotten after your one brush with viral fame? ON-AIR BIT BREAKDOWN - Step 1: Read the DMs Cold - 60 seconds, no context first -> One host reads a few of the wildest lines (including 'bankrupt me') out loud without explaining the backstory \u2014 let the other host react blind. - Step 2: Rate the Thirst - Quick back-and-forth -> Hosts each give the DMs a 1-10 'unhinged' score and argue over which one wins. - Step 3: Open the Phones - Callers share their own -> Take calls or texts from listeners with their own 'my one viral moment' DM horror stories. X/Twitter @NYPost (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2097303879117316495",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Australia to force social media platforms to allow users to opt out of algorithms",
+    "angle": "Australia's moving to force social platforms to let users opt out of algorithmic feeds entirely - a direct shot at the 'for you' pages that keep everyone doomscrolling, and it could be the blueprint other countries copy next.",
+    "bullets": [
+      " Australia is pushing new rules requiring social media platforms to give users an opt-out from algorithmic content curation",
+      " It's part of a broader pattern of Australia taking an aggressive regulatory stance on Big Tech and social media",
+      " Would you actually switch off your algorithm if you could, or are we all secretly addicted to being told what to watch?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/08/australia-social-media-algorithm-switch-off-opt-out-digital-duty-of-care",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "New study finds that singles motivated by social pressure or validation make less progress",
+    "angle": "New research suggests singles chasing validation or checking a social box actually strike out more than people looking for genuine connection \u2014 a relatable gut-check for anyone swiping right out of pressure rather than desire.",
+    "bullets": [
+      " New study finds singles motivated by social pressure or validation make less progress finding a partner.",
+      " Singles driven by a genuine desire for connection fared better in the research.",
+      " Be honest \u2014 are you actually looking for love, or just tired of being asked why you're single?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.psypost.org/struggling-to-find-the-one-a-new-psychology-study-says-the-problem-might-be-your-underlying-motivation/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Eiffel Tower closed in row over women removed for Hindu group",
+    "angle": "Nothing gets a room talking like 'the Eiffel Tower had to shut down' \u2014 throw in a discrimination dispute over a private event and you've got a full watercooler story before the coffee's even done brewing.",
+    "bullets": [
+      " Reports say the Eiffel Tower was closed amid a dispute tied to a private Hindu group event",
+      " Women were reportedly removed from the event, sparking the backlash",
+      " Details are still thin/developing \u2014 original reporting is limited to a headline-level account",
+      " If a private event at a public landmark starts telling people who can and can't stay, who's actually in charge of that space?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/world/article/eiffel-tower-closed-in-row-over-women-removed-for-hindu-group/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Study reveals how toilet aerosols reach the breathing zone when you flush. Aerosols were",
+    "angle": "This is the ultimate 'wait, WHAT' lifestyle fact - everyone flushes multiple times a day and has no idea they're basically breathing a tiny toilet mist cloud. Instant gross-out, instant debate about who in the house actually does this.",
+    "bullets": [
+      " New study maps exactly how toilet aerosols travel up into your breathing zone when you flush",
+      " Airborne particles stay suspended for at least 20 seconds after the flush",
+      " Researchers' bottom-line recommendation: close the lid before flushing",
+      " Applies to any un-lidded flush - public restrooms included, where lids are rarely even an option",
+      " Be honest - do you actually close the lid before you flush, or are you today's guilty party? ON-AIR BIT BREAKDOWN - Step 1: The Lid Poll - 60 seconds, kick off the segment -> Ask listeners to text in 'LID' or 'NO LID' - hosts guess which one wins before revealing - Step 2: Co-Host Cross-Examination - 2 minutes, straight after the poll -> Each host has to publicly admit whether they close the lid at home - loser gets mocked for the rest of the segment - Step 3: Public Bathroom Reality Check - 1 minute, wrap-up -> Riff on the fact that most public restrooms don't even have lids - so what are we supposed to do, hold our breath?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Snoop Dogg wants to pay someone US$10K a month to taste ice cream",
+    "angle": "A literal dream job from a hip-hop legend is the kind of absurd, shareable headline that writes its own segment \u2014 instant \"what's the application process\" energy.",
+    "bullets": [
+      " Snoop Dogg reportedly wants to pay someone $10,000 a month just to taste ice cream",
+      " Story is circulating out of r/nottheonion, the internet's home for real headlines too weird to believe",
+      " No word yet on job requirements \u2014 freezer tolerance presumably a plus",
+      " What's the job you'd want Snoop Dogg to invent for you at $10K a month?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://globalnews.ca/news/12049644/snoop-dogg-wants-to-pay-someone-us10k-month-taste-ice-cream/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Kentucky man with a meat allergy was craving a burger. So he got into ostrich farming",
+    "angle": "It's the kind of headline that stops you mid-scroll - a guy allergic to meat solves his burger cravings by literally becoming an ostrich farmer, since ostrich meat doesn't trigger the same allergic reaction as beef.",
+    "bullets": [
+      " A Kentucky man with a meat allergy couldn't shake his craving for a burger",
+      " His solution wasn't a veggie patty - he got into ostrich farming",
+      " Story surfaced on Reddit's r/nottheonion, the internet's home for real headlines that sound fake",
+      " What's the most extreme thing you'd do to eat your favorite food again?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://abcnews.com/US/wireStory/kentucky-man-meat-allergy-craving-burger-ostrich-farming-136237552",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "NHL 27 Is Using AI-Generated Voiceover for In-Game Commentators, John Buccigross",
+    "angle": "EA's NHL 27 is reportedly using AI-generated voiceover for its in-game commentary, according to ESPN's John Buccigross \u2014 another flashpoint in the AI-vs-real-broadcasters debate that's been creeping into sports, media, and now gaming.",
+    "bullets": [
+      " NHL 27, the upcoming hockey video game, is reportedly using AI-generated voiceover for its in-game commentators.",
+      " It's sparking discussion in gaming/tech circles (via Reddit r/technology) about AI replacing voice talent in sports games.",
+      " Would you even notice if the announcer calling your video game was AI \u2014 and should real broadcasters be worried?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ign.com/articles/nhl-27-is-using-ai-generated-voiceover-for-in-game-commentators-john-buccigross-says",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Anthropic close to awarding Morgan Stanley and Goldman top roles in $2tn IPO",
+    "angle": "The AI boom just went full Wall Street \u2014 Anthropic is reportedly lining up Morgan Stanley and",
+    "bullets": [
+      " Anthropic is reportedly close to picking its lead banks for an upcoming IPO",
+      " Morgan Stanley and Goldman Sachs are said to be landing the top roles",
+      " A $2 trillion price tag for a company that didn't exist a few years ago \u2014 genius bet on the future, or AI bubble math?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ft.com/content/3c9d0a82-643b-44ef-96a0-74a00e3c72ba?syn-25a6b1a6=1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "8th-grade dropout accused of blowing $240M Bitcoin haul on Ferraris and $4M club nights",
+    "angle": "A massive crypto heist case with a wild human-interest twist \u2014 the accused never finished 8th grade but allegedly torched a quarter-billion dollars on supercars and club nights, the kind of rags-to-riches-to-handcuffs story that writes its own segment.",
+    "bullets": [
+      " Accused is an 8th-grade dropout now facing charges over a $240 million Bitcoin haul.",
+      " Prosecutors say the money went toward Ferraris and other luxury cars.",
+      " Reports cite single club nights costing up to $4 million.",
+      " Case underscores how untraceable crypto wealth can fuel eye-popping spending sprees.",
+      " If you suddenly had $240M with no paper trail, what's the first reckless thing you'd actually buy? X/Twitter @NYPost (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2097297643311370303",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Paul Schrader Would Rather Use AI Than Just Not Be Racist https://t.co/CKYgy5LJ7P",
+    "angle": "A legendary Hollywood name picking AI over accountability is exactly the kind of quote that blows up online \u2014 it taps two hot-button topics, AI ethics and race in Hollywood, at once.",
+    "bullets": [
+      " Paul Schrader \u2014 the screenwriter behind Taxi Driver and director of First Reformed \u2014 is getting dragged over a headline-grabbing quote about choosing AI over addressing racism criticism.",
+      " Cheap shot at a legend, or is Schrader actually saying the quiet part out loud? X/Twitter @Gizmodo (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Gizmodo/status/2097085193018351619",
+    "score": "",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-07",
     "slot": "pm",
     "category": "THE LIST",
