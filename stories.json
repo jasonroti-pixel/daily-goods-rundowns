@@ -1,5 +1,546 @@
 [
   {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Taylor Swift and Travis Kelce\u2019s surprising plans for where they\u2019ll live revealed after getting",
+    "angle": "The internet's favorite newlyweds are apparently keeping two homes instead of picking one - a real \"wait, how does that even work\" moment for the most-watched couple in the country.",
+    "bullets": [
+      " Taylor Swift and Travis Kelce tied the knot at Madison Square Garden on July 3",
+      " Report says they're currently splitting time rather than merging into one home base",
+      " Would you ever do a split-home marriage if you could afford it, or is that just asking for trouble? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/09/entertainment/taylor-swift-and-travis-kelces-surprising-plans-for-where-theyll-live-revealed-after-getti",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Coinbase's Brian Armstrong says philanthropy is 'net negative' on world",
+    "angle": "The billionaire CEO of one of the biggest crypto companies on the planet just torched the idea of charity itself, and the internet is not having it - that's a debate two hosts can run with instantly.",
+    "bullets": [
+      " Brian Armstrong, CEO of Coinbase, claims philanthropy is 'net negative' on the world.",
+      " Armstrong leads one of the largest cryptocurrency exchanges in the world, so this isn't some random hot take - it's coming from a guy worth billions.",
+      " Is a tech billionaire trashing charity a bold contrarian take or just a convenient excuse not to give?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.billionaires.africa/2026/09/08/coinbases-billionaire-founder-brian-armstrong-says-philanthropy-is-net-negative/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Flock worker calls police on InvestigateTV reporter filming public camera installation",
+    "angle": "A journalist covering Flock Safety's controversial camera rollout got reported to police for filming a public installation - which is basically proving the story's point about surveillance overreach in real time.",
+    "bullets": [
+      " An InvestigateTV reporter was filming the installation of a Flock Safety camera in a public space.",
+      " A Flock worker on site called the police on the reporter for filming.",
+      " A surveillance company calling the cops on someone for... watching them install surveillance cameras - can it get more on-the-nose than that?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Supreme Court forces TV stations to sell more election ads at steep discounts | Republican",
+    "angle": "This hits every swing-state mailbox and TV break for the next election cycle - the Supreme Court just ruled TV stations have to sell campaigns airtime at their rock-bottom rate, which changes how every political ad gets funded and aired nationwide.",
+    "bullets": [
+      " TV stations must now offer political parties their lowest existing ad rate, not a special (higher) political rate.",
+      " Cheaper political ads means more of them - are you ready for your local news breaks to be wall-to-wall campaign spots?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "An Anthropic researcher just quit, saying OpenAI and Anthropic are 'gambling with our",
+    "angle": "When someone walks away from a company like Anthropic and says the quiet part out loud, that's a story - this taps into the real anxiety people have about AI moving faster than anyone can control it.",
+    "bullets": [
+      " A researcher who worked at Anthropic has resigned from the company.",
+      " In their resignation, they said OpenAI and Anthropic are \"gambling with our lives.**\"",
+      " Do you trust the companies building AI to actually put safety over speed - or is it all talk?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.businessinsider.com/anthropic-researcher-quits-over-ai-safety-concerns-2026-9",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Trump bans Canadian products from U.S. government contracts",
+    "angle": "This is a real escalation in the U.S.-Canada trade fight \u2014 locking an entire country's products out of federal contracts isn't a symbolic jab, it's policy with teeth, and it's the kind of cross-border story that hits different for a North American audience listening on both sides of the line.",
+    "bullets": [
+      " President Trump is banning Canadian-made products from U.S. federal government contracts",
+      " Canadian companies that rely on U.S. government business are the ones caught in the middle",
+      " Is this smart leverage or a self-inflicted wound that just makes everything cost more?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/trump-bans-canadian-products-from-us-government-contracts-live-updates-here/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Trump signs executive order to ban certain Canadian goods, including alcohol",
+    "angle": "A new executive order targeting Canadian goods, alcohol included, is a real shot across the bow in US-Canada trade relations \u2014 and with a North American audience, this hits wallets and grocery/liquor store shelves on both sides of the border.",
+    "bullets": [
+      " President Trump signed an executive order banning certain Canadian goods from entering the U.S.",
+      " Alcohol is specifically named among the targeted imports",
+      " Details on the full scope of the ban and which other goods are affected are still emerging",
+      " Would you notice \u2014 or care \u2014 if Canadian beer and whisky vanished from store shelves tomorrow?"
+    ],
+    "debate": "updates-here/?cid=sm%3Atrueanthem%3Actvnews%3Atwittermanualpost&taid=6aa09949b999a400012751f2&utm_campaign=trueAnthe",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/trump-signs-executive-order-to-ban-certain-canadian-goods-including-alcohol-live-",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "\u2018South Park\u2019 Changes Name to \u2018South America\u2019 as Creators Roast Apple and Google for",
+    "angle": "South Park's creators are dragging two of the biggest tech companies on earth for bending the knee on a Trump-driven map name change - and they did it by renaming the show itself. It's satire, politics, and Big Tech all in one gag, which is exactly the mix that gets people talking.",
+    "bullets": [
+      " South Park rebranded itself to \"South America\" as part of the stunt.",
+      " Creators Trey Parker and Matt Stone are calling out Apple and Google directly.",
+      " Should Apple and Google actually be updating maps every time a politician wants a rename - or is that exactly what South Park is mocking?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/south-park-south-america-trump-lake-america-1236854908/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "EU and Canada Plan Far-Reaching Alliance to Strengthen Partnership",
+    "angle": "EU and Canada Plan Far-Reaching Alliance to Strengthen Partnership",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-08/eu-and-canada-plan-far-reaching-alliance-to-strengthen-partnership?accessTo",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Canada in talks to sell nuclear-power technology, LNG to Poland",
+    "angle": "Canada's reportedly in talks to sell nuclear-power technology and LNG to Poland - a sign Canada wants in on Europe's energy shakeup as countries look to ditch Russian energy and go nuclear again.",
+    "bullets": [
+      " Talks reportedly involve nuclear-power technology and LNG exports",
+      " Fits Canada's bigger push to become a major energy exporter beyond just the US",
+      " Should Canada be racing to sell energy tech to Europe, or focused on fixing energy costs at home first?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://financialpost.com/commodities/energy/canada-in-talks-sell-nuclear-power-lng-poland",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "'Hunted,' 'shattered,' 'scared': How victims say Canada's most prolific voyeur has altered",
+    "angle": "CBC just dropped a months-long investigation into the largest voyeurism case ever reported in Canada, and the victim accounts are gutting - this is the kind of story that makes people rethink their own sense of privacy and safety.",
+    "bullets": [
+      " CBC News spent months combing through court records and talking directly to victims for this investigation.",
+      " It's being described as the largest voyeurism case ever reported in Canada.",
+      " Victims use words like 'hunted,' 'shattered,' and 'scared' to describe the aftermath.",
+      " Survivors say the case has made it hard to simply get back to normal life.",
+      " This is a real gut-check for listeners - how would you even know if someone was watching you, and what would you do about it?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/voyeur-victim-impact-9.7329977?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "The biggest dinosaurs couldn't sit on their eggs. Scientists say they did this instead",
+    "angle": "Scientists just figured out how the biggest dinosaurs on Earth managed to hatch babies without ever sitting on a nest - and the eggs turned up somewhere way colder than anyone expected.",
+    "bullets": [
+      " They were found in a surprisingly cool climate, far from the equator, not the warm tropics you'd expect.",
+      " These dinosaurs were simply too big to physically sit on their eggs like a bird would.",
+      " Microscopic evidence in the shells reveals another method they used to keep the eggs warm enough to hatch.",
+      " If you were a multi-ton dinosaur who couldn't sit on your own eggs, how would you keep them warm?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/science/titanosaur-eggs-9.7336841?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Ben Shelton beats defending champ Carlos Alcaraz in U.S. Open match that ends after 3:30",
+    "angle": "The defending champ just got knocked out in a five-set marathon that didn't end until after 3:30 in the morning \u2014 it's the kind of late-night sports drama that gets people checking scores over coffee.",
+    "bullets": [
+      " Ben Shelton beat defending champion Carlos Alcaraz at the U.S. Open",
+      " It didn't wrap up until 3:33 a.m. Wednesday",
+      " Would you stay up till 3:30 a.m. to watch a match live, or catch the highlights in the morning?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/sports/tennis/us-open-shelton-alcaraz-marathon-9.7336775?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Lori Loughlin Files for Divorce From Estranged Husband Mossimo Giannulli Nearly 1 Year",
+    "angle": "Nearly a year after news broke they'd split, Lori Loughlin is finally filing the paperwork to end her marriage to Mossimo Giannulli \u2014 a couple who weathered the Varsity Blues scandal together, only to call it quits after everything settled down.",
+    "bullets": [
+      " Lori Loughlin has officially filed for divorce from Mossimo Giannulli",
+      " Why do you think some couples make it through a huge public scandal together only to split once the dust settles?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.usmagazine.com/celebrity-news/news/lori-loughlin-files-for-divorce-from-mossimo-giannulli/?utm_medium=lBQMjkx&utm",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "'South Park' creators Trey Parker & Matt Stone announce they're changing the show's",
+    "angle": "Trey Parker and Matt Stone just torched their own network on the way out the door, dragging Apple, Google, and Paramount's Skydance deal into one savage joke about corporate cowardice \u2014 classic South Park chaos that doubles as media-industry shade.",
+    "bullets": [
+      " Trey Parker & Matt Stone announced the show is being renamed \"SOUTH AMERICA\"",
+      " They say it's \"inspired by the bravery & patriotism of Apple & Google\" \u2014 dripping sarcasm at two tech giants",
+      " They specifically thank parent company Paramount, calling it \"a Skydance Capitulation\" \u2014 a jab at the Paramount-Skydance merger",
+      " Is this genius corporate trolling from South Park's creators, or has the joke about 'capitulation' gotten a little too real for a show that used to be untouchable?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/south-park-name-change-trump-season-29/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Celebrity makeup artist Ernesto Casillas on Pink: \u201cCosplayed as feminist while tearing",
+    "angle": "A celebrity's longtime glam squad member publicly calling her out for hypocrisy is exactly the kind of insider tea that gets an entertainment segment buzzing - it's a former ally turning, not a random troll.",
+    "bullets": [
+      " Makeup artist Ernesto Casillas posted the claim to social media, calling out Pink by name",
+      " He accuses her of having \"cosplayed as a feminist\" while allegedly undercutting other female artists",
+      " Story is circulating via r/fauxmoi on Reddit, a hub for celebrity gossip discourse",
+      " Does it hit different when the receipts come from someone who used to be in her inner circle?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/l9zbg10s7eoh1.jpeg",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Matt Bernstein drags P!nk for filth after her unhinged Zionist posts regarding Macklemore",
+    "angle": "A celebrity callout account going after a music A-lister over Israel-Gaza commentary is exactly the kind of pop-culture-meets-politics collision that blows up group chats \u2014 especially when it drags Macklemore and Ed Sheeran into the mess too.",
+    "bullets": [
+      " Matt Bernstein, the internet commentator known for calling out celebrities, publicly went after P!nk over a string of posts about Zionism.",
+      " Where's the line for you \u2014 should pop stars stay out of Israel-Palestine entirely, or is silence its own statement?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/6ppbvhwdcboh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\"Musk\": The New Documentary Thrashing a Narcissistic, Megalomaniacal Elon Musk",
+    "angle": "A documentary tearing into one of the most polarizing billionaires on the planet just got a rapturous reception at one of film's biggest stages \u2014 that's a guaranteed hot-take generator, especially with Musk's every move already a lightning rod.",
+    "bullets": [
+      " A new documentary simply titled \"Musk\" just premiered at the Venice Film Festival",
+      " Early word from critics paints the film as a takedown, framing him as narcissistic and megalomaniacal",
+      " Reports say it's premiering to rave reviews",
+      " Is this fair reporting on a public figure, or just Hollywood piling on the internet's favorite villain?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tvfandomlounge.com/musk-documentary-thrashing-narcissistic-megalomaniacal-elon-gets-rave-reviews/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Teaser trailer for Luca Guadagnino\u2019s 'Artificial' which was dropped by Amazon MGM",
+    "angle": "A studio getting cold feet over a film that roasts a real, still-very-powerful tech CEO is exactly the kind of Hollywood-meets-Silicon-Valley drama that gets people talking - especially with AI already such a lightning rod.",
+    "bullets": [
+      " Amazon MGM Studios reportedly dropped it over its unflattering portrayal of OpenAI CEO Sam Altman and the tech industry",
+      " Neon - the studio behind buzzy hits like 'Parasite' and 'Anora' - swooped in and acquired the rights",
+      " Should a studio ever kill a movie because it makes a real billionaire look bad, or is that exactly the kind of movie we need more of?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/v9a9gv9scboh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Truth behind Meghan Markle\u2019s \u2018The Gentlemen\u2019 role: \u2018She took it as an offer \u2014 it was helpful",
+    "angle": "A casual chat with a casting director apparently got lost in translation, and now the internet's picking apart whether Meghan overstated her Hollywood connections \u2014 classic royal-gossip catnip.",
+    "bullets": [
+      " Meghan Markle reportedly never actually had a role in Guy Ritchie's series \"The Gentlemen\"",
+      " Sources say she misread a casual conversation with a casting director as a real offer",
+      " Is this an honest mix-up or a classic case of stretching the truth for a headline?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/09/hollywood/truth-behind-meghan-markles-the-gentlemen-role-she-took-it-as-an-offer-it-was-helpful-in-t",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Map Shows Cities Deploying Axon Cameras as Flock Backlash Grows",
+    "angle": "License plate reader cameras from companies like Flock and Axon have quietly spread into thousands of neighborhoods, and now there's public backlash and a map tracking exactly where they're going up - that's a real 'wait, is one on MY street' moment for listeners.",
+    "bullets": [
+      " A map is circulating showing cities adding Axon surveillance cameras",
+      " It comes as backlash builds against Flock Safety, the license-plate-reading camera company already installed in thousands of communities",
+      " Would you want to know if your street already has one of these cameras - and would it change how safe you feel?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.newsweek.com/map-shows-cities-deploying-axon-cameras-flock-backlash-grows-12415569",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "A Fourth Stella Lefty Ripoff Accusation Has Hit The Internet",
+    "angle": "When one copycat accusation pops up online, it's noise \u2014 but a fourth one against the same name means people are starting to build a pattern, and that's exactly the kind of pile-on that gets a comment section (and our phone lines) going.",
+    "bullets": [
+      " At what number of accusations do you stop calling it 'coincidence' and start calling it 'a pattern'?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://stereogum.com/2510571/a-fourth-stella-lefty-ripoff-accusation-has-hit-the-internet/news",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "LG TVs caught spying even when offline or on standby - The Verge",
+    "angle": "Tech channel Gamers Nexus just found LG smart TVs phoning home even in standby mode, reviving the 'never connect your smart TV to Wi-Fi' debate that everyone with a flatscreen needs to hear.",
+    "bullets": [
+      " Investigation from Gamers Nexus flags LG smart TVs collecting and sending data even when the TV is technically off or sitting on standby",
+      " Do you leave your smart TV connected to Wi-Fi, or have you already unplugged it from the internet out of paranoia?"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "EV batteries last longer than drivers feared: Study suggests used vehicles can retain about",
+    "angle": "Range anxiety and battery-degradation fears are one of the biggest reasons people hesitate to buy an EV - new data suggesting batteries hold up way better than expected over 150,000 km could actually change buying decisions.",
+    "bullets": [
+      " Study found used EV batteries retain about 90% of original usable capacity even after 150,000 km of driving",
+      " Battery degradation has long been one of the top fears cited by would-be EV buyers",
+      " Findings challenge the common assumption that EV batteries fade fast and need costly replacement within a few years",
+      " Would this number alone be enough to get you to buy an EV - or do you still not trust it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Scientists have created concrete using treated human waste, and the resulting material was",
+    "angle": "It sounds like a punchline, but scientists say treating human waste and mixing it into concrete makes the stuff nearly half stronger than the regular kind - a weird-science story with real 'wait, what?' appeal for a general audience.",
+    "bullets": [
+      " Researchers created concrete using treated human waste as an ingredient",
+      " Scientists say the process could reduce waste while building materials",
+      " Would you live in a house built with 'poop concrete' if it meant a stronger, greener building?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/scientists-are-making-concrete-with-human-poop-and-it-gets-42-stronger",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Menopause is frequently missing from women\u2019s electronic health records, according to a",
+    "angle": "A massive new study found menopause is basically a blind spot in medical records \u2014 which matters because it means doctors could be missing a huge piece of the picture when treating women's health. It's a story a lot of listeners going through it themselves will instantly relate to.",
+    "bullets": [
+      " Researchers found menopause status is frequently missing from women's electronic health records.",
+      " Ladies, does your doctor's chart even reflect what your body's actually going through right now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.cuanschutz.edu/news-stories/menopause-is-missing-from-most-electronic-health-records-study-finds",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Three critically endangered American Red Wolf pups born at the Saint Louis Zoo were",
+    "angle": "There are fewer than 40 Red Wolves left in the wild, so three tiny pups getting smuggled into a wild den and accepted by a wolf mom is basically a species-saving win - and it's the kind of pure good-news story that's rare these days.",
+    "bullets": [
+      " Three critically endangered American Red Wolf pups were born at the Saint Louis Zoo",
+      " They were fostered into a wild wolf family in North Carolina",
+      " There are fewer than 40 Red Wolves left in the wild total",
+      " Trail cameras later confirmed all three pups are alive, thriving, and were accepted by their wild mother",
+      " With less than 40 left in the wild, three little pups just got a real shot at keeping the species going."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://stlzoo.org/news/saint-louis-zoo-american-red-wolf-pups-released-to-a-wild-wolf-family-in-north-carolina",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "She bought a Maine island to stop clear-cutting; 90 years after Audubon opened its first",
+    "angle": "It's the ultimate 'one person can actually change things' story \u2014 a woman's stand against clear-cutting turned into nearly a century of conservation work, and that kind of payoff is exactly the feel-good note to end the show on.",
+    "bullets": [
+      " A woman bought the island specifically to stop clear-cutting on it",
+      " Audubon opened its very first camp there \u2014 and that was 90 years ago",
+      " One person, one purchase, 90 years of ripple effects \u2014 that's the kind of legacy most people never get to leave."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://timesofindia.indiatimes.com/world/us/she-bought-a-maine-island-to-stop-clear-cutting-90-years-after-audubon-opened-its-first-",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Rwanda named 22 baby mountain gorillas at its annual conservation ceremony as the",
+    "angle": "It's the ultimate feel-good conservation story \u2014 a species once on the brink now has more than 1,000 members in the wild, and Rwanda celebrates it every year like a royal baby announcement.",
+    "bullets": [
+      " Rwanda held its annual ceremony naming 22 baby mountain gorillas",
+      " There are now more than 1,000 mountain gorillas living in the wild worldwide",
+      " Name one of these baby gorillas live on air \u2014 what's the most ridiculous name you'd give it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ukhrultimes.com/rwanda-names-22-mountain-gorillas-in-annual-ceremony/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
+    "angle": "The idea of a military AI engineered to be more compliant than cautious is exactly the kind of sci-fi-meets-real-life headline that gets people talking about where the guardrails should be.",
+    "bullets": [
+      " Report says the Pentagon approached OpenAI about building AI systems designed to rarely refuse requests",
+      " Raises the core tension between military efficiency and built-in AI safety refusals",
+      " Comes amid growing scrutiny of how AI companies balance government contracts with safety commitments",
+      " Should AI built for the military be allowed to say 'no' at all, or is that the whole point of having a human in the loop?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/?utm_content=buffer1be7e&utm_medium=buffer&utm_source",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Wrongly jailed Florida woman a victim of police abuse of Flock: Attorney",
+    "angle": "A Florida woman says she was wrongly locked up because police misused a Flock Safety license-plate camera network \u2014 the same tech now watching drivers in cities all over North America, which makes this a privacy story way bigger than one city.",
+    "bullets": [
+      " A Florida woman was jailed despite being innocent, according to her own attorney.",
+      " Her lawyer is blaming the wrongful arrest directly on police misuse of Flock Safety camera data.",
+      " Flock's automated license-plate readers are used by police departments across the U.S. to track vehicle movements in real time.",
+      " Are you okay with cops scanning every plate on the road if it means innocent people occasionally end up in handcuffs?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.wfla.com/news/florida/wrongly-jailed-woman-a-victim-of-police-abuse-of-flock-attorney/",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Scientists found 66-million-year-old blood vessels in the broken rib of the largest known T.",
+    "angle": "Scientists found 66-million-year-old blood vessels in the broken rib of the largest known T. rex and they show the dinosaur had already started healing the injury",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.discovermagazine.com/66-million-year-old-mineralized-blood-vessels-reveal-how-the-largest-known-t-rex-began-healing-",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-08",
     "slot": "pm",
     "category": "THE LIST",
