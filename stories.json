@@ -1,6 +1,586 @@
 [
   {
     "date": "2026-09-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Gas car sales fell 40% in August in China.",
+    "angle": "China is the biggest car market on the planet, and gas engines are losing ground there at a stunning clip \u2014 this is a real-time preview of how fast the EV switch can happen once it tips.",
+    "bullets": [
+      " China is the world's largest auto market, so a swing this size doesn't stay local.",
+      " If gas cars are collapsing that fast in China, how many years out is that shift for North American driveways?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://carnewschina.com/2026/09/08/gas-car-sales-fell-40-in-august-in-china-charts/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "California city canceled Flock, removed its cameras, then found the company had put some",
+    "angle": "A California city said no to Flock's license-plate cameras and pulled them out, only to find the company quietly reinstalled some without permission - a real gut-check on who actually controls surveillance tech in your neighborhood.",
+    "bullets": [
+      " A California city voted to cancel its contract with Flock Safety and physically removed the company's license-plate reading cameras.",
+      " Flock Safety cameras are used by thousands of police departments and cities across North America, so the trust question here extends way beyond one city.",
+      " If a company can reinstall surveillance cameras after you fire them, who's really in charge - the city or the tech vendor?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/113769-california-city-canceled-flock-removed-cameras-found-company.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "White House Officially Removes Racist 'Tetris' Clone After Legal Threat",
+    "angle": "White House Officially Removes Racist 'Tetris' Clone After Legal Threat",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.polygon.com/white-house-racist-tetris-clone-removed-from-website/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Chinese scientists propose turning abandoned coal mines into underground farms",
+    "angle": "It's a wild, very 'is this the future' story - Chinese researchers think the fix for played-out coal mines is turning them into underground farms instead of just sealing them up, and that kind of only-in-2026 headline is exactly the thing that makes people stop scrolling.",
+    "bullets": [
+      " Chinese scientists are floating a plan to convert abandoned coal mines into underground farming operations",
+      " China has an enormous number of depleted coal mines sitting unused, which is what's driving the idea",
+      " Would you eat lettuce grown hundreds of feet underground in an old coal mine - or does that feel one step too sci-fi for your salad?"
+    ],
+    "debate": "arms?utm_source=Reddit&utm_medium=Social",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.scmp.com/news/china/science/article/3366734/chinese-scientists-propose-turning-abandoned-coal-mines-underground-f",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Study predicts large disparities in access to food, water, and energy in 2050",
+    "angle": "A new study projects the wealth gap won't just be about bank accounts by 2050 \u2014 it'll be about who can actually afford to eat, drink, and keep the lights on, which hits home for anyone already feeling squeezed by grocery bills right now.",
+    "bullets": [
+      " In the poorest-hit regions, people could spend roughly 50% of their income just on food.",
+      " In those same regions, the richest might spend as little as 5% on food.",
+      " If half of every paycheck went straight to groceries, what's the first thing in your life that would have to go?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.mit.edu/2026/study-predicts-large-disparities-access-food-water-energy-2050-0908",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Europe\u2019s largest carbon capture facility opens at Yara Sluiskil in the Netherlands",
+    "angle": "This is now the largest carbon capture facility in Europe, landing right as the world argues over whether trapping carbon at the smokestack is a real climate fix or just an expensive way for industry to keep polluting.",
+    "bullets": [
+      " New facility just opened at Yara Sluiskil in the Netherlands",
+      " Being billed as Europe's largest carbon capture plant",
+      " Designed to trap CO2 emissions at the source before they reach the atmosphere",
+      " Is carbon capture the climate breakthrough we've been waiting for, or just a pricey excuse to keep the smokestacks running?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump bans Canadian products from U.S. government contracts",
+    "angle": "This isn't just diplomatic sniping \u2014 it's a real trade shot that could hit Canadian companies' bottom lines and reignite the whole 'are we still friends with our biggest trading partner' conversation.",
+    "bullets": [
+      " President Trump is moving to bar Canadian products from U.S. government contracts.",
+      " It lands as the latest flashpoint in the ongoing U.S.-Canada trade tension.",
+      " Does this feel like tough negotiating or a real rupture with our closest neighbor \u2014 and who ends up paying for it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/trump-bans-canadian-products-from-us-government-contracts-live-updates-here/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "\u2018South Park\u2019 Changes Name to \u2018South America\u2019 as Creators Roast Apple and Google for",
+    "angle": "South Park is dragging Apple and Google into its latest political satire, mocking the tech giants for bowing to Trump-era map renaming pressure \u2014 a pop-culture jab at a real national controversy over who gets to rename geography.",
+    "bullets": [
+      " South Park rebranded itself 'South America' in its latest episode/promo stunt",
+      " South Park's creators have a track record of turning real political flashpoints into show-name-level gags",
+      " Should tech companies just cave and update maps every time a politician wants a name changed, or is that a bridge too far?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/south-park-south-america-trump-lake-america-1236854908/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "A Grade 12 student in New Brunswick raised $35,000 and led a 16-panel solar project that",
+    "angle": "A high schooler out-hustled a school board's budget process \u2014 feel-good, wholesome, and it plays into the bigger climate/energy conversation without being preachy about it.",
+    "bullets": [
+      " A Grade 12 student in New Brunswick raised $35,000 for the project",
+      " He led installation of a 16-panel solar array",
+      " What's the most impressive thing you pulled off in high school \u2014 because it wasn't powering the gym."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/new-brunswick/solar-panels-tantramar-regional-high-9.7176608",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Alberta separatist leader Rath faces $109M debt claim from US investors",
+    "angle": "The guy leading the charge to convince Alberta to break away from Canada is reportedly on the hook for over $109 million to American investors - the irony writes itself, and it's the kind of story that makes hosts ask \"wait, how do you even owe that much?\"",
+    "bullets": [
+      " Rath, a leading voice in the Alberta separatist movement, is facing a debt claim of roughly $109 million",
+      " How do you sell Albertans on 'independence' when you can't get your own finances independent?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://globalnews.ca/news/12049115/alberta-separatist-leader-rath-faces-109m-debt-claim-from-us-investors/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "New Zealand Signals Imminent Trade Announcement with Canada",
+    "angle": "A New Zealand-Canada trade announcement is reportedly coming down the pipe, and any cross-border trade news lands differently right now given how touchy trade relationships have been globally - worth flagging even before the details drop.",
+    "bullets": [
+      " New Zealand officials are signaling a trade-related announcement involving Canada is coming soon",
+      " Specific details of the deal haven't been made public yet",
+      " We don't know what's in this deal yet - but does a New Zealand trade announcement even move the needle for Canadians, or is this background noise?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.canzukinternational.com/2026/09/new-zealand-signals-imminent-trade-announcement-with-canada.html?fbclid=IwdGRjc",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "EU and Canada Plan Far-Reaching Alliance to Strengthen Partnership",
+    "angle": "With US trade relations feeling shaky under Trump-era tariffs, Canada looking to Europe for a deeper partnership is a pretty clear signal about who Ottawa trusts right now - and it's a storyline that plays into the bigger 'Canada diversifying away from the US' conversation.",
+    "bullets": [
+      " Reports point to a new, far-reaching alliance being planned between the EU and Canada",
+      " Framed as an effort to strengthen the partnership between the two",
+      " Comes amid a broader push from Ottawa to lean less on the US for trade and security",
+      " Is Canada finally hedging its bets away from the US, or is this just diplomatic paperwork?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-08/eu-and-canada-plan-far-reaching-alliance-to-strengthen-partnership?accessTo",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada in talks to sell nuclear-power technology, LNG to Poland",
+    "angle": "Canada's reportedly in talks to export both nuclear tech and LNG to Poland \u2014 a sign Canada wants to be a serious global energy player, not just a supplier to the US.",
+    "bullets": [
+      " Canada and Poland are reportedly in early talks over exporting nuclear power technology",
+      " No signed deal or dollar figures yet \u2014 this is still described as talks, not a done deal",
+      " Should Canada be pushing harder to become a go-to energy exporter on the world stage, nuclear and gas alike?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://financialpost.com/commodities/energy/canada-in-talks-sell-nuclear-power-lng-poland",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada, U.K., France to ban trade of goods from Israeli settlements in occupied West Bank",
+    "angle": "Canada is lining up with two major allies to squeeze Israeli settlements economically, a move that adds real diplomatic weight and could ripple into trade and foreign policy debates at home.",
+    "bullets": [
+      " Canada, the U.K., and France will ban trade of goods from Israeli settlements in the occupied West Bank.",
+      " Britain says it will target companies and individuals that support settlement expansion.",
+      " Is this Canada finally taking a real stand, or just symbolic politics that won't change anything on the ground?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/canada-uk-france-ban-goods-israeli-settlements-9.7335551?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Karol G, Judeline &amp; rusowsky\u2019s \u2018BbY WOW\u2019 Blasts to No. 1 on Billboard Global Charts",
+    "angle": "Karol G links up with rising names Judeline and rusowsky on 'BbY WOW,' and it just knocked its way to No. 1 on Billboard's Global Charts \u2014 a certified global takeover moment worth flagging for listeners into the pop/Latin crossover scene.",
+    "bullets": [
+      " Karol G, Judeline and rusowsky teamed up on the track 'BbY WOW'",
+      " It's a three-way collab blending Karol G's star power with two buzzy up-and-comers",
+      " Have you even heard 'BbY WOW' yet, or is this the first you're hearing it's the biggest song on the planet right now? X/Twitter @Billboard (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2097418493436043717",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Review: This Elon Musk documentary is a chillingly forensic hatchet job ####I",
+    "angle": "A brand new Elon Musk documentary is getting buzz not for being flattering, but for being a brutal, detail-heavy takedown - and critics are still handing it four stars, which is exactly the kind of contradiction that gets a room talking.",
+    "bullets": [
+      " A new Elon Musk documentary is being reviewed as a \"chillingly forensic hatchet job\"",
+      " Despite the harsh framing, critics gave it a ####I rating",
+      " Would a takedown documentary change your opinion of Elon Musk, or are people's minds already made up?"
+    ],
+    "debate": "https://www.telegraph.co.uk/films/2026/09/08/musk-review-documentary/?WT.mc_id=tmgoff_reddit&accesscontrol=facebookchannel_open",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Nick Offerman Calls Out Ben Shapiro For \u201cRampant Homophobia\u201d In His 'Last of Us'",
+    "angle": "A beloved actor going after a major political commentator by name is instant celebrity-feud gold, and it reopens the whole 'should critics separate politics from a TV episode' debate.",
+    "bullets": [
+      " Nick Offerman fired back at Ben Shapiro over his criticism of *The Last of Us*",
+      " Offerman accused Shapiro of \"rampant homophobia\" in his review of the show",
+      " Offerman said he's \"embarrassed for his reading comprehension\"",
+      " Should actors be clapping back at political pundits over how they review a TV show, or should they just let the work speak for itself?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/nick-offerman-blasts-ben-shapiro-homophobia-last-of-us/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "James Bond 26 writer says new actor is officially cast",
+    "angle": "Bond fans have been in casting-rumor purgatory for years, so any word from someone actually inside the writers' room is instant clickbait \u2014 this is the kind of \"who is it?!\" mystery that gets phone lines lighting up.",
+    "bullets": [
+      " A writer attached to the next James Bond film says the new 007 has been officially cast",
+      " No name has been confirmed publicly yet \u2014 the identity is still under wraps",
+      " Call in right now with your pick for the next Bond \u2014 who ya got?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.independent.co.uk/arts-entertainment/films/news/james-bond-26-actor-who-jack-lowden-b3046418.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'South Park' creators Trey Parker & Matt Stone announce they're changing the show's name",
+    "angle": "Trey Parker and Matt Stone just torched their own network on X, framing a fake rebrand as a jab at Apple, Google, and Paramount for folding under pressure - classic South Park trolling that doubles as real corporate shade.",
+    "bullets": [
+      " Creators Trey Parker & Matt Stone announced the show is \"changing the name of South Park to SOUTH AMERICA\"",
+      " They said it was \"inspired by the bravery & patriotism of Apple & Google\" - dripping with sarcasm",
+      " They singled out parent company Paramount, calling it a \"Skydance Capitulation\"",
+      " No confirmation this is a real rebrand - reads as a satirical statement, very on-brand for the show",
+      " Is this just a troll tweet, or are Parker and Stone actually trying to pick a fight with their own studio?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/south-park-name-change-trump-season-29/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Matt Bernstein drags P!nk for filth after her unhinged Zionist posts regarding Macklemore",
+    "angle": "P!nk waded into Israel-Palestine politics online and name-checked Macklemore and Ed Sheeran doing it - now commentator Matt Bernstein is dragging her for it, and the celebrity gossip internet is fully in its bag about it.",
+    "bullets": [
+      " Matt Bernstein publicly called out P!nk over what he's calling her 'unhinged' posts",
+      " Story is currently blowing up on r/fauxmoi, a hub for celebrity gossip and callouts",
+      " Should pop stars even wade into Israel-Palestine politics online - or does it always blow back?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/6ppbvhwdcboh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\"Musk\": The New Documentary Thrashing a Narcissistic, Megalomaniacal Elon Musk",
+    "angle": "A brutal, unauthorized-feeling look at Elon Musk just dropped at one of film's biggest stages and critics are already raving \u2014 that's a guaranteed reaction-bait clip for a guy who never stops making headlines anyway.",
+    "bullets": [
+      " It premiered at the Venice Film Festival, one of the most prestigious launchpads in film",
+      " Early reviews are described as \"rave\" \u2014 and the film reportedly paints Elon Musk as narcissistic and megalomaniacal",
+      " It's landing at a moment when Musk is already one of the most talked-about (and polarizing) figures on the planet",
+      " Is this a fair, overdue reckoning on Musk \u2014 or just Hollywood piling on the world's most convenient villain?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tvfandomlounge.com/musk-documentary-thrashing-narcissistic-megalomaniacal-elon-gets-rave-reviews/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Celebrity makeup artist Ernesto Casillas on Pink: \u201cCosplayed as feminist while tearing",
+    "angle": "A celebrity makeup artist just torched Pink's girl-power image online, and nothing gets a pop culture segment moving faster than an insider calling out a star's public persona as an act.",
+    "bullets": [
+      " Celebrity makeup artist Ernesto Casillas called out Pink directly in a since-circulating comment.",
+      " His quote: Pink \"cosplayed as feminist while tearing down fellow contemporaries her entire career.\"",
+      " Is Pink guilty of 'feminist cosplay,' or is this just an insider settling a score?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/l9zbg10s7eoh1.jpeg",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Australia to force social media platforms to allow users to opt out of algorithms",
+    "angle": "Australia's about to force platforms to let users switch off the algorithm feeding them content, putting a spotlight on the endless 'the app is choosing for me, not me' debate everyone quietly has.",
+    "bullets": [
+      " Australia is moving to require social media platforms to give users an opt-out from algorithmic feeds",
+      " Would you actually switch your feed back to chronological, or do you secretly like the algorithm knowing you better than you do?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/08/australia-social-media-algorithm-switch-off-opt-out-digital-duty-of-care",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Sony threatens to cut off customer support and pursue legal action over harassment as",
+    "angle": "PlayStation ditching physical discs was already a fight with gamers \u2014 now Sony's threatening to cut support and lawyer up over the harassment it's sparked, which turns a nerdy format debate into a real corporate-vs-customer showdown.",
+    "bullets": [
+      " Sony says it may cut off customer support and pursue legal action over harassment tied to the backlash.",
+      " Sony is moving forward with the no-disc decision anyway, despite facing several lawsuits over it.",
+      " Team physical-copy-forever or team all-digital \u2014 and does a company threatening its own customers change your answer?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/video-games/playstation/sony-threatens-to-cut-off-customer-support-and-pursue-legal-action-over-ha",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Analysis of 300 popular TikTok and Instagram posts tagged \u201chealthylifestyle, nutrition,",
+    "angle": "A new analysis of 300 viral TikTok and Instagram posts under #healthylifestyle and #cleaneating found a pattern of food rules, moral labeling of food, and body-based health standards that mirror orthorexia - the obsession with 'eating pure.' It's a story almost everyone in the audience can relate to since so many of us scroll this content daily without questioning it.",
+    "bullets": [
+      " Researchers combed through 300 popular posts tagged #healthylifestyle, #nutrition, and #cleaneating",
+      " Posts commonly pushed restrictive food rules - certain foods framed as 'good' or 'bad'",
+      " Content repeatedly linked health to appearance, not actual wellbeing",
+      " Pattern of ideals identified as consistent with orthorexia nervosa, an unhealthy obsession with 'clean' eating",
+      " Scroll your own following list right now - how many 'wellness' accounts are you following that low-key make you feel guilty about food?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.flinders.edu.au/blog/2026/09/08/eat-like-me-to-look-like-me/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "ESPN insider reveals receive shocking, Warriors\u2019 Jimmy Butler health update",
+    "angle": "Training camp is right around the corner, and any injury buzz around a Warriors star this early sets the tone for how their whole season gets covered.",
+    "bullets": [
+      " Are you buying into the Warriors' title window with Jimmy Butler, or is the injury history too much to ignore?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/08/sports/jimmy-butler-could-return-by-january-or-february/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "EV batteries last longer than drivers feared: Study suggests used vehicles can retain about",
+    "angle": "Range anxiety and 'the battery will die in a few years' fear is one of the biggest reasons people won't buy an EV - new data pushing back on that could actually move the needle for listeners cross-shopping their next car.",
+    "bullets": [
+      " New study finds used EVs retain about 90% of their original usable battery capacity",
+      " That's after racking up 150,000 km on the odometer - well into high-mileage territory",
+      " Runs counter to the common fear that EV batteries degrade fast and need pricey replacement",
+      " Would this number alone be enough to get you to switch to an EV, or is battery fear just the excuse and something else is really holding you back?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Study reveals how toilet aerosols reach the breathing zone when you flush. Aerosols were",
+    "angle": "This is the kind of gross-but-fascinating study that blows up because everyone flushes a toilet every single day - a new study says every flush sends an invisible cloud into the air you're breathing, and there's a dead-simple fix nobody does.",
+    "bullets": [
+      " Researchers found toilet aerosols reach your \"breathing zone\" - basically face height - every time you flush.",
+      " Those aerosols were found to stay suspended in the air for at least 20 seconds after flushing.",
+      " Researchers' recommendation is simple: close the lid before you flush.",
+      " Be honest: do you close the lid before you flush, or are we all guilty of just walking away?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "NYC Mayor Zohran Mamdani signed an executive order creating a first of its kind municipal",
+    "angle": "Mayor Mamdani signed an executive order creating a first-of-its-kind city office dedicated to helping private-sector workers organize - a feel-good, only-in-NYC story about government actually trying to help the little guy.",
+    "bullets": [
+      " NYC Mayor Zohran Mamdani signed an executive order creating a brand-new municipal office",
+      " It's described as a first of its kind office in the country",
+      " A city government office whose whole job is helping regular workers organize - love it or think it's overreach?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.politico.com/news/2026/09/07/mamdani-creates-office-to-help-private-sector-workers-organize-01066078",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Three critically endangered American Red Wolf pups born at the Saint Louis Zoo were",
+    "angle": "It's the rarest wolf species in the world getting a real shot at survival \u2014 a heartwarming, against-the-odds story that's tailor-made for ending the show on a high note.",
+    "bullets": [
+      " Three Red Wolf pups were born at the Saint Louis Zoo",
+      " They were fostered into a wild wolf family in North Carolina",
+      " There are fewer than 40 Red Wolves left in the wild, making them one of the most endangered species on the planet",
+      " Trail cameras later confirmed all three pups are alive, thriving, and were fully accepted by their new wild mother",
+      " Three zoo-born pups just became the wild's best hope for saving an entire species."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://stlzoo.org/news/saint-louis-zoo-american-red-wolf-pups-released-to-a-wild-wolf-family-in-north-carolina",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Robots take to Warsaw streets to protest rampant AI",
+    "angle": "It's the kind of headline that sounds fake but isn't \u2014 robots literally taking to the streets to protest artificial intelligence is peak 2026 irony and a perfect button for the show.",
+    "bullets": [
+      " Story surfaced on Reddit's r/nottheonion \u2014 the sub for real news that reads like satire.",
+      " If the robots are protesting AI, should we be more worried or less? ON-AIR BIT BREAKDOWN - Step 1: Picture the Picket Line - 30 seconds, quick riff -> Hosts imagine what a robot protest sign would actually say and read a few out loud. - Step 2: Pick a Side - 60 seconds -> Hosts debate: are the robots right to be worried about AI too, or is this just an algorithm eating itself?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.straitstimes.com/world/europe/robots-take-to-warsaw-streets-to-protest-rampant-ai",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Google maps entire brain and central nervous system of adult male fruit fly, software",
+    "angle": "Researchers built a full 3D map of every neuron in a fruit fly's brain and nervous system, and instead of stopping at science history, engineers immediately turned it into a video game engine \u2014 because of course they did.",
+    "bullets": [
+      " Software engineers wired it up to run the classic shooter Doom",
+      " It's also been made to play Super Mario 64",
+      " A bug brain can run Doom \u2014 so is this incredible science or just an excuse for engineers to prove Doom runs on literally anything?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/software/programming/google-maps-entire-brain-and-central-nervous-system-of-adult-male-fruit-fly-s",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
+    "angle": "The U.S. military reportedly asked OpenAI to build an AI system designed to rarely refuse requests - which is a wild flip from the safety guardrails we're used to hearing about, and it's got tech and defense circles buzzing about what exactly the Pentagon wants this thing to say 'yes' to.",
+    "bullets": [
+      " It raises immediate questions about military AI oversight and where the line gets drawn on refusals.",
+      " Feeds into the bigger ongoing story of Silicon Valley's deepening ties with the Department of Defense.",
+      " Should a military AI ever be built to say 'no' less - or is that exactly backwards?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/?utm_content=buffer1be7e&utm_medium=buffer&utm_source",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Unitree's humanoid robot fights person autonomously using new model",
+    "angle": "Unitree says its humanoid robot took on a person autonomously using a new \"world model,\" no joystick, no remote control \u2014 which is exactly the kind of real-world AI leap that makes people nervous and fascinated at the same time.",
+    "bullets": [
+      " Unitree demonstrated its humanoid robot fighting a person autonomously",
+      " Unitree says the demo proves the feasibility of large-scale deployment of world-model-driven humanoid robots",
+      " Cool tech milestone or the first sign robots don't need us to hold the controller anymore?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://interestingengineering.com/ai-robotics/humanoid-robot-learns-to-fight-autonomously",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-08",
     "slot": "am",
     "category": "THE LIST",
     "title": "8th-grade dropout accused of blowing $240M Bitcoin haul on Ferraris and $4M club nights",
