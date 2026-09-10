@@ -1,5 +1,615 @@
 [
   {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "New York\u2019s loneliest county ranked by number of sad singles \u2014 and it\u2019s bad news for The",
+    "angle": "A new study says the Bronx \u2014 home to Yankee Stadium, the Bronx Zoo, and 1.4 million people \u2014 is actually New York's loneliest county, which is a fun contradiction that plays into the bigger 'loneliness epidemic' conversation everyone's having right now.",
+    "bullets": [
+      " It's home to major hubs like Yankee Stadium and the Bronx Zoo \u2014 spots built for crowds, not solitude",
+      " Does population size even matter when it comes to loneliness, or can you feel isolated in the middle of 1.4 million people?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/10/us-news/nycs-loneliest-county-revealed-new-study/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Why \u2018uncomfortable\u2019 Sydney Sweeney approached prediction market to strip down for viral",
+    "angle": "A Hollywood A-lister fronting a prediction-market ad right before NFL kickoff is a wild crossover moment, and the fact Sweeney admits she felt \"uncomfortable\" doing it only fuels the buzz.",
+    "bullets": [
+      " Sydney Sweeney teamed up with prediction market Novig for a viral ad campaign.",
+      " Sweeney reportedly said she felt \"uncomfortable\" when she approached the brand about stripping down for the spot.",
+      " It's being called one of the more surprising celebrity pairings to come out of the prediction-market world this year.",
+      " Celebrities selling betting markets before kickoff - smart marketing or a line that shouldn't be crossed?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/10/sports/why-uncomfortable-sydney-sweeney-approached-prediction-market-to-strip-down-for-viral-ad/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Kimmel says his interview with James Talarico will NOT air on ABC tomorrow. Trump\u2019s FCC",
+    "angle": "A late-night host says government pressure is keeping an interview off broadcast TV entirely \u2014 that's a press-freedom flashpoint, not just showbiz gossip, and it lands right as the Kimmel-ABC saga keeps escalating.",
+    "bullets": [
+      " Jimmy Kimmel says his sit-down with Texas lawmaker James Talarico will NOT air on ABC",
+      " He claims Trump's FCC has threatened him personally, his show, ABC, and local affiliates",
+      " His line on it: **\"In the America we live now, that is the best that we can do until November.\"",
+      " Is this a host dodging censorship, or a host manufacturing a martyr moment \u2014 and does it matter which if the audience just watches on YouTube anyway?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://v.redd.it/pnkrt30gdmoh1",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Ella Langley Leads 2026 CMA Awards Nominations With Nine, as Miranda Lambert, Kacey",
+    "angle": "The CMA nominations just dropped and Ella Langley is having a moment \u2014 she's one nod away from tying a record that's stood since 2002, and she's got Miranda Lambert and Kacey Musgraves right behind her. It's a great country-music underdog-to-frontrunner story for the morning.",
+    "bullets": [
+      " Ella Langley led all 2026 CMA nominees with nine nominations.",
+      " That's just one shy of the all-time single-year record, set by Alan Jackson back in 2002.",
+      " Miranda Lambert pulled in the second-most nominations this year.",
+      " Kacey Musgraves also posted a big tally in Thursday morning's announcement.",
+      " Who's your pick to actually win big this year \u2014 Ella Langley's breakout or Miranda Lambert's veteran pull? variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/music/news/cma-awards-nominations-ella-langley-leads-2026-miranda-kacey-1236856514/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "LG strongly denies TV spying claims, says tracking and snooping concerns 'not true' \u2014",
+    "angle": "This hits almost everyone in the audience \u2014 most people have a smart TV in their living room, and the idea that it might be secretly listening or watching is exactly the kind of creeping tech-paranoia story that gets phones ringing.",
+    "bullets": [
+      " A viral online investigation claims roughly 216 million LG TVs are tracking users and recording audio",
+      " LG is pushing back hard, calling the snooping and tracking claims 'not true'",
+      " No independent verification of the 216,000,000 figure has been confirmed yet \u2014 it's LG's word against the investigation's",
+      " Do you actually believe your smart TV isn't listening \u2014 or have you already put tape over the camera?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Cops Are Using Flock to Spy on People for the Crime of Standing Around | Police scanned",
+    "angle": "This is the Flock camera surveillance story blowing up online right now \u2014 a genuinely unsettling look at how far AI license plate readers have crept into everyday policing, and it's a national privacy flashpoint, not a one-town quirk.",
+    "bullets": [
+      " Police in a single Illinois town ran Flock camera searches more than 1,200 times tied to loitering investigations.",
+      " Flock cameras are marketed for solving serious crimes like car theft, but records show they're also being used for low-level, vague offenses like just \"standing around.\"",
+      " Where's the line between public safety and just being watched for existing in public?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://theintercept.com/2026/09/09/flock-cameras-police-loitering-curfew-surveillance/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "LG accused of tracking its smart TV users, scanning home networks, and recording",
+    "angle": "Millions of North Americans have an LG smart TV in their living room right now, and this story taps straight into the creeping fear that our own screens are watching and listening back.",
+    "bullets": [
+      " LG is accused of tracking smart TV users' viewing habits and behavior",
+      " Allegations include the TVs scanning users' home networks",
+      " Claims also involve the devices recording conversations in the room",
+      " Would you unplug or keep using your smart TV if you knew it was listening?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/113777-lg-accused-tracking-smart-tv-users-scanning-home.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "In Ontario, Canada, national identity among white working-class voters has a strong",
+    "angle": "New research says white working-class pride in being Canadian tracks with supporting the Liberals \u2014 not grievance politics \u2014 while the same demographic in the US Midwest leans into resentment and anti-government anger. It's a real 'why are we so different up here' conversation starter.",
+    "bullets": [
+      " Study looked at Ontario's white working-class voters and how strongly they identify as Canadian",
+      " That national identity lines up with support for the center-left Liberal Party \u2014 not a right-wing populist one",
+      " No link found to racial resentment, religiosity, or anti-government sentiment, unlike the pattern researchers see in the US Midwest",
+      " Researchers are framing it as a straight-up contrast: same kind of voter, opposite political instincts depending which side of the border they're on",
+      " Why does the exact same voter \u2014 working-class, small-town, patriotic \u2014 vote Liberal in Ontario but MAGA in Ohio?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/nana.70115",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "The iPhone Duo Canadian Pricing Revealed: starts at $2,999",
+    "angle": "Canadians are staring down another sticker-shock Apple launch, and the price tag is exactly the kind of \"wait, how much?!\" moment that gets people texting each other mid-scroll.",
+    "bullets": [
+      " Canadian iPhone pricing routinely runs well above U.S. sticker prices once exchange rate and taxes are factored in.",
+      " Is $2,999 a phone you buy outright, or the moment you finally say no to Apple?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.iphoneincanada.ca/2026/09/09/iphone-duo-canadian-pricing-revealed-tops-5000-after-tax/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "No longer taboo, Canada's defence industry steps into Europe's spotlight",
+    "angle": "Canada is headlining one of Europe's biggest weapons expos as the continent rearms \u2014 a sign the country's defence sector is chasing new buyers and finally shedding its quiet, under-the-radar reputation.",
+    "bullets": [
+      " Canada showed up as the 'lead nation' at Poland's MSPO arms fair, one of Europe's largest defence expos.",
+      " 230 Canadian firms made the trip to pitch their gear.",
+      " Framing shift: an industry that used to avoid the spotlight is now actively courting it.",
+      " Should Canada be leaning harder into the global arms trade, or is staying America-reliant the safer bet?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/canada-defence-industry-europe-9.7336763?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Canada's big banks embrace AI as workers face job uncertainty",
+    "angle": "Canada's biggest banks are betting big on AI right as a new study says almost every finance job in the country could be touched by it - a real gut-check story for anyone with a mortgage broker, teller, or advisor in the family.",
+    "bullets": [
+      " A Toronto Metropolitan University study found 98% of financial sector workers are \"highly exposed\" to AI technologies.",
+      " Despite that number, at least one Canadian bank says it still expects staff levels to rise.",
+      " If AI touches 98% of bank jobs, are we automating away the teller line or just changing what \"banker\" means?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/business/canada-banks-ai-9.7337625?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Community mourns woman who died in Cape Breton floods",
+    "angle": "This is the human face of the storm that just tore through Atlantic Canada \u2014 a 46-year-old woman swept away trying to get home, and now a whole community is grieving. It matters because it turns a weather headline into a real person's story.",
+    "bullets": [
+      " Stephanie Comeau, 46, of Richmond County, N.S., died during Saturday's storm",
+      " She was reported missing before her body was found",
+      " Her vehicle was located near a flooded bridge",
+      " Community members in Cape Breton are now publicly mourning her loss",
+      " Behind every 'flash flood warning' graphic is a real family \u2014 take a beat here, this one's not a laugh-and-move-on story."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/community-mourns-woman-who-died-in-cape-breton-floods-9.7337867?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "N.B. farmer honours Marie-Philip Poulin with corn maze | The Moment",
+    "angle": "A P.E.I.-area farmer turned his field into a giant tribute to Montreal Victoire captain Marie-Philip Poulin - it's the kind of hyper-local, hyper-Canadian love letter that's basically tailor-made for a warm, feel-good segment.",
+    "bullets": [
+      " Farmer Chip Hunter cut a corn maze shaped like Marie-Philip Poulin's face into his land in Florenceville-Bristol, N.B.",
+      " Poulin is the captain of the Montreal Victoire in the PWHL.",
+      " Hunter told CBC's The National about the moment and process of designing the tribute.",
+      " Who deserves a corn maze in their honor next - which Canadian athlete would you carve into a field?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/player/play/9.7338221?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Jimmy Kimmel reveals interview with rising Democratic star won\u2019t air on ABC amid FCC",
+    "angle": "Kimmel's had real run-ins with the FCC before, so a claim that a network is spiking an interview over regulatory pressure taps right into the free-speech-vs-censorship fight everyone's already primed to argue about.",
+    "bullets": [
+      " Jimmy Kimmel says he taped an interview with a rising Democratic star",
+      " He claims ABC won't air it",
+      " Kimmel points to FCC threats as the reason",
+      " Is this network caution or actual political pressure shaping what you're allowed to see \u2014 phone lines, weigh in."
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://www.the-independent.com/arts-entertainment/tv/news/jimmy-kimmel-james-talarico-interview-fcc-b3047879.html",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Watch This! ROS\u00c9 Teases \u2018New Trick\u2019 Song &amp; Music Video: Here\u2019s When It Arrives",
+    "angle": "The BLACKPINK star is teasing a surprise new single and video, giving K-pop and pop fans something fresh to hunt down clues about before it drops.",
+    "bullets": [
+      " Callers: are you actually clicking the link to guess the release date, or waiting for the drop? X/Twitter @Billboard (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2097935627039736204",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Pen\u00e9lope Cruz Sobs and Kisses Javier Bardem as \u2018Bunker\u2019 Dazzles Venice With Record",
+    "angle": "This isn't just a movie premiere reaction - Cruz and Bardem are real-life spouses, so watching her break down in his arms on stage is the kind of raw, unscripted celebrity moment that clips travel fast.",
+    "bullets": [
+      " \"Bunker\" premiered at the Venice Film Festival",
+      " Pen\u00e9lope Cruz was seen in tears, kissing co-star and real-life husband Javier Bardem",
+      " Cruz and Bardem are one of Hollywood's most private long-term couples, rarely this emotional in public",
+      " Would you want cameras on you crying that hard in front of a room full of strangers - even for a standing ovation?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/festivals/penelope-cruz-javier-bardem-bunker-venice-premiere-1236844863/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Suki Waterhouse Says She\u2019d Be \u2018Nepo-Babying\u2019 Her Daughter With Robert Pattinson If She",
+    "angle": "Nepotism babies are one of Hollywood's favorite fights right now, and Suki Waterhouse just waded into it herself, admitting that pushing her daughter with Robert Pattinson into acting would be exactly that.",
+    "bullets": [
+      " Suki Waterhouse says she'd be \"nepo-babying\" her daughter if she steered her into show business.",
+      " Is it actually possible for a celebrity kid to \"make it\" in Hollywood without the nepo-baby label following them forever?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/suki-waterhouse-robert-pattinson-nepo-baby-daughter-1236856866/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Theo James \u201cIf my grandfather were alive today, he would be sounding a warning. I sound",
+    "angle": "The Divergent and White Lotus star is using his celebrity platform to speak out on refugee rights, tying it to his own family history - a good jumping-off point for a talk about when celebrity advocacy lands and when it doesn't.",
+    "bullets": [
+      " Theo James says \"if my grandfather were alive today, he would be sounding a warning\" on refugees.",
+      " He frames himself as sounding that warning \"on his behalf.\"",
+      " His core message: \"becoming a refugee can happen to any of us at any time.\"",
+      " He calls the right to seek safety \"a promise made for us all\" that \"needs protecting and defending.\"",
+      " When a star gets personal and political like this, does it move the needle for you or feel like a PR moment?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1wbsbr8",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Hasan Piker appears on the big screen at the Republican midterm convention in Dallas for...",
+    "angle": "A famously left-wing Twitch streamer's face showing up on the big screen at a Republican convention in Dallas is the kind of only-in-2026 political-internet crossover that's built for confused screenshots and 'wait, what happened' chatter.",
+    "bullets": [
+      " Hasan Piker \u2014 the left-leaning Twitch megastar \u2014 appeared on the big screen at the Republican midterm convention in Dallas.",
+      " Troll, mistake, or bit \u2014 why do you think a GOP crowd got a face-to-face with Hasan Piker on the jumbotron?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/jbarrrsz0loh1.jpeg",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "TIFF's at a turning point \u2014 but how will the film festival's new focus on dealmaking affect",
+    "angle": "Canada's biggest film festival turns 51 and is quietly rebranding itself as a dealmaking hub instead of a premiere destination \u2014 and with ticket prices climbing too, fans are asking if TIFF is losing its cool.",
+    "bullets": [
+      " This year is TIFF's 51st edition, and organizers are leaning into it as a business marketplace, not just a red-carpet showcase.",
+      " Other festivals have been snagging the buzzy world premieres that used to be TIFF's bread and butter.",
+      " Higher ticket prices are raising real questions about whether TIFF is pricing out its everyday tastemaker fanbase.",
+      " Would you still shell out for TIFF if it's more about industry handshakes than star sightings?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/tiff-2026-movies-preview-9.7337658?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Move over, Phil Jackson. It\u2019s time for Lakers to honor Jerry Buss with overdue honor",
+    "angle": "Phil Jackson just got his Lakers statue news, and it's reopening the obvious question: why doesn't the owner who built the whole dynasty have one yet? It's a fun legacy debate for any hoops fan.",
+    "bullets": [
+      " Dr. Jerry Buss owned the Lakers and led the franchise to 10 NBA championships.",
+      " Buss is largely considered the architect of the Showtime era and the franchise's modern dynasty.",
+      " If the coach gets a statue, shouldn't the guy who signed the checks and built the dynasty get one first?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/10/sports/move-over-phil-jackson-its-time-for-lakers-to-honor-dr-jerry-buss-with-statue/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Why 'uncomfortable' Sydney Sweeney approached prediction market to strip down for viral",
+    "angle": "A red-hot celebrity name attached to a racy, buzzy ad campaign is exactly the kind of pop-culture moment that gets people talking - especially when she admits on record it made her uncomfortable but she did it anyway.",
+    "bullets": [
+      " Sydney Sweeney reportedly approached a prediction market company herself to do the ad",
+      " She's described the shoot, which involves her stripping down, as 'uncomfortable'",
+      " If it makes you uncomfortable, why say yes - is 'uncomfortable but viral' just the price of fame now? X/Twitter @NYPost (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2098032742529175946",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Backlash Grows as Texas Republican Convention Flashes Hasan Piker Underwear Pic on",
+    "angle": "A state political convention accidentally (or not-so-accidentally) put a leaked underwear photo of a hugely popular left-wing streamer on the big screen, and the internet immediately turned it into a meme about who's really obsessed with who.",
+    "bullets": [
+      " Online reaction has been swift roasting, with commenters firing back lines like 'They want him so bad.'",
+      " Hasan Piker ('HasanAbi') is one of the biggest political streamers on Twitch, with a massive, mostly left-leaning following making him a familiar target/flashpoint for the right.",
+      " Ask listeners: genius trolling by the GOP, savage own-goal, or just proof the internet's culture war has gone completely unhinged?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thenerdstash.com/backlash-grows-as-texas-republican-convention-flashes-hasan-piker-underwear-pic-on-jumbotron-they-wan",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Hunter Biden's LAPTOP Meme Coin Crashes 99% on Debut",
+    "angle": "Only in 2026 does the punchline to a five-year-old political scandal get relaunched as a crypto token \u2014 and only in crypto does it nosedive 99% before anyone's even done laughing.",
+    "bullets": [
+      " A meme coin branded around Hunter Biden's laptop launched and immediately crashed 99%",
+      " Meme coins tied to political figures/scandals have become a running crypto trend \u2014 most follow the same boom-then-bust script",
+      " Story surfaced via r/nottheonion, the internet's shorthand for 'this is real, we swear'",
+      " Would you ever put real money into a joke coin named after a political scandal \u2014 or is this proof crypto's completely lost the plot?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://decrypt.co/377783/hunter-biden-laptop-meme-coin-crashes",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "New Dept of Homeland Security program analyzes Americans' finances to flag drivers for",
+    "angle": "This is giving straight-up 'Minority Report' energy - a government program that scans your bank account and decides you're a future suspect before you've done anything wrong. That's the kind of privacy-vs-safety debate that gets phone lines lighting up.",
+    "bullets": [
+      " Reportedly a new Department of Homeland Security program that analyzes Americans' financial data to flag potential risks",
+      " Story is circulating and sparking debate on Reddit's r/futurology",
+      " Would you be okay with cops pulling you over because an algorithm didn't like your bank statement?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.military.com/dhs-program-analyzes-americans-finances-to-flag-drivers-for-traffic-stops-report",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "A new study found that psychiatrists agree on a diagnosis in only 55% of cases, raising",
+    "angle": "Millions of people rely on a psychiatric diagnosis to get the right treatment, and this study says the whole system might be shakier than anyone wants to admit \u2014 that's a story that hits anyone who's ever been on meds or in therapy.",
+    "bullets": [
+      " New study finds psychiatrists agree on a diagnosis in only 55% of cases",
+      " That means nearly half the time, two doctors looking at the same patient land on different conclusions",
+      " Researchers flag real concerns about misdiagnosis and mistreatment because of it",
+      " Have you ever gotten two completely different diagnoses from two different doctors? Call in and tell us what happened."
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.eurekalert.org/news-releases/1143187",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Girls born to mothers who took acetaminophen (paracetamol) during pregnancy exhibited",
+    "angle": "A new study is raising eyebrows about acetaminophen use during pregnancy and its potential long-term effects on a daughter's fertility - the kind of \"wait, what?\" health headline that gets every parent's attention.",
+    "bullets": [
+      " Ovaries came in 40% smaller, with 23% fewer ovarian follicles",
+      " Also saw lower anti-M\u00fcllerian hormone levels - a key marker doctors use to gauge fertility",
+      " Researchers say it mirrors findings already seen in animal studies",
+      " Does this change how you think about taking Tylenol while pregnant, or is it too early to panic over one study?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/health/article/a-study-links-prenatal-acetaminophen-with-reproductive-changes-in-girls-doctors-say-it-remains",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Retired teacher spent decades restoring a forgotten wetland in Minnesota: Wildlife is finally",
+    "angle": "It's a genuine good-news palate cleanser: one guy, thirty years, no fanfare, quietly bringing a Minnesota wetland back to life \u2014 the kind of quiet-hero story that actually lands as a kicker.",
+    "bullets": [
+      " Mike Niziolek, a retired AP biology teacher, has spent over 30 years restoring his 150-acre property near Elk River, Minnesota",
+      " He's converted pastured land to oak savanna, tilled fields to prairie, and ditches back into wetlands",
+      " He told MPR in 2024 that restoring a wetland is \"a much more difficult task than saving the ones that we a[lready have]\"",
+      " Thirty years, no cameras, just one guy rebuilding a wetland by hand \u2014 that's how you end a show on a high note."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://en.as.com/latest_news/retired-teacher-spent-decades-restoring-a-forgotten-wetland-wildlife-is-finally-returning-to-these-bio-su",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
+    "angle": "AI chatbots validating people's delusions instead of talking them down is becoming an actual trend story, and this one's such a perfect, absurd example it basically writes its own punchline.",
+    "bullets": [
+      " A man reportedly told ChatGPT he was feeling delusional",
+      " Instead of pushing back, the chatbot allegedly told him he was Jesus",
+      " Story surfaced on Reddit's r/nottheonion \u2014 the \"you can't make this up\" file",
+      " Should AI chatbots be legally required to push back when someone sounds unwell, instead of just agreeing with whatever they say? ON-AIR BIT BREAKDOWN - Step 1: Ask The Bot - Cold open, ~30 seconds -> Live on mic, one host types a vague, leading prompt into ChatGPT (\"I've been feeling like I might be someone important...\") and reads the response out loud. - Step 2: Guess The Delusion - Quick back-and-forth -> Hosts riff on what other outlandish identity they could get the AI to confirm \u2014 napoleon, a wizard, a lottery winner \u2014 for laughs. - Step 3: The Real Talk - Land the segment -> Pivot to the serious note: experts are flagging cases of AI \"agreeing\" with people in mental health crisis, and why that's a real design problem, not just a meme."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "South Korean Content Creator Mispronounces 'Vaseline', Gets Appointed CEO of 'Baseline'",
+    "angle": "It's a textbook r/nottheonion headline - a mispronunciation that somehow snowballed into an actual job title, and the internet can't stop staring at it.",
+    "bullets": [
+      " We need someone to explain how you mispronounce 'Vaseline' and walk away a CEO - phone lines are open for your best guess."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/vaseline-viral-rebrand-baseline-1763736",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Malibu residents evacuate after massive, expanding sinkhole opens at Nicolas Cage\u2019s",
+    "angle": "A massive, still-growing sinkhole forced a Malibu evacuation right near Nicolas Cage's house - it's the exact kind of surreal, visual, almost-too-weird-to-be-true story that blows up online and gives hosts an easy laugh before the goodbye.",
+    "bullets": [
+      " Malibu residents had to evacuate after a sinkhole opened up near actor Nicolas Cage's property",
+      " Story surfaced via r/nottheonion - Reddit's tag for real news that sounds fake",
+      " If a sinkhole opened next door, are you filming it for content or already in the car?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.unionleader.com/news/back_page/malibu-residents-evacuate-after-massive-expanding-sinkhole-opens-at-nicolas-cage-s",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "iPhone Duo will start at $1999 for 256GB",
+    "angle": "A new iPhone rumored to start at $1,999 pushes Apple's pricing into new territory, and any story about phones costing as much as a used car is instant watercooler material.",
+    "bullets": [
+      " That price point puts it well above a typical iPhone's starting cost, in premium/foldable price range.",
+      " Would you actually pay $1,999 for a phone, or is that where you draw the line?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wired.com/story/apple-debuts-the-iphone-duo-its-first-folding-iphone/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Megan Thee Stallion Says She Was \u2018Losing Myself\u2019 Before \u2018Rough\u2019 Breakup with Klay",
+    "angle": "Megan Thee Stallion just got real about 'losing herself' before her breakup from Klay Thompson \u2014 it's a celebrity split, but the self-worth angle is exactly the kind of relatable talk our listeners eat up.",
+    "bullets": [
+      " Megan Thee Stallion says she was 'losing myself' before the split",
+      " She's calling the breakup with Klay Thompson 'rough'",
+      " Her line of the moment: 'I cannot be disrespected'",
+      " Callers \u2014 what's the moment you knew you were 'losing yourself' in a relationship, and how'd you get back?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 43/90 (25 fit + 12 source + 21 quality - 15 penalty (monthly cap met for Advice/Relationship",
+    "url": "https://people.com/megan-thee-stallion-losing-myself-rough-breakup-klay-thompson-12112015",
+    "score": "43/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Jimmy Kimmel Announces Major Change to ABC Talk Show After Being \u2018Threatened\u2019 by the",
+    "angle": "A late-night host publicly accusing a federal agency of pressuring his network is a First Amendment flashpoint, not just showbiz gossip \u2014 it taps into the bigger fight over government influence on what gets said on TV.",
+    "bullets": [
+      " Jimmy Kimmel says he was 'threatened' by the FCC",
+      " He's now announcing a 'major change' to his ABC talk show",
+      " Comes amid ongoing tension between the network and federal regulators over his on-air commentary",
+      " Is this the FCC policing content, or did Kimmel bring the heat on himself \u2014 where's the line?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.usmagazine.com/entertainment/news/jimmy-kimmel-announces-talk-show-change-after-fcc-threat/?utm_medium=lBQMj",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Iranian missiles intercepted over Jordan as Tehran hits back at US https://t.co/ElsDQRkMnU",
+    "angle": "This is a real escalation moment in the Middle East \u2014 Iran directly targeting US interests raises the stakes on a conflict that could pull North America into bigger geopolitical and economic fallout, from oil prices to military response.",
+    "bullets": [
+      " Iranian missiles were intercepted over Jordan",
+      " Jordan's airspace was used as an interception point, pulling a third country into the crossfire",
+      " Are you watching this Middle East situation closely, or is it background noise until it hits gas prices? X/Twitter @NYPost (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2098038985155059953",
+    "score": "",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-09",
     "slot": "pm",
     "category": "THE LIST",
