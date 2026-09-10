@@ -1,6 +1,584 @@
 [
   {
     "date": "2026-09-09",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "The Metropolitan Police have officially launched a criminal investigation into Reform UK",
+    "angle": "Scotland Yard is now criminally investigating one of the most recognizable political figures in the Western world over secret foreign cash \u2014 a corruption story with echoes on both sides of the Atlantic given Farage's close ties to Trump-world politics.",
+    "bullets": [
+      " Foreign donations to UK political parties are illegal under British election law",
+      " Is secret foreign money bankrolling political parties a shocking scandal, or does everyone just assume that's already happening everywhere?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.bbc.co.uk/news/articles/cp3k72k1y3vo",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Massachusetts Governor Maura Healey signed an executive order requiring data centers",
+    "angle": "AI's power grab is now everyone's problem \u2014 this is one of the first big state moves forcing tech giants to eat the cost of their own energy binge instead of passing it to your electric bill.",
+    "bullets": [
+      " Big data centers must now cover 100% of their electricity demand with clean energy",
+      " Companies get three options: self-supply, fund new nearby power generation, or pay into a ratepayer protection fund",
+      " Should Big Tech be forced to build its own power plants before it gets to build more AI data centers in your backyard?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Scotland\u2019s first commercial wind farm has recycled or reused 99.9% of its",
+    "angle": "Wind power's biggest knock has always been 'yeah but what happens when the blades die' \u2014 and this Scottish wind farm just torched that argument by recycling 99.9% of a decommissioned site, blades included.",
+    "bullets": [
+      " This is Scotland's first-ever commercial wind farm, now fully decommissioned.",
+      " 99.9% of its turbine parts were recycled or reused.",
+      " Even the blades \u2014 historically the hardest part to deal with \u2014 were converted into polymers usable in construction materials.",
+      " It directly rebuts one of the most common anti-wind talking points: that turbine blades just pile up in landfills.",
+      " Ask listeners: what's a green-energy 'fact' you've always repeated that might actually be outdated?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://goodgreen.news/99-9-of-materials-from-scotlands-first-wind-farm-have-been-recycled-and-reused/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Michael J. Fox Says Life With Parkinson\u2019s Has \u2018Gotten Harder Over the Years\u2019 But \u2018I\u2019m",
+    "angle": "Michael J. Fox has been the public face of Parkinson's research for decades, and his candor about the disease getting harder - paired with his fight for a cure - is the kind of resilience story that resonates way beyond his fanbase.",
+    "bullets": [
+      " Michael J. Fox says living with Parkinson's disease has \"gotten harder over the years\"",
+      " He says he's \"bringing everything I got\" toward finding a cure",
+      " Comments came in an exclusive interview",
+      " Fox has been public about his Parkinson's diagnosis and advocacy since the late '90s",
+      " Fox has turned his own decline into decades of fundraising and awareness - ask listeners who in their own life has shown that same fight."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/michael-j-fox-bringing-everything-i-got-to-find-parkinsons-cure-exclusive-12111262",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Doctor Doom Thanked Seattle for All the Surveillance Cameras / \u2018We must work to crush",
+    "angle": "A Marvel supervillain persona publicly cheered on Seattle's push for more surveillance cameras, turning a real city privacy debate into an internet punchline worth talking about.",
+    "bullets": [
+      " Doctor Doom \u2014 Marvel's classic supervillain \u2014 thanked Seattle for all its surveillance cameras.",
+      " It's tied to real policy \u2014 Seattle is currently weighing multiple new surveillance proposals.",
+      " When even a comic-book tyrant's talking points sound like your city council's press release, is it satire or a red flag?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.404media.co/doctor-doom-thanked-seattle-for-all-the-surveillance-cameras/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Cops Are Using Flock to Spy on People for the Crime of Standing Around | Police scanned",
+    "angle": "Flock's license-plate cameras are supposed to catch real crime, but this Illinois town ran over 1,200 searches to chase down loitering \u2014 a story that hits a nerve nationwide as these cameras spread to towns everywhere.",
+    "bullets": [
+      " One single Illinois town ran Flock camera searches more than 1,200 times for loitering cases.",
+      " Flock Safety cameras are marketed for solving serious crime \u2014 not tracking people for hanging around.",
+      " Are license-plate cameras keeping your town safer, or just giving cops a reason to run your plate for doing nothing at all?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://theintercept.com/2026/09/09/flock-cameras-police-loitering-curfew-surveillance/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "LG accused of tracking its smart TV users, scanning home networks, and recording",
+    "angle": "This taps straight into the 'is my smart TV listening to me' paranoia everyone already half-believes \u2014 and if true, it's not one household, it's every LG smart TV owner in North America.",
+    "bullets": [
+      " LG is accused of tracking smart TV users' behavior without clear consent",
+      " Claims include the TVs scanning home Wi-Fi networks to map other connected devices",
+      " Most unsettling allegation: TVs may be recording conversations picked up in the room",
+      " If you've got an LG smart TV in your living room right now, are you unplugging it \u2014 or are you already too far gone to care?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/113777-lg-accused-tracking-smart-tv-users-scanning-home.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "How cleaning up the air is speeding up global warming - and revealing a bigger problem",
+    "angle": "How cleaning up the air is speeding up global warming - and revealing a bigger problem",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bbc.com/news/articles/c20917w25n4o",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Buffalo Bills to play \u2018O Canada\u2019 at home opener amid strained cross-border relations",
+    "angle": "With US-Canada relations tense and a chunk of the Bills' fanbase driving in from Southern Ontario, the team playing the Canadian anthem at their home opener reads as either a warm gesture to loyal fans or a pointed nod to the cross-border friction everyone's already talking about.",
+    "bullets": [
+      " Buffalo Bills will play 'O Canada' at their home opener",
+      " Move comes amid strained cross-border relations between the US and Canada",
+      " Buffalo has a huge Southern Ontario fanbase that regularly crosses the border for games",
+      " Nice gesture to Canadian fans, or a team trying to stay out of politics by leaning into them?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theglobeandmail.com/sports/football/article-bills-to-play-o-canada-at-home-opener-amid-strained-cross-border/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "RBC launches $1.4-billion fund to invest in Canadian technology companies",
+    "angle": "Canada's biggest bank is putting serious money behind homegrown tech instead of watching startups get scooped up or move south - a direct swing at the brain-drain problem everyone in Canadian tech complains about.",
+    "bullets": [
+      " RBC is launching a new $1.4-billion fund specifically to invest in Canadian technology companies.",
+      " It's a big-bank bet that Canada's tech scene is worth funding at home rather than losing to US investors and acquirers.",
+      " Does a $1.4-billion war chest actually stop Canadian startups from bolting for Silicon Valley, or is it too little too late?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theglobeandmail.com/business/article-rbc-14-billion-fund-to-invest-in-canadian-technology-companies/?utm_source=dlvr.",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "\u2018Unique\u2019 partnership with Canada forming ahead of PM Carney speech: EU envoy",
+    "angle": "Mark Carney's stepping up to the mic for a big speech, and the EU's own guy in Ottawa is teasing a partnership he's calling 'unique' \u2014 which is diplomat-speak for something worth paying attention to.",
+    "bullets": [
+      " An EU envoy is describing a forming partnership with Canada as 'unique' ahead of a speech from PM Mark Carney",
+      " Is Canada quietly repositioning itself closer to Europe while the US relationship wobbles?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/politics/article/eu-envoy-says-a-unique-new-partnership-with-canada-forming-ahead-of-carney-speech/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "The iPhone Duo Canadian Pricing Revealed: starts at $2,999",
+    "angle": "Canadians love to grumble about the exchange-rate tax on Apple gear, and a nearly $3K starting price on a brand new iPhone line is exactly the kind of sticker shock that gets the phone lines lighting up.",
+    "bullets": [
+      " Pricing was revealed via Reddit's r/canada community",
+      " Would you actually drop $3,000 on a phone, or is that where you finally jump ship to Android?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.iphoneincanada.ca/2026/09/09/iphone-duo-canadian-pricing-revealed-tops-5000-after-tax/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Apple's new iPhone Duo costs more in Canada, but not because of tariffs",
+    "angle": "Everyone assumes cross-border price gaps are tariff fallout right now, so a story that says 'nope, not this time' is exactly the kind of myth-busting consumer tech story that gets people checking their own receipts.",
+    "bullets": [
+      " If it's not tariffs, is it just the 'Canadian tax' on tech we've all quietly accepted for years?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/business/apple-iphone-duo-canadian-price-9.7337823?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Release of detainee into Chinatown parking lot prompts anger, calls for reform in Edmonton",
+    "angle": "Surveillance video of a corrections van releasing a former detainee straight into an Edmonton Chinatown parking lot is fueling anger over how Alberta hands offenders back to the community - a system-accountability story with an easy 'wait, that's actually how it works?' hook for listeners.",
+    "bullets": [
+      " Surveillance footage caught a former detainee being let out of a corrections transport van in Edmonton's Chinatown.",
+      " Critics are questioning whether dropping someone off in a public parking lot - with no clear support in place - is standard protocol.",
+      " Should there be a legal requirement for support - housing, transport, a check-in - the moment someone's released, or is 'here's the door' just how the system works?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/edmonton/alberta-chinatown-corrections-release-9.7337497?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "When is \u2018Secret Lives of Mormon Wives\u2019 Season 5 release date? How to watch",
+    "angle": "The breakout reality hit that turned TikTok mom drama into must-watch TV is returning, and the tease is already promising more secrets and scandals for the MomTok crew.",
+    "bullets": [
+      " Secret Lives of Mormon Wives is confirmed for a Season 5",
+      " Exact release date and streaming details are still rolling out",
+      " Which MomTok wife do you need back for Season 5 \u2014 and who's already worn out their welcome? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/09/entertainment/how-to-watch-secret-lives-of-mormon-wives-season-5-premiere/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Stephen Colbert\u2019s Next Act: Screenwriting Software Mogul? - The Hollywood Reporter",
+    "angle": "Stephen Colbert just landed $5 million in funding for his screenwriting software company, Scripto \u2014 proof his post-Late Show life isn't just podcasts and vacations, it's Silicon Valley. It's a fun \"wait, HE does that?\" story that also doubles as a genuinely surprising career pivot.",
+    "bullets": [
+      " Stephen Colbert's company Scripto just closed a $5 million seed funding round.",
+      " Scripto is screenwriting software already used on late night shows, awards shows, and video games.",
+      " Colbert's proof that the best exit strategy from late night is becoming the guy who builds the tools late night runs on. Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/business/digital/stephen-colbert-next-act-screenwriting-software-mogul-1236691415/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Watch This! ROS\u00c9 Teases \u2018New Trick\u2019 Song &amp; Music Video: Here\u2019s When It Arrives",
+    "angle": "BLACKPINK's ROS\u00c9 is teasing a brand new track called 'New Trick' complete with its own music video, and any solo move from a BLACKPINK member is instant K-pop fan frenzy worth flagging on air.",
+    "bullets": [
+      " ROS\u00c9 is teasing a new song titled 'New Trick'",
+      " Billboard broke the tease on X/Twitter",
+      " Solo drop or group tease \u2014 is 'New Trick' ROS\u00c9 flying solo again or a hint at BLACKPINK's next move? X/Twitter @Billboard (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2097808669794562516",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hideo Kojima is \"envious\" of 21-year-old Backrooms director: \"I made Metal Gear at 23 \u2013",
+    "angle": "Gaming legend Hideo Kojima is calling out Hollywood's ageism in reverse \u2014 admitting he's envious that a 21-year-old just landed an A24 deal off a viral internet horror concept, something that took him decades to get.",
+    "bullets": [
+      " Hideo Kojima made the original Metal Gear at just 23 years old",
+      " He says A24 didn't come calling until he was about 59",
+      " Kojima is framing it as pure \"envious\" admiration, not bitterness",
+      " Does insane young talent like this deserve the fast-track, or does experience like Kojima's still deserve first dibs?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gamesradar.com/games/metal-gear/hideo-kojima-is-envious-of-21-year-old-backrooms-director-i-made-metal-gear-at-23",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Pen\u00e9lope Cruz Sobs and Kisses Javier Bardem as \u2018Bunker\u2019 Dazzles Venice With Record",
+    "angle": "A married Hollywood power couple starring together, a jaw-dropping ovation length, and pure unscripted emotion on the red carpet \u2014 this is the kind of Venice moment that actually breaks through outside the film-festival bubble.",
+    "bullets": [
+      " Pen\u00e9lope Cruz reportedly broke down in tears and kissed real-life husband Javier Bardem after their film 'Bunker' premiered",
+      " That runtime reportedly sets a new record for the festival's applause",
+      " Fifteen and a half minutes of clapping \u2014 genuine emotional catharsis or Hollywood theater?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/festivals/penelope-cruz-javier-bardem-bunker-venice-premiere-1236844863/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Theo James \u201cIf my grandfather were alive today, he would be sounding a warning. I sound",
+    "angle": "A big-name actor stepping away from the usual press-tour fluff to make a personal, political statement about the refugee crisis is a curveball worth talking about \u2014 it's the kind of celebrity moment that splits a room between 'respect' and 'stay in your lane.'",
+    "bullets": [
+      " Theo James says if his grandfather were alive today, 'he would be sounding a warning' \u2014 and James says he's 'sounding the warning on his behalf.'",
+      " His message: 'becoming a refugee can happen to any of us at any time.'",
+      " He calls the right to seek safety 'a promise made for us all' that 'needs protecting and defending.'",
+      " Do you want your favorite actors weighing in on issues like this, or should they stick to promoting the movie?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1wbsbr8",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hasan Piker appears on the big screen at the Republican midterm convention in Dallas for...",
+    "angle": "A left-wing streamer's face popping up on the big screen at a Republican midterm convention in Dallas is exactly the kind of random political-culture-clash moment that blows up online because nobody actually knows why it happened.",
+    "bullets": [
+      " Hasan Piker \u2014 the popular left-leaning Twitch streamer \u2014 reportedly appeared on the big screen at a Republican midterm convention in Dallas.",
+      " It's making the rounds on Reddit's r/fauxmoi, where people are trying to piece together why it happened.",
+      " What's your theory \u2014 troll job, cautionary example, or total mix-up?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/jbarrrsz0loh1.jpeg",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Fans outraged at Harry Styles over \u2018insane\u2019 NYC concert ticket with eerie nod to 9/11 \u2014 2",
+    "angle": "Styles is deep into his sold-out Madison Square Garden residency, and now fans are accusing his team of a tone-deaf design choice on a concert ticket that lands just two days before the 25th anniversary of 9/11 \u2014 exactly the kind of 'who signed off on this' moment that gets phones ringing.",
+    "bullets": [
+      " Harry Styles is currently in the middle of a 30-night residency at Madison Square Garden in NYC.",
+      " Fans online are calling out one of the tour's tickets for an 'eerie' design nod to 9/11.",
+      " Critics online are asking flatly: 'Who approved this?'"
+    ],
+    "debate": "days before 25th anniversary: \u2018Who approved this?\u2019",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/09/celebrity-news/fans-outraged-at-harry-styles-over-insane-nyc-concert-ticket-with-eerie-nod-to-9-11/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Apple wanted the iPhone Ultra to cost $1,999, new report says - GSMArena.com news -",
+    "angle": "Apple's rumored to finally drop a foldable iPhone today, and word is the price tag nearly hit $1,999 before something scared them off it - a great excuse to debate what people will actually pay for a fancy foldable.",
+    "bullets": [
+      " Apple is holding its big annual iPhone event on September 9",
+      " It's expected to unveil the iPhone Ultra, Apple's first foldable smartphone",
+      " A new report says Apple originally wanted to price it at $1,999",
+      " Would you ever pay close to two grand for a phone, foldable or not?"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.gsmarena.com/apple_wanted_the_iphone_ultra_to_cost_1999_new_report_says-news-74523.php",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Lori Loughlin files for divorce from Mossimo Giannulli - ABC News - Breaking News, Latest",
+    "angle": "Lori Loughlin is filing for divorce from Mossimo Giannulli, the couple who became a national headline together during the 2019 college admissions scandal - so this isn't just a celebrity split, it's the end of a marriage that survived prison time.",
+    "bullets": [
+      " Lori Loughlin has filed for divorce from Mossimo Giannulli",
+      " Both Loughlin and Giannulli served prison sentences over that case and still stuck it out as a couple - until now",
+      " They survived a federal bribery scandal and prison time together - so what finally broke this marriage? Abcnews.com (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://abcnews.com/GMA/Culture/lori-loughlin-files-divorce-mossimo-giannulli/story?id\\\\u003d136284134",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "New study finds that the brain's energy system rapidly recovers in alcoholics just a few",
+    "angle": "New research suggests the brain's energy system in people with alcohol use disorder bounces back surprisingly quickly after just a few weeks sober - a hopeful, science-y hook for anyone doing a dry spell or thinking about cutting back.",
+    "bullets": [
+      " Study focused on the brain's energy system - basically how brain cells fuel themselves - in people with alcohol use disorder",
+      " Researchers found notable recovery in that energy system after just a few weeks of abstinence",
+      " Adds to a growing body of science suggesting the brain is more resilient and quicker to heal than previously thought",
+      " Would knowing your brain 'reboots' that fast actually motivate you to try a dry month?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.psypost.org/the-brains-fuel-system-rapidly-recovers-after-you-stop-heavy-drinking/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "New Dept of Homeland Security program analyzes Americans' finances to flag drivers for",
+    "angle": "This has instant 'Minority Report' energy \u2014 a government program using your money habits to predict who might break the law before they actually do, which is exactly the kind of privacy-vs-safety debate that gets phone lines lit up.",
+    "bullets": [
+      " It's essentially a real-world 'pre-crime' pitch: getting stopped for what you *might* do, not what you did.",
+      " Would you be fine with cops running your bank statement before you've ever broken a single law?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.military.com/dhs-program-analyzes-americans-finances-to-flag-drivers-for-traffic-stops-report",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Regularly drinking beverages like tea and coffee at very hot temperatures increases the risk",
+    "angle": "New UK research links drinking tea and coffee at very hot temperatures to a higher risk of oesophageal cancer \u2014 a habit millions of listeners have every single morning, which makes this an easy, relatable lifestyle hook.",
+    "bullets": [
+      " UK researchers found regularly drinking beverages at very hot temperatures raises risk of oesophageal cancer (cancer of the food pipe/gullet)",
+      " Oesophageal cancer affects the food pipe \u2014 the tube connecting your throat to your stomach",
+      " Be honest \u2014 do you drink your coffee scalding hot or wait it out, and would this study actually change your order? ON-AIR BIT BREAKDOWN - Step 1: The Temp Test - 60 seconds, studio coffee/tea on hand -> Each host takes a sip of their own coffee or tea right now and rates how 'dangerously hot' it is on a 1-10 scale. - Step 2: Confess Your Habit - Quick back-and-forth -> Hosts admit whether they're 'gulpers' who drink it scalding or 'sippers' who wait \u2014 and razz each other about it. - Step 3: Phone Line Poll - Open the lines/social -> Ask listeners to text in: scalding hot or lukewarm \u2014 and see which side wins by the next break."
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bbc.com/news/articles/ce3r77d9n90o",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "She bought a Maine island to stop clear-cutting; 90 years after Audubon opened its first",
+    "angle": "Ninety years ago a woman literally bought a Maine island to stop it from being clear-cut, and it's still training conservationists today \u2014 an underdog environmental win with staying power.",
+    "bullets": [
+      " It's marking 90 years since Audubon opened its first camp there",
+      " It still functions today as a training ground for conservationists",
+      " One person with enough conviction bought an entire island to stop it from being destroyed \u2014 imagine a legacy that lasts 90 years and counting."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://timesofindia.indiatimes.com/world/us/she-bought-a-maine-island-to-stop-clear-cutting-90-years-after-audubon-opened-its-first-",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "India installed a record 27 GW of solar power in just the first six months of 2026, up 50%",
+    "angle": "It's a rare good-news-in-2026 stat: while a lot of the world argues about energy, one country just quietly went from 'trying' to 'dominating' on solar in six months flat - the kind of number that makes for an easy, feel-good way to close the show.",
+    "bullets": [
+      " India installed 27 gigawatts of new solar power in just the first six months of 2026",
+      " That's up 50% compared to the same stretch last year",
+      " Solar accounted for 76% of ALL new power capacity the country added, period",
+      " Total solar capacity in India has now climbed to 165 gigawatts",
+      " Say what you want about the state of the world - somewhere, they're building the future 50% faster than last year."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.pv-magazine.com/2026/08/18/india-adds-record-27-gw-of-solar-capacity-in-h1/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Malibu residents evacuate after massive, expanding sinkhole opens at Nicolas Cage\u2019s",
+    "angle": "A celebrity home story with a wild visual hook - a sinkhole swallowing part of Malibu near Nic Cage's place is exactly the kind of \"wait, WHAT\" story that closes a show.",
+    "bullets": [
+      " Residents in the area reportedly had to evacuate",
+      " Nic Cage movies are famously cursed with weird disasters - is his real house next?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.unionleader.com/news/back_page/malibu-residents-evacuate-after-massive-expanding-sinkhole-opens-at-nicolas-cage-s",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Nicolas Cage\u2019s Malibu Mansion Damaged by Massive Sinkhole Amid Coastal Erosion",
+    "angle": "A massive sinkhole tied to California's coastal erosion crisis has damaged Nicolas Cage's Malibu mansion \u2014 a celebrity home story with a real climate/erosion angle that's got people talking about who's actually safe living on the coast.",
+    "bullets": [
+      " Nicolas Cage's Malibu mansion was damaged by a massive sinkhole",
+      " Malibu's cliffside and beachfront properties have faced growing erosion concerns in recent years",
+      " Would you still buy a dream oceanfront mansion knowing the coastline could literally cave in under it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.hollywoodreporter.com/news/local-news/nicolas-cage-malibu-home-damaged-sinkhole-coastal-erosion-1236694892/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Malibu residents evacuate after massive, expanding sinkhole opens at Nicolas Cage's",
+    "angle": "A literal sinkhole opening up at a Hollywood A-lister's Malibu home and forcing neighbors out is the kind of surreal, visual story that spreads fast online - it's part disaster news, part celebrity clickbait.",
+    "bullets": [
+      " Reports describe it as \"massive\" and \"expanding\"",
+      " Nearby residents have been evacuated as a precaution",
+      " Would you want to know if a sinkhole was creeping toward YOUR house, or is this just peak 'weird things happen to Nic Cage' energy?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.latimes.com/california/story/2026-09-08/malibu-driveway-collapses-into-massive-sinkhole-amid-coastal-flood-risks",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "South Korean Content Creator Mispronounces 'Vaseline', Gets Appointed CEO of 'Baseline'",
+    "angle": "It's the ultimate 'you can't make this up' story - a simple slip of the tongue somehow ends in a corner office, and that kind of absurd real-life coincidence is exactly what makes r/nottheonion irresistible for a kicker.",
+    "bullets": [
+      " A South Korean content creator reportedly mispronounced the word 'Vaseline' on camera.",
+      " That mix-up somehow ended with them being appointed CEO of Baseline.",
+      " Moral of the story: never apologize for a good verbal slip-up, it might be a promotion in disguise. ON-AIR BIT BREAKDOWN - Step 1: Set Up the Slip-Up - 30 seconds -> Hosts explain the real story: botch 'Vaseline,' walk away CEO of 'Baseline.' - Step 2: Mispronunciation Roulette - 2 minutes -> Each host draws a random everyday brand name and has to badly mispronounce it into a fake company/job title on the spot. - Step 3: Listener Vote - 1 minute -> Ask callers/texters to pick whose mangled brand name sounds most like a real job title."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/vaseline-viral-rebrand-baseline-1763736",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Canadian anthem to be performed at Buffalo Bills home opener amid trade war tensions",
+    "angle": "With Canada-US trade tensions simmering, having the Canadian anthem performed at an NFL season opener is the kind of cross-border symbolism people can't help but read into.",
+    "bullets": [
+      " Buffalo sits minutes from the Canadian border and draws huge numbers of Canadian fans to Bills games.",
+      " Nice gesture of unity, or tone-deaf given the trade fight \u2014 which is it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://guelph.ctvnews.ca/toronto/article/canadian-anthem-to-be-performed-at-buffalo-bills-home-opener-amid-trade-war-tensions/",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-09",
     "slot": "am",
     "category": "THE LIST",
     "title": "Taylor Swift and Travis Kelce\u2019s surprising plans for where they\u2019ll live revealed after getting",
