@@ -124,6 +124,34 @@ def parse_stories(text, date, slot):
                 if current_story:
                     stories.append(current_story)
 
+                while i < len(lines):
+                    next_line = clean_line(lines[i])
+                    if not next_line:
+                        break
+                    if next_line.startswith("The Angle:") or next_line.startswith("The "):
+                        break
+                    if next_line.startswith("G ") or next_line == "G":
+                        break
+                    if next_line.startswith("URL:"):
+                        break
+                    if re.match(r"^(Reddit|www\.|MacRumors|nypost|Entertainment Weekly|People|variety|Kotaku)", next_line):
+                        break
+                    if any(re.match(p, next_line) for p in CATEGORY_PATTERNS):
+                        break
+                    if any(re.match(p, next_line) for p in SKIP_SECTIONS):
+                        break
+                    if re.match(r"^[IVX]+\s+.+", next_line) and not next_line.startswith("ICE "):
+                        break
+                    if re.match(r"^Backup options:", next_line, re.IGNORECASE):
+                        break
+                    if re.match(r"^(The Debate Starter|The Panic Check|The Gross-Out|The Feel-Good|The Check-In|The Gut-Check|The Reality Check|The Travel Chaos|ON-AIR BIT)", next_line):
+                        break
+                    if re.match(r"^(TRENDING TODAY|BREAKOUT WATCH)", next_line):
+                        break
+                    real_title += " " + next_line
+                    i += 1
+                real_title = re.sub(r'\s+[IVX]+\s*$', '', real_title)
+
                 current_story = {
                     "date": date,
                     "slot": slot,
