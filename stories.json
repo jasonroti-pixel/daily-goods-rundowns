@@ -1,6 +1,547 @@
 [
   {
     "date": "2026-09-10",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Another big James Talarico interview is punted to YouTube due to FCC threatsI / Jimmy",
+    "angle": "This is the same late-night-vs-FCC fight that's been simmering all year, and now it's happening again in real time with a sitting late-night host \u2014 that's a live free-speech-on-TV debate, not just industry gossip.",
+    "bullets": [
+      " Jimmy Kimmel pulled his interview with Texas state rep James Talarico off broadcast and dropped it on YouTube instead.",
+      " Kimmel says he made the move after the FCC \"threatened\" him over the segment.",
+      " It's reportedly not the first time a Talarico interview got bumped from TV to online-only under similar pressure.",
+      " Should a federal regulator have this much sway over who gets booked on late-night TV?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://www.theverge.com/policy/993383/jimmy-kimmel-fcc-brendan-carr-james-talarico",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Mexico reintroduced bison in 2025 after more than 100 years: Just months later, the",
+    "angle": "A century-old absence, undone in months: Mexico reintroduced wild bison in 2025 and the surrounding ecosystem is already bouncing back, a rare good-news environmental story with real 'nature heals fast' payoff.",
+    "bullets": [
+      " Mexico reintroduced bison to the wild in 2025 for the first time in over 100 years",
+      " Just months after reintroduction, the surrounding ecosystem is reportedly already showing signs of restoration",
+      " Nature bounced back faster than anyone expected \u2014 proof that some environmental damage isn't as permanent as we think."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://en.as.com/latest_news/mexico-reintroduced-bisons-in-2025-after-more-than-100-years-just-months-later-the-ecosystem-is-res",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Massie introduces bill to restrict federal funding for Flock cameras",
+    "angle": "Flock Safety's AI license plate cameras have quietly popped up in thousands of communities nationwide, and now a sitting congressman is pushing back on Capitol Hill - this is the surveillance-vs-safety fight that cuts across party lines.",
+    "bullets": [
+      " Rep. Thomas Massie (R-KY) introduced a bill targeting federal funding for Flock Safety camera systems.",
+      " Flock cameras are AI-powered license plate readers used by police departments across the country.",
+      " Massie has built a reputation as one of Congress's most vocal privacy hawks, often breaking from his own party on these issues.",
+      " Do those license plate cameras make your neighborhood safer, or is this just surveillance creep - call in and tell us where you land."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.courier-journal.com/story/news/politics/2026/09/03/thomas-massie-introduces-bill-to-limit-federal-funding-of-flock-camera",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Iceland to propose whaling ban, leaving Norway and Japan isolated.",
+    "angle": "Iceland moving to ban whaling would leave only Norway and Japan still hunting whales commercially \u2014 a real shift in a decades-long global fight environmentalists have been pushing for.",
+    "bullets": [
+      " Iceland is set to propose a formal ban on whaling in its own waters.",
+      " If it passes, Norway and Japan would be left as the last major nations still commercially whaling.",
+      " Should the last holdout countries be pressured to follow Iceland's lead and end whaling for good?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nbcnews.com/world/europe/iceland-propose-whaling-ban-leaving-norway-japan-isolated-rcna596976",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "After $300 million in tariff refunds, Nintendo won't give players cash back but you will get",
+    "angle": "Tariff refunds are supposed to trickle down, but Nintendo's version is a store discount dressed up as a 'thank you' - it's the kind of corporate spin that gets people fired up about who actually benefits from tariff relief.",
+    "bullets": [
+      " Nintendo reportedly received $300 million in tariff refunds",
+      " Instead of passing savings directly to customers, they're running a 'Customer Appreciation Sale'",
+      " Is a '30% off sale' a real refund, or just marketing spin dressed up as generosity?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gamesradar.com/games/after-usd300-million-in-tariff-refunds-nintendo-wont-give-players-cash-back-but-you-will-get-30-",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Florida woman sues over wrongful arrest tied to Flock camera data",
+    "angle": "Flock Safety's license-plate cameras are popping up in neighborhoods all over the U.S. and Canada, and this lawsuit taps straight into the growing unease about AI surveillance making real-world mistakes with real consequences.",
+    "bullets": [
+      " A Florida woman is suing after she says she was wrongfully arrested based on data from a Flock Safety license-plate camera.",
+      " Flock Safety's automated camera network is used by police departments across the U.S. and Canada to track vehicles by plate number.",
+      " Would you trust a camera's read on a license plate enough to put someone in handcuffs?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.foxnews.com/tech/innocent-woman-says-police-use-flock-camera-led-13-days-jail?msockid=302df82831bf6695193aed7",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Ontario Science Centre laying off entire science department",
+    "angle": "The Ontario Science Centre has been stuck in limbo since its abrupt 2024 closure over structural safety issues, and now word is the actual science staff are getting laid off entirely - which raises the obvious, kind of absurd question of what's even left to call a \"science centre.\"",
+    "bullets": [
+      " A science centre laying off all its scientists - so what exactly are taxpayers left funding?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/toronto/politics/queens-park/article/ontario-science-centre-laying-off-entire-science-department/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada and Ukraine sign 100-year agreement to work together on defence, energy and",
+    "angle": "A full century-long pact covering defence, energy and trade is a huge, unusual commitment - it signals how deep Canada's ties to Ukraine now run, and it's the kind of long-horizon deal that raises the obvious question: what happens over the NEXT 100 years to make this worth it?",
+    "bullets": [
+      " Canada and Ukraine signed an agreement spanning 100 years",
+      " A 100-year commitment to another country - smart long-term alliance-building, or a promise no government can actually guarantee?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theglobeandmail.com/business/article-canada-and-ukraine-sign-100-year-agreement-trade-defence/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada\u2019s Most Popular Conservative Is Mark Carney",
+    "angle": "A viral Reddit thread claims Liberal PM Mark Carney is more popular with conservative-leaning Canadians than any actual Conservative politician - a head-scratcher that gets at just how scrambled party loyalty has become north of the border.",
+    "bullets": [
+      " Mark Carney currently sits as Canada's Liberal Prime Minister",
+      " If your favorite politician is a Liberal PM, can you really call yourself a conservative anymore?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thewalrus.ca/canadas-most-popular-conservative-is-mark-carney/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Zelenskyy says Canada has agreed a big air defence package for Ukraine",
+    "angle": "Zelenskyy just publicly namechecked Canada for a major air defence deal at a moment when Russian strikes on Ukrainian cities are ramping up \u2014 it's a reminder Canada's more involved in this war than most Canadians probably realize.",
+    "bullets": [
+      " Volodymyr Zelenskyy says Canada has agreed to a significant air defence package for Ukraine",
+      " Details on cost, equipment type, and timeline aren't yet confirmed in early reporting",
+      " Should Canada be spending more on Ukraine's air defence, or is it time to pull back and focus at home?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cp24.com/news/canada/2026/09/10/pm-carney-tells-zelenskyy-canada-will-help-ukraine-rebuild/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Poilievre tells U.S. TV Canadians are 'wounded' and 'confused' to be in America's",
+    "angle": "Canada's opposition leader took his case straight to an American audience, calling out how blindsided and hurt Canadians feel being treated as a target south of the border - a soundbite that taps right into the ongoing cross-border tension both hosts' audiences are already living through.",
+    "bullets": [
+      " Pierre Poilievre took his message directly to a U.S. TV audience instead of just Canadian outlets.",
+      " He said Canadians feel 'wounded' and 'confused' about ending up in America's crosshairs.",
+      " Do you feel 'wounded and confused' by how the U.S. has been treating Canada lately, or is that overselling it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/poilievre-new-york-carney-trump-9.7338906",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Man accused in Mexican condo scheme claims he was a victim, too",
+    "angle": "Man accused in Mexican condo scheme claims he was a victim, too",
+    "bullets": [],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/mexico-fraud-play-del-carmen-9.7338103?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Netflix special proves Stavros Halkias is the Left's best spokesperson",
+    "angle": "A think-piece is making the rounds arguing that comedian Stavros Halkias' new Netflix special does more to sell progressive politics than most actual politicians - which is exactly the kind of 'wait, really?' claim that gets people talking.",
+    "bullets": [
+      " Do comedians actually change minds on politics, or just preach to the choir that already agrees with them?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sfgate.com/sf-culture/article/netflix-comedy-stavros-halkias-22423004.php",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Andrew Garfield Immediately Stopped Using ChatGPT After 'Artificial' Shoot: 'The More You",
+    "angle": "It's the classic AI-in-Hollywood freakout story with a celebrity face on it \u2014 a movie star reportedly got spooked enough by using ChatGPT on set that he quit cold turkey, which taps right into the bigger 'is AI coming for art' conversation everyone's already having.",
+    "bullets": [
+      " Andrew Garfield reportedly stopped using ChatGPT after working on the film 'Artificial'",
+      " His reaction was summed up with the line: 'The more you know'",
+      " Would learning how AI actually works behind the scenes make you use it less \u2014 or more?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thewrap.com/culture-lifestyle/culture/andrew-garfield-chatgpt-artificial-sam-altman-movie-kimmel/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Dan Schneider Loses \u2018Quiet on Set\u2019 Defamation Suit on Appeal",
+    "angle": "The former Nickelodeon boss tried to fight back against the bombshell documentary that reignited scrutiny of his shows, and the courts just shut him down again \u2014 a real gut-check moment for anyone who watched 'Quiet on Set.'",
+    "bullets": [
+      " Dan Schneider filed a defamation suit over the docuseries 'Quiet on Set'",
+      " An appeals court has now ruled against him, upholding the earlier dismissal",
+      " Does this ruling feel like accountability finally sticking, or are we still not getting the full story?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/dan-schneider-quiet-on-set-defamation-dismissed-appeal-1236858005/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hasan Piker\u2019s reaction to his photo being featured in an ad shown at the Republican",
+    "angle": "A left-wing streamer becoming a literal ad villain at a Republican convention is pure politics-meets-internet-culture chaos, and his reaction is already ricocheting through gossip and political corners of the internet alike.",
+    "bullets": [
+      " Hasan Piker, one of the biggest political streamers on Twitch, reportedly turned up as imagery in an ad shown at the Republican midterm convention.",
+      " His response to being used that way is what's now circulating and fueling the story.",
+      " Fair game or foul play: should political parties get to slap a streamer's face on attack ads without them saying yes?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/u7awxtds9moh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hasbro condemns the Department of Homeland Security for using Optimus Prime in a post.",
+    "angle": "A federal agency borrowing a beloved 80s cartoon icon for its own messaging, only to get publicly called out by the toy company that owns him \u2014 it's the kind of brand-versus-government mismatch that writes its own punchline.",
+    "bullets": [
+      " Hasbro, which owns the Transformers franchise, publicly condemned the Department of Homeland Security for using Optimus Prime in one of its posts.",
+      " Story is circulating out of r/fauxmoi, suggesting it's already generating chatter in pop-culture circles.",
+      " Should brands have a say when the government uses their characters to push a message?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1wcohtg",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Elon Musk calls documentary about him a 'hit piece' after buzzy debut",
+    "angle": "A splashy new documentary about Elon Musk just premiered to buzz, and now Musk is reportedly lawyering up and torching the director online \u2014 a billionaire-vs-filmmaker feud is exactly the kind of messy, quotable drama that writes its own segment.",
+    "bullets": [
+      " Elon Musk is reportedly taking legal action over a new documentary about him",
+      " Musk called it a 'hit piece' on social media",
+      " He went after director Alex Gibney directly, calling him a 'horrible human'",
+      " Is this Musk protecting his image, or proof the documentary hit a nerve?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/musk-documentary-reaction-9.7339185?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Fans \u2018Burnin\u2019 Up\u2019 over NFL\u2019s odd Jonas Brothers halftime choice",
+    "angle": "The NFL took its Melbourne game global with a Jonas Brothers halftime show on Netflix, and fans are split on whether a boy-band reunion belongs at midfield during an actual game.",
+    "bullets": [
+      " Fans flooded social media with reactions to the pick, split between excitement and confusion over the choice."
+    ],
+    "debate": "Good halftime pick or proof the NFL will book literally anyone for a streaming game?",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/10/sports/fans-react-odd-jonas-brothers-halftime-show-rams-49ers-game/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Fans bash Netflix for sound issues during the Rams and 49ers game: \u2018It\u2019s almost",
+    "angle": "Netflix paid big to stream NFL games and fans are torching them online for busted audio during the Rams-49ers matchup \u2014 a real gut-check for their live sports push.",
+    "bullets": [
+      " Fans flooded social media calling the broadcast \"almost unwatchable\" due to sound issues.",
+      " Comes as Netflix continues expanding into live NFL streaming.",
+      " Should Netflix stick to movies and leave live sports to the pros?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/10/sports/fans-bash-netflix-over-audio-issues-during-nfl-game/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Backlash Grows as Texas Republican Convention Flashes Hasan Piker Underwear Pic on",
+    "angle": "A state political convention accidentally turned into a meme by flashing a shirtless/underwear photo of left-wing streamer Hasan Piker on the big screen \u2014 and the internet immediately clocked the irony of Republicans fixating on him.",
+    "bullets": [
+      " Online reaction leaned into the irony, with commenters joking 'they want him so bad'.",
+      " Story is circulating widely on r/nottheonion, signaling viral, not-just-political-junkie reach.",
+      " Callers: is this just a convention screwup, or proof your political opponents are more obsessed with you than your own side is?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thenerdstash.com/backlash-grows-as-texas-republican-convention-flashes-hasan-piker-underwear-pic-on-jumbotron-they-wan",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'Entourage' Creator Slams Ad Reuniting Jeremy Piven and Adrian Grenier - Variety",
+    "angle": "A nostalgic reunion ad just turned into a public feud, with the show's own creator publicly trashing it - that's the kind of Hollywood pettiness that gets people talking.",
+    "bullets": [
+      " Doug Ellin, creator of Entourage, publicly slammed a new ad reuniting stars Jeremy Piven and Adrian Grenier.",
+      " He called it a \"cheap, shitty imitation\" of his HBO comedy.",
+      " Piven and Grenier reunited on screen for the ad, seemingly without Ellin's blessing.",
+      " Is it fair for a creator to trash his own former stars for cashing in on nostalgia, or is that just Hollywood being Hollywood? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/news/entourage-creator-slams-ad-jeremy-piven-adrian-grenier-1236856363/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Kris Jenner\u2019s alleged \u2018stalker\u2019 has explosive criminal history, bizarre behavior caught on",
+    "angle": "A guy with a documented history of legal trouble in Hawaii allegedly shows up fixated on Kris Jenner \u2014 it's the kind of celebrity-safety story that always gets people talking about how exposed famous people really are.",
+    "bullets": [
+      " Suspect Zenwilliam Bronze Robson, 25, was arrested on Sept. 7",
+      " Robson allegedly has a history of legal issues out of Hawaii before this arrest",
+      " Reports describe 'bizarre behavior' from Robson caught on video",
+      " How much protection is actually enough when a celebrity has a known stalker with a history like this? pagesix.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/10/celebrity-news/kris-jenners-alleged-stalker-has-explosive-criminal-history/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A butterfly that was down to just 9 known in the US in 2022 has been brought back from the",
+    "angle": "This little guy was down to single digits in the wild two years ago \u2014 basically extinction-watch territory \u2014 and now scientists have hundreds of them flying around again. It's the rare good-news environmental story that isn't just 'we're doomed.'",
+    "bullets": [
+      " Researchers released more than 1,300 captive-raised skipperlings back into the wild in 2025.",
+      " They're now spotting hundreds of them at recovery sites in the wild.",
+      " When's the last time you heard an animal was saved from basically going extinct \u2014 and does that news ever actually reach people, or does it just get drowned out by bad news?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://msutoday.msu.edu/news/2026/08/bringing-butterflies-back-from-extinction",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Norway's capital Oslo, said it had banned smart glasses in schools, saying the move was",
+    "angle": "This is the privacy backlash getting real: a major European capital is drawing a hard line on AI wearables in classrooms, and it's forcing the question every parent is quietly asking \u2014 how much of my kid's life is Big Tech quietly recording?",
+    "bullets": [
+      " Oslo, the capital of Norway, has banned smart glasses in its schools.",
+      " City officials say the goal is to stop kids from becoming \"extras in Meta's data collection\".",
+      " Should schools here ban smart glasses too, or is this just Europe being extra about tech again?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thelocal.no/20260910/oslo-bans-smart-glasses-in-schools",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Belly Fat, Not Age, May Be Bigger Driver of Low Testosterone: Visceral fat, or deep fat in",
+    "angle": "Every guy over 35 blames low T on getting older, but new research says belly fat \u2014 not birthdays \u2014 might be the real culprit, and that reframes a huge chunk of men's health chatter.",
+    "bullets": [
+      " New research points to visceral fat (the deep abdominal fat around organs) as a more precise driver of low testosterone than age itself",
+      " Popular weight-loss drugs like Ozempic and Wegovy could end up treating low T indirectly by targeting that belly fat",
+      " Suggests testosterone replacement therapy may be treating a symptom, not the root cause, for some men",
+      " So is the fix for 'low T' actually just a smaller waistline instead of a prescription?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/belly-fat-not-age-may-be-the-bigger-driver-of-low-testosterone",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "CLOSER: THROWBACK THURSDAY",
+    "title": "Cult classic Donnie Darko will return to theaters in 4K for its 25th anniversary in October",
+    "angle": "It's the ultimate dorm-room cult classic getting the royal treatment for its 25th birthday \u2014 perfect throwback bait for anyone who still argues about what that ending actually means.",
+    "bullets": [
+      " Donnie Darko returns to theaters for its 25th anniversary",
+      " It hits theaters starting October \u2014 timed right for spooky season",
+      " Be honest \u2014 are you buying a ticket to relive this one, or was it strictly a college-apartment-couch movie? ON-AIR BIT BREAKDOWN - Step 1: The 60-Second Explain-It Challenge - clock it live on air -> Give each host 60 seconds to explain the Donnie Darko time-travel plot from memory \u2014 no cheating, no Googling. - Step 2: First Watch Flashback - quick round, keep it moving -> Each host shares where/when they first saw it and whether it actually holds up 25 years later."
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 73/90 (40 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thehorrorlounge.com/post/cult-classic-donnie-darko-will-return-to-theaters-in-4k-for-its-25th-anniversary-in-october",
+    "score": "73/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "A new generation of batteries could make storing clean energy cheaper and easier: sodium",
+    "angle": "A new type of battery swaps expensive lithium for salt, of all things, and it could make clean energy storage cheaper for everyone. It's already moving into real factories, not just a lab experiment.",
+    "bullets": [
+      " Sodium-ion batteries use sodium instead of lithium, and sodium is way more abundant and cheaper to source.",
+      " They can handle extreme temperatures without needing a separate cooling system.",
+      " They're already moving into mass production at major battery factories, not just prototypes.",
+      " If a battery made from basically salt could make your next phone, car, or power wall cheaper, does the brand name even matter to you anymore?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.solarpowerworldonline.com/2026/08/sodium-ion-batteries-are-ready-for-world-domination/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "California city canceled Flock, removed its cameras, then found the company had put some",
+    "angle": "A California city voted to dump its license-plate camera contract and yank the cameras down, only to discover the company quietly put some of them back up \u2014 a real-life \"we said no\" moment that's got surveillance-skeptics and privacy folks fired up.",
+    "bullets": [
+      " A California city canceled its contract with license-plate reading company Flock and had the cameras removed.",
+      " Some of those same cameras reportedly went back up anyway, seemingly without the city's sign-off.",
+      " Story is blowing up on r/nottheonion for how brazenly it plays out.",
+      " If a company you fired put its equipment right back up on your street, would you even notice?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 53/90 (45 fit + 12 source + 21 quality - 25 penalty (used within the last 30 days)) -> STRONG",
+    "url": "https://www.techspot.com/news/113769-california-city-canceled-flock-removed-cameras-found-company.html",
+    "score": "53/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "NASA found possible sign of life on Mars, but sample remains stuck there",
+    "angle": "This is peak 2026 irony: humanity might have finally found a sign we're not alone in the universe, and the evidence is just sitting on Mars because we don't have a way to grab it and fly it back yet.",
+    "bullets": [
+      " NASA says it found a possible sign of life on Mars",
+      " Story is making rounds on r/nottheonion for how absurd the timing/logistics are",
+      " If NASA can find hints of alien life but can't retrieve the evidence, are we even a serious space-faring species yet?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.newsweek.com/nasa-found-possible-sign-life-mars-sample-stuck-12416439",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Xbox Swoops In To Save Kojima's Stealth Action Game Physint After PlayStation Tried To",
+    "angle": "A huge gaming-world name, Hideo Kojima, and a console war plot twist \u2014 his stealth game reportedly got cancelled by PlayStation and swooped up by Xbox, which is exactly the kind of corporate drama gamers eat up.",
+    "bullets": [
+      " Hideo Kojima's stealth action game Physint reportedly faced cancellation at PlayStation",
+      " Xbox reportedly stepped in to save the project",
+      " Sony or Microsoft \u2014 who actually treats big-name game creators better?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://kotaku.com/xbox-swoops-in-to-save-kojimas-stealth-action-game-physint-after-playstation-tried-to-cancel-it-2000732992",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Hideo Kojima\u2019s Physint has jumped from PlayStation to Xbox, after Kojima says Sony tried",
+    "angle": "Hideo Kojima is one of the most famous names in gaming, and his claim that Sony tried to cancel Physint before it jumped ship to Xbox is exactly the kind of console-war drama that gets gamers and non-gamers alike talking about loyalty, big-budget bets gone wrong, and Xbox's aggressive exclusive-poaching push.",
+    "bullets": [
+      " Hideo Kojima, the legendary creator behind Metal Gear Solid and Death Stranding, is behind the game Physint.",
+      " Kojima says Sony tried to cancel the project.",
+      " Physint has now moved from PlayStation to Xbox.",
+      " Would you switch platforms just to follow a favorite creator's next game?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.videogameschronicle.com/news/hideo-kojimas-physint-has-jumped-from-playstation-to-xbox-after-kojima-says-sony-tried",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-10",
     "slot": "am",
     "category": "THE LIST",
     "title": "New York\u2019s loneliest county ranked by number of sad singles \u2014 and it\u2019s bad news for The",
