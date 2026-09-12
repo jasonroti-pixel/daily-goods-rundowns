@@ -1,6 +1,549 @@
 [
   {
     "date": "2026-09-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Russian plot to sabotage undersea cables with \"secret weapon\" foiled by NATO \u2014 clandestine op uncovers training exercise simulating deployment against infrastructure in Norway | The two lines are the world's largest undersea cables",
+    "angle": "This isn't hacking a website \u2014 it's a suspected plan to physically sabotage the massive cables that carry global internet and communication traffic, and NATO says it caught the training run before it went live. Cable sabotage fears have been building for months, so this plugs right into the bigger 'is Russia testing our infrastructure' conversation.",
+    "bullets": [
+      " NATO uncovered a clandestine Russian operation reportedly rehearsing to deploy a 'secret weapon' against undersea infrastructure",
+      " Those two lines are described as the world's largest undersea cables",
+      " It was caught as a training exercise simulating the attack, not a live strike",
+      " If a handful of underwater cables carry most of our internet, how exposed are we really \u2014 and should this freak people out more than it does?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/russian-plot-to-sabotage-undersea-cables-with-secret-weapon-foiled-by-nato-clandesti",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Jimmy Kimmel\u2019s Pulled TV Interview With James Talarico Drops on YouTube as Texas Senate Candidate Says: \u2018They\u2019re Worried We\u2019re Going to Win This Race\u2019",
+    "angle": "A TV interview that got pulled from air resurfacing on YouTube is catnip for a 'what are they hiding' conversation, and it's got a real political edge since the guy in it is running for Senate and saying the quiet part out loud.",
+    "bullets": [
+      " Jimmy Kimmel's interview with James Talarico was reportedly pulled from TV before it aired.",
+      " Talarico, a Texas Senate candidate, responded with: \"They're worried we're going to win this race.\"",
+      " Was this actually spiked for political reasons, or is 'the network is scared of us' just a great campaign soundbite?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/jimmy-kimmel-pulled-james-talarico-inteview-youtube-watch-1236857444/",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Meet the 9/11 Couple Whose Surprising Love Story Became a Hit Musical (Exclusive) -",
+    "angle": "On the anniversary of 9/11, this is the ultimate silver-lining story \u2014 two strangers thrown together by tragedy who found love, and now their story is being sung on stage every night. It's a feel-good hook on an otherwise heavy news day.",
+    "bullets": [
+      " Callers: do you know a couple whose 'how we met' story sounds too wild to be true? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "ncmxCU0UzZUVhRm96eS1UX0ZBOEdyam00NFp2RkRLTDF3OXdNM1VDV2YyTUotQQ?oc=5",
+    "source": "People.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVjlNRExHcFJib1oyS1pHbXMtbWdnMzZCS0NPNE9jWUJVVDZjRm9rM0",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "France has banned advertising for ultra fast fashion and prohibited influencers from promoting it, with fines of up to \u20ac100,000 for violations. The new law also requires major platforms to disclose where clothing is made and makes polluting fashion producers pay more toward textile recycling.",
+    "angle": "France is going after Shein and Temu-style ultra-fast fashion with real teeth \u2014 no ads, no influencer promo, and fines up to \u20ac100,000 \u2014 which raises the obvious question of whether North America should be doing the same thing.",
+    "bullets": [
+      " France has banned advertising for ultra fast fashion brands nationwide.",
+      " Influencers are now prohibited from promoting ultra fast fashion products.",
+      " Violators face fines of up to \u20ac100,000.",
+      " Would you be on board if the US or Canada banned Shein-style ads tomorrow, or is that government overreach into your shopping cart?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.intertek.com/products-retail/insight-bulletins/2026/1548-france-adopts-landmark-law-targeting-ultra-fast-fashion/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "A $50 million gift from MacKenzie Scott is being dedicated entirely to Native students, with $10 million funding scholarships over the next five years and $40 million placed in a permanent endowment to support Native students for generations to come.",
+    "angle": "Billionaire philanthropist MacKenzie Scott keeps making headlines for giving away massive chunks of her fortune with no strings attached, and this time the entire gift is earmarked for Native American students \u2014 a group that historically gets a sliver of national scholarship dollars.",
+    "bullets": [
+      " MacKenzie Scott is behind the gift \u2014 the billionaire philanthropist known for giving away billions with little fanfare",
+      " $50 million total, split into two pieces",
+      " $10 million goes to scholarships for Native students over the next five years",
+      " $40 million goes into a permanent endowment meant to support Native students for generations",
+      " Is a permanent endowment a bigger win long-term than direct scholarships right now \u2014 which would you rather see your money go to?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nativenewsonline.net/education/native-forward-dedicates-entire-50-million-mackenzie-scott-gift-to-native-students-future-gener",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "SpaceX sues to block Texas from releasing Terafab tax-break records",
+    "angle": "SpaceX is suing to keep Texas from handing over records on the tax breaks tied to its Starbase-area Terafab plant \u2014 a classic 'we want public money but not public scrutiny' fight that plays right into the Elon Musk transparency debate.",
+    "bullets": [
+      " SpaceX filed suit to block the release of records tied to its Terafab facility in Texas",
+      " Raises the recurring question of how much transparency companies owe taxpayers when they take public incentives",
+      " Should companies get to hide the details of taxpayer-funded deals just because they don't like the press?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.businessinsider.com/spacex-terafab-tax-break-records-ai-transparency-texas-2026-9",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Polish developer builds app, called Zuckoff, that detects nearby Meta smart glasses.",
+    "angle": "Meta's smart glasses can secretly record anyone nearby, so a Polish developer built an app that detects when a pair is close by \u2014 this is the privacy backlash story that's been brewing since those glasses launched, and it's got legs everywhere people wear tech in public.",
+    "bullets": [
+      " A developer from Poland built the app, reportedly nicknamed \"Zuckoff\"",
+      " It's designed to detect Meta smart glasses in your vicinity",
+      " Taps into growing public unease about being recorded without consent in everyday spaces",
+      " Would you actually use an app to check if someone's secretly filming you with smart glasses right now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://tvpworld.com/95328093/polish-developers-iphone-app-detects-nearby-meta-smart-glasses",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Fed up with Sony, PlayStation fans compile a list of all the times the company said \"you own\" your games and archive every last receipt",
+    "angle": "Fed up with Sony, PlayStation fans compile a list of all the times the company said \"you own\" your games and archive every last receipt",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gamesradar.com/games/fed-up-with-sony-playstation-fans-compile-a-list-of-all-the-times-the-company-said-you-own-you",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "B.C. judge tosses drug case, says U.S. agents broke law and violated Canadian sovereignty",
+    "angle": "A B.C. judge just accused American federal agents of running an illegal operation on Canadian soil, pressuring a Canadian into a money-laundering scheme without telling the RCMP - and the case got thrown out because of it. It's a rare, blunt sovereignty smackdown that raises the question of how much U.S. law enforcement quietly operates north of the border.",
+    "bullets": [
+      " A B.C. judge ruled U.S. federal agents broke the law operating in Canada",
+      " Agents allegedly pressured a Canadian citizen into a money-laundering conspiracy",
+      " Should American agents be allowed to run undercover operations on Canadian soil without telling our own police?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/dea-drug-trafficking-decision-bc-judge-9.7340597?cmp=rss",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Former PM Chretien to U.S.: \u2018We bow to no one\u2019",
+    "angle": "A former Canadian PM firing back at the U.S. is exactly the kind of cross-border needling that gets patriotic pushback going on both sides of the border - especially with U.S.-Canada tension already a live topic.",
+    "bullets": [
+      " Former Canadian Prime Minister Jean Chr\u00e9tien delivered a defiant message aimed at the U.S.",
+      " Is this old-school Canadian pride or a real sign U.S.-Canada relations are fraying?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/canada/article/former-pm-chretien-to-us-we-bow-to-no-one/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Poilievre says Canada will never be \u201851st state\u2019 on U.S. media tour",
+    "angle": "Trump's talk of Canada as the '51st state' has been a running joke-that's-not-really-a-joke for months, and now Poilievre is going straight at American audiences on their own airwaves to shut it down - that's a story about national pride hosts and callers will have opinions on.",
+    "bullets": [
+      " Pierre Poilievre hit the U.S. media circuit specifically to push back on the idea",
+      " Comes amid ongoing chatter (largely from Trump) floating that exact idea over the past year",
+      " Does it bug you that this even has to be said out loud, or is it smart politics for Poilievre to go on U.S. TV and say it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thestar.com/politics/poilievre-says-canada-will-never-be-51st-state-in-u-s-media-tour/article_b6991e9d-05ee-4b58-8f67-4",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "On this September 11, I would like to say a big Thank You to our neighbors to the north!",
+    "angle": "On the anniversary of 9/11, a Reddit post is going viral for the right reasons - a heartfelt thank-you to Canadians who took in stranded American travelers, a reminder of the 'Come From Away' spirit that still resonates today.",
+    "bullets": [
+      " Poster's parents were flying from the U.S. Midwest to British Columbia for an anniversary trip when the towers were hit",
+      " Their plane, somewhere over Indiana, got rerouted and diverted to Toronto",
+      " Canadian hosts put them up in a hotel at no expense for 6 days straight",
+      " It took a full week to get home, and they never got to take the Rockies rail trip they'd dreamed of",
+      " Anyone else got a story of Canadian hospitality from 9/11 - call in, we want to hear it."
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/r/canada/comments/1wdfz2r/on_this_september_11_i_would_like_to_say_a_big/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Zelenskyy lands in North Bay, Ont., greeted by Ukrainians and allies",
+    "angle": "Ukraine's president making a stop in a smaller Ontario city instead of just Ottawa or Toronto is unusual, and it's a reminder of how deep Ukrainian-Canadian ties run outside the big cities.",
+    "bullets": [
+      " Volodymyr Zelenskyy landed in North Bay, Ontario as part of a Canadian visit.",
+      " He was met on arrival by a crowd of local Ukrainians and allies.",
+      " North Bay isn't a typical stop for a head-of-state visit, which is part of why this is turning heads.",
+      " Did you know North Bay had that big a Ukrainian community until this?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/northern-ontario/article/zelenskyy-lands-in-north-bay-ont-greeted-by-ukrainians-and-allies/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Zelenskyy describes Canada-U.S. tensions as 'strange,' draws comparison to Ukraine and Russia",
+    "angle": "Ukraine's president is weighing in on the Canada-U.S. relationship, and the comparison he's drawing \u2014 to Ukraine and Russia \u2014 is the kind of blunt, geopolitical soundbite that instantly raises eyebrows north of the border.",
+    "bullets": [
+      " Volodymyr Zelenskyy called the current state of Canada-U.S. relations \"strange\"",
+      " He drew a direct comparison between that dynamic and the relationship between Ukraine and Russia",
+      " Comments came amid ongoing strain in the Canada-U.S. relationship under the current political climate",
+      " Is it wild - or fair - for Zelenskyy to compare Canada's relationship with the U.S. to Ukraine's with Russia?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/ukraine-president-volodymyr-zelenskyy-canada-drones-defence-russia-9.7340909?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Lily Wachowski: \"You\u2019ve got to hand it to Christopher Nolan for casting Elliot Page in The Odyssey. That right there is the definition of allyship, and the fact that Nolan is going out there, talking up Elliot about how awesome he was to work with speaks volumes about him as a human being...\"",
+    "angle": "Elliot Page delivers a heralded performance in a $2 billion blockbuster and still can't get his phone to ring \u2014 Lily Wachowski is naming the quiet part out loud, and it's sparking a real conversation about how Hollywood treats trans actors.",
+    "bullets": [
+      " Elliot Page says he's not getting calls after \"The Odyssey\" despite an Oscar-nominated turn",
+      " Lily Wachowski praised Christopher Nolan for casting Page, calling it \"the definition of allyship\"",
+      " Wachowski points out Nolan has publicly talked up Page's performance and work ethic",
+      " If a trans actor can headline a $2B movie and still not get the phone to ring, is Hollywood's 'progress' just for show?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/features/lilly-wachowski-jk-rowling-harry-potter-trans-the-matrix-1236858104/",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Judge Judy retiring from on-camera TV after 30 years, son to take the gavel",
+    "angle": "Dolly Parton is one of the most universally loved names in entertainment, so news of an airport officially taking her name is exactly the kind of feel-good, shareable pop-culture moment that gets people smiling and talking.",
+    "bullets": [
+      " Judge Judy is stepping away from on-camera hosting after 30 years on TV.",
+      " Her son is set to take over hosting duties, keeping the franchise in the family.",
+      " Can anyone else actually pull off the 'Judge Judy' attitude, or was that always a one-woman show?",
+      " A vote to rename an airport after Dolly Parton passed unanimously.",
+      " If you could name a local landmark after any celebrity, who's getting the honor?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://faroutmagazine.co.uk/dolly-parton-airport-set-nashville-after-unanimous-vote/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Zohran Mamdani shaking hands with Islamophobe Rudy Giuliani at the Sept. 11 ceremony, after Giuliani had tried to tell him not to attend in the first place",
+    "angle": "An awkward-as-it-gets photo op is ricocheting around the internet: a tense handshake at a solemn Sept. 11 ceremony between two guys who reportedly weren't even supposed to be in the same room by choice.",
+    "bullets": [
+      " Zohran Mamdani and Rudy Giuliani were photographed shaking hands at the Sept. 11 memorial ceremony",
+      " Do you take the handshake and take the high road, or was showing up at all the real win here?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/d2bfvlcd6xoh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Carlos Rodon, Yankees hold off Mets for important win to open Subway Series",
+    "angle": "It's Yankees vs. Mets, the one series New Yorkers actually argue about at the water cooler \u2014 and this year the stakes are lopsided, since only one of these teams is really chasing something in the standings.",
+    "bullets": [
+      " Carlos Rodon got the win as the Yankees held off the Mets to open the Subway Series.",
+      " Yankees or Mets \u2014 whose season actually matters more right now, and does a Subway Series win even move the needle?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/11/sports/carlos-rodon-yankees-hold-off-mets-for-win-to-open-subway-series/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Odell Beckham Jr. returns to vintage Giants form \u2014 in more ways than just his hair",
+    "angle": "Odell Beckham Jr. returning to the team that made him a superstar is the kind of full-circle sports moment that transcends football fans \u2014 it's nostalgia, redemption, and a little bit of soap opera all at once.",
+    "bullets": [
+      " Odell Beckham Jr. is back with the New York Giants, the team where he became a superstar",
+      " Reports describe his start as looking like \"vintage Giants form\" \u2014 on the field and with his signature hair",
+      " Is OBJ's Giants return the ultimate redemption arc, or just a nostalgia play that won't last?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/11/sports/odell-beckham-jr-returns-to-vintage-giants-form/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Being Heumann\u2019 review: \u2018CODA\u2019 director returns with warm but generic disability rights movie",
+    "angle": "The guy behind Oscar-winner CODA just premiered a disability rights doc at TIFF, and reviewers are basically saying it plays it too safe \u2014 a good hook for a quick \"does every issue movie feel the same now?\" chat.",
+    "bullets": [
+      " \"Being Heumann\" just had its world premiere at the Toronto International Film Festival.",
+      " It's directed by the same filmmaker behind \"CODA,\" which won Best Picture at the Oscars.",
+      " Critics say it feels like too many other \"us-against-the-man\" movies \u2014 \"soothing rather than galvanizing.\"",
+      " Does Hollywood keep making the same \"inspirational\" issue movie instead of ones that actually challenge you?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "California bans addictive social media features for children under 16 and tightens AI chatbot rules",
+    "angle": "This is a big one because California tech laws tend to set the tone for the whole country - if this sticks, it could force every major platform to redesign how they hook teenage users, and it's the first real crackdown on AI chatbots marketed to kids too.",
+    "bullets": [
+      " California passed a law banning \"addictive\" social media design features for users under 16",
+      " It puts California at the front of the national fight over tech companies designing apps to hook young users",
+      " Should every state copy California and ban addictive app features for kids, or is this government overreach into how families raise their own teens?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/113820-california-bans-addictive-social-media-features-children-under.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Man Who Had Sex on Download Festival Ferris Wheel Learns He's All Over the Internet From His Boss",
+    "angle": "A couple's private moment on a Ferris wheel at Download Festival turned into an internet moment, and now it's reportedly made its way back to his workplace \u2014 the ultimate 'when a viral clip finds you' story.",
+    "bullets": [
+      " Footage of the encounter spread online and went viral",
+      " What's worse \u2014 getting caught on camera, or your boss being the one who sends you the link?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/download-festival-ferris-wheel-sex-video-fine-1763914",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "A Metal Detectorist Just Discovered Finland\u2019s Largest Hoard of Viking Age Silver\u2014But Was It Plunder?",
+    "angle": "A hobbyist with a metal detector just stumbled onto the largest Viking Age silver hoard ever found in Finland \u2014 and now archaeologists are debating whether it was buried savings or straight-up war loot.",
+    "bullets": [
+      " Experts say it's the largest Viking Age silver hoard ever recorded in Finland",
+      " By weight alone, the silver would be worth close to $10,000 today",
+      " Buried nest egg or stolen Viking plunder \u2014 which story do you want to be true? gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/a-metal-detectorist-just-discovered-finlands-largest-hoard-of-viking-age-silver-but-was-it-plunder-2000810800",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Wisconsin restored former farmland into prairie; researchers found more bumblebees and rare species only at the restored sites.",
+    "angle": "It's a rare good-news environmental story: turn dirt back into wildflowers and nature actually bounces back, fast. Great low-stakes chat starter about backyards, lawns, and doing something small for the planet.",
+    "bullets": [
+      " Wisconsin has been converting former farmland back into native prairie",
+      " Native prairie blooms in stages through spring, summer, and fall, giving bees food way longer than a single crop field can",
+      " Researchers found more bumblebees \u2014 and some rare species \u2014 showed up *only* at the restored prairie sites",
+      " Would you rip out part of your lawn for a wildflower patch if it meant more bees (and fewer mosquitoes)?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://timesofindia.indiatimes.com/science/nature/wisconsin-restored-former-farmland-into-prairie-researchers-found-more-bumbleb",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Californians projected to spend $675 million on OnlyFans this year: study",
+    "angle": "It's the kind of eyebrow-raising stat that writes its own headline - a huge dollar figure tied to one state's subscription habits, perfect for a quick \"wait, how much?\" chat.",
+    "bullets": [
+      " New study projects Californians will spend $675 million on OnlyFans this year alone",
+      " California reportedly leads the pack among U.S. states for subscription spending on the platform",
+      " Story's already blowing up on r/nottheonion for how wild the number sounds out loud",
+      " What's the one dumb thing you'd guess your own city collectively overspends on?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ktla.com/news/california/californians-projected-to-spend-675-million-on-onlyfans-this-year-study/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Dating Apps Are Dying",
+    "angle": "Everyone's got a dating app horror story, and lately the chatter online is that people are just done swiping \u2014 that's a conversation both hosts can jump into with their own experience.",
+    "bullets": [
+      " Have you deleted a dating app this year \u2014 and did it actually help your love life?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://time.com/article/2026/09/09/dating-apps-are-dying/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Matt Berry is now a sentient Ikea shelf in Skyrim",
+    "angle": "A modder apparently gave a Skyrim shelf the voice of actor Matt Berry, and the internet can't decide if it's genius or unhinged - exactly the kind of gloriously stupid gaming story that makes for a great kicker.",
+    "bullets": [
+      " Would you rather your furniture talk like Matt Berry, or just stay quiet forever?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.pcworld.com/article/3233287/matt-berry-is-now-a-sentient-ikea-shelf-in-skyrim.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Ryanair CEO compares rival airlines to 'rapists'",
+    "angle": "Ryanair's boss is infamous for saying the quiet part loud, but comparing competitors to rapists is a whole new level of unhinged \u2014 exactly the kind of quote that makes r/nottheonion feel like satire until you check the source.",
+    "bullets": [
+      " It's landed on r/nottheonion \u2014 the internet's go-to spot for real news too wild to sound real.",
+      " What's the worst thing a CEO has ever said out loud in public?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.brusselstimes.com/2312302/ryanair-ceo-compares-rival-airlines-to-rapists",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Boy, 15, Drifted for Days on an Overturned Boat Before Rescue",
+    "angle": "It's the kind of survival story that stops you mid-scroll \u2014 a 15-year-old holding on for days before finally getting spotted, a pure gut-punch-to-relief arc that's perfect for a feel-good closer.",
+    "bullets": [
+      " A 15-year-old boy survived for multiple days stranded at sea.",
+      " He stayed alive by clinging to his overturned boat the entire time.",
+      " He was eventually found and rescued alive.",
+      " Sometimes the whole story is just: he held on, and somebody found him \u2014 that's the win."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nytimes.com/2026/09/11/us/alaska-bering-sea-rescue-boy.html?unlocked_article_code=1.AVE.QHel.cTBpKo13Sg24&s",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "PlayStation Ditched Hideo Kojima\u2019s \u2018Physint\u2019 on Budget Concerns, Missed Deadlines",
+    "angle": "Hideo Kojima is one of the most famous names in gaming, so word that PlayStation quietly killed his passion project over money and delays is exactly the kind of industry drama that gets fans and casual gamers alike talking.",
+    "bullets": [
+      " PlayStation reportedly cancelled Hideo Kojima's in-development spy game \"Physint\"",
+      " Sources point to missed deadlines as a key factor in the decision",
+      " Is it fair for a studio to pull funding on a visionary director, or does even a legend like Kojima need to hit deadlines like everyone else?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-11/hideo-kojima-s-physint-video-game-dropped-by-playstation-goes-to-xbox?acce",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Gander, Canada, opened its doors after 9/11. Trump\u2019s ambassador risks a cooler welcome.",
+    "angle": "Gander, Newfoundland became a symbol of pure kindness on 9/11, taking in thousands of stranded travelers with zero notice. Now, with Canada-US relations frosty under Trump, the town's reception for his ambassador is being watched as a real barometer of how Canadians feel about their neighbor right now.",
+    "bullets": [
+      " Would you still roll out the welcome mat for an ambassador from a president your country's currently feuding with?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.politico.com/news/2026/09/11/gander-canada-hoekstra-01071859",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "\u2018Shame on you!\u2019 $10K worth of food stolen from non-profit seniors home",
+    "angle": "This is the kind of low-blow crime that gets a whole city fired up \u2014 stealing from a non-profit that feeds seniors hits a nerve fast, and it's tailor-made for listener outrage and calls to help.",
+    "bullets": [
+      " $10,000 worth of food was stolen from a non-profit seniors home",
+      " Details are still thin out of the gate, but the dollar figure and target (a seniors' non-profit) are what's driving the reaction",
+      " Would you turn someone in if you knew who did this \u2014 even if it meant a friend or neighbor?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/regina/article/shame-on-you-10k-worth-of-food-stolen-from-non-profit-seniors-home/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
     "slot": "am",
     "category": "THE LIST",
     "title": "New York changed in dramatic and surprising ways in the 25 years since 9/11",
