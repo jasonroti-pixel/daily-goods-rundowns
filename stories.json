@@ -1,5 +1,601 @@
 [
   {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "New York changed in dramatic and surprising ways in the 25 years since 9/11",
+    "angle": "It's the 25th anniversary of 9/11, and this piece digs into how dramatically New York itself changed afterward - not just security and skylines, but the mood of the city. It's a big, reflective conversation starter that resonates well beyond New York.",
+    "bullets": [
+      " Marks 25 years since 9/11, with a fresh look at how the attacks reshaped New York City",
+      " New Yorkers themselves say the city \"changed forever\" in the aftermath",
+      " Many residents worried the changes were for the worse, not the better",
+      " Where were you when you heard the news, and do you think your own city changed after 9/11 too? torontosun.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://torontosun.com/news/world/new-york-changed-in-dramatic-and-surprising-ways-in-the-25-years-since-9-11",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Florida woman sues over wrongful arrest tied to Flock camera data",
+    "angle": "Flock Safety's license-plate cameras are popping up in cities everywhere, and this lawsuit puts a real face on the fear people have about automated surveillance making life-altering mistakes.",
+    "bullets": [
+      " A Florida woman is suing after she says she was wrongfully arrested based on data from a Flock Safety license-plate camera.",
+      " Flock cameras are used by police departments nationwide to scan and track vehicles.",
+      " Should a camera's data ever be enough on its own to arrest someone?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.foxnews.com/tech/innocent-woman-says-police-use-flock-camera-led-13-days-jail?msockid=302df82831bf6695193aed7",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Former Obama Admin Official Says It's Time To Consider Military Strikes on Chinese Data Centers to Prevent Them From Reaching AGI",
+    "angle": "A former Obama administration official is floating military strikes on Chinese data centers to stop China from reaching artificial general intelligence first \u2014 a wild escalation in the AI arms race that turns tech policy into a national security flashpoint.",
+    "bullets": [
+      " A former Obama administration official is publicly suggesting the U.S. consider military strikes on Chinese data centers.",
+      " It reframes the AI race with China as a matter of national security and potential armed conflict, not just tech competition.",
+      " Is bombing data centers to stop an AI race sober strategy or dangerously reckless \u2014 where's the line?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.yahoo.com/news/politics/articles/former-obama-admin-official-says-180208350.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Millions Could Spend Half Their Income on Food by 2050, Scientists Warn: New projections suggest that by 2050, millions of the world's poorest people could be spending around half their income on food alone.",
+    "angle": "A new scientific projection warns the world's poorest people could be spending half their income just to eat by 2050 - a wake-up call as grocery prices are already a top complaint for listeners right now.",
+    "bullets": [
+      " New scientific projections point to 2050 as the flashpoint year",
+      " Millions of the world's poorest people could be affected",
+      " Food could eat up roughly half their income, per the forecast"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/millions-could-spend-half-their-income-on-food-by-2050-scientists-warn",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Chinese scientists propose converting some of the 12,000 abandoned coal mines across China into agricultural units, to test out new approaches to farming \u2013 approaches that might become increasingly important as the climate shifts. Another bonus of farming underground is access to geothermal energy.",
+    "angle": "It sounds like sci-fi, but it's a real pitch: repurpose thousands of dead mines into farmland that could survive a shifting climate, powered by free heat from deep underground. It's the kind of wild-but-plausible idea that makes people rethink what farming even looks like in 50 years.",
+    "bullets": [
+      " Scientists are eyeing roughly 12,000 abandoned coal mines across China for the project.",
+      " Researchers say it could be a hedge against climate shifts making surface farming harder.",
+      " Bonus perk: underground sites tap geothermal energy for heating/cooling farms for free.",
+      " Would you trust vegetables grown a half-mile underground in an old coal mine?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/chinese-scientists-propose-turning-abandoned-coal-mines-into-farming-laboratories",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Donald Trump\u2019s ban on Canadian spirits will mean lost jobs \u2014 but many will be in the U.S.",
+    "angle": "It's a trade war twist made for talk radio: a ban meant to squeeze Canada is set to boomerang and wipe out American jobs in the process \u2014 the kind of self-inflicted irony that makes for an easy debate on air.",
+    "bullets": [
+      " Donald Trump's ban targets Canadian spirits as part of the ongoing trade dispute",
+      " Reports indicate the fallout will hit jobs on both sides of the border",
+      " A notable chunk of the job losses are expected to land in the U.S., not Canada",
+      " A tariff aimed at Canada ends up costing American jobs \u2014 does that change how you feel about the trade war?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thestar.com/business/canada-sends-half-of-its-2-billion-in-spirits-to-the-u-s-but-donald-trump-s-ban-could-cost-american",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Saudi airstrikes hit Yemen's rebel-held Mokha airport as Houthis capture strategic island",
+    "angle": "This isn't just a regional skirmish \u2014 it's a fight over one of the most important shipping lanes on the planet, and it could mean higher gas prices and pricier goods for everyone if oil tankers get squeezed again.",
+    "bullets": [
+      " Houthi rebels, backed by Iran, seized a strategic island in the Bab el-Mandeb Strait \u2014 the narrow gateway to the Red Sea",
+      " Saudi Arabia responded with airstrikes on the rebel-held Mokha airport in Yemen",
+      " Officials called it a \"swift advance\" \u2014 meaning this escalated fast, not gradually Why You Should Care",
+      " Every time this waterway gets threatened, it's the reason gas prices spike back home \u2014 so this is way bigger than a far-off headline."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/saudi-strikes-yemen-mokha-airport-houthis-island-9.7339979?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Sovereignty referendum would cost $130M under a Parti Qu\u00e9b\u00e9cois government, leader says",
+    "angle": "Quebec's separatist party is putting a price tag on a referendum most people assumed was just political talk \u2014 a real number makes the 2029-2030 sovereignty push suddenly feel a lot more concrete.",
+    "bullets": [
+      " Parti Qu\u00e9b\u00e9cois leader says a sovereignty referendum would cost at least $130 million",
+      " Price tag covers running the referendum itself, not any fallout from the result",
+      " Is $130 million a fair price for democracy, or a wildly expensive way to reopen a fight Canada already settled twice?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/montreal/sovereignty-pspp-pq-quebec-cost-9.7339986?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Ontario Science Centre laying off entire science department",
+    "angle": "It's the kind of headline that sounds fake but isn't - a science museum cutting its entire science department is exactly the brand of irony that gets people talking, especially with the Ontario Science Centre already under fire after its abrupt 2024 closure.",
+    "bullets": [
+      " Story's making the rounds on r/nottheonion - the irony is the whole appeal",
+      " A science centre with no science staff left - does that even still count as a science centre?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cp24.com/politics/queens-park/2026/09/10/ontario-science-centre-laying-off-entire-science-department/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Zelenskyy says Canada has agreed a big air defence package for Ukraine",
+    "angle": "Canada wading deeper into the Ukraine war effort is a real foreign-policy story for a Canadian audience, and it's coming straight from Zelenskyy himself, which gives it extra weight and news value.",
+    "bullets": [
+      " Volodymyr Zelenskyy says Canada has agreed to a major air defence package for Ukraine.",
+      " Details on size, cost, and timeline aren't confirmed yet - that's the next thing to watch for.",
+      " Should Canada be sending more military hardware overseas, or focusing that money at home?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cp24.com/news/canada/2026/09/10/pm-carney-tells-zelenskyy-canada-will-help-ukraine-rebuild/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Poilievre tells U.S. TV Canadians are 'wounded' and 'confused' to be in America's crosshairs",
+    "angle": "The Conservative leader took Canada's frustration straight to an American audience, and the word choices - 'wounded,' 'confused' - are the kind of raw, personal language that cuts through the usual trade-dispute noise and taps into a broader mood about the Canada-U.S. relationship.",
+    "bullets": [
+      " Pierre Poilievre made the comments in an interview on U.S. television, not a Canadian outlet - a deliberate move to speak straight to an American audience.",
+      " He described Canadians as feeling \"wounded\" and \"confused\" over being caught in America's crosshairs.",
+      " Does hearing 'wounded and confused' actually capture how you feel about the U.S. relationship right now, or does it sound like political spin?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/poilievre-new-york-carney-trump-9.7338906",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Mark Carney\u2019s support surge coming largely from former Conservatives, poll finds",
+    "angle": "A new poll suggests Mark Carney's rising numbers aren't coming from stealing Liberal loyalists back - they're coming from former Conservative voters crossing the aisle, which is a much bigger story about where Canadian politics is actually shifting right now.",
+    "bullets": [
+      " Poll finds Mark Carney's recent support surge is driven largely by voters who previously backed the Conservative Party",
+      " Suggests movement of former Conservative supporters into Carney's camp, rather than growth from his own party's existing base",
+      " Raises questions about whether this is a lasting realignment or a temporary bounce",
+      " If you voted Conservative last time but you're eyeing Carney now - what changed your mind?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nationalpost.com/opinion/mark-carney-support-former-conservatives-poll",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Carney Calls US Trade Bans \u2018Modest,\u2019 Signals Canada Won\u2019t Retaliate",
+    "angle": "Canada's PM is choosing restraint over retaliation on US trade bans, calling them \"modest\" - a notably soft response that's got people asking if Ottawa is playing it too safe.",
+    "bullets": [
+      " Mark Carney described the latest US trade bans as \"modest\"",
+      " He's signaling Canada will not retaliate against the measures",
+      " Is Carney being smart and strategic here, or should Canada be hitting back harder?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-10/carney-calls-us-trade-bans-modest-signals-canada-won-t-retaliate",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "This lab is still trying to identify 9/11 victims 25 years later. Not everyone wants to know",
+    "angle": "As the 25th anniversary approaches, a forensic lab is still working to match remains to names from",
+    "bullets": [
+      " After 25 years, would you want that call \u2014 or would you rather let it rest?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/lab-identifying-911-victim-remains-9.7338354?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Kaia Gerber on \u2018The Shards\u2019 Finale\u2019s Surprising Killer Suspects and Her Shelley Duvall Moment - The Hollywood Reporter",
+    "angle": "Ryan Murphy's twisty Bret Easton Ellis adaptation just dropped its finale and pointed the finger at basically every character \u2014 star Kaia Gerber is opening up about the whodunit and her full-on horror-movie moment.",
+    "bullets": [
+      " Kaia Gerber plays queen-bee high schooler Susan in Ryan Murphy's take on Bret Easton Ellis' 'The Shards.'",
+      " She describes a 'The Shining'-inspired scream-queen scene, calling it her own Shelley Duvall moment.",
+      " Callers: who do YOU think 'The Trawler' really is \u2014 and does Gerber actually know, or is she just as in the dark as us? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/tv/tv-news/the-shards-finale-killer-theories-kaia-gerber-interview-1236695954/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Jimmy Kimmel\u2019s Interview With James Talarico Heading to YouTube to Avoid FCC Hassle -",
+    "angle": "Kimmel just got yanked off air once already over FCC pressure this year, so him quietly moving a political sit-down to YouTube instead of ABC is a real 'here we go again' moment for free speech vs. broadcast rules.",
+    "bullets": [
+      " Jimmy Kimmel's Thursday interview with Texas Senate hopeful James Talarico won't air on the ABC broadcast of *Jimmy Kimmel Live!*",
+      " It'll stream instead on the show's YouTube channel",
+      " Kimmel pointed to ongoing friction between ABC and the FCC as the reason for the switch",
+      " Report notes Kimmel is 'mad' about the situation, per The Hollywood Reporter",
+      " Is this networks quietly caving to government pressure, or just smart producers routing around a headache \u2014 and does it matter if it's on YouTube either way? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/tv/tv-news/jimmy-kimmel-james-talarico-interview-fcc-brendan-carr-1236696255/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Jimmy Kimmel on RNC convention: \u2018They\u2019re very nervous about the midterms, and rightly so\u2019",
+    "angle": "Kimmel's late-night monologues are a daily flashpoint for political humor, and a direct jab at the RNC over midterm anxiety is exactly the kind of line that lights up his fans and critics alike.",
+    "bullets": [
+      " Jimmy Kimmel weighed in on the RNC convention, saying Republicans are \"very nervous about the midterms, and rightly so.\"",
+      " Is Kimmel calling it straight, or is late-night political comedy just preaching to the choir at this point?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/culture/2026/sep/10/jimmy-kimmel-trump-rnc-convention",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Jennifer Lawrence Speaks Out on Joining Instagram and Warns Toxic Fans: \u2018If Anyone Says Anything Negative I Will Quit Immediately\u2019",
+    "angle": "Jennifer Lawrence famously avoided social media for years, so her jumping on Instagram is news on its own \u2014 but pairing it with a threat to bail the second things get toxic is the real hook for a debate about celebrities and online hate.",
+    "bullets": [
+      " Jennifer Lawrence has just joined Instagram after long avoiding social media.",
+      " Her blunt warning to followers: \"If anyone says anything negative I will quit immediately.\"",
+      " She's essentially setting ground rules for toxic fans before her page even gets going.",
+      " Is it fair for a celebrity to set a zero-negativity rule, or does fame just come with criticism attached?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/jennifer-lawrence-instagram-fans-toxic-1236857294/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018South Park\u2019 Creators Apologise for the Years-Long Delay of Their Kendrick Lamar Movie",
+    "angle": "A Kendrick Lamar and South Park team-up sounds like the wildest crossover ever, and now the creators are publicly copping to leaving fans hanging on it for years \u2014 that's a juicy 'what happened' mystery hosts can dig into.",
+    "bullets": [
+      " Trey Parker and Matt Stone, the creators of South Park, issued a public apology over the project.",
+      " Fans have reportedly been waiting years for it to materialize.",
+      " What do you think held up a South Park/Kendrick Lamar movie for years \u2014 creative cold feet or just Hollywood logjam?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://au.variety.com/2026/film/global/south-park-creators-apology-delay-kendrick-lamar-movie-40151/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Hasbro condemns the Department of Homeland Security for using Optimus Prime in a post.",
+    "angle": "A toy company publicly clapping back at a federal agency over a meme is exactly the kind of pop-culture-meets-politics collision that gets people talking - it's Transformers versus Homeland Security, and nobody saw that matchup coming.",
+    "bullets": [
+      " Hasbro publicly condemned the Department of Homeland Security for using Optimus Prime in one of its social posts.",
+      " It's part of a bigger pattern of federal agencies borrowing beloved characters for official posts - and creators pushing back.",
+      " Should government agencies be allowed to use pop culture characters to make a political point, or is this brand hijacking, full stop?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1wcohtg",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Ms. Rachel talk about Mayor Zohran Mamdani in new post on Instagram",
+    "angle": "The queen of gentle toddler YouTube just posted about Islamophobia and a NYC mayoral race \u2014 a hard left turn for someone known for singing about colors, and it's got her fanbase buzzing about creators mixing kid-friendly branding with politics.",
+    "bullets": [
+      " Ms. Rachel posted about Mayor Zohran Mamdani on Instagram, addressing backlash he's faced.",
+      " She wrote it's \"disappointing to see some Christians expressing hate and Islamophobia.\"",
+      " She invoked scripture, noting \"Jesus was Jewish\" and citing the Good Samaritan parable about loving neighbors outside your own faith.",
+      " Should creators known for wholesome, apolitical content stay in their lane, or does a platform that big come with a responsibility to speak up?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/egw0qlat2soh1.jpeg",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "What are your favourite long-awaited confrontations/fights in TV shows?",
+    "angle": "A Reddit thread asking for the best long-awaited TV confrontations blew up, with fans immediately dragging up the ultimate 'told you so' moment: Miranda warning Carrie off Big before she married him anyway.",
+    "bullets": [
+      " Thread on r/fauxmoi asks fans to name their favorite long-awaited confrontations or fights in TV history",
+      " Top reply invokes Sex and the City: 'and then carrie married him... but at least miranda tried'",
+      " What's the TV confrontation you waited entire seasons for - and did it actually deliver? ON-AIR BIT BREAKDOWN - Step 1: Set It Up - 30 seconds -> Hosts read the Carrie/Big/Miranda line and explain the premise: name a TV blowup fans waited forever for. - Step 2: Dueling Picks - 1-2 minutes -> Each host names their own long-awaited TV confrontation and why it did or didn't live up to the hype. - Step 3: Phones/Socials - Open lines -> Ask listeners to call or comment with the TV showdown they're still not over."
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/99m24ue52toh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Meta confiscates social media handles of legendary rock band Muse, so they can be given to their own AI product.",
+    "angle": "A legendary rock band gets its own social handle taken away by a tech giant so an AI chatbot can use it - it's the perfect flashpoint for the \"Big Tech doesn't care about artists\" conversation everyone's already primed to have.",
+    "bullets": [
+      " Meta reportedly reclaimed the social media handles belonging to rock band Muse",
+      " Story is circulating on Reddit's r/technology, fueling backlash over a tech giant overriding a real band's identity",
+      " If a tech giant can just take a rock band's name for its own AI, who actually owns your handle?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.vice.com/en/article/longtime-rock-band-forced-to-change-social-media-handles-so-meta-can-launch-identically-named-ai/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Gaza documentary \u2018NAZA\u2019 earns record-breaking 24.5-minute Venice ovation. This marks the longest-ever standing ovation at Venice, beating the 22-minute ovation for \"The Voice of Hind Rajab\" last year.",
+    "angle": "A Gaza documentary got the longest standing ovation in Venice Film Festival history - and it's the second year in a row a Gaza-focused film has set that record, which says as much about the room's politics as it does about the movie.",
+    "bullets": [
+      " That's officially the longest ovation in Venice history.",
+      " It edges out last year's record-holder, \"The Voice of Hind Rajab,\" which got 22 minutes.",
+      " Two years running now, a Gaza-themed film has broken Venice's ovation record.",
+      " Is a 24-minute ovation really about the filmmaking, or is Venice turning into a political statement machine?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/uhc581o0droh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "How to Watch 49ers vs. Rams: TV Channel, Live Stream, Time - foxsports.com",
+    "angle": "The NFL just did something it's never done before \u2014 a real regular-season game on the other side of the planet \u2014 so this is less \"how to watch\" and more \"wait, they're playing WHERE?\"",
+    "bullets": [
+      " San Francisco 49ers face the Los Angeles Rams on Thursday, Sept. 10, 2026",
+      " It's a first for the league \u2014 the first regular-season NFL game ever played at Melbourne Cricket Ground in Melbourne, Australia",
+      " Fans stateside will need to sort out TV channel and streaming options given the wild time-zone gap",
+      " Would you actually stay up (or wake up at 3am) to watch your team play a home game on the other side of the world? Fox Sports (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Norway's capital Oslo, said it had banned smart glasses in schools, saying the move was aimed at preventing children from becoming \"extras in Meta's data collection\"",
+    "angle": "Norway's capital is drawing a hard line on AI wearables in classrooms, framing it as protecting kids from becoming unwitting data points for Meta - a story that taps into the bigger unease everyone has about smart glasses recording strangers in public.",
+    "bullets": [
+      " Oslo, Norway's capital, has officially banned smart glasses in schools.",
+      " City officials say the goal is preventing kids from becoming \"extras in Meta's data collection\".",
+      " Should schools here ban smart glasses too, or is this an overreaction to tech that's already everywhere?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thelocal.no/20260910/oslo-bans-smart-glasses-in-schools",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Dating Apps Are Dying",
+    "angle": "Swipe fatigue is real \u2014 usage and subscriptions across the big dating apps have been sliding for a while, and more people say they're over the endless-match, no-date cycle. It's a topic almost every listener has an opinion (and a horror story) about.",
+    "bullets": [
+      " Callers: did you delete your dating apps, or are you still swiping through the burnout? ON-AIR BIT BREAKDOWN - Step 1: The Swipe Confession - 60 seconds, kick off the segment -> Each host admits their worst dating app horror story or why they quit swiping altogether. - Step 2: How'd You Actually Meet? - Open phone lines / social -> Ask listeners to text or call in how they met their current partner - app, IRL, or otherwise - and tally the results live. - Step 3: App or Old-School? - Quick studio poll -> Hosts debate: if the apps disappeared tomorrow, would dating actually get better or worse?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://time.com/article/2026/09/09/dating-apps-are-dying/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "A test to determine if people who report out-of-body experiences could identify objects in another room produced results no better than chance, but afterward something strange happened: Two participants described, unprompted, researchers\u2019 locations and activities behind closed doors.",
+    "angle": "A study meant to debunk out-of-body experiences came up empty on the actual test \u2014 but two people spontaneously nailed details about what researchers were doing in another room, and nobody can explain that part. It's the perfect mix of skepticism and 'wait, what?' for a lifestyle chat.",
+    "bullets": [
+      " Researchers ran a test asking people who report out-of-body experiences to identify hidden objects in another room.",
+      " Results came back no better than random chance \u2014 the formal test failed.",
+      " Afterward, two participants described, completely unprompted, where researchers were sitting and what they were doing behind closed doors.",
+      " Coincidence, cold reading, or something science can't measure yet \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.uvahealth.com/news/trial-testing-out-of-body-experiences-yields-unexpected-twist",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Marriott Guest Says Hotel Insisted a Rubbermaid Laundry Cart Was a Baby Crib",
+    "angle": "It's peak hotel-fail chaos - a guest says staff tried to convince them a plastic Rubbermaid laundry cart counted as a baby crib, and the internet is losing it. Total relatable-travel-nightmare fuel for anyone who's ever fought with a front desk.",
+    "bullets": [
+      " Story blew up on r/nottheonion for being almost too absurd to believe",
+      " No word yet on how the hotel is explaining the switcheroo",
+      " What's the wildest 'that's not what I asked for' moment you've had checking into a hotel?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/marriott-guest-rubbermaid-cart-instead-crib-1763854",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "The Vatican is going green, preparing a 424 hectare solar farm near Rome that is nearly 10 times the size of Vatican City and is intended to provide all of the city state\u2019s electricity. The project will also preserve agricultural use of the land beneath the panels.",
+    "angle": "The world's smallest country is about to run entirely on sunshine \u2014 and the farm doing it dwarfs the Vatican itself, which is exactly the kind of absurd-but-true stat that makes for a great kicker.",
+    "bullets": [
+      " That site is nearly 10 times the size of Vatican City itself",
+      " Farmland underneath the panels will still be farmed \u2014 solar and crops sharing the same ground"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/the-vatican-is-preparing-a-solar-farm-nearly-ten-times-its-own-size-north-of-rome-but-the-field-is-still-w",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "A new generation of batteries could make storing clean energy cheaper and easier: sodium ion batteries use abundant materials, work in extreme temperatures without cooling systems and are already moving into mass production at major battery factories.",
+    "angle": "A new wave of sodium-ion batteries is skipping the rare, expensive metals that power today's tech \u2014 and they're already rolling off the line at major factories, which is why clean-energy watchers are buzzing.",
+    "bullets": [
+      " Runs on sodium ion tech instead of lithium",
+      " Built from abundant materials \u2014 no scarce or pricey metals required",
+      " Handles extreme temperatures without needing a cooling system",
+      " Already heading into mass production at major battery factories",
+      " Cheaper, tougher batteries made from salt instead of rare metals \u2014 this is the kind of quiet tech story that could actually change your power bill someday."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.solarpowerworldonline.com/2026/08/sodium-ion-batteries-are-ready-for-world-domination/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Anthony Hopkins thinks we all think too much",
+    "angle": "The Oscar winner dropping unbothered zen wisdom is pure internet catnip - a light, quotable moment to send listeners out the door with.",
+    "bullets": [
+      " Ask listeners: what's the dumbest thing you spent way too much brainpower on this week?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/arts/q/anthony-hopkins-thinks-we-all-think-too-much-9.7335746",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Californians projected to spend $675 million on OnlyFans this year: study",
+    "angle": "A new study pegs Californians' OnlyFans spending at $675 million this year \u2014 the kind of oddly specific stat that makes for an easy, fun money-and-culture chat without getting too serious.",
+    "bullets": [
+      " Study projects Californians will spend $675 million on OnlyFans this year",
+      " Story first surfaced via r/nottheonion, tagged as the kind of real-but-ridiculous headline that sounds fake",
+      " Does that number sound way higher than you'd guess, or exactly right for the state that gave us Hollywood?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ktla.com/news/california/californians-projected-to-spend-675-million-on-onlyfans-this-year-study/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Russian Orthodox Church Sends Bones of Medieval Warrior Prince to Ukraine Front to Boost Troop Morale",
+    "angle": "Russian Orthodox Church Sends Bones of Medieval Warrior Prince to Ukraine Front to Boost Troop Morale",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.themoscowtimes.com/2026/09/10/russian-orthodox-church-sends-bones-of-medieval-warrior-prince-to-ukraine-front-to-b",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-11",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Not just Korea: Google leaked identifying info for sex crime victims across the world",
+    "angle": "This isn't a one-country glitch \u2014 reports say Google exposed identifying details tied to sex crime victims well beyond Korea, which is a massive trust-and-accountability story for one of the biggest platforms on Earth.",
+    "bullets": [
+      " Reports say Google leaked identifying information connected to sex crime victims.",
+      " Story is circulating out of r/technology, framed as a global data-handling failure, not an isolated regional bug.",
+      " If a company as big as Google can leak sex crime victims' identities, can any of us actually trust our data is safe?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://english.hani.co.kr/arti/english_edition/e_international/1277216.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-10",
     "slot": "pm",
     "category": "THE LIST",
