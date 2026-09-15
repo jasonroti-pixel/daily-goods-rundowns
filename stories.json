@@ -1,6 +1,602 @@
 [
   {
     "date": "2026-09-14",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Israel\u2019s Minister of Culture Threatens to Revoke Israeli Citizenships of \u2018NAZA\u2019 Filmmakers - Variety",
+    "angle": "A sitting government official threatening to revoke someone's citizenship over a documentary is a huge free-speech flashpoint - it raises the question of how far a government can go to punish artists it disagrees with.",
+    "bullets": [
+      " Miki Zohar, Israel's Minister of Culture, threatened to revoke the citizenship of two filmmakers.",
+      " Zohar called the film \"shocking\" and accused the filmmakers of wrongdoing tied to its content.",
+      " Abraham previously co-directed the Oscar-winning documentary 'No Other Land', making this a high-profile follow-up controversy.",
+      " Should a government ever be able to punish a filmmaker by threatening their citizenship over a movie? Variety (via NewsAPI) (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/news/israels-minister-culture-revoke-citizenships-naza-directors-1236860821/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Christian Bale Opens 11,000-Square-Foot Foster Care Facility",
+    "angle": "This isn't a photo-op donation \u2014 Bale spent nearly two decades and partnered with a doctor to build a real neighborhood so foster siblings don't get split up, which is the heartbreaking norm in the system.",
+    "bullets": [
+      " It's 12 furnished three-bedroom townhomes (six duplexes) plus 2 studio apartments for young adults aging out of foster care",
+      " Each home is built to keep sibling groups of up to six kids together instead of scattering them across separate placements",
+      " Bale started this project with Dr. Eric Esrailian back in 2007, so this is roughly 17 years in the making",
+      " Bale on the mission: \"It's our job to turn their heartbreak and their pain into love and hope and a sense of future\"",
+      " Would you have guessed Batman's been quietly building foster homes for almost 20 years \u2014 who's a celebrity you'd never expect to be doing this kind of work?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/actors/christian-bale-opens-foster-care-village-1236860641/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Australia could soon follow in the footsteps of Germany and the United Kingdom as it prepares to lift a ban on plug-in solar and batteries within 12 months, unlocking access to free, abundant sunshine for millions of apartment dwellers and renters for the first time.",
+    "angle": "Australia's about to join Germany and the UK in legalizing plug-in solar and batteries, which means millions of apartment dwellers and renters who've been locked out of solar savings could finally cash in on free sunshine.",
+    "bullets": [
+      " Australia is preparing to lift its ban on plug-in solar and batteries within 12 months",
+      " It would follow Germany and the UK, who've already legalized the plug-and-play setups",
+      " Should renters get the legal right to plug in their own cheap solar setup without asking the landlord first?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.abc.net.au/news/2026-09-11/balcony-solar-to-become-legal-in-australia/107144234",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Clean energy is already saving major energy importers billions. Germany saved $21 billion in gas imports, T\u00fcrkiye $23 billion, while China is projected to save $1.9 trillion by 2050. India has already avoided more than 1 billion litres of fuel use.",
+    "angle": "Clean energy is already saving major energy importers billions. Germany saved $21 billion in gas imports, T\u00fcrkiye $23 billion, while China is projected to save $1.9 trillion by 2050. India has already avoided more than 1 billion litres of fuel use.",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://goodgreen.news/clean-energy-is-saving-the-worlds-largest-oil-and-gas-importers-billions-of-dollars/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Investigation into RPS \u2018bite\u2019 video found employee had no teeth",
+    "angle": "It's the kind of headline that stops you mid-scroll \u2014 an official investigation into a viral 'biting' incident just concluded the accused employee physically couldn't have done it because they have no teeth.",
+    "bullets": [
+      " An investigation into a viral 'bite' video wrapped up with a bizarre finding.",
+      " How exactly do you investigate a bite claim against someone with no teeth \u2014 and who orders that investigation in the first place?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.richmonder.org/investigation-into-rps-bite-video-found-employee-had-no-teeth/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Sony says gamers don't own their digital purchases, but 44 examples of its own wording suggest otherwise",
+    "angle": "Anyone who's ever clicked \"Buy Now\" on a digital game, movie, or ebook has a stake in this \u2014 a new report says Sony's legal fine print claims you're only licensing your library, even while Sony's own marketing keeps using the word \"own.\"",
+    "bullets": [
+      " Sony's official position: digital purchases are a license, not real ownership \u2014 access can be pulled at any time.",
+      " A report flagged 44 examples of Sony's own store pages, ads, and product copy using words like \"buy\" and \"own\" for those same digital games.",
+      " Ever \"bought\" a digital game, movie, or book only to find out later you didn't actually own it? Call in and tell us what disappeared. ON-AIR BIT BREAKDOWN - Step 1: The Buy Button Test - 60 seconds, live on air -> Both hosts pull up the PlayStation Store (or any digital storefront) on their phones and read the exact checkout wording out loud \u2014 does it say \"buy,\" \"own,\" or something vaguer? - Step 2: Own It or Rent It? - Quick social poll -> Ask listeners to reply in one word \u2014 do they consider their digital game/movie library something they \"own\" or just \"rent\"? Read a few answers live."
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/113834-sony-gamers-dont-own-their-digital-purchases-but.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Cops Search Thousands of Flock Cameras for Reasons of \u2018LMAO,\u2019 \u2018IDK,\u2019 \u2018Hehe,\u2019 and \u2018asdfg\u2019",
+    "angle": "Thousands of police searches on Flock's license-plate camera network were logged with reasons like 'idk,' 'hehe,' and random keyboard mashing instead of an actual case number - a viral privacy story about surveillance tech with zero accountability built in.",
+    "bullets": [
+      " Officers reportedly typed reasons like 'LMAO,' 'IDK,' 'hehe,' and 'asdfg' to justify camera searches",
+      " Flock's system requires an entered 'reason' for every search, but there's apparently no real check on what gets typed in",
+      " Story surfaced via r/technology, sparking backlash over how loosely mass surveillance data is actually being audited",
+      " If a cop can search your license plate history by typing 'hehe,' does that camera network even have oversight at all?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.404media.co/cops-search-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Police Used Flock Camera Footage to Jail Innocent Woman for 13 Days: \u2018I Thought My Life Was Over\u2019",
+    "angle": "This is the nightmare scenario everyone worried about with mass surveillance cameras actually happening \u2014 an innocent woman spent nearly two weeks behind bars because AI-powered camera tech got it wrong, and it's a real gut-check on how much trust we're putting in these systems.",
+    "bullets": [
+      " Police relied on footage from Flock Safety camera systems to make the arrest.",
+      " She says: \"I thought my life was over.\"",
+      " Would you feel safer or more nervous knowing your license plate is being scanned and logged everywhere you drive?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techtimes.co.uk/florida-woman-flock-camera-misidentification-charges-dropped-1808662",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "European Parliament to open Ottawa office as Carney seeks 'unique alliance' with EU",
+    "angle": "The European Parliament is opening a physical office in Ottawa as PM Carney pushes for a 'unique alliance' with the EU - a pretty clear signal Canada's shopping around for new best friends while things stay tense with the US.",
+    "bullets": [
+      " PM Mark Carney is described as seeking a 'unique alliance' with the EU.",
+      " Should Canada be cozying up to Europe as a hedge against the US, or is this just diplomatic window dressing?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/european-parliament-ottawa-office-9.7343334",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Judge rules 'colonialism' caused First Nations man to become deadly drunk driver",
+    "angle": "A Canadian judge linking colonialism directly to a fatal drunk-driving case is the kind of ruling that splits a room instantly - it sits right at the intersection of reconciliation, personal accountability, and grief for the victim's family.",
+    "bullets": [
+      " A judge ruled that colonialism was a contributing cause behind a First Nations man becoming a drunk driver in a fatal case.",
+      " Should a judge weigh colonialism as a factor in sentencing for a deadly drunk-driving case - or does that let accountability off the hook?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nationalpost.com/opinion/judge-colonialism-first-nations-deadly-drunk-driver",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Scotiabank commits more than $100-billion to help fund expansion of Canadian companies",
+    "angle": "That's a massive number to put behind homegrown companies right now, and it lands as a vote of confidence in the Canadian economy during a stretch of trade uncertainty and talk of diversifying away from the U.S.",
+    "bullets": [
+      " Scotiabank has committed more than $100 billion to help fund expansion for Canadian companies.",
+      " A hundred billion dollars to grow Canadian business - does that actually trickle down to jobs and prices, or is it just a headline number?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theglobeandmail.com/business/article-scotiabank-100-billion-to-help-fund-expansion-of-canadian-companies/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Over 1,000 protesters demonstrate against Carney's investment summit in Toronto",
+    "angle": "A four-figure crowd showing up to protest the Prime Minister's own investment summit in Toronto is a real gut-check on how Canadians feel about the economic agenda right now.",
+    "bullets": [
+      " Over 1,000 protesters showed up in Toronto",
+      " Target was PM Mark Carney's investment summit",
+      " Size of the crowd suggests this isn't a fringe complaint",
+      " What do you think has people this fired up about Carney's economic push right now?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/toronto/canada-investment-summit-protest-city-hall-9.7343317?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "The National | Carney's $1 trillion investment pitch",
+    "angle": "Prime Minister Mark Carney is making a huge economic bet in public - trying to convince the world's investors to bankroll Canada's exit ramp from U.S. economic dependence. It's a story about national identity and money at the same time, which is exactly the kind of thing that gets people talking.",
+    "bullets": [
+      " Mark Carney is hosting a major international investors' summit today, Sept. 14",
+      " Is 'divorcing' the U.S. economy actually realistic for Canada, or is a trillion-dollar number just a headline-grabbing pitch?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Raptors confirm Kawhi Leonard is heading back to Toronto after completing trade deal",
+    "angle": "The guy who delivered Toronto its only NBA championship is reportedly returning north of the border, and Canadian sports fans are about to lose it \u2014 this is the kind of reunion storyline that transcends the standings.",
+    "bullets": [
+      " Leonard previously suited up for the Raptors in 2018-19, a stint that ended with the franchise's first-ever NBA title.",
+      " He left for the Clippers in free agency right after that championship run \u2014 a departure that still stings for a lot of fans.",
+      " Would you actually welcome Kawhi back with open arms, or does the way he left in 2019 make this reunion a tough pill to swallow?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/sports/basketball/nba/raptors-kawhi-leonard-trade-finalized-9.7343826?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Jamie Lee Curtis fought through tears at the #Emmys while honoring the late Rob Reiner, who won an Emmy this year for guest actor in a comed",
+    "angle": "A raw, emotional moment from the Emmys as Jamie Lee Curtis paid tribute to Rob Reiner, who won posthumously for his guest role in 'The Bear' \u2014 the kind of awards-show moment that gets people talking the next morning.",
+    "bullets": [
+      " Jamie Lee Curtis fought through tears honoring Rob Reiner at the Emmys",
+      " Reiner won this year's Emmy for guest actor in a comedy series for his role in \"The Bear\"",
+      " Curtis called him: \"generous and kind and funny as hell and a friend to all\"",
+      " She referenced his iconic \"Meathead\" nickname from \"All in the Family\"",
+      " What's the Rob Reiner role or movie that sticks with you most? X/Twitter @Variety (Tier 1) | Score: 84/90 (45 fit + 12 source + 27 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Variety/status/2099689182801035763",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Catherine O\u2019Hara Honored By Macaulay Culkin, Annie Murphy and Dan Levy During Emotional Emmys In Memoriam: \u2018She Was Our Mama\u2019",
+    "angle": "Catherine O'Hara left behind two iconic on-screen families \u2014 Home Alone and Schitt's Creek \u2014 and Monday night both worlds collided when her TV kids stood up together to say goodbye, one of the most emotional moments of the whole Emmys broadcast.",
+    "bullets": [
+      " Catherine O'Hara died in January at age 71",
+      " She was honored at the 78th Emmy Awards' In Memoriam segment",
+      " Tribute came from three former on-screen kids: Macaulay Culkin, Annie Murphy, and Dan Levy",
+      " Culkin called his 'Home Alone' mom 'encouraging,' 'warm,' and 'funny'",
+      " Which Catherine O'Hara role hits harder for you \u2014 Home Alone's Kate McCallister or Schitt's Creek's Moira Rose? variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/news/catherine-ohara-emmys-macaulay-culkin-dan-levy-1236862104/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Texas Democrat Jasmine Crockett under fire for honoring Chris Brown at concert | Congresswoman awarded the convicted abuser and musician a congressional record recognition in Arlington.",
+    "angle": "A sitting U.S. Congresswoman handed Chris Brown an official congressional recognition at a concert \u2014 and the internet immediately clocked his 2009 domestic violence conviction against Rihanna, turning a feel-good photo-op into a real controversy.",
+    "bullets": [
+      " Rep. Jasmine Crockett (D-Texas) presented Chris Brown with a congressional record recognition at a concert in Arlington",
+      " Brown is a convicted abuser, stemming from his 2009 assault case involving Rihanna",
+      " Should a public official ever hand out formal recognition to a star with a domestic violence conviction on record?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/us-news/2026/sep/14/jasmine-crockett-chris-brown-texas-backlash",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Stephen Colbert Wins Emmy After \u2018Late Show\u2019 Canceled by CBS and Tells Industry to Hire His Crew: \u2018They Will Make Your Show Better!",
+    "angle": "Talk about a mic-drop moment \u2014 CBS cancels his show, and months later Colbert walks up to accept an Emmy and uses the mic to plug his own staff. That's the kind of petty-but-classy industry moment audiences eat up.",
+    "bullets": [
+      " Stephen Colbert won an Emmy after CBS canceled 'The Late Show'",
+      " He used his acceptance speech to publicly push other shows to hire his crew",
+      " His quote: 'They will make your show better!'",
+      " Is this the ultimate 'told you so' moment, or is Colbert playing it classy on his way out?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/the-late-show-with-stephen-colbert-emmy-win-final-season-1236860942/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'Sydney Sweeney's Ad Disrespects Every Woman': Female Athletes Slam Sexualised Sports Campaign",
+    "angle": "A star actress fronting a sports campaign was always going to get attention, but female athletes pushing back and calling it disrespectful turns this into a real debate about how women in sports get marketed versus how women in Hollywood get marketed.",
+    "bullets": [
+      " Female athletes are publicly slamming a Sydney Sweeney sports campaign as overly sexualized.",
+      " One critique quoted in the backlash: the ad \"disrespects every woman.\"",
+      " Does putting a Hollywood name in a 'sexy' sports ad help or hurt how female athletes get taken seriously?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/sydney-sweeney-novig-sports-campaign-backlash-1763946",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Actor Tatyana Ali is advocating for Black and Indigenous maternal health",
+    "angle": "The 'Fresh Prince' alum is putting her name behind a real crisis - Black and Indigenous moms face dramatically higher pregnancy-related risks in North America, and celebrity advocacy is one of the few things that actually moves the needle on public awareness.",
+    "bullets": [
+      " Ask listeners: did you know maternal mortality rates for Black and Indigenous moms are multiple times higher than average - and why doesn't that get talked about more?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.npr.org/2026/09/13/nx-s1-5966885/birth-black-and-indigenous-maternal-health",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Macklemore speaks out after being dropped from Ed Sheeran\u2019s tour following his \u2018Free Palestine\u2019 speech; says Gillette Stadium owner Robert Kraft rallied other stadium owners and gave Ed Sheeran an ultimatum: if Macklemore stayed on tour, then Ed would not be able to play in their venues.",
+    "angle": "A rapper's political speech turning into an alleged behind-the-scenes power play by an NFL owner is exactly the kind of music-meets-politics drama that gets people picking sides \u2014 and it drags Robert Kraft into a Free Palestine controversy he probably didn't want.",
+    "bullets": [
+      " Macklemore claims he was dropped from Ed Sheeran's tour after delivering a 'Free Palestine' speech.",
+      " He says Gillette Stadium owner Robert Kraft rallied other stadium owners against him.",
+      " Macklemore is now speaking out publicly about getting pulled from the tour.",
+      " Should venue owners get to blacklist an opening act over their politics, or is that Ed Sheeran's call to make?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1wg73id",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Ms Rachel calls out Ed Sheeran and says we all need to speak on what is happening",
+    "angle": "Ms. Rachel went from beloved kids'-show host to outspoken advocate, and now she's naming names \u2014 publicly pushing Ed Sheeran to use his platform. It's the classic 'celebrity silence' debate, and it's blowing up on r/fauxmoi.",
+    "bullets": [
+      " Ms. Rachel is calling out Ed Sheeran directly, saying \"we all need to speak on what is happening.\"",
+      " Ms. Rachel has increasingly used her massive platform for advocacy beyond her kids' content in recent months.",
+      " Is it fair for stars like Ms. Rachel to publicly pressure other celebrities to speak out, or should that stay a personal choice?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/k28majyocjph1.jpeg",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Arch Manning reacts to viral Steve Sarkisian-Holly Rowe AI edit after interview snub",
+    "angle": "A deepfake-style AI edit of Steve Sarkisian and Holly Rowe went viral after Texas' comeback win over No. 1 Ohio State, and reporters cornered Arch Manning to react \u2014 his answer got a little too honest.",
+    "bullets": [
+      " Arch Manning was asked directly if he'd seen the AI edit of Steve Sarkisian and Holly Rowe",
+      " Manning's response was candid enough that it became its own story",
+      " Should players even be asked to comment on viral AI edits live on camera, or is that a no-win question?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 90/90 (45 fit + 12 source + 33 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/14/sports/arch-manning-reacts-to-viral-steve-sarkisian-holly-rowe-ai-edit-after-interview-snub/",
+    "score": "90/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Sydney Sweeney's 'sexualized' sports betting ad slammed by Canadian athletes",
+    "angle": "Sydney Sweeney can't catch a break on ad controversies this year, and this time it's female athletes worldwide calling foul on a sports betting spot they say sexualizes her \u2014 plus her response is adding fuel to the fire. It's a ready-made debate on objectification vs. overreaction that splits any room.",
+    "bullets": [
+      " Sydney Sweeney is facing ad backlash for the second time this year.",
+      " This round centers on a sports betting ad critics are calling 'sexualized' and nude in nature.",
+      " Canadian athletes are among the loudest voices slamming the campaign.",
+      " Call the lines: is this genuine objectification of female athletes, or are we just piling on Sydney Sweeney again?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/sydney-sweeney-sports-ad-9.7342823?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Sydney Sweeney\u2019s Nude Sports Betting Ad Ignites Backlash Among Female Olympians -",
+    "angle": "One of Hollywood's biggest names just became the face of a sports betting campaign \u2014 and it's blown up into a real fight over how women athletes get used to sell gambling.",
+    "bullets": [
+      " Sydney Sweeney is fronting a new sports betting ad campaign",
+      " Female Olympians are leading the public backlash against it",
+      " Story is generating buzz via People.com",
+      " Marketing genius or exploiting women athletes to sell bets \u2014 where do you land? People (via Google News) (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "wdWlFNUxoZHJjdFFCaWJtazl4T0gySmlQUl9XSnNxaWxrUHB1dWZLaVRzaWNfSWdkaks?oc=5",
+    "source": "People.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQlVHQ0pMOVZNcHFSODZmMnUxUkNFS3JfOWJxNW1CVy13UlVCXzV",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Surrogate Learns From Reporters She's Carrying Billionaire's Baby Whose Ex Claims He Has 300 Children",
+    "angle": "A gestational surrogate reportedly had to learn from the press \u2014 not the father \u2014 that she's pregnant with a billionaire's child, and now his ex is claiming he's fathered upwards of 300 kids. It's the kind of stranger-than-fiction tabloid tangle that's built for a live reaction.",
+    "bullets": [
+      " Story is making the rounds via Reddit's r/nottheonion, the \"you can't make this up\" corner of the internet",
+      " Would you forgive being kept in the dark about your own pregnancy until reporters told you first?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/california-surrogate-xu-bo-intended-father-1763926",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A College Girl Was Exploited on Camera. A Network of Anonymous Men Got to Work | Maddie Kowalski is one of countless young women who\u2019ve had their lives destroyed by the burnerverse, a loosely connected online community of sports fans. Now she\u2019s fighting back",
+    "angle": "A college student says an anonymous online network of sports fans exploited her image and turned her life upside down - and now she's going public to fight back. It's a gut-check story about how 'just a fan forum' can curdle into coordinated harassment.",
+    "bullets": [
+      " Maddie Kowalski, a college student, says she's one of many young women targeted by the so-called 'burnerverse'",
+      " Kowalski is now speaking out publicly and fighting back against the network",
+      " When does 'anonymous fan community' stop being a joke and become a real accountability problem?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wired.com/story/burnerverse-maddie-kowalski/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A new study reveals that individuals with dark personality traits tend to achieve greater creative success because they possess a highly analytical, self-directed thinking style that allows them to bypass social norms and external constraints.",
+    "angle": "This is instant fuel for a 'which one of us is the dark genius' bit - it basically gives cover to anyone who's ever been called blunt, weird, or a rule-breaker at work by tying it to a new study on creativity.",
+    "bullets": [
+      " New study says people with dark personality traits actually land more creative success",
+      " That style lets them bypass social norms and external constraints that box in everyone else",
+      " Translation: the rule-breakers in the room might be the most original thinkers, too",
+      " Ask listeners: what's the most 'dark personality' thing you've ever done that turned out to be your best idea? ON-AIR BIT BREAKDOWN - Step 1: Take the vibe check - Quick, 30 seconds -> Each host confesses one 'ruthless' or rule-breaking habit and lets the other guess if it counts as 'dark personality' creativity or just being difficult. - Step 2: Open the phone lines - Main callout -> Ask listeners to call/text their best 'I ignored the rules and it worked out' story from work or school. - Step 3: Crown the most 'dark genius' caller - Wrap-up -> Hosts pick the best story and jokingly award them an honorary 'Dark Creative Genius' title on air."
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/a-specific-thinking-style-explains-why-dark-personality-traits-are-linked-to-creativity/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Europe\u2019s extreme heat waves brought an unexpected boost for solar power, with panels producing 17% more electricity than normal and helping meet surging demand for air conditioning. Solar was the only major energy source to perform better than usual during the summer\u2019s extremes.",
+    "angle": "Europe's brutal summer heat had one silver lining: solar panels cranked out way more power right when everyone jacked up the AC \u2014 proof climate extremes aren't purely bad news for energy grids.",
+    "bullets": [
+      " Solar panels produced 17% more electricity than normal during Europe's heat waves this summer.",
+      " That extra juice helped cover surging demand for air conditioning as temperatures spiked.",
+      " Solar was the only major energy source that actually performed better than usual in the extreme heat.",
+      " Funny how the same heat wave that makes us miserable is basically solar panels' Super Bowl."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://grist.org/energy/heat-waves-europe-grid-solar-energy/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "South Korea Gives Stalking Victims an App To Watch Their Stalkers Approach in Real Time",
+    "angle": "It sounds like sci-fi but it's real \u2014 a government-backed app that tracks a stalker's location and warns the victim in real time, which is exactly the kind of 'wait, that's a real thing?' story this segment lives for.",
+    "bullets": [
+      " It reportedly lets victims see their stalker approaching in real time, not just after the fact."
+    ],
+    "debate": "Genius safety tool or dystopian that this had to be invented at all \u2014 which is it?",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/south-korea-stalking-victims-live-location-app-1763943",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Generation Z is going to come up with some really wild cults/new religious movements",
+    "angle": "Every disillusioned generation eventually builds its own spirituality from scratch - the 1960s counterculture did it, and this Reddit thread argues Gen Z, burned out on institutions and terminally online, is primed to do the same, just weirder and faster.",
+    "bullets": [
+      " There's an actual academic playbook for this: a 2001 book called \"From Slogans to Mantras\" tracked how 1960s counterculture kids ditched mainstream religion for \"alternative\" spirituality.",
+      " If you had to guess, what does the first big Gen Z spiritual movement actually look like - and would either of you get sucked in?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/r/Futurology/comments/1wgkrbp/generation_z_is_going_to_come_up_with_some_really/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "A successful operation test was conducted on a hydrogen-fueled engine for large commercial vessels, reducing greenhouse gas emissions by more than 95% compared to conventional engines.",
+    "angle": "Global shipping is one of the dirtiest industries on the planet, and this is a real engineering milestone toward cleaning it up \u2014 a hydrogen engine that nearly eliminates greenhouse gases compared to the sludgy heavy fuel oil cargo ships run on today.",
+    "bullets": [
+      " It's headed for a multi-purpose vessel being built by Mitsui O.S.K. Lines and MOL Drybulk.",
+      " A real-world sea trial is scheduled to kick off in April 2028.",
+      " Is this the future of global shipping, or just an expensive science project that won't scale before 2028?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/r/Futurology/comments/1wg225d/a_successful_operation_test_was_conducted_on_a/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "U.S. has weapons deployed in orbit, Space Force says https://t.co/mfSbhax39s",
+    "angle": "This is the kind of line that sounds like a movie trailer but it's an actual government confirmation \u2014 the U.S. now has weapons in orbit, and that's a real shift in how we think about \"space\" as just science stuff versus a battlefield.",
+    "bullets": [
+      " U.S. Space Force confirmed the country has weapons deployed in orbit, according to CTV News.",
+      " It's a rare on-record admission \u2014 most space-military capability talk stays vague or classified.",
+      " Be honest \u2014 did either of you think \"weapons in space\" was still a 2050 problem, not a 2026 headline? X/Twitter @CTVNews (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/CTVNews/status/2099659530145550354",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "#BREAKING: Prince Harry and Meghan's children switch schools just two days into new term. Here's why https://t.co/EATZmWx6Ie",
+    "angle": "It's the Sussexes, so any family update goes viral instantly \u2014 and pulling the kids just two days into a new term screams drama, even if the reason's still a mystery.",
+    "bullets": [
+      " Prince Harry and Meghan's children have reportedly switched schools",
+      " CTV News broke it as breaking news, teasing 'here's why' without spelling out the reason",
+      " Two days in and out \u2014 what do you think actually happened, safety scare, privacy issue, or just a bad fit? X/Twitter @CTVNews (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/CTVNews/status/2099604925361618965",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Cher Remembers Bob Mackie After Legendary Designer Dies at 87: \u2018Good Nite Sweet Prince\u2019",
+    "angle": "Bob Mackie basically invented the idea of a pop star's 'iconic look,' from Cher's most jaw-dropping stage outfits to decades of Vegas glamour, so his death at 87 is a genuine cultural moment, not just an industry footnote.",
+    "bullets": [
+      " Legendary fashion designer Bob Mackie has died at 87",
+      " Cher, one of his most famous longtime collaborators, posted a tribute on social media",
+      " Her tribute quoted Hamlet: 'Good Nite Sweet Prince'",
+      " What's the most iconic Bob Mackie/Cher outfit you can picture right now? X/Twitter @Billboard (Tier 1) | Score: 52/90 (45 fit + 12 source + 5 quality - 10 penalty (Depressing/negative tone)) -> STRONG"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2099619083217936659",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-14",
     "slot": "am",
     "category": "THE LIST",
     "title": "China Is Ditching Touchscreens For Essential Controls In New Cars",
