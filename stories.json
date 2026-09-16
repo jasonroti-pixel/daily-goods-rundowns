@@ -1,5 +1,587 @@
 [
   {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Why my interview with AI actor Tilly Norwood creeped me out - CBS News",
+    "angle": "Tilly Norwood, the AI-generated \"actor\" that's already got Hollywood buzzing, sat down for a real interview \u2014 and reportedly unnerved the journalist by profiling them almost instantly. It's the AI-in-entertainment debate hitting a genuinely creepy new gear.",
+    "bullets": [
+      " CBS News sat down with Tilly Norwood, billed as the world's first \"AI actor.\"",
+      " Within about one minute, the AI correctly pegged the reporter's age and U.S. region.",
+      " Would an AI actor guessing your age and hometown in 60 seconds impress you or freak you out? CBS News (via NewsAPI) (Tier 1) | Score: 85/90 (45 fit + 12 source + 28 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.cbsnews.com/news/tilly-norwood-ai-actor-interview-creeped-me-out/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Earth May Be Hoarding a Secret Water Stash 1,800 Miles Beneath Our Feet",
+    "angle": "Scientists think there could be a massive reservoir of water buried 1,800 miles down, left over from the day the planet formed - it's the kind of mind-bending space/science story that makes people stop scrolling and go 'wait, what?'",
+    "bullets": [
+      " If it's real, it would date back to Earth's earliest days - basically a time capsule from the planet's formation.",
+      " Researchers are careful to say 'should it exist' - this is still an open question, not confirmed fact.",
+      " Ask listeners: if there's a hidden ocean under our feet that's older than dinosaurs, does that change how you think about the ground you're standing on? gizmodo.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/earth-may-be-hoarding-a-secret-water-stash-1800-miles-beneath-our-feet-2000812320",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Solar panel costs have plummeted from $6 per watt in 2000 to just 12 cents today",
+    "angle": "This is one of those quiet numbers that explains a huge shift happening around us \u2014 solar went from a rich-person luxury to cheaper than almost anything else on the grid, and most people have no idea it happened this fast.",
+    "bullets": [
+      " Solar panel costs have dropped from $6 per watt in 2000 to roughly 12 cents per watt today",
+      " That's about a 98% price collapse in just over two decades",
+      " Would you actually go solar at home now, or does the upfront cost/install hassle still scare you off even at these prices?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/113860-solar-panel-costs-have-plummeted-6-watt-2000.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Bristol has become the first British city to ban fast fashion advertising, while also restricting ads for SUVs, airlines, cruises and fossil fuels on council owned spaces. The new policy aims to improve the city\u2019s health, air quality and nature by removing advertising for polluting products.",
+    "angle": "Bristol just told fast fashion, SUVs, airlines, cruises and fossil fuels they're not welcome on city-owned ad space anymore - a real-world test of how far a government can go to police what gets advertised, and it's got people asking if this crosses the pond next.",
+    "bullets": [
+      " Bristol becomes the first British city to ban fast fashion advertising on council-owned property",
+      " City says the goal is improving health, air quality, and nature by cutting ads for polluting products",
+      " This applies specifically to council-owned advertising spaces, not the whole city",
+      " Should cities get to decide which legal products you're allowed to see advertised - genius public health move or a slippery slope?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/uk-news/2026/sep/15/bristol-first-uk-city-to-ban-fast-fashion-adverts",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "DOGE Initiative Resulted in Federal Employees Getting Paid Billions to Not Work, New Government Report Finds",
+    "angle": "The whole point of DOGE was supposedly to cut government waste \u2014 now a new report says it may have paid federal workers billions of dollars to sit at home instead. That irony is exactly the kind of story that gets phones ringing.",
+    "bullets": [
+      " A new government report ties the DOGE initiative to federal employees being paid while not working.",
+      " DOGE was originally pitched as a government efficiency and cost-cutting effort.",
+      " An 'efficiency' initiative that may have paid people billions to do nothing \u2014 is this a punchline or a real scandal?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://time.com/article/2026/09/16/federal-spending-layoffs-deferred-resignation-opm-doge-gao-report/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Bernie Sanders says if AI is coming for workers, it should bring a four-day workweek with it",
+    "angle": "AI anxiety is already a kitchen-table worry for a lot of listeners, and now a major political figure is turning it into a concrete policy fight \u2014 a four-day workweek as the price of automation. It's the kind of soundbite that splits a room instantly.",
+    "bullets": [
+      " Bernie Sanders is tying the AI jobs debate directly to a four-day workweek proposal.",
+      " It reframes AI disruption as a labor-rights issue instead of just a tech story.",
+      " If AI actually shortens your workweek instead of ending your job, are you for it \u2014 or does that sound too good to be true?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://fortune.com/2026/09/15/bernie-sanders-ai-four-day-workweek-bill/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Anthropic CEO warns of AI-driven botnet 'swarm' taking over the entire internet \u2014 'In 6\u201312 months such a swarm could be capable of taking over the entire internet with a persistent botnet'",
+    "angle": "The guy running one of the world's top AI labs is publicly warning his own industry's tech could spawn an unstoppable AI botnet within a year \u2014 that's the kind of 'wait, WHAT?' headline that gets people talking about how much they trust AI companies.",
+    "bullets": [
+      " He says within 6 to 12 months, AI could power a self-sustaining botnet 'swarm'.",
+      " If the guy building the AI is the one sounding the alarm, should that make us more scared or more skeptical?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-ceo-warns-of-ai-driven-botnet-swarm-taking-over-the-ent",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "EU opens door for Canada to become its first associate member, von der Leyen says",
+    "angle": "This is a brand-new category of relationship nobody's used before, and it's landing right when Canada's been publicly cozying up to Europe instead of Washington - the timing alone makes this a story about who Canada's real allies are right now.",
+    "bullets": [
+      " Ursula von der Leyen, President of the European Commission, is the one floating the idea",
+      " Canada would reportedly be the first-ever country offered this 'associate member' status with the EU",
+      " No word yet on what powers or obligations actually come with the title - that's the open question",
+      " Is Canada quietly picking Europe over the U.S. right now - and should it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reuters.com/world/eu-opens-door-canada-become-first-associate-member-eu-commission-president-says-2026-09-16/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Canada PM Mark Carney says Trump White House gift came with strange warning",
+    "angle": "Any Carney-Trump moment is catnip for Canadian audiences right now, and dangling a mystery gift with a \"strange warning\" attached is exactly the kind of tease that gets people clicking to find out what it was.",
+    "bullets": [
+      " Mark Carney says he received a gift from Trump during a White House visit.",
+      " Carney claims the gift came attached with a \"strange warning.\"",
+      " What do you think Trump's gift was \u2014 and what's the warning that came with it? ON-AIR BIT BREAKDOWN - Step 1: Guess the Gift - 60 seconds, no Googling -> Each host throws out a guess for what Trump actually gave Carney at the White House. - Step 2: Guess the Warning - Quick follow-up round -> Hosts guess what the \"strange warning\" attached to the gift might have been about. - Step 3: Reveal & React - Wrap-up -> Producer reads out what Carney actually said, hosts react live and crown the closest guess."
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.newsweek.com/canada-pm-mark-carney-trump-white-house-gift-warning-12447411",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Carney says visa rules to be discussed with EU.",
+    "angle": "Prime Minister Mark Carney flagging visa rules as a topic with the EU raises questions about whether Canadians' visa-free travel to Europe could be on the table - a pocketbook issue for anyone planning a European trip.",
+    "bullets": [
+      " Would you be shocked if Canadians suddenly needed a visa to visit Europe?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/politics/article/new-tariffs-hit-canada-as-carney-courts-eu-partnership-live-updates-here/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "'We will rule in CANADA': Letter from Bishnoi gang to police disclosed to CBC News",
+    "angle": "A letter obtained by CBC News shows a notorious international gang boasting it has thousands of members and more firepower than Canadian police - a wild, unnerving claim that raises real questions about organized crime's reach into Canada.",
+    "bullets": [
+      " Is this genuine intimidation from a global crime network, or a gang trying to build its legend with a scary letter?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-letter-threats-police-9.7341131?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "This was the last lake of its kind in Canada. Now it's gone.",
+    "angle": "It's a weirdly specific loss that makes climate change feel real instead of abstract \u2014 a one-of-a-kind natural feature, gone for good, and scientists are pointing straight at a warming Arctic.",
+    "bullets": [
+      " It was an epishelf lake \u2014 a rare setup where a layer of freshwater floats directly on top of saltwater",
+      " It was the last one of its kind left in Canada",
+      " Scientists have now confirmed it's completely gone, along with the unique ecosystem living in it",
+      " Researchers are linking the disappearance directly to the warming Arctic climate",
+      " This isn't some far-off warning \u2014 it's a unique ecosystem that just vanished off the map in our lifetime."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/science/epishelf-lake-9.7344715?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "'Nobody wanted it to end': Seniors prom brings together long-term care residents, Brock University students",
+    "angle": "It's a pure feel-good story out of the Niagara region \u2014 university students throwing an actual prom, complete with all the trimmings, for seniors in long-term care. This is the kind of intergenerational moment that plays great as a warm change-of-pace segment.",
+    "bullets": [
+      " Residents from four long-term care homes in Ontario's Niagara region attended the prom.",
+      " One attendee summed up the night: 'Nobody wanted it to end.'",
+      " Ask listeners: what's one memory from your own prom night you'd relive in a heartbeat?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/hamilton/seniors-prom-brock-university-long-term-care-residents-st-catharines-9.7345173?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Stephen Colbert returns to late-night TV post-cancellation, as guest on Kimmel",
+    "angle": "Months after CBS axed The Late Show, Colbert resurfaces on a rival's stage to celebrate an Emmy win and literally shave off the beard - it's the ultimate late-night full-circle moment fans have been waiting for.",
+    "bullets": [
+      " Stephen Colbert made his first late-night appearance since cancellation as a guest on Jimmy Kimmel Live!",
+      " He came in fresh off an Emmy win",
+      " Colbert shaved his beard live during the appearance",
+      " He opened up about life after The Late Show ended",
+      " Does Colbert need his own show again, or is the guest-couch victory lap actually the better career move?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/stephen-colbert-late-night-return-jimmy-kimmel-9.7343635?cmp=rss",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Juli\u00e1n\u2019 Review: A Mermaid-Loving Dominican American Boy Finds Acceptance in a Vibrant Animated Delight",
+    "angle": "Cartoon Saloon keeps proving animation doesn't need a mouse in shorts to hit big \u2014 this time it's a mermaid-obsessed Dominican American kid in Brooklyn, and critics are already calling it a delight.",
+    "bullets": [
+      " Cartoon Saloon is the acclaimed Irish animation studio behind \"The Secret of Kells,\" \"Song of the Sea,\" and \"Wolfwalkers\" \u2014 all Oscar nominees.",
+      " In 2017, they stepped outside folktales entirely with \"The Breadwinner,\" set in Afghanistan.",
+      " Their new film, \"Juli\u00e1n,\" follows a mermaid-loving Dominican American boy finding acceptance \u2014 this time set in Brooklyn's Latino community.",
+      " Variety's review calls it a \"vibrant animated delight.\"",
+      " This studio keeps skipping the usual animation playbook \u2014 ask listeners which underrepresented story they'd love to see get the Cartoon Saloon treatment next. variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/news/julian-review-1236860501/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Michael J. Fox received a standing ovation at the 2026 Emmys as he accepted the Bob Hope Humanitarian Award for his work advancing Parkinson\u2019s research and advocacy. His foundation has now committed more than $3 billion to Parkinson\u2019s research.",
+    "angle": "A beloved star turning his own diagnosis into a $3 billion research machine is the kind of feel-good moment that cuts through award-show fatigue and gives listeners an easy, uplifting story to talk about.",
+    "bullets": [
+      " Michael J. Fox got a standing ovation at the 2026 Emmys",
+      " He accepted the Bob Hope Humanitarian Award for his Parkinson's advocacy",
+      " His foundation has now committed more than $3 billion to Parkinson's research",
+      " Who's a celebrity you think deserves way more credit for their charity work than they get?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ew.com/michael-j-fox-honored-humanitarian-award-emmys-2026-12114765",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Global Pop Star Olivia Rodrigo Donates $2M to Leading Native American Health Organization",
+    "angle": "Olivia Rodrigo is one of the biggest pop stars on the planet right now, and a seven-figure donation to Native American health care is the kind of celebrity-does-good story that actually cuts through \u2014 it's a nice break from typical entertainment drama and gives listeners something to feel good about.",
+    "bullets": [
+      " Olivia Rodrigo donated $2 million to a leading Native American health organization",
+      " Rodrigo continues a pattern of using her global pop star platform for philanthropic causes",
+      " Which celebrity do you think is genuinely the most generous with their money?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nativenewsonline.net/health/global-pop-star-olivia-rodrigo-donates-1m-to-leading-native-american-health-organization/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "'Not Taking Sides Is Also Taking Sides': Ed Sheeran Faces Fury for Staying Apolitical After Macklemore's Tour Exit",
+    "angle": "After Macklemore reportedly walked away from a tour over politics, fans are turning on Ed Sheeran for staying neutral \u2014 and it's reignited the age-old fight over whether celebrities owe the public an opinion.",
+    "bullets": [
+      " Ed Sheeran is under fire online after choosing to stay apolitical",
+      " Critics are pushing back with the line: 'Not taking sides is also taking sides'",
+      " Do celebrities actually owe us their politics, or is 'staying out of it' a totally fair lane to pick?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/ed-sheeran-macklemore-us-tour-gaza-backlash-1764012",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Refurbished \u201860 Minutes\u2019 Debuts to a 19% Ratings Drop",
+    "angle": "One of TV's most trusted news institutions just changed its look, and viewers immediately tuned out in double digits - that's the kind of 'be careful what you fix' story that always gets people talking about legacy shows messing with a winning formula.",
+    "bullets": [
+      " Ratings dropped 19% right out of the gate",
+      " Longtime viewers of a decades-old franchise didn't respond well to the change",
+      " When a legendary show 'fixes' something that wasn't broken, does the audience ever actually come back?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/60-minutes-season-59-premiere-ratings-decline/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Who is Macklemore? Celebrities show support after Ed Sheeran drops him from tour",
+    "angle": "Macklemore's sudden exit from Ed Sheeran's tour has celebrities publicly rallying around him, and it's sent people searching 'who is Macklemore' \u2014 a mix of music drama and a reminder of how fast a career narrative can flip online.",
+    "bullets": [
+      " Macklemore has reportedly been dropped from Ed Sheeran's upcoming tour",
+      " Multiple celebrities have come out publicly to show support for Macklemore after the news broke",
+      " Do you side with the tour dropping an opener, or is this an overreaction that celebrities are right to push back on?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.indy100.com/celebrities/macklemore-dropped-ed-sheeran-tour-palestine",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Amanda Seyfried and Thomas Sadoski Split After 9 Years of Marriage",
+    "angle": "A long, seemingly stable Hollywood marriage just ended out of nowhere, and fans are always here for the 'wait, THEM?' reaction when a couple that flew under the radar splits.",
+    "bullets": [
+      " Amanda Seyfried and Thomas Sadoski are divorcing after 9 years of marriage",
+      " Which celeb splits actually surprise you anymore, or does nothing shock you at this point?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/amanda-seyfried-and-thomas-sadoski-split-after-9-years-of-marriage-exclusive-12123336",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "The trending Korean peptide mask everyone\u2019s buying is only $12 before Prime Day",
+    "angle": "Skincare deals go viral fast on social media, and a bargain peptide mask hitting a magic price point right before Prime Day is exactly the kind of \"add to cart now\" story that gets people talking about their own beauty hoards.",
+    "bullets": [
+      " It's a Korean peptide face mask trending online right now",
+      " Price tag: just $12",
+      " Deal is live ahead of Prime Day, adding urgency to grab it before the big sale rush",
+      " What's the cheap beauty product you always stock up on the second it goes on sale?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/16/shopping/shop-the-dr-jart-peptide-mask-for-12-before-prime-day/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Sydney Sweeney\u2019s naked gambling ad is coming at a cost",
+    "angle": "A-list actress, a steamy gambling ad, and now real backlash showing up in her numbers \u2014 this is the kind of celebrity-brand-deal blowup that always gets a studio arguing over whether it's actually a big deal.",
+    "bullets": [
+      " Sydney Sweeney fronted a gambling ad campaign that leaned into a \"naked\" visual angle",
+      " Online backlash has been building for over a week across social media",
+      " Is this backlash a real career dent for Sweeney, or just internet noise that blows over in a week?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/16/sports/sydney-sweeneys-naked-gambling-ad-is-coming-at-a-cost/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "EU to ban social media for under 13s, curb access until 15",
+    "angle": "This is the biggest domino yet in the global crackdown on kids and social media \u2014 after Australia banned under-16s last year, the EU is now moving to lock kids out entirely until 13 and restrict them until 15, which could reshape how every platform verifies age worldwide.",
+    "bullets": [
+      " Access stays curbed until age 15 even after that",
+      " Australia became the first country to ban social media for under-16s last year",
+      " That Australian ban has already triggered a wave of copycat moves in other countries",
+      " Would you actually back a hard age limit for your kid's phone, or is this a losing battle the second they get a friend's login? torontosun.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://torontosun.com/news/world/eu-to-ban-social-media-for-under-13s-curb-access-until-15",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Paying college students $5/night if they slept more than 7 hours (n=468) led to increased sleep and increased GPA compared to control group; habits lingered some after end of payments",
+    "angle": "It's a college study that doubles as a real-life debate: could a tiny cash bribe fix your sleep schedule and your grades \u2014 and would it work on grown adults with bills to pay?",
+    "bullets": [
+      " Researchers paid 468 college students $5 a night for logging more than 7 hours of sleep",
+      " Some of the better sleep habits stuck around even after the payments stopped",
+      " What dollar amount would it actually take to bribe YOU into bed on time?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Self-repairing coating can restrict corrosion to 37 nanometers a year - 600 times more effective than many existing rust-protection products",
+    "angle": "It sounds like sci-fi, but a new self-healing coating could make rust a thing of the past for cars, bridges, and appliances - the kind of \"why didn't we have this sooner\" story that gets people talking about everything from their driveway to their kitchen sink.",
+    "bullets": [
+      " It restricts corrosion to just 37 nanometers a year - a practically invisible rate of decay.",
+      " That makes it roughly 600 times more effective than a lot of rust-protection products already on the market.",
+      " What's the one thing you own that you wish would just stop rusting already?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://aibn.uq.edu.au/article/2026/09/self-repairing-coating-extend-rust-prevention",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Researchers report the first direct evidence in humans that BPA exposure can alter insulin sensitivity, strengthening concerns that the common plastic chemical may contribute to metabolic disorders such as type 2 diabetes.",
+    "angle": "This isn't just another vague 'plastic is bad' study \u2014 researchers say they've found the first direct evidence in actual humans that BPA can mess with how your body handles insulin, which is a big deal since BPA is basically everywhere in our lives.",
+    "bullets": [
+      " Study finds the first direct evidence in humans that BPA exposure can alter insulin sensitivity",
+      " Researchers link the chemical to potential risk for metabolic disorders, including type 2 diabetes",
+      " BPA is a chemical used in countless plastics most people are exposed to daily without knowing",
+      " Ask listeners: once you found out about BPA, did you actually change what plastic you use, or did you just feel briefly guilty and move on?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/first-evidence-in-humans-that-bpa-can-alter-insulin-sensitivity",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Malaysian In HYROX Bangkok Disqualified For Late Start Because He Went To The Toilet First",
+    "angle": "A HYROX Bangkok racer got disqualified for starting late \u2014 because he stopped to hit the bathroom first. It's the kind of absurd rules-vs-nature story that writes its own debate.",
+    "bullets": [
+      " A Malaysian competitor at HYROX Bangkok was disqualified for a late start",
+      " Story surfaced via Reddit's r/nottheonion, tagged as too absurd to be satire",
+      " Should race officials ever bend the rules for a bathroom emergency, or are rules the rules?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.therakyatpost.com/news/2026/09/15/malaysian-in-hyrox-bangkok-disqualified-for-late-start-because-he-went-to-the-toilet",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Student suspended for bringing coffee to class in act of 'civil disobedience'",
+    "angle": "A student allegedly got suspended just for bringing coffee to class and is framing it as a stand against the rules \u2014 it's the kind of absurd, over-the-top school discipline story that instantly gets people fired up about how ridiculous zero-tolerance policies can get.",
+    "bullets": [
+      " A student was reportedly suspended for bringing coffee into class.",
+      " Story surfaced via r/nottheonion \u2014 filed under 'you can't make this up.'",
+      " What's the dumbest thing YOU ever got in trouble for at school? ON-AIR BIT BREAKDOWN - Step 1: Set Up the Absurdity - 15 seconds -> Host reads the headline straight, deadpan, letting 'civil disobedience' over a coffee cup land as the punchline. - Step 2: Open the Phones - 2-3 minutes -> Ask listeners to call/text their most ridiculous school punishment \u2014 dress code violations, gum, phone confiscations, etc. - Step 3: Crown a Winner - 1 minute -> Hosts pick the most outrageous listener story and award it the 'Most Overreactive Principal' title of the day."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fox5ny.com/news/student-suspended-bringing-coffee-class-act-civil-disobedience",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "The Weeknd donated $2.2 million from his 2026 European and UK tour to the UN World Food Programme and Global Citizen, with \u00a31 or \u20ac1 from every ticket helping provide education for children and urgent humanitarian aid.",
+    "angle": "A global superstar quietly turning ticket stubs into meals and school supplies is the kind of celebrity-does-good story that cuts through the cynicism - it's concrete, it's massive in scale, and it gives the hosts a feel-good story with real numbers behind it.",
+    "bullets": [
+      " \u00a31 or \u20ac1 from every ticket sold is being funneled into the cause",
+      " Funds are earmarked for children's education and urgent humanitarian aid",
+      " Would you pay a little extra on a concert ticket if you knew it was going straight to feeding kids?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://djmag.com/news/weeknd-donates-22-million-2026-europe-tour-un-world-food-programme-and-global-citizen",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Tiny village votes for 'independence' from UK amid asylum seeker row",
+    "angle": "A British village is so fed up with a local asylum seeker housing dispute that residents literally voted to declare independence from the UK - the kind of absurd-but-real headline that's tailor-made for a kicker.",
+    "bullets": [
+      " A small UK village reportedly held a vote to declare 'independence' from the United Kingdom.",
+      " Story is making the rounds on r/nottheonion for sounding too wild to be real - but it is.",
+      " Could your neighborhood actually 'secede' over a local fight - and would you sign up?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.manchestereveningnews.co.uk/news/uk-news/tiny-village-votes-independence-uk-34623788",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Cuban dance teacher ordered EU sabotage attacks from Russia",
+    "angle": "It's the ultimate real-life spy movie plot: a Cuban dance instructor allegedly moonlighting as a Kremlin-directed saboteur across Europe. This is exactly the kind of stranger-than-fiction story that lives on r/nottheonion.",
+    "bullets": [
+      " A dance teacher based in Cuba is accused of directing sabotage attacks across the EU",
+      " Investigators allege the orders were coming straight from Russia",
+      " Would you ever suspect your salsa instructor of secretly working for a foreign intelligence op?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.dw.com/en/cuban-dance-teacher-ordered-eu-sabotage-attacks-from-russia/a-79225946",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "It\u2019s official: The U.S. has weapons in space",
+    "angle": "The U.S. just confirmed what sci-fi movies have been warning us about for decades \u2014 actual weapons, in actual orbit. It's the kind of \"wait, WHAT?\" headline that makes for a perfect send-off tease.",
+    "bullets": [
+      " Does anyone else feel like we just skipped a few chapters of the sci-fi movie and went straight to the ending?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.scientificamerican.com/article/the-u-s-has-weapons-in-space/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Ed Sheeran's tour in jeopardy after opening acts all quit in support of Macklemore",
+    "angle": "A mass walkout by opening acts is rare enough on its own, but doing it in solidarity with Macklemore turns this into a real backstage drama with a political edge \u2014 exactly the kind of messy entertainment story listeners love dissecting.",
+    "bullets": [
+      " Ed Sheeran's tour is reportedly in jeopardy after his opening acts quit",
+      " No word yet on how Sheeran or his team plan to respond",
+      " Do artists owe it to a headliner to stay neutral, or is walking out in solidarity fair game?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.lemonde.fr/en/culture/article/2026/09/16/ed-sheeran-s-tour-in-jeopardy-after-opening-acts-all-quit-in-support-of-macklem",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-15",
     "slot": "pm",
     "category": "THE LIST",
