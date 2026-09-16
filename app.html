@@ -1004,7 +1004,7 @@ function renderRundownSelect() {
     h += '<div class="rundown-card" onclick="openRundown(\''+d.date+'\')">';
     h += '<img class="nico-icon-menu" src="'+getBrandImg('icon')+'"'+(currentBrand==='dailygoods'?' style="image-rendering:auto;border-radius:3px"':'')+' alt=""><span class="dow">'+f.dow+'</span><span class="date-label">'+f.short+'</span>';
     h += '<div class="slot-badges">';
-    d.slots.forEach(sl => { h += '<span class="slot-badge '+sl+'">'+slotLabel(sl)+'</span>'; });
+    d.slots.forEach(sl => { h += '<span class="slot-badge '+sl+'" onclick="event.stopPropagation();openRundown(\''+d.date+'\',\''+sl+'\')">'+slotLabel(sl)+'</span>'; });
     h += '</div><span class="story-count">'+d.count+' stories';
     if (sel) h += ' &bull; <span style="color:var(--green)">'+sel+' loaded</span>';
     h += '</span></div>';
@@ -1014,10 +1014,10 @@ function renderRundownSelect() {
   
 }
 
-function openRundown(date) {
+function openRundown(date, slot) {
   currentDate = date;
   const di = getDates().find(d => d.date===date);
-  currentSlot = di ? di.slots[0] : 'am';
+  currentSlot = slot || (di ? di.slots[0] : 'am');
   currentView = 'stories'; searchQuery = '';
   renderApp();
 }
