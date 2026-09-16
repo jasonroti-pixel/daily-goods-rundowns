@@ -1,5 +1,572 @@
 [
   {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Renewable energy has finally grown fast enough to meet all new global electricity demand",
+    "angle": "For the first time ever, clean energy alone covered ALL the growth in global electricity demand \u2014 and solar just leapfrogged coal worldwide. Even China and India, the usual fossil-fuel growth engines, saw coal power actually drop.",
+    "bullets": [
+      " For the first time ever, rising global electricity demand was fully covered by clean power, not fossil fuels",
+      " China and India \u2014 historically the biggest drivers of fossil-fuel growth \u2014 both saw falls in fossil generation",
+      " Solar overtook coal in the global electricity mix",
+      " Renewables became the world's largest source of electricity for the first time in over a century",
+      " Does a stat like this actually change how people think about climate progress, or does it fly under the radar completely?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://axis-intelligence.com/renewable-energy-statistics/?utm_source=copilot.com",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Sony says gamers don't own their digital purchases, but 44 examples of its own wording suggest otherwise",
+    "angle": "Every gamer who's bought a digital title has wondered what happens when a platform pulls it - this one's got receipts, with Sony's own marketing language allegedly contradicting their legal position on ownership.",
+    "bullets": [
+      " Sony is arguing in a case that gamers don't actually own the digital games they buy.",
+      " Critics dug up 44 examples of Sony's own wording - like \"buy,\" \"own,\" and \"purchase\" - used to sell those same digital titles.",
+      " If you've ever hit \"buy now\" on a digital game, movie, or album - do you actually think you own it, or did you already know you were just renting it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/113834-sony-gamers-dont-own-their-digital-purchases-but.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Cops Search Thousands of Flock Cameras for Reasons of \u2018LMAO,\u2019 \u2018IDK,\u2019 \u2018Hehe,\u2019 and \u2018asdfg\u2019",
+    "angle": "Police departments nationwide use Flock's license-plate camera network, and logs show officers justifying thousands of searches with nonsense like \"IDK\" and \"asdfg\" instead of an actual case reason - a viral, kind of hilarious, kind of terrifying look at how little oversight this surveillance system actually has.",
+    "bullets": [
+      " Police reportedly ran thousands of searches through the Flock license-plate camera network",
+      " Logged justifications for the searches included \"LMAO,\" \"IDK,\" \"Hehe,\" and \"asdfg\"",
+      " Story is blowing up on Reddit's r/technology as a flashpoint for surveillance-oversight concerns",
+      " If a cop can search a nationwide camera network and just type 'lol' as the reason, is anyone actually watching the watchers?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.404media.co/cops-search-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Police Used Flock Camera Footage to Jail Innocent Woman for 13 Days: \u2018I Thought My Life Was Over\u2019",
+    "angle": "This is the surveillance-state nightmare people worry about actually happening \u2014 a network of license plate cameras used by police departments nationwide reportedly helped jail a woman who did nothing wrong. It's a real gut-check on how much we should trust AI-assisted policing.",
+    "bullets": [
+      " Police leaned on footage from Flock cameras \u2014 the license-plate-reading network used by thousands of departments across the country \u2014 to make the arrest.",
+      " Her own words: 'I thought my life was over.'",
+      " Would you trust a camera network to correctly ID you as a criminal \u2014 and what happens when it doesn't?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techtimes.co.uk/florida-woman-flock-camera-misidentification-charges-dropped-1808662",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "US coal \u2018biggest contributor by far\u2019 to rise in global emissions",
+    "angle": "New data reportedly pins US coal as the single biggest driver behind the recent global spike in emissions \u2014 a real gut-check for a country that keeps talking green energy while coal plants stay online.",
+    "bullets": [
+      " Report reportedly names US coal as the \"biggest contributor by far\" to the recent rise in global emissions.",
+      " Limited source detail available beyond the headline claim \u2014 worth a fact-check on air before diving deep.",
+      " Are we surprised coal's still this big a problem, or does it feel like old news dressed up as a headline?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thechemicalengineer.com/news/us-coal-biggest-contributor-by-far-to-rise-in-global-emissions/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "EPA eliminates rule that limits planet-warming greenhouse gas emissions from power plants",
+    "angle": "This is a major federal rollback on climate policy that touches every American's power bill, air quality, and the bigger fight over how the U.S. handles global warming - the kind of story that splits a room fast.",
+    "bullets": [
+      " Power plants are among the largest sources of planet-warming pollution in the U.S.",
+      " Jobs and energy costs vs. the planet - where do you land on this one?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/epa-power-plants-trump-coal-gas-climate-cac1c2c75f8656d8eaf5f0a240edae15?link_source=ta_thread_li",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "\"Offensively cheap\": Solar power is looking up",
+    "angle": "Solar power costs have reportedly dropped so low that the internet is calling it \"offensively cheap\" - a trend that touches everyone's power bill and could reshape how North America thinks about energy long-term.",
+    "bullets": [
+      " Signals solar may be tipping from niche green option to straight-up cheapest energy play",
+      " If solar's basically free now, why is your power bill still brutal - who's pocketing the difference?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "NDP upsets UCP stronghold in Calgary-Shaw in byelection results",
+    "angle": "Mark Carney says Canada will court private investment at Toronto Pearson, Vancouver, Calgary and Montreal \u2014 a shift that could mean higher fees, new terminals, or a foreign stake in the gates you walk through every trip.",
+    "bullets": [
+      " Calgary-Shaw flipped from UCP to NDP in the byelection",
+      " Byelection results like this are often read province-wide as a signal on the sitting government's popularity",
+      " Is this a real crack in UCP support, or just a sleepy byelection where a low turnout swung things?",
+      " PM Mark Carney floated the plan at an international summit",
+      " Move signals Canada opening up airport ownership/funding to private investors",
+      " Private money fixing your terminal, or private money hiking your parking and fees \u2014 which happens first?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/livestory/carney-investment-summit-tariffs-trillion-protests-9.7344307?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "COVID-19 benefit repayment is hurting low-income Canadians, report says",
+    "angle": "Years after the pandemic, Canadians are still being asked to repay COVID-era benefits, and a new report says the clawbacks are landing hardest on people who can least afford it \u2014 a fairness fight that hits close to home for a lot of listeners.",
+    "bullets": [
+      " A new report says Canadians are still being asked to repay pandemic-era COVID-19 benefits.",
+      " Should the government still be clawing back pandemic benefit money from people who can barely make rent right now?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/cra-pandemic-benefit-clawbacks-cerb-cra-maytree-report-9.7330433?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Alberta NDP win in Calgary-Shaw byelection",
+    "angle": "A byelection upset in Calgary-Shaw is a real gut-check for Alberta's ruling UCP \u2014 a seat swing this narrow signals cracks in provincial politics worth flagging for Canadian listeners.",
+    "bullets": [
+      " NDP's Kyle Campbell won the Calgary-Shaw byelection over UCP's Mike Derry",
+      " Results are unofficial, from Elections Alberta",
+      " A 582-vote swing in a UCP stronghold \u2014 is this buyer's remorse setting in on Alberta's government?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/calgary/calgary-shaw-byelection-results-alberta-ndp-9.7344149?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Heavy rain turns half-marathon into total soak-a-thon | The Moment",
+    "angle": "Flash flooding turned a routine road race into a wade-through-your-shins ordeal, and the runner's play-by-play of it is the kind of wild-weather story that makes for an easy, relatable chat.",
+    "bullets": [
+      " Julia Cairns was mid-race when flash floods swamped the course.",
+      " She detailed the soggy ordeal in an interview with CBC's The National.",
+      " Would you have kept running through the floodwater or called it quits on the spot?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/player/play/9.7344145?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Iconic winter X Games comes to Calgary",
+    "angle": "The X Games haven't had a proper winter home in years, and now Calgary's landing it - a huge get for the city and a big deal for Canadian winter sports fans who usually watch this stuff happen in the US.",
+    "bullets": [
+      " WinSport's Canada Olympic Park is hosting",
+      " It's a three-day event kicking off Feb. 19",
+      " Would you actually brave a Calgary February to watch this live, or is this strictly a TV event for you?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/calgary/calgary-winter-sports-x-games-9.7343723?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Lanterns\u2019 Burns It All Down: Episode 5 Director Explains John Stewart\u2019s Shocking Decision - TheWrap",
+    "angle": "Episode 5 of HBO's new 'Lanterns' series went full scorched-earth with John Stewart's storyline, and the director is now explaining why they blew it up with three episodes still to go \u2014 perfect fuel for a spoiler-warning superhero chat.",
+    "bullets": [
+      " Director Geeta Vasant Patel sat down with TheWrap to break down Episode 5's twist.",
+      " There are still three episodes left in the season after this gut-punch.",
+      " Patel says the chaos was designed to keep the character, not the spectacle, front and center.",
+      " Would you rather a show blow up its own story mid-season or save the twist for the finale? TheWrap (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/lanterns-episode-5-is-john-stewart-still-green-lantern-director-interview/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "David Harbour teases his secret action project with Millie Bobby Brown that\u2019s in development at Netflix:",
+    "angle": "Two \"Stranger Things\" faves are apparently cooking up an action project together at Netflix, and Harbour's teasing a grown-up father-daughter dynamic as his onscreen kid ages out of the show that made them both stars.",
+    "bullets": [
+      " David Harbour teased a secret action project with Millie Bobby Brown in development at Netflix",
+      " Harbour says they have a father-daughter dynamic he thinks \"we play very well\"",
+      " He notes Brown is \"now in her 20s\" and they want to explore fathering someone at that age vs. the teen dynamic from Stranger Things",
+      " Quote: \"he's going through all kinds of things\" too - both characters navigating change",
+      " Would you watch a Harbour/Brown action spin-off, or does it feel too soon to leave Hawkins behind? X/Twitter @Variety (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Variety/status/2099832603574678001",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Stephen Colbert declares \u201cfree speech is alive and well\u201d after winning the #Emmy for Best Variety Series, despite CBS\u2019 cancellation of \u201cThe",
+    "angle": "Colbert just won Best Variety Series months after CBS axed \"The Late Show\" \u2014 and used his acceptance speech to take a not-so-subtle victory lap on free speech, which is exactly the kind of awkward, watercooler-ready moment awards shows are made for.",
+    "bullets": [
+      " Stephen Colbert won the Emmy for Best Variety Series",
+      " Colbert said: \"free speech is alive and well\"",
+      " He gave a shoutout to fellow late-night hosts: \"Jimmy and Jimmy and John and John and Seth\"",
+      " Is this a classy mic-drop moment or Colbert twisting the knife on his way out the door? X/Twitter @Variety (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Variety/status/2099719384751341845",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "'Sydney Sweeney's Ad Disrespects Every Woman': Female Athletes Slam Sexualised Sports Campaign",
+    "angle": "A Sydney Sweeney ad campaign is getting called out by real female athletes for leaning into sex appeal over sport, and the blunt \"disrespects every woman\" quote is exactly the kind of soundbite that fuels a real debate about how brands sell women's sports.",
+    "bullets": [
+      " Female athletes are publicly slamming the campaign as overly sexualized",
+      " One critic's quote cuts right to it: \"Disrespects every woman\"",
+      " Does this ad actually disrespect female athletes, or are people reading too much into it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/sydney-sweeney-novig-sports-campaign-backlash-1763946",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Tyler Perry Announces Plans to Move to Puerto Rico, Says He\u2019s \u2018Pulling Back a Whole Lot\u2019 from Work",
+    "angle": "One of the biggest names in Hollywood says he's stepping back from the grind and relocating - that's a real 'wait, what?' moment for anyone who's watched him build an empire from the ground up.",
+    "bullets": [
+      " Tyler Perry announced plans to move to Puerto Rico",
+      " He says he's \"pulling back a whole lot\" from work",
+      " Comes after decades of nonstop output - studios, films, TV shows",
+      " Would you ever walk away from a hustle that made you a billionaire to slow down - or is that a myth nobody actually does?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/tyler-perry-moving-to-puerto-rico-pulling-back-a-whole-lot-from-work-12120802",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Michael J. Fox Earns Huge Emmys Ovation and Inspires Tears as He Accepts Humanitarian Award: \u2018Accepting Parkinson\u2019s Didn\u2019t Mean I Had to Surrender to It\u2019",
+    "angle": "A rare unscripted, emotional moment at an awards show always plays well on air, and Fox's line about living with Parkinson's is the kind of quote that gets repeated all week.",
+    "bullets": [
+      " Michael J. Fox received the Governors Award (humanitarian honor) at the Emmys",
+      " He got a standing ovation from the room",
+      " Key quote: \"Accepting Parkinson's didn't mean I had to surrender to it\"",
+      " Moment reportedly moved the audience to tears",
+      " What's a line from a celebrity that's actually stuck with you and changed how you think?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/michael-j-fox-emmy-humanitarian-parkinsons-1236861934/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Macklemore speaks out after being dropped from Ed Sheeran\u2019s tour following his \u2018Free Palestine\u2019 speech; says Gillette Stadium owner Robert Kraft rallied other stadium owners and gave Ed Sheeran an ultimatum: if Macklemore stayed on tour, then Ed would not be able to play in their venues.",
+    "angle": "A 'Free Palestine' speech on stage allegedly triggered a stadium-owner power play big enough to bump a headliner from a global tour \u2014 that's a juicy mix of politics, music, and NFL money hitting all at once.",
+    "bullets": [
+      " Macklemore claims he was dropped from Ed Sheeran's tour after giving a 'Free Palestine' speech during a show.",
+      " He says Patriots/Gillette Stadium owner Robert Kraft rallied other stadium owners to push him off the bill.",
+      " Macklemore is now speaking out publicly about getting pushed out over the incident.",
+      " Should a stadium owner be able to bench an opener over a political statement, or is that Sheeran's call alone?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1wg73id",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Ms Rachel calls out Ed Sheeran and says we all need to speak on what is happening",
+    "angle": "Ms Rachel is basically the patron saint of toddler YouTube, so when she publicly calls out a pop star this big, fans immediately want the tea \u2014 it's the kind of celebrity-vs-celebrity moment that spreads fast on social before anyone even knows the full story.",
+    "bullets": [
+      " All we've got is a headline right now, so before we react on air, let's track down what Ms Rachel actually said Ed Sheeran did."
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/k28majyocjph1.jpeg",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Wavytalk\u2019s viral blow dryer brush is on a major sale before October Prime Day",
+    "angle": "This blow-out brush has been all over social media for making salon-style hair happen at home, and now it's discounted before Prime Day even kicks off - which means listeners want to know if it's worth grabbing early.",
+    "bullets": [
+      " It's built to combine drying and styling in one step for an at-home blowout",
+      " Callers - what's the one viral gadget you actually bought and don't regret?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/15/shopping/wavytalk-thermal-brush-is-under-50-before-prime-day/",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018I\u2019m Black I Can\u2019t Be Racist\u2019: Minnesota Wendy\u2019s Customer Draws Backlash After Allegedly Threatening to Call ICE on Hispanic Workers",
+    "angle": "A viral clash over race, immigration, and fast food service is blowing up online because the customer's own defense \u2014 \"I'm Black, I can't be racist\" \u2014 is now the most-quoted line in the whole story.",
+    "bullets": [
+      " Incident happened at a Wendy's in Minnesota",
+      " Customer allegedly threatened to call ICE on Hispanic employees",
+      " Customer's defense, caught on video: \"I'm Black I can't be racist\"",
+      " Clip is drawing heavy backlash online, first surfaced via r/nottheonion",
+      " Can weaponizing ICE against coworkers ever be defended as 'not racist' just because of who's saying it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thenerdstash.com/im-black-i-cant-be-racist-minnesota-wendys-customer-draws-backlash-after-allegedly-threatening-to-call-ice",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Sydney Sweeney's 'sexualized' sports betting ad slammed by Canadian athletes",
+    "angle": "Sweeney's already a lightning rod after her American Eagle ad blew up online, and now a 'sexualized' sports betting campaign has real athletes calling foul \u2014 this is the kind of ad-backlash story built for two hosts to actually argue about.",
+    "bullets": [
+      " Sydney Sweeney is facing backlash again \u2014 this time over a sports betting ad critics are calling 'sexualized.'",
+      " Female athletes, including ones in Canada, are speaking out against the campaign.",
+      " Sweeney's own response to the criticism has added fuel to the fire, not calmed it down.",
+      " Is this genuine exploitation in advertising, or is everyone just primed to pile on Sydney Sweeney right now?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/sydney-sweeney-sports-ad-9.7342823?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Benny Blanco Reveals the Secret to Winning Over Selena Gomez When They Began Dating - people.com",
+    "angle": "Benny Blanco and Selena Gomez are engaged and fans can't get enough of their love story, so any new detail on how the producer wooed a global pop star is instant lifestyle-segment gold.",
+    "bullets": [
+      " What's the one move that's actually worked for you when trying to win someone over? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "QjVYTVZvOE5nQ1c0TXZQaGpiQnJzcFM4RjMwcTJ3UzAwcjZiSFI0TGdOZTJFY1ZQUUxPVw?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVB5WDNpUmRqaDZjc3Q2UTZqM3I3RU1kSjk5cHJwTjJmaUxsVjhFbVI",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "A College Girl Was Exploited on Camera. A Network of Anonymous Men Got to Work | Maddie Kowalski is one of countless young women who\u2019ve had their lives destroyed by the burnerverse, a loosely connected online community of sports fans. Now she\u2019s fighting back",
+    "angle": "It's a real, spreading corner of internet culture \u2014 anonymous sports-fan accounts building coordinated campaigns against ordinary young women \u2014 and it's a cautionary tale about online safety that hits close to home for anyone with a teenage daughter, niece, or younger sister on social media.",
+    "bullets": [
+      " Maddie Kowalski, a college student, says her life was upended by a network she calls the 'burnerverse.'",
+      " She says she's far from the only one \u2014 'countless' young women have reportedly been targeted the same way.",
+      " She's now speaking out publicly and, per the story's framing, 'fighting back.'",
+      " Ask listeners: had you ever heard the term 'burnerverse' before today \u2014 and does it change how you think about who's really behind an anonymous fan account?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wired.com/story/burnerverse-maddie-kowalski/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "A new study reveals that individuals with dark personality traits tend to achieve greater creative success because they possess a highly analytical, self-directed thinking style that allows them to bypass social norms and external constraints.",
+    "angle": "New research links so-called 'dark' personality traits to bigger creative success, and the reason isn't chaos - it's a sharp, self-directed way of thinking that just ignores the rules everyone else follows. Instant debate fuel: are the most brilliant people in any room also the hardest to deal with?",
+    "bullets": [
+      " That mindset lets people bypass social norms and external constraints that box others in",
+      " Think of the most brilliant person you know who's also kind of impossible - does this explain them?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/a-specific-thinking-style-explains-why-dark-personality-traits-are-linked-to-creativity/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "A Cop Searched 19,000 Flock Cameras Across 1,558 Cities. His Reason: \u2018LMAO\u2019",
+    "angle": "A police officer allegedly ran a search across 19,000 Flock surveillance cameras in over 1,500 cities and the reason logged for the search was literally \"LMAO\" - a perfect, absurd flashpoint in the ongoing debate over how much access cops have to mass surveillance networks.",
+    "bullets": [
+      " An officer searched 19,000 Flock Safety cameras spanning 1,558 cities",
+      " Flock cameras are license-plate reading cameras used by police departments across the US and Canada",
+      " Story surfaced via r/nottheonion, framed as too absurd to be satire",
+      " If a cop can search 19,000 cameras nationwide and just write \"LMAO\" as the reason, who's actually checking that log?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techtimes.co.uk/police-flock-search-licence-plate-lmao-1808683",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Woman throws bucket of poop on neighbor for sleeping with her husband, deputies say",
+    "angle": "This is peak 'Florida Man' energy \u2014 a revenge story so petty and specific it practically writes its own punchline, perfect for a quick KICKER laugh before the goodbye.",
+    "bullets": [
+      " A woman is accused of dumping a bucket of feces on her neighbor",
+      " Deputies got involved and confirmed the incident",
+      " Justified petty revenge or straight-up assault charge \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.kwtx.com/2026/09/14/woman-throws-bucket-poop-neighbor-sleeping-with-her-husband-deputies-say/?fbclid=IwdGRjcAU",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Christian Bale opens Palmdale village built to keep foster brothers and sisters together",
+    "angle": "A-list actor turned real estate developer \u2014 Batman is building homes so foster siblings don't get split up, and that's the kind of feel-good celebrity story that actually has substance behind it.",
+    "bullets": [
+      " Christian Bale helped open a new foster care village in Palmdale, California",
+      " Sibling separation is one of the most common heartbreaks in the foster system \u2014 this village is built specifically to solve that",
+      " Did you know most foster kids with siblings get split into different homes \u2014 would you have guessed a Hollywood A-lister would be the one building a fix?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://sheets.works/story/a-village-for-brothers-and-sisters?r=game",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "\u2018Smart\u2019 underwear that counts your farts",
+    "angle": "It's the kind of gloriously dumb invention the internet was built to mock \u2014 a wearable that turns your gas into data, which is exactly the kind of pointless-but-hilarious story that makes a killer goodbye segment.",
+    "bullets": [
+      " Would you actually wear underwear that snitches on your gas to an app?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.the-independent.com/news/science/fart-tracker-underwear-b2919610.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Tech billionaire Peter Thiel bringing Antichrist lectures to Nashville",
+    "angle": "A Silicon Valley billionaire touring the country giving lectures on the literal Antichrist is exactly the kind of \"wait, what?\" story that gets shared - it's a strange collision of tech money, politics, and apocalyptic theology that people can't help but talk about.",
+    "bullets": [
+      " Would you actually pay to sit through a tech billionaire's lecture on the Antichrist?"
+    ],
+    "debate": "The Wait, What? Moment",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.yahoo.com/news/us/articles/tech-billionaire-peter-thiel-bringing-202027251.html?guccounter=1&guce_referrer=aHR0cH",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Ed Sheeran 'deserves no applause' after axing Macklemore from tour over Palestine drama",
+    "angle": "A pop superstar bouncing a fellow artist from his tour over a Palestine-related dust-up is exactly the kind of celebrity-meets-politics story that splits a room fast - is this about keeping a tour 'safe,' or silencing an artist for speaking out?",
+    "bullets": [
+      " Ed Sheeran reportedly axed Macklemore from an upcoming tour lineup.",
+      " Backlash online includes claims Sheeran 'deserves no applause' for the call.",
+      " Should artists ever get bumped from a tour over their political statements, or is that flat-out censorship?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.irishstar.com/culture/entertainment/ed-sheeran-macklemore-free-palestine-37664657",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Fashion and costume designer Bob Mackie, who helped stars sparkle, dies age 87",
+    "angle": "Bob Mackie spent decades defining what glamour looks like on stage and screen, so his passing is a genuine pop-culture moment worth pausing on, not just an industry footnote.",
+    "bullets": [
+      " Fashion and costume designer Bob Mackie has died at age 87",
+      " He built his reputation dressing stars in show-stopping, sparkle-heavy looks for stage and screen",
+      " Ask listeners: what's the most iconic sparkly, over-the-top stage look you remember - odds are a Bob Mackie design is behind it."
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.cnn.com/2026/09/14/style/bob-mackie-fashion-designer-dead?utm_medium=social&utm_campaign=missions&utm_sour",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-14",
     "slot": "pm",
     "category": "THE LIST",
