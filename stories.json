@@ -1,6 +1,575 @@
 [
   {
     "date": "2026-09-15",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Chiefs have Chris Berman to thank for 90-year-old trick play",
+    "angle": "A trick play that dates back nearly a century just showed up in a Monday Night Football game, and the callback to Chris Berman's legendary broadcasting catchphrase gives it extra shelf life for sports fans and casual viewers alike.",
+    "bullets": [
+      " It was described as a genuine game-changing moment in the matchup.",
+      " Bet nobody on your group chat knows this trick play is nearly a century old - drop that stat and watch the reactions."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/15/sports/chiefs-have-chris-berman-to-thank-for-90-year-old-trick-play/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "A 3-Year-Old's Cancer Disappeared After Doctors Reprogrammed His Own Immune Cells",
+    "angle": "This is the kind of medical story that stops people mid-scroll \u2014 doctors took a toddler's own immune cells, reprogrammed them, and knocked out a cancer that chemo and multiple surgeries couldn't beat. It's a real glimpse at where cancer treatment might be headed for everyone.",
+    "bullets": [
+      " At diagnosis, the boy had a liver tumor measuring 11.2 x 9.6 x 7.1 cm \u2014 roughly the size of a grapefruit.",
+      " He went through three rounds of chemotherapy, had the liver tumor surgically removed, and endured two separate lung surgeries.",
+      " Even after all that, the cancer came roaring back with a new tumor in his lungs \u2014 until the reprogrammed immune cell treatment turned things around.",
+      " Ask listeners: has a clinical trial or cutting-edge treatment ever turned around a diagnosis in your family?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/a-3-year-olds-metastatic-cancer-disappeared-after-two-doses-of-experimental-therapy",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "America\u2019s largest land based wind farm is now operating in New Mexico, with 916 turbines producing 3.5 GW of clean electricity and a 550 mile transmission line carrying the wind power to Arizona and California. SunZia is projected to deliver $20.5 billion in economic benefits over its lifetime.",
+    "angle": "This is officially the largest land-based wind farm in the country, and it's a huge, tangible sign of where energy in North America is headed - plus it's sending power clear across three states, so this isn't just a local story.",
+    "bullets": [
+      " It runs 916 turbines generating 3.5 gigawatts of clean electricity",
+      " A 550-mile transmission line carries that power to Arizona and California",
+      " Backers project $20.5 billion in economic benefits over the project's lifetime",
+      " 916 turbines in one project - would you want to live near a wind farm this massive, or just cash the cheaper power bill?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://energiesmedia.com/us-clean-power-installations-record/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Kash Patel struggles to explain why bestiality was dropped as FBI disqualification",
+    "angle": "The sitting FBI Director got pressed on why bestiality was quietly dropped as a disqualifying factor for the Bureau \u2014 and by all accounts fumbled the answer on the record. It's the kind of squirm-in-your-seat political clip that's tailor-made to blow up online.",
+    "bullets": [
+      " Kash Patel, current FBI Director, was questioned about why bestiality is no longer listed as a disqualifying factor for FBI employment or clearance.",
+      " Patel reportedly struggled to give a straight answer when pressed on the change.",
+      " Play the clip cold with no setup and see how fast the hosts lose it. ON-AIR BIT BREAKDOWN - Step 1: Cue the Clip - No context, no intro -> Play the exchange with zero setup and let the awkward silence land on its own - Step 2: Freeze-Frame Reaction - 30 seconds, unscripted -> Hosts react live, one word each, before piling on with the full take - Step 3: Phones Open - Quick-hit callout -> Ask listeners: what's the most 'wait, what?' government answer you've ever heard?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.irishstar.com/news/politics/kash-patel-struggles-explain-bestiality-37666068",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Boston drops Flock after outside agencies gained access to vehicle data",
+    "angle": "Boston is cutting ties with Flock Safety, the license-plate camera network used by police departments all over the country, after finding out other outside agencies could tap into its vehicle data. It's the same privacy fight playing out in cities nationwide - who's actually watching where your car's been?",
+    "bullets": [
+      " Boston is ending its contract with Flock Safety, the license-plate reading camera company.",
+      " Flock's camera network is used by police departments across the US, putting Boston's move into a much bigger national privacy debate.",
+      " If a camera on your street can be quietly shared with agencies you never agreed to - does your city need to rip it out too?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.masslive.com/boston/2026/09/boston-drops-flock-after-outside-agencies-gained-access-to-vehicle-data.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Tech billionaire Peter Thiel bringing Antichrist lectures to Nashville",
+    "angle": "A Silicon Valley billionaire best known for PayPal and Palantir is now doing a speaking tour about the literal Antichrist \u2014 the kind of only-in-2026 crossover between tech money and end-times theology that's built for a double-take segment.",
+    "bullets": [
+      " Peter Thiel \u2014 co-founder of PayPal and Palantir, one of tech's richest and most politically connected figures \u2014 is bringing his lecture series to Nashville.",
+      " Tech billionaire giving Antichrist lectures \u2014 genius, unhinged, or just Thiel being Thiel?"
+    ],
+    "debate": "The story's making the rounds on Reddit's r/technology \u2014 proof it's landing as much as a 'wait, seriously?'",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.yahoo.com/news/us/articles/tech-billionaire-peter-thiel-bringing-202027251.html?guccounter=1&guce_referrer=aHR0cH",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Charges Against Man Who Destroyed 3D-Printed \u2018Decoy\u2019 Flock Camera Drastically Reduced After State Admits It Was Not Very Valuable",
+    "angle": "Flock Safety's license-plate cameras are popping up in neighborhoods across North America, and this is the pushback story: a guy destroyed one, got hit with heavy charges, then the state quietly admitted the camera wasn't worth much \u2014 and the case shrank fast. It's a real flashpoint in the surveillance-vs-privacy debate everyone's having right now.",
+    "bullets": [
+      " He was originally hit with charges serious enough to make headlines",
+      " Case plays right into the growing national backlash against automated license-plate readers",
+      " Is this guy a privacy folk hero or just a guy who got lucky the 'evidence' was a cheap fake?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.404media.co/charges-against-man-who-destroyed-3d-printed-decoy-flock-camera-drastically-reduced-after-state-admits-",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Immunization to prevent RSV in infants reduced ICU admissions by 97%. This is offered free to all infants through universal programs in Ontario and Quebec.",
+    "angle": "This is the kind of stat that stops parents mid-scroll \u2014 a nearly-eliminated risk of your infant ending up in intensive care, and it's already free for families in two provinces.",
+    "bullets": [
+      " New RSV immunization for infants linked to a 97% drop in ICU admissions",
+      " Offered free to all infants through universal immunization programs in Ontario and Quebec",
+      " RSV is one of the leading causes of infant hospitalization each winter, making this shot a major shift for new parents",
+      " Parents in Ontario and Quebec \u2014 did you even know this shot was free, and should every province be offering it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ucalgary.ca/news/immunization-prevent-rsv-infants-reduced-icu-admissions-97-cent",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "As Carney Heads to Europe, 4 in 5 Canadians Support Closer Integration with the EU - Abacus Data",
+    "angle": "As PM Carney jets off to Europe, a new poll shows a huge majority of Canadians want tighter ties with the EU - a not-so-subtle signal about how Canadians feel about leaning less on the US right now.",
+    "bullets": [
+      " New polling from Abacus Data finds roughly 4 in 5 Canadians back closer integration with the European Union.",
+      " Comes amid ongoing friction in the Canada-US relationship, fueling talk of Canada diversifying its alliances.",
+      " Should Canada be actively pivoting toward Europe and away from leaning so hard on the US?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://abacusdata.ca/as-carney-heads-to-europe-4-in-5-canadians-support-closer-integration-with-the-eu/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Harper says Canada could have become an energy superpower over a decade ago, blames Trudeau's policy choices",
+    "angle": "A former PM taking a direct shot at the sitting government's energy legacy is instant political catnip - it reopens the pipeline/oil-and-gas debate that never really goes away in Canada.",
+    "bullets": [
+      " Stephen Harper claims Canada had a real shot at becoming a global energy superpower",
+      " He says that window opened over a decade ago and got squandered",
+      " He's pointing the finger squarely at Trudeau-era policy choices as the reason it didn't happen",
+      " Does Harper have a point, or is this just an ex-PM refighting old fights?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nationalpost.com/news/carney-stephen-harper-investor-summit",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Carney says visa rules to be discussed with EU.",
+    "angle": "Travel and visa access between Canada and Europe touches anyone who's tried to book a trip or move abroad, and any policy shift out of the PM's office is worth flagging before the details land.",
+    "bullets": [
+      " Carney says visa rules will be discussed with the EU",
+      " No further details available yet from the source",
+      " Would easier EU travel actually change your next trip, or is this just diplomatic small talk?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/politics/article/new-tariffs-hit-canada-as-carney-courts-eu-partnership-live-updates-here/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Family of missing B.C. mountaineer believes she fell while descending the Matterhorn",
+    "angle": "A celebrated Canadian mountaineer has been missing in the Alps for over two weeks, and her family just broke their silence with a heartbreaking statement \u2014 the kind of story that stops people scrolling.",
+    "bullets": [
+      " Kalie McCrystal, a well-known Canadian skyrunner and mountaineer from B.C., has been missing on the Matterhorn for more than two weeks",
+      " Her family believes she fell while descending the famed Alps peak",
+      " Not a debate bit \u2014 just a quiet, respectful beat on a Canadian athlete's family finding peace in an impossible loss."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/missing-mountaineer-believed-fallen-9.7345196?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Alberta NDP flies the anti-separatist flag to snatch a UCP riding in Calgary",
+    "angle": "A single byelection wouldn't normally be a big deal with the next general election a year out, but this one doubles as an early read on Alberta's independence mood \u2014 with an actual separation referendum only five weeks away.",
+    "bullets": [
+      " Alberta's next general election is still 12 months away",
+      " An Alberta separation referendum is set for just five weeks from now",
+      " If a 'stay in Canada' message just flipped a UCP seat in Calgary, does that mean the separatist movement is weaker than it looks?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/calgary/analysis-ndp-calgary-shaw-alberta-separatism-naheed-nenshi-kyle-campbell-9.7345237?c",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Kandi Burruss\u2019 ex Todd Tucker reveals shocking sex confession about their 11-year marriage",
+    "angle": "Kandi Burruss' ex just dropped a jaw-dropping claim about their sex life during their 11-year marriage in a new trailer - prime reality TV tea for anyone who followed their RHOA-adjacent love story.",
+    "bullets": [
+      " Todd Tucker was married to Kandi Burruss for 11 years.",
+      " Details are being teased ahead of a bigger reveal, per nypost.com.",
+      " Where's the line - is airing bedroom secrets about an ex fair game once the mic's on, or is that always too far?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/15/entertainment/kandi-burrusss-ex-todd-tucker-reveals-sex-confession-about-their-marriage/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Taylor Frankie Paul Sets Return to \u2018The Secret Lives of Mormon Wives\u2019 Following Chaotic Season 5 and Ongoing Legal Battle",
+    "angle": "One of Hulu's messiest reality casts just got messier - as one star exits amid drama, the show's most controversial name is quietly walking back in for Season 6.",
+    "bullets": [
+      " Taylor Frankie Paul is confirmed returning to production on 'The Secret Lives of Mormon Wives' Season 6",
+      " Hulu declined to comment on her involvement",
+      " Variety confirmed the news independently through multiple sources",
+      " Cast member Mikayla Matthews announced she's quitting the show on Sept. 14, which is what tipped everyone off",
+      " She's mid-legal-battle and just came off the show's most chaotic season ever - so is this a redemption arc or is Hulu just chasing drama for ratings? variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/news/taylor-frankie-paul-returns-secret-lives-mormon-wives-season-6-1236863427/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Inside Taylor Swift\u2019s \u2018top secret\u2019 Emmys appearance \u2014 and the gift she gave cast",
+    "angle": "Swift went full stealth mode to shoot a skit with the 'Law & Order: SVU' cast for the Emmys, and now details are leaking out \u2014 including that she showed up bearing gifts, which is peak Taylor.",
+    "bullets": [
+      " Taylor Swift filmed a 'top secret' skit with the cast of 'Law & Order: SVU' ahead of the Emmys.",
+      " Ice-T revealed Swift came bearing treats for the cast during the shoot.",
+      " Taylor Swift and SVU is a wild combo \u2014 what's the last celebrity cameo that caught you this off guard? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/15/entertainment/inside-taylor-swifts-top-secret-emmys-appearance/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Dentist\u2019s X-Ray Reveals Shocking Reason Man\u2019s Ear Turned Green 20 Years Ago (Exclusive) - People.com",
+    "angle": "It's the kind of bizarre medical mystery that's tailor-made for radio \u2014 a two-decade-old oddity with a punchline nobody saw coming, straight from a People.com exclusive.",
+    "bullets": [
+      " A man's ear reportedly turned green \u2014 and it stayed a mystery for 20 years",
+      " People.com is running this as an exclusive",
+      " Call in: what's the strangest unexplained thing your body has ever done? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "mVZa3BOSDR5WmtzMHNveWNCT3NiT3d3Q1NIWXN6cnRiQW1sN2ZrbW12UWM?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTGx0QnF5a0x4VFpPRjc2dEEybGhOWnlXTk9CMTF2RlVEQzNTLTdRdW",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Mikayla Matthews is leaving 'The Secret Lives of Mormon Wives' - The Salt Lake Tribune",
+    "angle": "Mikayla Matthews is leaving 'The Secret Lives of Mormon Wives' - The Salt Lake Tribune Salt Lake Tribune (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "https://www.sltrib.com/artsliving/2026/09/14/mikayla-matthews-is-leaving-the/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Michael J. Fox received a standing ovation at the 2026 Emmys as he accepted the Bob Hope Humanitarian Award for his work advancing Parkinson\u2019s research and advocacy. His foundation has now committed more than $3 billion to Parkinson\u2019s research.",
+    "angle": "A genuine full-room standing ovation at the Emmys for a guy who's turned his own diagnosis into a $3 billion research machine \u2014 that's the kind of moment that actually cuts through the usual awards-show noise.",
+    "bullets": [
+      " Michael J. Fox received the Bob Hope Humanitarian Award at the 2026 Emmys",
+      " He got a standing ovation from the room",
+      " His foundation has now committed more than $3 billion to Parkinson's research",
+      " Honor recognizes decades of advocacy since his own Parkinson's diagnosis went public",
+      " Which celebrity turning their diagnosis into a mission has actually stuck with you long-term?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ew.com/michael-j-fox-honored-humanitarian-award-emmys-2026-12114765",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Global Pop Star Olivia Rodrigo Donates $2M to Leading Native American Health Organization",
+    "angle": "The pop superstar is putting real money behind Indigenous health equity, not just posting about it - a reminder her philanthropy has range beyond music, and a nice change-of-pace good-news story to close a segment on.",
+    "bullets": [
+      " Olivia Rodrigo donated $2 million to a leading Native American health organization",
+      " Comes as part of Rodrigo's broader pattern of using her platform and earnings for philanthropic causes",
+      " Which celebrity do you think is most underrated when it comes to quietly doing good, no press tour required?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nativenewsonline.net/health/global-pop-star-olivia-rodrigo-donates-1m-to-leading-native-american-health-organization/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'Not Taking Sides Is Also Taking Sides': Ed Sheeran Faces Fury for Staying Apolitical After Macklemore's Tour Exit",
+    "angle": "Macklemore's exit from Ed Sheeran's tour has turned into a political flashpoint, and Sheeran's refusal to comment is getting dragged just as hard as if he'd picked a side - a classic no-win moment for a global pop star that's tailor-made for a talk segment.",
+    "bullets": [
+      " Macklemore stepped away from Ed Sheeran's tour amid apparent political tension.",
+      " Backlash against Sheeran is being summed up with the line: 'Not taking sides is also taking sides.'",
+      " Fans and critics are split on whether Sheeran's silence is a smart dodge or a cop-out.",
+      " Should artists like Ed Sheeran be forced to take a political stance, or is staying neutral a totally fair call?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/ed-sheeran-macklemore-us-tour-gaza-backlash-1764012",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018I\u2019m Black I Can\u2019t Be Racist\u2019: Minnesota Wendy\u2019s Customer Draws Backlash After Allegedly Threatening to Call ICE on Hispanic Workers",
+    "angle": "A viral clip out of Minnesota is stirring up the internet's oldest debate over who gets to claim 'I can't be racist' \u2014 plus the extra gut-punch of allegedly threatening to call ICE on coworkers. It's the kind of clip that splits comment sections right down the middle.",
+    "bullets": [
+      " Incident allegedly went down at a Wendy's in Minnesota",
+      " Customer reportedly threatened to call ICE on Hispanic employees",
+      " Same customer is quoted saying \"I'm Black, I can't be racist\"",
+      " Story blew up on Reddit's r/nottheonion, drawing heavy backlash",
+      " Can you be racist against a group you're not \"punching up\" from \u2014 call in and tell us where you land."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thenerdstash.com/im-black-i-cant-be-racist-minnesota-wendys-customer-draws-backlash-after-allegedly-threatening-to-call-ice",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five - MacRumors",
+    "angle": "Apple's charging iPhone users extra just to get AI-written summaries from their own home security cameras, and the price scaling is turning heads for how steep it gets.",
+    "bullets": [
+      " iOS 27's Apple Intelligence Home app features require an iCloud+ subscription to work with HomeKit cameras.",
+      " One camera runs $9.99 \u2014 but cover five cameras and it jumps to $59.99.",
+      " Critics are questioning whether the AI summary feature is even \"barely viable\" for what it costs.",
+      " Would you pay $60 a year just so your camera can send you a paragraph instead of a video clip?"
+    ],
+    "debate": "",
+    "source": "MacRumors (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD",
+    "url": "https://www.macrumors.com/2026/09/14/ios-27-ai-camera-summaries/",
+    "score": "73/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Reading for pleasure cuts dementia risk by third, Cambridge study finds. Review reveals books boost mental health, reduce stress and increase empathy regardless of genre.",
+    "angle": "A Cambridge review says reading for fun \u2014 any genre, no snobbery required \u2014 is linked to a third less dementia risk, plus lower stress and more empathy. It's a feel-good science story with an easy personal angle: are you actually reading, or just doom-scrolling?",
+    "bullets": [
+      " Cambridge researchers found reading for pleasure was linked to roughly a one-third drop in dementia risk.",
+      " Reading fiction specifically was linked to increased empathy.",
+      " Ask listeners: what's the last book you actually finished for fun, no audiobook-on-2x cheating allowed?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.cambridge.org/core/journals/psychological-medicine/article/reading-and-associations-with-brain-health-cognition-wellbein",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Paying college students $5/night if they slept more than 7 hours (n=468) led to increased sleep and increased GPA compared to control group; habits lingered some after end of payments",
+    "angle": "This one's basically a real-life bribe study: pay college kids five dollars a night to actually sleep, and their grades go up. Every host has pulled an all-nighter for a test \u2014 this flips the script and it's got the receipts.",
+    "bullets": [
+      " Study paid students $5 per night for sleeping more than 7 hours",
+      " Sample size was 468 students",
+      " Better sleep habits lingered even after the payments stopped",
+      " Would you actually sleep more for five bucks a night \u2014 and if cash works, why don't we bribe ourselves into better habits more often?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A new study reveals that Australia's pre-colonization Indigenous population was approximately 2.22 million people, up to 7 times larger than previously estimated, exposing a devastating demographic catastrophe caused by subsequent disease and colonial violence.",
+    "angle": "A new study just rewrote the history books, putting Australia's pre-colonization Indigenous population at over 2 million - up to 7 times higher than the old textbook number. It's the kind of story that makes you rethink everything you learned in school about how history actually played out.",
+    "bullets": [
+      " New research estimates Australia's pre-colonization Indigenous population at roughly 2.22 million people.",
+      " That's up to 7 times higher than previous historical estimates.",
+      " If the population was 7 times bigger than we assumed, what else did we get wrong about that history?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/australias-indigenous-population-was-7-times-larger-than-estimated-study-finds",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Kirk Cousins has hilarious mic\u2019d-up response after passing John Elway on all-time touchdown passes list",
+    "angle": "Kirk Cousins just leapfrogged a Hall of Famer and Broncos legend on the career touchdown list, and his mic'd-up reaction is pure comedy gold \u2014 an easy, feel-good sports laugh to close the show on.",
+    "bullets": [
+      " Kirk Cousins threw his 301st career touchdown pass during the Raiders' Week 1 win on Sunday.",
+      " That total pushed him past John Elway on the NFL's all-time touchdown passes list.",
+      " Cousins was mic'd up for the moment and gave a hilarious reaction caught live.",
+      " Play the mic'd-up sound bite and let it be the button on the show \u2014 no debate needed, just a fun exit."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/15/sports/kirk-cousins-response-after-passing-john-elway-on-td-passes-list/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Garbage Trucks Now Have AI Cameras To Score Your House and Clock Code Violations",
+    "angle": "A classic too-weird-for-fiction story: garbage trucks apparently now carry AI cameras that scan your house and flag code violations as they roll by. It's the perfect kicker \u2014 equal parts funny and low-key dystopian, and it'll spark instant 'wait, is that legal?' chatter.",
+    "bullets": [
+      " Story is making the rounds on r/nottheonion \u2014 the subreddit dedicated to real headlines that sound completely made up",
+      " If your garbage man's camera can score your lawn, where does everyone draw the line on 'convenient' surveillance?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thedrive.com/news/garbage-trucks-now-have-ai-cameras-to-score-your-house-and-clock-code-violations",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center",
+    "angle": "A flight attendant stepped in to hold a baby for an 'exhausted' mom mid-flight, and the moment blew up online - it's the kind of stranger-kindness story that always gets people sharing their own travel horror-slash-heartwarming stories.",
+    "bullets": [
+      " Phil Knight, Nike co-founder, is pledging $1.1 billion",
+      " It ranks among the biggest single charitable donations to a hospital system in recent memory",
+      " If you had a spare billion, what would you name a hospital wing after yourself for?",
+      " A flight attendant made headlines for holding a baby to give an 'exhausted' mom a break during a flight",
+      " In an exclusive interview, she downplayed it, saying the gesture was 'just my normal'",
+      " Call in: what's the kindest thing a stranger has ever done for you while traveling with a baby or kid?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/flight-attendant-holds-baby-for-exhausted-mom-during-flight-exclusive-12116571",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Netflix Sets \u2018New Stanford Prison Experiment\u2019 Unscripted Series for October Release",
+    "angle": "The original 1971 Stanford Prison Experiment is one of psychology's most notorious cautionary tales, so news that Netflix is remaking it as an unscripted series for October is generating a pure 'wait, they're doing WHAT?' reaction online.",
+    "bullets": [
+      " Netflix has set an unscripted series based on the Stanford Prison Experiment for an October release",
+      " Would you ever sign up to play 'guard' or 'prisoner' on a reality show built around one of psychology's most infamous experiments?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://variety.com/2026/tv/news/netflix-stanford-prison-experiment-series-release-date-1236863011/",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "\u2018Attacks will be fully autonomous\u2019: Russia, Ukraine race towards AI warfare",
+    "angle": "Russia and Ukraine are reportedly racing to build weapons systems that attack with zero human in the loop \u2014 real-life \"machines deciding who lives\" stuff, not a movie plot, which is exactly the kind of dark-comedy-meets-terrifying story that makes for a great sign-off beat.",
+    "bullets": [
+      " Reports say both Russia and Ukraine are racing to develop AI weapons where \"attacks will be fully autonomous\" \u2014 no human pulling the trigger.",
+      " Cue the Vera Lynn \u2014 we may be living in the opening scene of a movie we already know the ending to."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.aljazeera.com/news/2026/9/14/attacks-will-be-fully-autonomous-russia-ukraine-race-towards-ai-warfare",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "\u2018This should be condemned by any thinking human\u2019: film industry rallies behind NAZA directors | Movies: Backing comes after Yuval Abraham and Rachel Szor were threatened with having their citizenship revoked and accused of treason",
+    "angle": "When a government threatens to strip filmmakers of their citizenship over a movie, the industry doesn't stay quiet - this is a free-expression flashpoint that pulls in heavyweight names and forces a bigger conversation about art versus politics.",
+    "bullets": [
+      " Directors Yuval Abraham and Rachel Szor are at the center of the backlash.",
+      " Both have reportedly been threatened with having their citizenship revoked.",
+      " They're also being accused of treason over their film.",
+      " One industry voice says the treatment 'should be condemned by any thinking human.'",
+      " Should a filmmaker ever face treason charges for the story they chose to tell?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/film/2026/sep/15/naza-directors-yuval-abraham-rachel-szor-film-industry-support",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Ed Sheeran's tour in jeopardy after opening acts all quit in support of Macklemore",
+    "angle": "A mass walkout by opening acts on a mega-star's tour is instant drama, and doing it in solidarity with Macklemore raises the obvious question - what's actually going on behind the scenes that's worth blowing up your own tour slot over?",
+    "bullets": [
+      " What's actually going on with Macklemore that's got an entire opening lineup walking out in solidarity?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.lemonde.fr/en/culture/article/2026/09/16/ed-sheeran-s-tour-in-jeopardy-after-opening-acts-all-quit-in-support-of-macklem",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-15",
     "slot": "am",
     "category": "THE LIST",
     "title": "Renewable energy has finally grown fast enough to meet all new global electricity demand",
