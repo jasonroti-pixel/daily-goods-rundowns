@@ -1,6 +1,608 @@
 [
   {
     "date": "2026-09-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Border Patrol agents make shocking discovery as dozens of illegal migrants stuffed in back of truck in California desert https://t.co/XnDPAS",
+    "angle": "Border Patrol just busted a smuggling operation that crammed dozens of people into one vehicle out in the desert heat \u2014 a stark, visual story that plugs right into the national immigration debate everyone's already arguing about.",
+    "bullets": [
+      " Border Patrol agents made the discovery in the California desert",
+      " Dozens of migrants were found packed into the back of a truck",
+      " Case is being reported as part of an ongoing human smuggling pattern at the border",
+      " Smuggling stories like this keep landing right in the middle of the immigration fight \u2014 ask listeners if they think stories like this are getting enough coverage or getting used as a political football. X/Twitter @NYPost (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2100390759228657922",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "The Weeknd donated $2.2 million from his 2026 European and UK tour to the UN World Food Programme and Global Citizen, with \u00a31 or \u20ac1 from every ticket helping provide education for children and urgent humanitarian aid.",
+    "angle": "One of the biggest pop stars on the planet quietly built a charity tax into his own tour \u2014 every ticket sold this year is feeding kids and funding disaster relief, and most fans probably had no idea they were donating.",
+    "bullets": [
+      " \u00a31 or \u20ac1 from every single ticket sold got funneled into the fund",
+      " Proceeds are earmarked for children's education and urgent humanitarian aid",
+      " Would you pay a little extra on a concert ticket if you knew it was going straight to charity \u2014 or does that kind of thing belong optional, not built-in?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://djmag.com/news/weeknd-donates-22-million-2026-europe-tour-un-world-food-programme-and-global-citizen",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Conservationist Matt Conn bought 67 acres of damaged Louisiana land. For a decade, he personally rebuilt it; the restored wetland had recovered diverse native vegetation and multiple ecosystems.",
+    "angle": "This is the ultimate one-man-against-nature comeback story - no corporate grant, no government program, just one guy with a decade of weekends turning a clear-cut wasteland back into a thriving wetland. It's the kind of feel-good story that makes people want to go plant a tree.",
+    "bullets": [
+      " Matt Conn bought 67 acres near Lydia in Iberia Parish, Louisiana",
+      " Over the next decade, Conn personally cleared invasives, planted native trees and plants, and dug ponds and walking trails",
+      " By 2021, the property had regained its native vegetation and turned back into multiple thriving ecosystems",
+      " Would you spend 10 years of your own time and money restoring a piece of land with zero payoff except the land itself?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://m.economictimes.com/news/international/us/conservationist-matt-conn-bought-67-acres-of-damaged-louisiana-land-for-a-dec",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Vance: US Mideast policy cannot be 'subservient' to Israel",
+    "angle": "A sitting VP publicly drawing a line on how closely US foreign policy should track Israel's wishes is the kind of quote that reignites the whole 'how tied are we to Israel' debate - that's a live wire for a lot of listeners.",
+    "bullets": [
+      " VP JD Vance said US Middle East policy cannot be 'subservient' to Israel",
+      " Comment frames a broader debate over how closely Washington should align its regional policy with Jerusalem",
+      " Is it ever smart politics for a VP to publicly say 'we don't just do what Israel wants'?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://en.yenisafak.com/world/vance-us-mideast-policy-cannot-be-subservient-to-israel-3723288",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Hackers Stole Flock\u2019s Camera Software, Revealing How the Company Tracks Cars and",
+    "angle": "Flock's license plate cameras are mounted in neighborhoods all over the US, and now hackers have gotten into the software behind them \u2014 a story that hits the nerve of 'how much is this thing actually tracking me?'",
+    "bullets": [
+      " Flock Safety makes the automated license-plate-reading cameras used by police departments and neighborhoods across the country",
+      " Hackers say they stole the company's camera software, pulling back the curtain on exactly how the system tracks vehicles and people",
+      " Are you okay with cameras like this tracking your car around town \u2014 or does this hack prove it was a bad idea from the start?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.404media.co/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people-2/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card - bill racked up in just three weeks was supposed to be one $20 promotion",
+    "angle": "A dad's $20 promo turned into a six-figure nightmare when his kid discovered the credit card was still linked to the account - it's the ultimate parental-controls horror story and everyone with a kid and a saved card is going to wince.",
+    "bullets": [
+      " A 9-year-old boy was buying YouTube ad campaigns to promote his own Minecraft channel",
+      " Whose fault is this - the kid, the dad for not locking the card, or YouTube for making it this easy to spend six figures with no red flags?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaign",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+    "angle": "This one's a gut-punch because it's not just a geopolitics story \u2014 it's a 'your stuff might be gone forever' story. Everybody's got photos, passwords, and backups sitting in the cloud, and this claims a strike overseas just proved that's not as safe as we think.",
+    "bullets": [
+      " If a military strike can permanently wipe your data off 'the cloud' \u2014 how much of your actual life are you comfortable trusting to it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "PS5 Linux lead quits as open-source projects have become \u201ca bunch of noobs using LLMs\u201d that \u201cthey don\u2019t even understand\u201d",
+    "angle": "A veteran open-source developer just walked away from a major project, torching the AI hype train on the way out \u2014 it's the loudest example yet of a growing backlash to \"vibe coding\" that's splitting the tech world.",
+    "bullets": [
+      " Their parting shot: open-source contributors are now \"a bunch of noobs using LLMs\" who \"don't even understand\" the code they're submitting.",
+      " Is AI making us all faster coders, or just faster at faking it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techpowerup.com/352739/ps5-linux-dev-drops-project-after-slop-kiddies-cash-in-on-crucial-exploit",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "EU wants \u2018to bring the relationship with Canada to the highest level possible\u2019: von der Leyen",
+    "angle": "With Trump-era trade tension still hanging over Ottawa, the EU's top official publicly courting Canada is a signal worth unpacking - is Canada quietly building a Plan B away from Washington?",
+    "bullets": [
+      " Comment comes from Ursula von der Leyen, President of the European Commission",
+      " She says the EU wants to bring the relationship with Canada 'to the highest level possible'",
+      " No further details on trade, defense, or timeline were included in this report",
+      " Should Canada be leaning harder into Europe as a hedge against the US relationship?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cp24.com/news/canada/2026/09/16/eu-wants-to-bring-the-relationship-with-canada-to-the-highest-level-possible-von-der",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Republican senator warns Carney: Closer ties to EU hurts chance of trade deal with U.S.",
+    "angle": "A sitting Republican senator is publicly telling Canada's PM to back off Europe or risk blowing up trade talks with Washington - that's a real flashpoint for a Canadian audience watching their own government's trade strategy get second-guessed from south of the border.",
+    "bullets": [
+      " A Republican senator is publicly warning PM Mark Carney about Canada's trade posture",
+      " Puts Carney in a squeeze between diversifying overseas and keeping Washington happy",
+      " Should Carney tell the U.S. to back off, or is protecting that trade deal worth playing it safe with Europe?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/trump-canada-trade-us-congress-susan-collins-chris-coons-9.7346439",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "'We will rule in CANADA': Letter from Bishnoi gang to police disclosed to CBC News | CBC News",
+    "angle": "A letter tied to the Bishnoi gang - the crime network linked to extortion threats against Indo-Canadian business owners - was reportedly handed to police, and CBC got hold of it. It taps into growing unease about organized crime and intimidation campaigns spilling into Canadian communities.",
+    "bullets": [
+      " It's tied to the Bishnoi gang, a group previously linked to extortion threats in Canada",
+      " Should Canadians be worried about international crime networks operating threats on home soil, or is this overblown?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/bishnoi-letter-threats-police-9.7341131",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Transit People TTC 2",
+    "angle": "Toronto's transit system is a perennial hot-button topic for commuters, and any update tends to spark strong reactions online \u2014 but the source here is just a bare title with no real detail to go on.",
+    "bullets": [
+      " We need more than a headline here \u2014 anyone riding the TTC lately have a story to share?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1whzq60",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Ed Sheeran reportedly donating $2M to 'aid in the region' amid Macklemore fallout",
+    "angle": "This one's got everything - a billion-dollar owner, a canceled opening act, a political flashpoint, and now a massive donation that looks a lot like damage control. Perfect water-cooler debate for the hosts: is this generosity or PR cleanup?",
+    "bullets": [
+      " A billionaire stadium owner allegedly pushed to pull Macklemore as Ed Sheeran's opening act.",
+      " That same owner is now donating $2 million US described as aid for \"the region.\""
+    ],
+    "debate": "Genuine goodwill or a $2 million way to change the subject - which is it?",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/ed-sheeran-macklemore-palestine-donation-9.7347369?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Gordie Howe bridge vehicle traffic tops 340,000 in first full month of operation",
+    "angle": "This brand-new $6 billion border crossing between Windsor and Detroit already pushed over 340,000 vehicles through in its first full month \u2014 a real early signal for cross-border trade and travel that both Canadian and American listeners can weigh in on.",
+    "bullets": [
+      " 340,000+ vehicles crossed the Gordie Howe International Bridge in its first full month of operation",
+      " Anyone crossed the new bridge yet \u2014 and how'd it compare to the old Ambassador Bridge grind?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-traffic-data-august-ambassador-open-9.7346456?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Steve Carell Reacts to the Internet Calling Him \"Zaddy\" - E! News",
+    "angle": "The internet crowned Steve Carell a \"zaddy\" and instead of deflecting, he leaned all the way in at the Emmys - it's a funny, harmless soundbite that's perfect for a light pop-culture chat segment.",
+    "bullets": [
+      " Steve Carell got asked about the internet calling him a \"zaddy\" during Live From E!: 2026 Emmys",
+      " His response: \"I really buy into the whole thing\"",
+      " He joked that he's actually the one who \"put it out there\" himself",
+      " Fans have been buzzing about The Office alum's \"silver fox\" status",
+      " Who else deserves the \"zaddy\" title - and does Steve Carell actually top your list? Eonline.com (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.eonline.com/news/1436114/emmys-2026-steve-carell-reacts-to-zaddy-title",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Sandra Bullock Reveals Hollywood Auditions Were so Disturbing, 'Perverts' Asked Her To Drop Her Pants",
+    "angle": "A Hollywood A-lister calling out the casting couch culture by name is always going to get people talking \u2014 especially with specifics this uncomfortable coming from someone as beloved as Sandra Bullock.",
+    "bullets": [
+      " Sandra Bullock says some of her early Hollywood auditions were deeply disturbing",
+      " She claims \"perverts\" in the room asked her to drop her pants during auditions",
+      " Story is circulating widely on Reddit's r/entertainment",
+      " Does it surprise you that even A-list stars couldn't escape casting-couch creeps on the way up?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/sandra-bullock-early-auditions-inappropriate-requests-1764101",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Jimmy Kimmel\u2019s sidekick Guillermo earns one of Dancing With the Stars\u2019 lowest scores of all time",
+    "angle": "Jimmy Kimmel's longtime sidekick took a swing at the ballroom and reportedly landed one of the worst scores in the show's history \u2014 an easy laugh and a fun \"how bad was it\" debate for the show.",
+    "bullets": [
+      " His performance reportedly scored among the lowest in the show's history",
+      " Is a legendarily bad DWTS performance more entertaining than a good one?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ew.com/guillermo-rodriguez-earns-one-of-lowest-scores-in-dancing-with-the-stars-history-on-season-35-premiere-12123598",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Ed Sheeran fans demand concert money back after Macklemore axed over \u2018Free Palestine\u2019 speech backlash",
+    "angle": "A concert lineup shakeup just turned into a political flashpoint - fans are furious enough to demand their money back, and that's the kind of consumer-meets-politics collision that always gets phones ringing.",
+    "bullets": [
+      " Macklemore was reportedly pulled from an Ed Sheeran concert after giving a 'Free Palestine' speech",
+      " Should an opener get cut for a political statement onstage - and does that actually entitle fans to a refund?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/16/entertainment/ed-sheeran-fans-demand-concert-money-back-after-macklemores-firing/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Travis Kelce Named in Alleged Multi-Million Dollar Ponzi Scheme Involving Private Jets and More",
+    "angle": "A story with private jets and millions of alleged fraud dollars is eye-catching on its own, but tack on Travis Kelce's name and suddenly it's a watercooler story - especially with his profile at an all-time high thanks to Taylor Swift.",
+    "bullets": [
+      " Travis Kelce has reportedly been named in connection with an alleged multi-million dollar Ponzi scheme",
+      " Details are still emerging - exact nature of Kelce's connection (investor, target, associate) is unclear from initial reports",
+      " Is this \"Kelce did something wrong\" or \"Kelce's name just got caught in someone else's mess\" - callers, which is it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.usmagazine.com/sports/news/travis-kelce-connected-to-multi-million-dollar-ponzi-scheme/?utm_medium=lBQMjkx&utm_",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Macklemore releases new statement saying his earnings from Ed Sheeran\u2019s The Loop Tour will be donated to Palestinian organisations",
+    "angle": "A mainstream pop tour turning into a political statement is exactly the kind of celebrity-meets-headlines crossover that gets people talking - especially with the Israel-Palestine conflict already dominating the news cycle.",
+    "bullets": [
+      " Macklemore is opening for Ed Sheeran on The Loop Tour",
+      " He says his earnings from the tour will be donated to Palestinian organisations",
+      " Does mixing politics with a pop tour change how you feel about going to the show?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1wi84hl",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Guerrilla artists VJayBombs are putting up projections of Ed Sheeran giving massages to Zionist billionaire Robert Kraft in Los Angeles",
+    "angle": "A street-art crew is projecting bizarre, pointed images of Ed Sheeran onto LA buildings, jabbing at his ties to Patriots owner Robert Kraft \u2014 the kind of weird, only-on-the-internet stunt that's built for a screenshot and a 'wait, what?' reaction.",
+    "bullets": [
+      " VJayBombs, a guerrilla projection art crew, lit up buildings around Los Angeles with the images.",
+      " Details are thin so far \u2014 no word yet from Sheeran or Kraft's camp on the stunt.",
+      " What's the strangest celebrity guerrilla-art stunt you've ever seen \u2014 and does this one top it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/sumy9yd38tph1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Matt Bernstein asks Lady Gaga and Ed Sheeran to talk about Palestine: \u201cHow much goddamn money do you need\u201d",
+    "angle": "A viral confrontation is putting two of the biggest names in pop music on the spot over their silence on Israel-Gaza, reviving the celebrity-activism-vs-'stay in your lane' debate that always gets a room talking.",
+    "bullets": [
+      " Content creator Matt Bernstein publicly called out Lady Gaga and Ed Sheeran over their silence on Palestine",
+      " His pointed line to the pair: \"How much goddamn money do you need\"",
+      " Should A-list musicians be expected to weigh in on geopolitics, or is that not their job?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/19o3j1r1lwph1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "ESPN host Shae Cornette pleads with Arch Manning to take \u2018strong learning lesson\u2019 after viral Holly Rowe video controversy",
+    "angle": "Arch Manning can't stay out of the headlines this week, and now an ESPN host is publicly telling the Texas QB to grow up from it \u2014 a Manning-family storyline with real crossover beyond college football fans.",
+    "bullets": [
+      " ESPN's Shae Cornette publicly addressed Arch Manning this week over a viral moment involving sideline reporter Holly Rowe",
+      " Cornette framed it as a \"strong learning lesson\" moment for the young Texas quarterback",
+      " Is this fair media pressure on a 20-year-old, or is Arch Manning finally getting held to the Manning-name standard?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/16/sports/espns-shae-cornette-pleads-with-arch-manning-to-take-strong-learning-lesson-after-holly-rowe-",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Bill Belichick, 74, slams \u2018ridiculous\u2019 rumors about girlfriend Jordon Hudson, 25, managing his coaching career",
+    "angle": "It's the storyline nobody in football can look away from: a legendary 74-year-old coach dating a 25-year-old, and now he's publicly pushing back on claims she's the one calling shots in his career - pure tabloid-meets-sports gold.",
+    "bullets": [
+      " Bill Belichick, 74, is firing back at rumors that girlfriend Jordon Hudson, 25, is managing his coaching career",
+      " He's calling the claims 'ridiculous'",
+      " Is this just tabloid noise, or is it fair game to ask who's really steering a legend's final career chapter?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/16/entertainment/bill-belichick-slams-rumors-about-girlfriend-jordon-hudson-managing-his-career/",
+    "score": "82/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Moment fashion boss grabs protester on runway and pins her between his legs - the-sun.com",
+    "angle": "A designer runway show turned into a wrestling match when the brand's CEO physically took down a protester in front of the crowd - the kind of chaotic, caught-on-video moment that's already ripping around social media.",
+    "bullets": [
+      " Dramatic footage of the confrontation is circulating online",
+      " Was that the CEO protecting his show, or way overboard for a protester who wasn't posing a real threat? The-sun.com (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.the-sun.com/news/17009535/fashion-boss-grabs-protester-catwalk-holds-down/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Study finds that people who frequently played video games scored better on several cognitive tests compared to non-gamers. Also, the gamers were 13.7 years cognitively younger than non-gamers",
+    "angle": "Every parent who's nagged a kid to put the controller down needs to hear this one - new research says frequent gamers actually outperform non-gamers on cognitive tests, brains testing nearly 14 years younger. It's a total gut-punch to the \"video games rot your brain\" narrative.",
+    "bullets": [
+      " Frequent video game players scored better on several cognitive tests than people who don't game",
+      " Study published via r/upliftingnews - flips the old \"screen time is bad for you\" assumption",
+      " Callers - be honest, are you team 'gaming keeps me sharp' or team 'I just like to unwind and feel zero guilt about it now'?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0334924",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "After a Virginia Tech cancer center saved their cat from cancer, a couple gave it a record $15 million donation to fund cancer research that could help pets and people. It is the largest gift in the center\u2019s history.",
+    "angle": "A cat's cancer diagnosis just turned into the biggest single gift in the history of a Virginia Tech cancer center - and the research it funds could end up helping humans too, which is the kind of full-circle, pets-and-people story that's tailor-made for a feel-good segment.",
+    "bullets": [
+      " A couple's cat was treated and saved from cancer at a Virginia Tech cancer center",
+      " In gratitude, they donated a record $15 million to fund cancer research",
+      " It's the largest gift in the center's history",
+      " Callers - what's the biggest thing you'd do to say thank you if a vet or doctor saved someone you love?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://cardinalnews.org/2026/09/15/virginia-tech-receives-15-million-gift-to-advance-animal-cancer-treatment/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Bad News: New Study Suggests Water Will Make Large Moon Colonies Impossible",
+    "angle": "Everyone's been picturing a full-blown lunar city someday, so a headline saying \"actually, water breaks that plan\" is exactly the kind of sci-fi buzzkill that gets people talking.",
+    "bullets": [
+      " Would you still sign up to be one of the first Moon colonists, knowing scientists already see a dealbreaker?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.extremetech.com/science/bad-news-new-study-suggests-water-will-make-large-moon-colonies-impossible",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Amazon raises minimum starting pay for full time U.S. operations workers to $20 an hour and invests more than $1.5 billion in higher pay, while all U.S. employees get new grocery discounts",
+    "angle": "Amazon's bumping starting pay to $20 an hour for full-time U.S. warehouse and operations workers and throwing in grocery discounts for everyone on staff \u2014 a rare good-news story about a mega-corporation actually padding paychecks instead of trimming them.",
+    "bullets": [
+      " Amazon raised minimum starting pay to $20 an hour for full-time U.S. operations workers.",
+      " All U.S. employees \u2014 not just warehouse staff \u2014 are getting new grocery discounts.",
+      " Quick end-of-show hit: when's the last time you heard 'pay raise' and 'big company' in the same headline?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.businessinsider.com/amazon-increases-wages-offers-new-whole-foods-discounts-2026-9",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Student suspended for bringing coffee to class in act of 'civil disobedience'",
+    "angle": "A student got suspended for showing up with coffee and is calling it 'civil disobedience' \u2014 it's the kind of absurd school-discipline story that writes its own punchline and gets everyone arguing about where the line actually is.",
+    "bullets": [
+      " A student was reportedly suspended over something as basic as bringing coffee into class.",
+      " Story's blowing up on r/nottheonion, the subreddit built for real headlines that sound fake.",
+      " Suspension-worthy offense or the most harmless 'protest' in school history \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fox5ny.com/news/student-suspended-bringing-coffee-class-act-civil-disobedience",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Scientists discover an amphibian gut bacterium 100% effective in destroying cancer cells in rats",
+    "angle": "Scientists discover an amphibian gut bacterium 100% effective in destroying cancer cells in rats",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/110656-scientists-discover-amphibian-gut-bacterium-100-effective-destroying.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Emily in Paris is \u2018Shakespeare of our time\u2019, says JD Vance",
+    "angle": "A sitting Vice President comparing a fluffy Netflix rom-com to Shakespeare is exactly the kind of absurd, out-of-nowhere quote that stops a scroll - it's pure watercooler bait for two hosts to just react to live.",
+    "bullets": [
+      " JD Vance reportedly praised 'Emily in Paris' by calling it the 'Shakespeare of our time'",
+      " Play the sound of two hosts trying to keep a straight face reading that quote out loud."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thetimes.com/us/news-today/article/emily-in-paris-jd-vance-shakespeare-times-72l5vg7dc",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Fentanyl, firearms and alligator seized from luxury downtown LA apartment",
+    "angle": "A downtown LA apartment bust reads like a fever dream - fentanyl, firearms, and a live alligator all pulled from one unit. It's the kind of too-weird-not-to-share story that's basically made for the kicker.",
+    "bullets": [
+      " Raid on a 'luxury' downtown LA apartment turned up fentanyl and firearms",
+      " Also seized from the unit: a live alligator",
+      " Story's making rounds via Reddit's r/nottheonion - filed under 'you can't make this up'",
+      " Out of drugs, guns, and a gator - which one would make YOU call the landlord first?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nbclosangeles.com/news/local/fentanyl-firearms-and-alligator-seized-from-luxury-downtown-la-apartment/3942512/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Patel explains why FBI no longer considers bestiality an automatic hiring disqualifier",
+    "angle": "This is the kind of headline that sounds fake but isn't \u2014 the head of the FBI publicly walking back a hiring disqualifier most people assumed was a hard line, and it's tailor-made for a stunned-reaction segment.",
+    "bullets": [
+      " FBI Director Kash Patel addressed the agency's hiring standards directly.",
+      " Bestiality is reportedly no longer an automatic disqualifier for FBI hiring, per Patel's comments.",
+      " Story is circulating widely on r/nottheonion, the subreddit for real headlines that read like satire.",
+      " Play it straight for ten seconds, then ask listeners: what SHOULD be an automatic dealbreaker for a federal agent?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.pbs.org/newshour/politics/watch-patel-explains-why-fbi-no-longer-considers-bestiality-an-automatic-hiring-disqualifier",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Paul Bernardo up for parole next month, but victims\u2019 families say he \u2018has to pay\u2019 for what he did",
+    "angle": "One of Canada's most notorious convicted killers is back in the news with a parole hearing next month, and it's reopening a wound for the families of his victims who say he should never walk free.",
+    "bullets": [
+      " Paul Bernardo has a parole hearing coming up next month",
+      " Victims' families are speaking out, saying he 'has to pay' for what he did",
+      " Should someone convicted of crimes this notorious ever get a shot at parole \u2014 or does that process itself need to change?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Bill Belichick, 74, slams \u2018ridiculous\u2019 rumors about girlfriend Jordon Hudson, 25, managing his coaching career https://t.co/qlApUvX4aw https",
+    "angle": "A 74-year-old NFL legend publicly defending his 25-year-old girlfriend's role in his career is exactly the kind of age-gap, power-dynamic story that gets phone lines lighting up.",
+    "bullets": [
+      " Bill Belichick, 74, called the rumors \"ridiculous\"",
+      " His girlfriend Jordon Hudson is 25",
+      " Would you be comfortable if your partner had that much influence over your career decisions \u2014 or is this just outside noise on a relationship that's nobody's business? X/Twitter @NYPost (Tier 1) | Score: 37/90 (25 fit + 12 source + 15 quality - 15 penalty (monthly cap met for Advice/Relationship Cluster (4/3 already used this month))) -> BACKUP"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2100408631590023389",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-16",
     "slot": "am",
     "category": "THE LIST",
     "title": "Why my interview with AI actor Tilly Norwood creeped me out - CBS News",
