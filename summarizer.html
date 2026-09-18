@@ -82,6 +82,7 @@
   </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/@mozilla/readability@0.5.0/Readability.js"></script>
 <script>
 /* ============================================================
    EXTRACTIVE SUMMARIZER  — pure client-side, zero cost
@@ -244,13 +245,68 @@ function tidy(s) {
 }
 
 /* ---------------- Fetch via Jina Reader ---------------- */
-async function fetchArticle(url, extraHeaders) {
+async function readerFetch(url, extraHeaders) {
   const endpoint = "https://r.jina.ai/" + url;
   const res = await fetch(endpoint, { headers: Object.assign({ "Accept": "text/plain" }, extraHeaders || {}) });
   if (!res.ok) throw new Error("Reader returned HTTP " + res.status);
   const txt = await res.text();
   if (!txt || txt.length < 200) throw new Error("Fetched content was too short to summarize.");
   return txt;
+}
+
+// How much real article body a fetch produced (after stripping the reader header + markup).
+function bodyLength(raw) { return cleanArticleText(raw).length; }
+
+/* Fallback for sites that block the reader (EW/People/Variety, etc.): pull raw
+   HTML through a CORS proxy, then extract the article with Readability. */
+async function proxyFetch(url) {
+  const proxies = [
+    u => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u),
+    u => "https://corsproxy.io/?url=" + encodeURIComponent(u),
+  ];
+  let html = "";
+  for (const mk of proxies) {
+    try {
+      const r = await fetch(mk(url));
+      if (!r.ok) continue;
+      const t = await r.text();
+      if (t && t.length > 800) { html = t; break; }
+    } catch (e) { /* try next proxy */ }
+  }
+  if (!html) throw new Error("all fetch routes blocked");
+
+  let title = "", text = "";
+  try {
+    const doc = new DOMParser().parseFromString(html, "text/html");
+    title = (doc.querySelector("title") && doc.querySelector("title").textContent || "").trim();
+    if (window.Readability) {
+      const art = new window.Readability(doc).parse();   // note: mutates doc
+      if (art) { title = art.title || title; text = (art.textContent || "").trim(); }
+    }
+  } catch (e) { /* fall through to naive extraction */ }
+
+  if (text.length < 400) {
+    // Naive fallback: join the paragraph text from a fresh parse.
+    const doc2 = new DOMParser().parseFromString(html, "text/html");
+    text = [...doc2.querySelectorAll("p")].map(p => p.textContent.trim())
+      .filter(s => s.length > 40).join("\n");
+  }
+  if (text.length < 200) throw new Error("couldn't extract the article text");
+  // Mimic the reader's format so cleanArticleText / extractTitle work unchanged.
+  return "Title: " + title + "\n\nMarkdown Content:\n" + text;
+}
+
+// Try the reader first; if it's blocked or returns a thin/paywalled stub, try the proxy route.
+async function fetchArticleText(url) {
+  try {
+    const t = await readerFetch(url);
+    if (bodyLength(t) >= 400) return t;
+    // Reader returned something too thin (often a block/paywall notice) — try the proxy.
+    const p = await proxyFetch(url);
+    return bodyLength(p) > bodyLength(t) ? p : t;
+  } catch (e) {
+    return await proxyFetch(url);
+  }
 }
 
 /* ---------------- Reddit handling ----------------
@@ -274,7 +330,7 @@ function isLikelyArticleUrl(u) {
 // Returns { articleUrl, redditText, domain } — articleUrl null means summarize the Reddit text itself.
 async function resolveRedditLink(url) {
   // Ask the reader to append a "Links/Buttons" summary so we get a clean URL list.
-  const txt = await fetchArticle(url, { "X-With-Links-Summary": "true" });
+  const txt = await readerFetch(url, { "X-With-Links-Summary": "true" });
   const found = [...txt.matchAll(/https?:\/\/[^\s)\]"'>]+/g)].map(m => m[0].replace(/[.,]+$/, ""));
   const article = found.find(isLikelyArticleUrl);
   let domain = null;
@@ -407,14 +463,14 @@ $("goBtn").addEventListener("click", async () => {
       const { articleUrl, redditText, domain } = await resolveRedditLink(url);
       if (articleUrl) {
         setStatus("Found article on " + domain + " …");
-        const text = await fetchArticle(articleUrl);
+        const text = await fetchArticleText(articleUrl);
         await process(text, url);            // link shown = the original pasted link
       } else {
         await process(redditText, url);      // text/discussion post
       }
     } else {
       setStatus("Fetching …");
-      const text = await fetchArticle(url);
+      const text = await fetchArticleText(url);
       await process(text, url);
     }
   } catch (e) {
