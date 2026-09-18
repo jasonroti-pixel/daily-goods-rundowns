@@ -5,22 +5,33 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>NICO FETCHER</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Press+Start+2P&display=swap" rel="stylesheet">
 <style>
   * { box-sizing: border-box; }
   html, body { margin: 0; }
   body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    color: #fff; min-height: 100vh; line-height: 1.5; background: #241a3a;
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    color: #eae8ff; min-height: 100vh; line-height: 1.55; background: #06050f;
+  }
+  /* CRT scanline overlay to match Story Scout's arcade screen */
+  body::after {
+    content: ""; position: fixed; inset: 0; z-index: 40; pointer-events: none;
+    background: repeating-linear-gradient(rgba(0,0,0,0.22) 0 1px, transparent 1px 3px);
+    opacity: 0.5;
   }
   #scene { position: fixed; inset: 0; z-index: -1; }
   #scene svg { width: 100%; height: 100%; display: block; }
+  /* gentle vignette so the scene reads like a lit arcade cabinet screen */
+  #scene::after {
+    content: ""; position: absolute; inset: 0;
+    background: radial-gradient(120% 90% at 50% 40%, transparent 55%, rgba(6,5,15,0.55) 100%);
+  }
   .wrap { max-width: 640px; margin: 0 auto; padding: 14px 16px 90px; }
 
   h1.title {
     font-family: 'Press Start 2P', monospace; font-size: clamp(16px, 6vw, 26px);
     text-align: center; color: #fff; letter-spacing: 1px; line-height: 1.5; margin: 10px 0 2px;
-    text-shadow: 3px 3px 0 #d5327a, 6px 6px 0 rgba(0,0,0,.35);
+    text-shadow: 2px 2px 0 #ff2d7b, 4px 4px 0 #00e5ff, 6px 6px 0 rgba(0,0,0,.4);
   }
   .tagline { text-align: center; font-family: 'Press Start 2P', monospace; font-size: 8px; color: #ffe1b0; margin-bottom: 8px; }
 
@@ -33,8 +44,9 @@
                animation: nicorun .7s steps(6) infinite; }
   @keyframes nicorun { from { background-position: 0% bottom; } to { background-position: 100% bottom; } }
 
-  .card { background: rgba(24,16,40,.72); border: 3px solid #ff8a3d; border-radius: 12px;
-          padding: 16px; margin-bottom: 16px; box-shadow: 0 6px 0 rgba(0,0,0,.3); }
+  .card { background: rgba(14,13,31,.86); border: 3px solid #3f3c7a; border-radius: 12px;
+          padding: 16px; margin-bottom: 16px;
+          box-shadow: 0 0 18px rgba(180,74,255,.22), inset 0 0 20px rgba(180,74,255,.05), 0 6px 0 rgba(0,0,0,.45); }
   .biglabel { font-family: 'Press Start 2P', monospace; font-size: 11px; color: #ffe1b0;
               display: block; margin-bottom: 12px; line-height: 1.7; text-align: center; }
 
@@ -67,7 +79,7 @@
   .del { flex: none; background: #8a1f3a; color: #fff; border: none; border-radius: 4px;
          width: 22px; height: 22px; padding: 0; font-size: 14px; font-weight: 700; line-height: 1; cursor: pointer; }
   .del:hover { background: #b3264a; }
-  .reslink { display: block; margin: 10px 0 14px; font-size: 12px; color: #ffd24a; word-break: break-all; }
+  .reslink { display: block; margin: 10px 0 14px; font-size: 12px; color: #ffd700; word-break: break-all; }
   .note { font-size: 12px; color: #e6d3ff; margin-top: 6px; }
   .hidden { display: none; }
   .home-btn { position: fixed; top: 12px; left: 12px; z-index: 5; text-decoration: none;
