@@ -419,14 +419,10 @@ Output exactly this: first a single line "TITLE: <the article's exact headline>"
   const rows = meta && (meta.urlMetadata || meta.url_metadata) || [];
   const fetched = Array.isArray(rows) && rows.some(r =>
     /SUCCESS/i.test(r.urlRetrievalStatus || r.url_retrieval_status || ""));
-  if (!fetched) {
-    const statuses = (Array.isArray(rows) ? rows : []).map(r => r.urlRetrievalStatus || r.url_retrieval_status || "?").join(",");
-    throw new Error("retrieval status: " + (statuses || "no metadata returned"));
-  }
   if (!out) throw new Error("empty response");
   const titleLine = out.split(/\n/).find(l => /^\s*TITLE:/i.test(l));
   const headline = titleLine ? titleLine.replace(/^\s*TITLE:\s*/i, "").trim() : "";
-  return { headline, bullets: parseBullets(out) };
+  return { headline, bullets: parseBullets(out), verified: fetched };
 }
 
 // TEXT PATH (fallback): summarize article text we fetched ourselves.
@@ -526,8 +522,12 @@ async function summarizeLink(fetchUrl, displayLink) {
   let aiErr = "";
   try {
     setStatus("Reading the article with Gemini …");
-    const { headline, bullets } = await geminiSummarizeUrl(fetchUrl);
-    if (bullets && bullets.length) { showResult(headline, bullets, displayLink, ""); return; }
+    const { headline, bullets, verified } = await geminiSummarizeUrl(fetchUrl);
+    if (bullets && bullets.length) {
+      showResult(headline, bullets, displayLink,
+        verified ? "" : "  ⚠ UNVERIFIED — Gemini did not confirm it fetched the page. Check every fact against the source before airing.");
+      return;
+    }
     aiErr = "no bullets";
   } catch (e) { aiErr = e.message; }
   try {
