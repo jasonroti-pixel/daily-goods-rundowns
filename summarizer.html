@@ -70,9 +70,16 @@
   .reslink { display: block; margin: 10px 0 14px; font-size: 12px; color: #ffd24a; word-break: break-all; }
   .note { font-size: 12px; color: #e6d3ff; margin-top: 6px; }
   .hidden { display: none; }
+  .home-btn { position: fixed; top: 12px; left: 12px; z-index: 5; text-decoration: none;
+    font-family: 'Press Start 2P', monospace; font-size: 9px; color: #241a3a;
+    background: linear-gradient(#ffd24a, #ff9e2c); border-radius: 8px; padding: 9px 11px;
+    box-shadow: 0 4px 0 #c9741a; }
+  .home-btn:active { transform: translateY(2px); box-shadow: 0 2px 0 #c9741a; }
 </style>
 </head>
 <body>
+
+<a href="app.html" class="home-btn" title="Back to Story Scout">⌂ HOME</a>
 
 <!-- BC sunset: ocean, snow-capped mountains, pink/orange/blue sky -->
 <div id="scene">
