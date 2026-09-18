@@ -3,85 +3,146 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Nico Fetch</title>
+<title>NICO FETCHER</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
 <style>
-  /* Deliberately plain. This demo exists to test summary QUALITY, not looks.
-     Visual/brand styling comes later once the logic is proven. */
   * { box-sizing: border-box; }
+  html, body { margin: 0; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    max-width: 780px; margin: 0 auto; padding: 24px 16px 80px;
-    color: #1a1a1a; background: #fafafa; line-height: 1.5;
+    color: #fff; min-height: 100vh; line-height: 1.5; background: #241a3a;
   }
-  h1 { font-size: 22px; margin-bottom: 4px; }
-  .sub { color: #666; font-size: 13px; margin-bottom: 24px; }
-  label { display: block; font-weight: 600; font-size: 13px; margin: 14px 0 4px; }
-  input[type=text], input[type=url], textarea, select {
-    width: 100%; padding: 9px 11px; border: 1px solid #ccc; border-radius: 6px;
-    font-size: 14px; font-family: inherit; background: #fff;
+  #scene { position: fixed; inset: 0; z-index: -1; }
+  #scene svg { width: 100%; height: 100%; display: block; }
+  .wrap { max-width: 640px; margin: 0 auto; padding: 14px 16px 90px; }
+
+  h1.title {
+    font-family: 'Press Start 2P', monospace; font-size: clamp(16px, 6vw, 26px);
+    text-align: center; color: #fff; letter-spacing: 1px; line-height: 1.5; margin: 10px 0 2px;
+    text-shadow: 3px 3px 0 #d5327a, 6px 6px 0 rgba(0,0,0,.35);
+  }
+  .tagline { text-align: center; font-family: 'Press Start 2P', monospace; font-size: 8px; color: #ffe1b0; margin-bottom: 8px; }
+
+  /* Nico sprite: idle head, running loop, or holding the ball */
+  #nico { width: 210px; height: 150px; margin: 4px auto 10px; background-repeat: no-repeat;
+          background-position: center bottom; }
+  #nico.idle { background-image: url(assets/nico/nico-idle.png); background-size: contain; }
+  #nico.win  { background-image: url(assets/nico/nico-ball.png); background-size: contain; }
+  #nico.run  { background-image: url(assets/nico/nico-run.png); background-size: 600% 100%;
+               animation: nicorun .7s steps(6) infinite; }
+  @keyframes nicorun { from { background-position: 0% bottom; } to { background-position: 100% bottom; } }
+
+  .card { background: rgba(24,16,40,.72); border: 3px solid #ff8a3d; border-radius: 12px;
+          padding: 16px; margin-bottom: 16px; box-shadow: 0 6px 0 rgba(0,0,0,.3); }
+  .biglabel { font-family: 'Press Start 2P', monospace; font-size: 11px; color: #ffe1b0;
+              display: block; margin-bottom: 12px; line-height: 1.7; text-align: center; }
+
+  input[type=url], input[type=password], textarea {
+    width: 100%; padding: 12px; border: 2px solid #6b4a8f; border-radius: 6px;
+    font-size: 15px; font-family: inherit; background: rgba(255,255,255,.96); color: #1a1a1a; margin-bottom: 10px;
   }
   textarea { min-height: 120px; resize: vertical; }
-  .row { display: flex; gap: 12px; align-items: flex-end; flex-wrap: wrap; }
-  .row > div { flex: 1; min-width: 140px; }
-  button {
-    padding: 10px 18px; border: none; border-radius: 6px; background: #2563eb;
-    color: #fff; font-size: 14px; font-weight: 600; cursor: pointer; margin-top: 14px;
-  }
-  button:disabled { background: #9db8e8; cursor: not-allowed; }
-  button.secondary { background: #e5e7eb; color: #333; }
-  .toggle { font-size: 13px; color: #2563eb; cursor: pointer; margin-top: 14px; display: inline-block; text-decoration: underline; }
-  #pasteWrap { display: none; }
-  #status { margin-top: 16px; font-size: 13px; min-height: 18px; }
-  #status.err { color: #b91c1c; }
-  #status.ok { color: #15803d; }
-  #result { margin-top: 22px; }
-  #result h2 { font-size: 16px; margin-bottom: 2px; }
-  .meta { font-size: 12px; color: #888; margin-bottom: 12px; }
-  ul.bullets { padding-left: 22px; }
-  ul.bullets li { margin-bottom: 9px; display: flex; align-items: flex-start; gap: 8px; }
+
+  button { font-family: 'Press Start 2P', monospace; cursor: pointer; border: none; border-radius: 8px; }
+  #goBtn { width: 100%; padding: 16px; font-size: 13px; color: #241a3a; letter-spacing: 1px;
+           background: linear-gradient(#ffd24a, #ff9e2c); box-shadow: 0 5px 0 #c9741a; }
+  #goBtn:active { transform: translateY(3px); box-shadow: 0 2px 0 #c9741a; }
+  #goBtn:disabled { filter: grayscale(.35) brightness(.92); cursor: wait; }
+  .secondary { background: #3a6ea5; color: #fff; box-shadow: 0 4px 0 #244a72; }
+  .row { display: flex; gap: 10px; }
+  #copyDocBtn, #copySheetBtn { flex: 1; padding: 12px 6px; font-size: 10px; }
+  #pasteBtn { width: 100%; padding: 12px; font-size: 11px; }
+
+  #status { margin-top: 14px; min-height: 20px; font-family: 'Press Start 2P', monospace;
+            font-size: 10px; line-height: 1.7; text-align: center; color: #fff; }
+  #status.err { color: #ffd0d0; }
+  #status.ok  { color: #c8ffd0; }
+
+  #result h2 { font-family: 'Press Start 2P', monospace; font-size: 12px; line-height: 1.7;
+               color: #ffe1b0; margin: 0 0 12px; }
+  ul.bullets { padding-left: 20px; margin: 6px 0; }
+  ul.bullets li { margin-bottom: 10px; display: flex; align-items: flex-start; gap: 8px; font-size: 15px; color: #fff; }
   ul.bullets li .btext { flex: 1; }
-  .del { flex: none; background: none; color: #b91c1c; border: none; padding: 0 6px; margin: 0;
-         font-size: 18px; font-weight: 700; line-height: 1.3; cursor: pointer; width: auto; }
-  .del:hover { color: #7f1d1d; }
-  .card { background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 18px 20px; }
+  .del { flex: none; background: #8a1f3a; color: #fff; border: none; border-radius: 4px;
+         width: 22px; height: 22px; padding: 0; font-size: 14px; font-weight: 700; line-height: 1; cursor: pointer; }
+  .del:hover { background: #b3264a; }
+  .reslink { display: block; margin: 10px 0 14px; font-size: 12px; color: #ffd24a; word-break: break-all; }
+  .note { font-size: 12px; color: #e6d3ff; margin-top: 6px; }
   .hidden { display: none; }
-  .opts { margin-top: 8px; }
-  .opts label { display: inline-block; font-weight: 400; margin-right: 8px; }
-  code { background: #eee; padding: 1px 5px; border-radius: 3px; font-size: 12px; }
-  .note { font-size: 12px; color: #777; margin-top: 6px; }
-  .biglabel { font-size: 18px; font-weight: 700; margin-bottom: 10px; }
-  #url, #apiKey { margin-bottom: 10px; }
-  #goBtn { width: 100%; padding: 12px; font-size: 15px; }
-  #pasteWrap textarea { margin-bottom: 10px; }
-  #pasteBtn { width: 100%; padding: 11px; }
-  #copyDocBtn, #copySheetBtn { flex: 1; padding: 11px; }
-  .reslink { display: block; margin: 14px 0; font-size: 12px; color: #2563eb; word-break: break-all; }
 </style>
 </head>
 <body>
 
-<div class="card">
-  <label for="url" class="biglabel">Nico Fetch? Paste The Link</label>
-  <input type="url" id="url" placeholder="Paste the link">
-  <input type="password" id="apiKey" placeholder="API key (paste once)" autocomplete="off" spellcheck="false">
-  <button id="goBtn">GO GET IT NICO!</button>
-
-  <div id="pasteWrap" class="hidden">
-    <textarea id="pasteText" placeholder="Site blocked the fetch — paste the article text here"></textarea>
-    <button id="pasteBtn" class="secondary">Summarize pasted text</button>
-  </div>
-
-  <div id="status"></div>
+<!-- BC sunset: ocean, snow-capped mountains, pink/orange/blue sky -->
+<div id="scene">
+  <svg viewBox="0 0 1000 700" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#2b1b52"/><stop offset="0.34" stop-color="#7b3f8f"/>
+        <stop offset="0.58" stop-color="#e8578f"/><stop offset="0.8" stop-color="#ff9e5c"/>
+        <stop offset="1" stop-color="#ffd27a"/>
+      </linearGradient>
+      <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#ffb066"/><stop offset="0.22" stop-color="#e0708f"/>
+        <stop offset="1" stop-color="#26355f"/>
+      </linearGradient>
+      <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+        <stop offset="0" stop-color="#fff3c0"/><stop offset="0.5" stop-color="#ffd27a"/>
+        <stop offset="1" stop-color="#ff9e5c" stop-opacity="0"/>
+      </radialGradient>
+    </defs>
+    <rect x="0" y="0" width="1000" height="472" fill="url(#sky)"/>
+    <circle cx="500" cy="430" r="150" fill="url(#sun)"/>
+    <circle cx="500" cy="440" r="60" fill="#fff2bf"/>
+    <!-- back range -->
+    <polygon fill="#6b5a9c" fill-opacity="0.85"
+      points="0,472 90,360 180,410 260,300 350,388 440,322 520,362 610,292 710,382 810,334 910,402 1000,352 1000,472"/>
+    <!-- front range -->
+    <polygon fill="#33245c"
+      points="0,478 120,382 220,300 300,360 420,252 520,342 620,282 760,360 860,300 1000,382 1000,478"/>
+    <!-- snow caps on front peaks -->
+    <g fill="#f4f1ff">
+      <polygon points="196,326 220,300 246,330 232,322 220,332 208,320"/>
+      <polygon points="392,282 420,252 450,286 436,276 420,288 406,274"/>
+      <polygon points="596,308 620,282 646,312 632,302 620,314 608,300"/>
+      <polygon points="836,326 860,300 886,330 872,320 860,332 846,318"/>
+    </g>
+    <!-- ocean -->
+    <rect x="0" y="470" width="1000" height="230" fill="url(#sea)"/>
+    <rect x="455" y="472" width="90" height="228" fill="#fff2bf" opacity="0.18"/>
+    <rect x="0" y="470" width="1000" height="4" fill="#ffe0a0" opacity="0.6"/>
+  </svg>
 </div>
 
-<div id="result" class="hidden">
+<div class="wrap">
+  <h1 class="title">NICO&nbsp;FETCHER</h1>
+  <div class="tagline">RADIO STORY SCOUT</div>
+  <div id="nico" class="idle"></div>
+
   <div class="card">
-    <h2 id="resHeadline"></h2>
-    <ul class="bullets" id="resBullets"></ul>
-    <a id="resLink" class="reslink" href="#" target="_blank" rel="noopener"></a>
-    <div class="row">
-      <button id="copyDocBtn">Copy for Doc</button>
-      <button id="copySheetBtn" class="secondary">Copy for Sheets</button>
+    <label for="url" class="biglabel">THROW NICO A LINK</label>
+    <input type="url" id="url" placeholder="Paste the article or Reddit link">
+    <input type="password" id="apiKey" placeholder="API key (paste once)" autocomplete="off" spellcheck="false">
+    <button id="goBtn">GO GET IT NICO!</button>
+
+    <div id="pasteWrap" class="hidden">
+      <textarea id="pasteText" placeholder="Site blocked the fetch — paste the article text here"></textarea>
+      <button id="pasteBtn" class="secondary">FETCH PASTED TEXT</button>
+    </div>
+
+    <div id="status"></div>
+  </div>
+
+  <div id="result" class="hidden">
+    <div class="card">
+      <h2 id="resHeadline"></h2>
+      <ul class="bullets" id="resBullets"></ul>
+      <a id="resLink" class="reslink" href="#" target="_blank" rel="noopener"></a>
+      <div class="row">
+        <button id="copyDocBtn">COPY FOR DOC</button>
+        <button id="copySheetBtn" class="secondary">COPY FOR SHEETS</button>
+      </div>
     </div>
   </div>
 </div>
@@ -543,6 +604,12 @@ function setStatus(msg, kind) {
   el.className = kind || "";
 }
 
+// Swap Nico's sprite: "idle" (waiting), "run" (fetching), "win" (back with the ball).
+function setNico(state) {
+  const el = $("nico");
+  if (el) el.className = state;
+}
+
 let lastResult = null; // { headline, link } — bullets are read live from the DOM (they're deletable)
 
 // Five ways Nico celebrates a good fetch — one picked at random on success.
@@ -582,6 +649,7 @@ function showResult(headline, bullets, link) {
   if (link) { a.href = link; a.textContent = link; a.style.display = "block"; }
   else { a.style.display = "none"; }
   $("result").classList.remove("hidden");
+  setNico("win");           // Nico trots back with the ball
   setStatus(nicoWin(), "ok");
 }
 
@@ -598,6 +666,7 @@ $("goBtn").addEventListener("click", async () => {
   const url = $("url").value.trim();
   if (!url) { setStatus("Paste a link first!", "err"); return; }
   $("goBtn").disabled = true;
+  setNico("run");           // Nico takes off running
   setStatus("🐾 GO GET IT NICO…");
   try {
     if (isRedditUrl(url)) {
@@ -608,6 +677,7 @@ $("goBtn").addEventListener("click", async () => {
       await summarizeLink(url, url);
     }
   } catch (e) {
+    setNico("idle");        // came back empty-pawed
     setStatus(nicoLost(e.message), "err");
     $("pasteWrap").style.display = "block";
   } finally {
@@ -636,11 +706,13 @@ $("pasteBtn").addEventListener("click", async () => {
   const text = $("pasteText").value.trim();
   if (text.length < 100) { setStatus("Give Nico more to chew on — at least a paragraph.", "err"); return; }
   $("pasteBtn").disabled = true;
+  setNico("run");
   setStatus("🐾 GO GET IT NICO…");
   try {
     const guess = (text.split(/\n/).map(l => l.trim()).find(l => l.length > 12) || "").slice(0, 160);
     await process(text, $("url").value.trim(), guess); // keep the link if one was entered
   } catch (e) {
+    setNico("idle");
     setStatus(nicoLost(e.message), "err");
   } finally {
     $("pasteBtn").disabled = false;
