@@ -81,53 +81,53 @@
 
 <a href="app.html" class="home-btn" title="Back to Story Scout">⌂ HOME</a>
 
-<!-- BC golden hour: blue sky, low sun, snow-capped peak, evergreens, rock ledge -->
+<!-- BC scene in the reference palette: blue sky + gold glow, snow peak, olive forest, blue ocean -->
 <div id="scene">
   <svg viewBox="0 0 1000 700" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
     <defs>
       <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0" stop-color="#2f74b8"/><stop offset="0.45" stop-color="#5a97cf"/>
-        <stop offset="0.8" stop-color="#a9cfe6"/><stop offset="1" stop-color="#e6dcc0"/>
+        <stop offset="0" stop-color="#4f78bf"/><stop offset="0.45" stop-color="#6f9fe0"/>
+        <stop offset="0.82" stop-color="#a9c3d8"/><stop offset="1" stop-color="#dfd8c2"/>
       </linearGradient>
-      <radialGradient id="glow" cx="0.155" cy="0.593" r="0.6">
-        <stop offset="0" stop-color="#fff6d8" stop-opacity="0.95"/>
-        <stop offset="0.3" stop-color="#ffe9a8" stop-opacity="0.55"/>
-        <stop offset="0.7" stop-color="#ffd98a" stop-opacity="0"/>
+      <radialGradient id="glow" cx="0.150" cy="0.593" r="0.6">
+        <stop offset="0" stop-color="#fdf7d6" stop-opacity="0.95"/>
+        <stop offset="0.32" stop-color="#fcf1bf" stop-opacity="0.5"/>
+        <stop offset="0.7" stop-color="#fce9a0" stop-opacity="0"/>
       </radialGradient>
-      <linearGradient id="ledge" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0" stop-color="#c99a5e"/><stop offset="0.5" stop-color="#8f6338"/>
-        <stop offset="1" stop-color="#4a3320"/>
+      <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#6187c2"/><stop offset="0.2" stop-color="#3f639b"/>
+        <stop offset="1" stop-color="#1f3a63"/>
       </linearGradient>
     </defs>
 
-    <rect x="0" y="0" width="1000" height="640" fill="url(#sky)"/>
-    <rect x="0" y="0" width="1000" height="640" fill="url(#glow)"/>
+    <rect x="0" y="0" width="1000" height="506" fill="url(#sky)"/>
+    <rect x="0" y="0" width="1000" height="506" fill="url(#glow)"/>
 
     <!-- wispy clouds -->
-    <g fill="#ffffff" opacity="0.7">
-      <ellipse cx="330" cy="150" rx="150" ry="26"/><ellipse cx="230" cy="180" rx="110" ry="20"/>
-      <ellipse cx="470" cy="130" rx="90" ry="16"/>
-      <ellipse cx="720" cy="250" rx="120" ry="16" opacity="0.6"/><ellipse cx="600" cy="280" rx="90" ry="12" opacity="0.5"/>
+    <g fill="#f4f2ea" opacity="0.65">
+      <ellipse cx="340" cy="120" rx="150" ry="22"/><ellipse cx="240" cy="150" rx="110" ry="17"/>
+      <ellipse cx="480" cy="100" rx="85" ry="14"/><ellipse cx="720" cy="210" rx="120" ry="14" opacity="0.55"/>
     </g>
 
     <!-- sun rays + disc -->
-    <g><polygon points="155,415 438,-854 413,-859" fill="#fff3c8" opacity="0.16"/><polygon points="155,415 675,-777 651,-787" fill="#fff3c8" opacity="0.16"/><polygon points="155,415 893,-655 871,-670" fill="#fff3c8" opacity="0.16"/><polygon points="155,415 1083,-495 1065,-513" fill="#fff3c8" opacity="0.16"/><polygon points="155,415 1240,-301 1225,-323" fill="#fff3c8" opacity="0.16"/><polygon points="155,415 1357,-81 1347,-105" fill="#fff3c8" opacity="0.16"/><polygon points="155,415 1429,157 1424,132" fill="#fff3c8" opacity="0.16"/><polygon points="155,415 1455,405 1455,379" fill="#fff3c8" opacity="0.16"/><polygon points="155,415 1433,654 1438,628" fill="#fff3c8" opacity="0.16"/><polygon points="155,415 1364,893 1373,869" fill="#fff3c8" opacity="0.16"/></g>
-    <circle cx="155" cy="415" r="120" fill="url(#glow)"/>
-    <circle cx="155" cy="415" r="34" fill="#fff8e0"/>
+    <g><polygon points="150,415 433,-854 408,-859" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 670,-777 646,-787" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 888,-655 866,-670" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 1078,-495 1060,-513" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 1235,-301 1220,-323" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 1352,-81 1342,-105" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 1424,157 1419,132" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 1450,405 1450,379" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 1428,654 1433,628" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 1359,893 1368,869" fill="#fcf6d3" opacity="0.15"/></g>
+    <circle cx="150" cy="415" r="120" fill="url(#glow)"/>
+    <circle cx="150" cy="415" r="32" fill="#fffbe8"/>
 
     <!-- distant hazy ridge -->
-    <polygon fill="#89a6bd" opacity="0.8" points="0,470 150,430 320,455 460,420 620,450 780,415 900,448 1000,425 1000,520 0,520"/>
-    <!-- right snow-capped peak -->
-    <polygon fill="#5d6b7d" points="640,470 800,300 980,470"/>
-    <polygon fill="#eef4fb" points="760,352 800,300 842,354 822,344 800,360 778,346"/>
-    <!-- forested slopes -->
-    <polygon fill="#274b30" points="0,700 0,480 180,430 380,470 560,440 760,475 1000,440 1000,700"/>
-    <polygon fill="#1b3c23" points="0,700 0,540 220,500 440,535 660,505 860,540 1000,515 1000,700"/>
-    <g><rect x="28" y="546" width="4" height="18" fill="#3c2a19"/><polygon points="30,442 -8,538 68,538" fill="#14351d"/><polygon points="30,427 3,496 57,496" fill="#14351d"/><rect x="74" y="545" width="4" height="13" fill="#3c2a19"/><polygon points="76,471 49,539 103,539" fill="#14351d"/><polygon points="76,462 57,510 95,510" fill="#14351d"/><rect x="120" y="564" width="4" height="10" fill="#3c2a19"/><polygon points="122,509 102,560 142,560" fill="#14351d"/><polygon points="122,503 108,538 136,538" fill="#14351d"/><rect x="166" y="539" width="4" height="17" fill="#3c2a19"/><polygon points="168,442 133,532 203,532" fill="#14351d"/><polygon points="168,429 143,493 193,493" fill="#14351d"/><rect x="212" y="560" width="4" height="11" fill="#3c2a19"/><polygon points="214,503 193,556 235,556" fill="#14351d"/><polygon points="214,497 199,533 229,533" fill="#14351d"/><rect x="258" y="550" width="4" height="15" fill="#3c2a19"/><polygon points="260,466 229,544 291,544" fill="#14351d"/><polygon points="260,455 238,510 282,510" fill="#14351d"/><rect x="304" y="537" width="4" height="18" fill="#3c2a19"/><polygon points="306,435 269,530 343,530" fill="#14351d"/><polygon points="306,421 280,489 332,489" fill="#14351d"/><rect x="350" y="558" width="4" height="12" fill="#3c2a19"/><polygon points="352,495 329,554 375,554" fill="#14351d"/><polygon points="352,488 336,528 368,528" fill="#14351d"/><rect x="396" y="544" width="4" height="11" fill="#3c2a19"/><polygon points="398,488 378,540 418,540" fill="#14351d"/><polygon points="398,482 384,518 412,518" fill="#14351d"/><rect x="442" y="553" width="4" height="14" fill="#3c2a19"/><polygon points="444,479 417,548 471,548" fill="#14351d"/><polygon points="444,470 425,518 463,518" fill="#14351d"/><rect x="488" y="544" width="4" height="12" fill="#3c2a19"/><polygon points="490,479 466,539 514,539" fill="#14351d"/><polygon points="490,471 473,513 507,513" fill="#14351d"/><rect x="534" y="541" width="4" height="15" fill="#3c2a19"/><polygon points="536,459 506,535 566,535" fill="#14351d"/><polygon points="536,448 515,502 557,502" fill="#14351d"/><rect x="580" y="557" width="4" height="10" fill="#3c2a19"/><polygon points="582,502 562,553 602,553" fill="#14351d"/><polygon points="582,496 568,531 596,531" fill="#14351d"/><rect x="626" y="561" width="4" height="11" fill="#3c2a19"/><polygon points="628,503 607,557 649,557" fill="#14351d"/><polygon points="628,497 613,534 643,534" fill="#14351d"/><rect x="672" y="545" width="4" height="16" fill="#3c2a19"/><polygon points="674,459 642,539 706,539" fill="#14351d"/><polygon points="674,448 651,504 697,504" fill="#14351d"/><rect x="718" y="559" width="4" height="15" fill="#3c2a19"/><polygon points="720,475 689,553 751,553" fill="#14351d"/><polygon points="720,464 698,519 742,519" fill="#14351d"/><rect x="764" y="540" width="4" height="15" fill="#3c2a19"/><polygon points="766,457 736,534 796,534" fill="#14351d"/><polygon points="766,446 745,501 787,501" fill="#14351d"/><rect x="810" y="559" width="4" height="13" fill="#3c2a19"/><polygon points="812,485 785,553 839,553" fill="#14351d"/><polygon points="812,476 793,524 831,524" fill="#14351d"/><rect x="856" y="543" width="4" height="12" fill="#3c2a19"/><polygon points="858,479 835,539 881,539" fill="#14351d"/><polygon points="858,472 842,513 874,513" fill="#14351d"/><rect x="902" y="540" width="4" height="15" fill="#3c2a19"/><polygon points="904,458 874,534 934,534" fill="#14351d"/><polygon points="904,447 883,501 925,501" fill="#14351d"/><rect x="948" y="546" width="4" height="12" fill="#3c2a19"/><polygon points="950,478 926,541 974,541" fill="#14351d"/><polygon points="950,470 933,514 967,514" fill="#14351d"/><rect x="994" y="556" width="4" height="11" fill="#3c2a19"/><polygon points="996,496 974,552 1018,552" fill="#14351d"/><polygon points="996,489 981,528 1011,528" fill="#14351d"/></g>
+    <polygon fill="#9d948f" opacity="0.75" points="0,505 150,455 340,478 470,445 640,472 800,440 920,470 1000,448 1000,540 0,540"/>
+    <!-- snow-capped peak (right) -->
+    <polygon fill="#2b2436" points="600,506 800,320 985,506"/>
+    <polygon fill="#eef4fb" points="762,368 800,320 840,370 820,360 800,376 778,362"/>
+    <!-- forested slopes in the photo's backlit olive greens -->
+    <polygon fill="#463c26" points="0,506 0,452 200,418 400,458 600,428 800,460 1000,432 1000,506"/>
+    <polygon fill="#3a3221" points="0,506 0,484 230,462 470,490 690,466 880,492 1000,474 1000,506"/>
+    <g><rect x="18" y="497" width="4" height="13" fill="#241d10"/><polygon points="20,425 -7,490 47,490" fill="#3a3421"/><polygon points="20,417 2,463 38,463" fill="#3a3421"/><rect x="62" y="497" width="4" height="13" fill="#241d10"/><polygon points="64,428 38,491 90,491" fill="#332e1d"/><polygon points="64,420 46,464 82,464" fill="#332e1d"/><rect x="106" y="496" width="4" height="10" fill="#241d10"/><polygon points="108,445 89,492 127,492" fill="#332e1d"/><polygon points="108,441 95,472 121,472" fill="#332e1d"/><rect x="150" y="496" width="4" height="14" fill="#241d10"/><polygon points="152,420 123,489 181,489" fill="#332e1d"/><polygon points="152,411 132,460 172,460" fill="#332e1d"/><rect x="194" y="496" width="4" height="9" fill="#241d10"/><polygon points="196,449 179,492 213,492" fill="#3a3421"/><polygon points="196,445 185,474 207,474" fill="#3a3421"/><rect x="238" y="498" width="4" height="9" fill="#241d10"/><polygon points="240,448 222,493 258,493" fill="#2f2b1c"/><polygon points="240,444 228,474 252,474" fill="#2f2b1c"/><rect x="282" y="497" width="4" height="14" fill="#241d10"/><polygon points="284,417 254,489 314,489" fill="#332e1d"/><polygon points="284,408 263,459 305,459" fill="#332e1d"/><rect x="326" y="489" width="4" height="14" fill="#241d10"/><polygon points="328,415 300,483 356,483" fill="#3a3421"/><polygon points="328,407 309,454 347,454" fill="#3a3421"/><rect x="370" y="496" width="4" height="14" fill="#241d10"/><polygon points="372,419 343,489 401,489" fill="#332e1d"/><polygon points="372,410 352,460 392,460" fill="#332e1d"/><rect x="414" y="498" width="4" height="14" fill="#241d10"/><polygon points="416,421 387,491 445,491" fill="#2f2b1c"/><polygon points="416,412 396,462 436,462" fill="#2f2b1c"/><rect x="458" y="504" width="4" height="8" fill="#241d10"/><polygon points="460,462 445,500 475,500" fill="#332e1d"/><polygon points="460,459 450,484 470,484" fill="#332e1d"/><rect x="502" y="495" width="4" height="9" fill="#241d10"/><polygon points="504,451 488,491 520,491" fill="#2f2b1c"/><polygon points="504,448 493,474 515,474" fill="#2f2b1c"/><rect x="546" y="496" width="4" height="10" fill="#241d10"/><polygon points="548,441 528,491 568,491" fill="#332e1d"/><polygon points="548,436 534,470 562,470" fill="#332e1d"/><rect x="590" y="491" width="4" height="12" fill="#241d10"/><polygon points="592,424 567,485 617,485" fill="#3a3421"/><polygon points="592,417 575,459 609,459" fill="#3a3421"/><rect x="634" y="497" width="4" height="13" fill="#241d10"/><polygon points="636,423 608,490 664,490" fill="#2f2b1c"/><polygon points="636,415 617,462 655,462" fill="#2f2b1c"/><rect x="678" y="501" width="4" height="10" fill="#241d10"/><polygon points="680,447 660,496 700,496" fill="#332e1d"/><polygon points="680,442 666,475 694,475" fill="#332e1d"/><rect x="722" y="494" width="4" height="13" fill="#241d10"/><polygon points="724,426 698,488 750,488" fill="#2f2b1c"/><polygon points="724,419 706,462 742,462" fill="#2f2b1c"/><rect x="766" y="504" width="4" height="9" fill="#241d10"/><polygon points="768,458 751,500 785,500" fill="#3a3421"/><polygon points="768,455 757,482 779,482" fill="#3a3421"/><rect x="810" y="502" width="4" height="11" fill="#241d10"/><polygon points="812,446 791,497 833,497" fill="#3a3421"/><polygon points="812,441 798,476 826,476" fill="#3a3421"/><rect x="854" y="502" width="4" height="9" fill="#241d10"/><polygon points="856,456 839,498 873,498" fill="#332e1d"/><polygon points="856,453 845,480 867,480" fill="#332e1d"/><rect x="898" y="496" width="4" height="11" fill="#241d10"/><polygon points="900,437 878,491 922,491" fill="#2f2b1c"/><polygon points="900,431 885,468 915,468" fill="#2f2b1c"/><rect x="942" y="500" width="4" height="11" fill="#241d10"/><polygon points="944,443 923,495 965,495" fill="#2f2b1c"/><polygon points="944,438 930,473 958,473" fill="#2f2b1c"/><rect x="986" y="491" width="4" height="13" fill="#241d10"/><polygon points="988,418 961,484 1015,484" fill="#2f2b1c"/><polygon points="988,410 970,456 1006,456" fill="#2f2b1c"/></g>
 
-    <!-- foreground rock ledge (where Nico rests) -->
-    <polygon fill="url(#ledge)" points="0,700 0,628 180,612 430,632 700,614 1000,636 1000,700"/>
-    <polygon fill="#e0b878" opacity="0.5" points="0,628 180,612 430,632 700,614 1000,636 1000,644 700,624 430,642 180,622 0,638"/>
+    <!-- ocean (photo blues) with a warm sun-glitter on the left -->
+    <rect x="0" y="504" width="1000" height="196" fill="url(#sea)"/>
+    <rect x="0" y="504" width="1000" height="3" fill="#cfe0ee" opacity="0.55"/>
+    <polygon fill="#fcf1bf" opacity="0.22" points="150,506 210,506 150,700 60,700"/>
   </svg>
 </div>
 
