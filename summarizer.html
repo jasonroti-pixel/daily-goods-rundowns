@@ -601,24 +601,23 @@ $("goBtn").addEventListener("click", async () => {
 // fetching the text ourselves (reader → proxy) only if that fails.
 // On total failure, surface BOTH errors so we can see which layer broke.
 async function summarizeLink(fetchUrl, displayLink) {
-  let aiErr = "";
+  // PRIMARY: fetch the REAL article text ourselves (reader -> proxy), then
+  // summarize that. This is the only path that can't hallucinate.
+  let fetchErr = "";
   try {
-    setStatus("Reading the article with Gemini …");
-    const { headline, bullets, verified } = await geminiSummarizeUrl(fetchUrl);
-    if (bullets && bullets.length) {
-      showResult(headline, bullets, displayLink,
-        verified ? "" : "  ⚠ UNVERIFIED — Gemini did not confirm it fetched the page. Check every fact against the source before airing.");
-      return;
-    }
-    aiErr = "no bullets";
-  } catch (e) { aiErr = e.message; }
-  try {
-    setStatus("Gemini couldn't read it (" + aiErr + ") — fetching the text …");
+    setStatus("Fetching the article …");
     const text = await fetchArticleText(fetchUrl);
     await process(text, displayLink);
-  } catch (e2) {
-    throw new Error("url_context [" + aiErr + "]; fetch [" + e2.message + "]");
-  }
+    return;
+  } catch (e) { fetchErr = e.message; }
+  // LAST RESORT for blocked sites: Gemini's url_context — but ONLY if it
+  // verifies it actually fetched the page. Unverified output = invented, discard it.
+  try {
+    setStatus("Fetch blocked — trying Gemini's own reader …");
+    const { headline, bullets, verified } = await geminiSummarizeUrl(fetchUrl);
+    if (verified && bullets && bullets.length) { showResult(headline, bullets, displayLink, ""); return; }
+  } catch (e2) { /* fall through to report the fetch error */ }
+  throw new Error(fetchErr);
 }
 
 $("pasteBtn").addEventListener("click", async () => {
