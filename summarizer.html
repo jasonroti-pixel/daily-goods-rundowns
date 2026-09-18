@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NICO FETCHER</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600&family=Press+Start+2P&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    color: #eae8ff; min-height: 100vh; line-height: 1.55; background: #06050f;
+  }
+  /* CRT scanline overlay to match Story Scout's arcade screen */
+  body::after {
+    content: ""; position: fixed; inset: 0; z-index: 40; pointer-events: none;
+    background: repeating-linear-gradient(rgba(0,0,0,0.22) 0 1px, transparent 1px 3px);
+    opacity: 0.5;
+  }
+  #scene { position: fixed; inset: 0; z-index: -1; }
+  #scene svg { width: 100%; height: 100%; display: block; }
+  /* gentle vignette so the scene reads like a lit arcade cabinet screen */
+  #scene::after {
+    content: ""; position: absolute; inset: 0;
+    background: radial-gradient(120% 90% at 50% 40%, transparent 55%, rgba(6,5,15,0.55) 100%);
+  }
+  .wrap { max-width: 640px; margin: 0 auto; padding: 14px 16px 90px; }
+
+  h1.title {
+    font-family: 'Press Start 2P', monospace; font-size: clamp(16px, 6vw, 26px);
+    text-align: center; color: #fff; letter-spacing: 1px; line-height: 1.5; margin: 10px 0 2px;
+    text-shadow: 2px 2px 0 #ff2d7b, 4px 4px 0 #00e5ff, 6px 6px 0 rgba(0,0,0,.4);
+  }
+  .tagline { text-align: center; font-family: 'Press Start 2P', monospace; font-size: 8px; color: #ffe1b0; margin-bottom: 8px; }
+
+  /* Nico sprite: idle head, running loop, or holding the ball */
+  #nico { width: 210px; height: 150px; margin: 4px auto 10px; background-repeat: no-repeat;
+          background-position: center bottom; }
+  #nico.idle { background-image: url(assets/nico/nico-idle.png); background-size: contain; }
+  #nico.win  { background-image: url(assets/nico/nico-ball.png); background-size: contain; }
+  #nico.run  { background-image: url(assets/nico/nico-run.png); background-size: 600% 100%;
+               animation: nicorun .7s steps(6) infinite; }
+  @keyframes nicorun { from { background-position: 0% bottom; } to { background-position: 100% bottom; } }
+
+  .card { background: rgba(14,13,31,.86); border: 3px solid #3f3c7a; border-radius: 12px;
+          padding: 16px; margin-bottom: 16px;
+          box-shadow: 0 0 18px rgba(180,74,255,.22), inset 0 0 20px rgba(180,74,255,.05), 0 6px 0 rgba(0,0,0,.45); }
+  .biglabel { font-family: 'Press Start 2P', monospace; font-size: 11px; color: #ffe1b0;
+              display: block; margin-bottom: 12px; line-height: 1.7; text-align: center; }
+
+  input[type=url], input[type=password], textarea {
+    width: 100%; padding: 12px; border: 2px solid #6b4a8f; border-radius: 6px;
+    font-size: 15px; font-family: inherit; background: rgba(255,255,255,.96); color: #1a1a1a; margin-bottom: 10px;
+  }
+  textarea { min-height: 120px; resize: vertical; }
+
+  button { font-family: 'Press Start 2P', monospace; cursor: pointer; border: none; border-radius: 8px; }
+  #goBtn { width: 100%; padding: 16px; font-size: 13px; color: #241a3a; letter-spacing: 1px;
+           background: linear-gradient(#ffd24a, #ff9e2c); box-shadow: 0 5px 0 #c9741a; }
+  #goBtn:active { transform: translateY(3px); box-shadow: 0 2px 0 #c9741a; }
+  #goBtn:disabled { filter: grayscale(.35) brightness(.92); cursor: wait; }
+  .secondary { background: #3a6ea5; color: #fff; box-shadow: 0 4px 0 #244a72; }
+  .row { display: flex; gap: 10px; }
+  #copyDocBtn, #copySheetBtn { flex: 1; padding: 12px 6px; font-size: 10px; }
+  #pasteBtn { width: 100%; padding: 12px; font-size: 11px; }
+
+  #status { margin-top: 14px; min-height: 20px; font-family: 'Press Start 2P', monospace;
+            font-size: 10px; line-height: 1.7; text-align: center; color: #fff; }
+  #status.err { color: #ffd0d0; }
+  #status.ok  { color: #c8ffd0; }
+
+  #result h2 { font-family: 'Press Start 2P', monospace; font-size: 12px; line-height: 1.7;
+               color: #ffe1b0; margin: 0 0 12px; }
+  ul.bullets { padding-left: 20px; margin: 6px 0; }
+  ul.bullets li { margin-bottom: 10px; display: flex; align-items: flex-start; gap: 8px; font-size: 15px; color: #fff; }
+  ul.bullets li .btext { flex: 1; }
+  .del { flex: none; background: #8a1f3a; color: #fff; border: none; border-radius: 4px;
+         width: 22px; height: 22px; padding: 0; font-size: 14px; font-weight: 700; line-height: 1; cursor: pointer; }
+  .del:hover { background: #b3264a; }
+  .reslink { display: block; margin: 10px 0 14px; font-size: 12px; color: #ffd700; word-break: break-all; }
+  .note { font-size: 12px; color: #e6d3ff; margin-top: 6px; }
+  .hidden { display: none; }
+  .home-btn { position: fixed; top: 12px; left: 12px; z-index: 5; text-decoration: none;
+    font-family: 'Press Start 2P', monospace; font-size: 9px; color: #241a3a;
+    background: linear-gradient(#ffd24a, #ff9e2c); border-radius: 8px; padding: 9px 11px;
+    box-shadow: 0 4px 0 #c9741a; }
+  .home-btn:active { transform: translateY(2px); box-shadow: 0 2px 0 #c9741a; }
+</style>
+</head>
+<body>
+
+<a href="app.html" class="home-btn" title="Back to Story Scout">⌂ HOME</a>
+
+<!-- BC scene in the reference palette: blue sky + gold glow, snow peak, olive forest, blue ocean -->
+<div id="scene">
+  <svg viewBox="0 0 1000 700" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#4f78bf"/><stop offset="0.45" stop-color="#6f9fe0"/>
+        <stop offset="0.82" stop-color="#a9c3d8"/><stop offset="1" stop-color="#dfd8c2"/>
+      </linearGradient>
+      <radialGradient id="glow" cx="0.150" cy="0.593" r="0.6">
+        <stop offset="0" stop-color="#fdf7d6" stop-opacity="0.95"/>
+        <stop offset="0.32" stop-color="#fcf1bf" stop-opacity="0.5"/>
+        <stop offset="0.7" stop-color="#fce9a0" stop-opacity="0"/>
+      </radialGradient>
+      <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#6187c2"/><stop offset="0.2" stop-color="#3f639b"/>
+        <stop offset="1" stop-color="#1f3a63"/>
+      </linearGradient>
+    </defs>
+
+    <rect x="0" y="0" width="1000" height="506" fill="url(#sky)"/>
+    <rect x="0" y="0" width="1000" height="506" fill="url(#glow)"/>
+    <g fill="#f4f2ea" opacity="0.6">
+      <ellipse cx="340" cy="118" rx="150" ry="20"/><ellipse cx="240" cy="146" rx="105" ry="15"/>
+      <ellipse cx="500" cy="98" rx="80" ry="12"/>
+    </g>
+    <g><polygon points="150,415 433,-854 408,-859" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 670,-777 646,-787" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 888,-655 866,-670" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 1078,-495 1060,-513" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 1235,-301 1220,-323" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 1352,-81 1342,-105" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 1424,157 1419,132" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 1450,405 1450,379" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 1428,654 1433,628" fill="#fcf6d3" opacity="0.15"/><polygon points="150,415 1359,893 1368,869" fill="#fcf6d3" opacity="0.15"/></g>
+    <circle cx="150" cy="415" r="120" fill="url(#glow)"/>
+    <circle cx="150" cy="415" r="32" fill="#fffbe8"/>
+
+    <!-- far hazy range -->
+    <polygon fill="#93a3bd" opacity="0.7" points="0,420 120,372 250,398 360,360 500,392 640,356 780,392 900,362 1000,388 1000,470 0,470"/>
+    <!-- BIG snow-capped back range -->
+    <polygon fill="#4e5c78" points="0,430 70,330 140,410 190,296 260,404 320,346 392,410 452,286 524,404 602,318 682,404 742,282 822,402 862,338 922,404 962,306 1000,404 1000,480 0,480"/>
+    <g><polygon points="44,356 60,341 70,330 80,343 96,356 83,348 70,356 56,348" fill="#eef4fb"/><polygon points="158,328 178,310 190,296 202,312 222,328 206,318 190,328 173,319" fill="#eef4fb"/><polygon points="414,324 437,303 452,286 467,305 490,324 471,312 452,324 432,313" fill="#eef4fb"/><polygon points="575,345 592,330 602,318 612,331 629,345 615,336 602,345 588,337" fill="#eef4fb"/><polygon points="714,310 731,294 742,282 753,296 770,310 756,301 742,310 727,302" fill="#eef4fb"/><polygon points="933,335 951,319 962,306 973,320 991,335 976,326 962,335 947,326" fill="#eef4fb"/><polygon points="825,375 848,354 862,338 876,356 899,375 880,363 862,375 842,364" fill="#eef4fb"/></g>
+    <!-- forested olive slopes -->
+    <polygon fill="#463c26" points="0,506 0,458 200,430 400,462 600,436 800,464 1000,440 1000,506"/>
+    <polygon fill="#3a3221" points="0,506 0,486 230,466 470,492 690,470 880,494 1000,478 1000,506"/>
+    <g><rect x="17" y="497" width="6" height="13" fill="#241d10"/><polygon points="20,427 -6,491 46,491" fill="#3a3421"/><polygon points="20,419 2,464 38,464" fill="#3a3421"/><polygon points="20,405 8,444 32,444" fill="#3a3421"/><rect x="63" y="498" width="6" height="12" fill="#241d10"/><polygon points="66,430 41,491 91,491" fill="#332e1d"/><polygon points="66,423 49,466 83,466" fill="#332e1d"/><polygon points="66,409 54,446 78,446" fill="#332e1d"/><rect x="110" y="497" width="4" height="9" fill="#241d10"/><polygon points="112,447 94,492 130,492" fill="#332e1d"/><polygon points="112,443 100,473 124,473" fill="#332e1d"/><polygon points="112,432 104,459 120,459" fill="#332e1d"/><rect x="155" y="496" width="7" height="14" fill="#241d10"/><polygon points="158,422 130,490 186,490" fill="#332e1d"/><polygon points="158,414 139,461 177,461" fill="#332e1d"/><polygon points="158,398 145,440 171,440" fill="#332e1d"/><rect x="202" y="496" width="4" height="9" fill="#241d10"/><polygon points="204,451 187,492 221,492" fill="#3a3421"/><polygon points="204,448 193,475 215,475" fill="#3a3421"/><polygon points="204,437 196,462 212,462" fill="#3a3421"/><rect x="248" y="498" width="4" height="9" fill="#241d10"/><polygon points="250,450 232,493 268,493" fill="#2f2b1c"/><polygon points="250,446 238,475 262,475" fill="#2f2b1c"/><polygon points="250,435 242,461 258,461" fill="#2f2b1c"/><rect x="293" y="497" width="7" height="14" fill="#241d10"/><polygon points="296,423 268,491 324,491" fill="#2f2b1c"/><polygon points="296,415 277,462 315,462" fill="#2f2b1c"/><polygon points="296,399 283,441 309,441" fill="#2f2b1c"/><rect x="340" y="501" width="5" height="11" fill="#241d10"/><polygon points="342,439 319,495 365,495" fill="#3a3421"/><polygon points="342,433 326,471 358,471" fill="#3a3421"/><polygon points="342,420 331,454 353,454" fill="#3a3421"/><rect x="385" y="500" width="7" height="13" fill="#241d10"/><polygon points="388,426 360,493 416,493" fill="#332e1d"/><polygon points="388,418 369,465 407,465" fill="#332e1d"/><polygon points="388,403 375,443 401,443" fill="#332e1d"/><rect x="431" y="492" width="7" height="13" fill="#241d10"/><polygon points="434,418 406,485 462,485" fill="#2f2b1c"/><polygon points="434,410 415,457 453,457" fill="#2f2b1c"/><polygon points="434,395 421,435 447,435" fill="#2f2b1c"/><rect x="478" y="502" width="4" height="9" fill="#241d10"/><polygon points="480,459 464,498 496,498" fill="#2f2b1c"/><polygon points="480,456 469,482 491,482" fill="#2f2b1c"/><polygon points="480,445 473,469 487,469" fill="#2f2b1c"/><rect x="524" y="493" width="4" height="10" fill="#241d10"/><polygon points="526,443 507,489 545,489" fill="#2f2b1c"/><polygon points="526,439 513,470 539,470" fill="#2f2b1c"/><polygon points="526,427 517,455 535,455" fill="#2f2b1c"/><rect x="570" y="504" width="4" height="8" fill="#241d10"/><polygon points="572,463 557,500 587,500" fill="#3a3421"/><polygon points="572,460 562,485 582,485" fill="#3a3421"/><polygon points="572,450 565,473 579,473" fill="#3a3421"/><rect x="615" y="496" width="6" height="12" fill="#241d10"/><polygon points="618,432 594,490 642,490" fill="#332e1d"/><polygon points="618,425 602,466 634,466" fill="#332e1d"/><polygon points="618,412 607,447 629,447" fill="#332e1d"/><rect x="661" y="493" width="6" height="13" fill="#241d10"/><polygon points="664,425 638,487 690,487" fill="#2f2b1c"/><polygon points="664,418 646,461 682,461" fill="#2f2b1c"/><polygon points="664,403 652,441 676,441" fill="#2f2b1c"/><rect x="708" y="503" width="5" height="10" fill="#241d10"/><polygon points="710,447 689,497 731,497" fill="#3a3421"/><polygon points="710,442 696,476 724,476" fill="#3a3421"/><polygon points="710,430 700,460 720,460" fill="#3a3421"/><rect x="753" y="489" width="7" height="14" fill="#241d10"/><polygon points="756,413 727,482 785,482" fill="#2f2b1c"/><polygon points="756,404 736,453 776,453" fill="#2f2b1c"/><polygon points="756,389 743,431 769,431" fill="#2f2b1c"/><rect x="799" y="496" width="7" height="14" fill="#241d10"/><polygon points="802,421 774,489 830,489" fill="#3a3421"/><polygon points="802,412 783,461 821,461" fill="#3a3421"/><polygon points="802,397 789,439 815,439" fill="#3a3421"/><rect x="845" y="496" width="6" height="13" fill="#241d10"/><polygon points="848,426 822,490 874,490" fill="#2f2b1c"/><polygon points="848,418 830,463 866,463" fill="#2f2b1c"/><polygon points="848,404 836,443 860,443" fill="#2f2b1c"/><rect x="892" y="496" width="5" height="11" fill="#241d10"/><polygon points="894,439 873,491 915,491" fill="#2f2b1c"/><polygon points="894,434 880,469 908,469" fill="#2f2b1c"/><polygon points="894,421 884,453 904,453" fill="#2f2b1c"/><rect x="938" y="501" width="5" height="10" fill="#241d10"/><polygon points="940,445 919,495 961,495" fill="#2f2b1c"/><polygon points="940,440 926,474 954,474" fill="#2f2b1c"/><polygon points="940,428 930,458 950,458" fill="#2f2b1c"/><rect x="983" y="491" width="6" height="13" fill="#241d10"/><polygon points="986,420 959,484 1013,484" fill="#2f2b1c"/><polygon points="986,412 968,457 1004,457" fill="#2f2b1c"/><polygon points="986,398 974,437 998,437" fill="#2f2b1c"/></g>
+
+    <!-- ocean -->
+    <rect x="0" y="504" width="1000" height="196" fill="url(#sea)"/>
+    <rect x="0" y="504" width="1000" height="3" fill="#cfe0ee" opacity="0.55"/>
+    <polygon fill="#fcf1bf" opacity="0.22" points="150,506 210,506 150,700 60,700"/>
+
+    <!-- big foreground pines -->
+    <g><rect x="36" y="684" width="9" height="20" fill="#1a140a"/><polygon points="40,569 1,673 79,673" fill="#20220f"/><polygon points="40,554 13,629 67,629" fill="#20220f"/><polygon points="40,532 22,596 58,596" fill="#20220f"/><rect x="146" y="685" width="9" height="19" fill="#1a140a"/><polygon points="150,574 112,674 188,674" fill="#1a1c0e"/><polygon points="150,559 124,632 176,632" fill="#1a1c0e"/><polygon points="150,539 132,600 168,600" fill="#1a1c0e"/><rect x="295" y="676" width="11" height="22" fill="#1a140a"/><polygon points="300,549 256,664 344,664" fill="#1a1c0e"/><polygon points="300,531 270,616 330,616" fill="#1a1c0e"/><polygon points="300,508 279,579 321,579" fill="#1a1c0e"/><rect x="464" y="671" width="13" height="27" fill="#1a140a"/><polygon points="470,516 416,657 524,657" fill="#20220f"/><polygon points="470,494 433,597 507,597" fill="#20220f"/><polygon points="470,466 445,552 495,552" fill="#20220f"/><rect x="644" y="678" width="12" height="26" fill="#1a140a"/><polygon points="650,529 599,664 701,664" fill="#1a1c0e"/><polygon points="650,508 615,607 685,607" fill="#1a1c0e"/><polygon points="650,481 626,564 674,564" fill="#1a1c0e"/><rect x="815" y="678" width="11" height="23" fill="#1a140a"/><polygon points="820,545 774,666 866,666" fill="#20220f"/><polygon points="820,526 788,615 852,615" fill="#20220f"/><polygon points="820,502 798,576 842,576" fill="#20220f"/><rect x="955" y="675" width="11" height="24" fill="#1a140a"/><polygon points="960,538 913,663 1007,663" fill="#20220f"/><polygon points="960,519 928,610 992,610" fill="#20220f"/><polygon points="960,494 938,570 982,570" fill="#20220f"/></g>
+  </svg>
+</div>
+
+<div class="wrap">
+  <h1 class="title">NICO&nbsp;FETCHER</h1>
+  <div class="tagline">RADIO STORY SCOUT</div>
+  <div id="nico" class="idle"></div>
+
+  <div class="card">
+    <label for="url" class="biglabel">THROW NICO A LINK</label>
+    <input type="url" id="url" placeholder="Paste the article or Reddit link">
+    <input type="password" id="apiKey" placeholder="API key (paste once)" autocomplete="off" spellcheck="false">
+    <button id="goBtn">GO GET IT NICO!</button>
+
+    <div id="pasteWrap" class="hidden">
+      <textarea id="pasteText" placeholder="Site blocked the fetch — paste the article text here"></textarea>
+      <button id="pasteBtn" class="secondary">FETCH PASTED TEXT</button>
+    </div>
+
+    <div id="status"></div>
+  </div>
+
+  <div id="result" class="hidden">
+    <div class="card">
+      <h2 id="resHeadline"></h2>
+      <ul class="bullets" id="resBullets"></ul>
+      <a id="resLink" class="reslink" href="#" target="_blank" rel="noopener"></a>
+      <div class="row">
+        <button id="copyDocBtn">COPY FOR DOC</button>
+        <button id="copySheetBtn" class="secondary">COPY FOR SHEETS</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/@mozilla/readability@0.5.0/Readability.js"></script>
+<script>
+/* ============================================================
+   EXTRACTIVE SUMMARIZER  — pure client-side, zero cost
+   Two methods:
+     - TextRank: PageRank over a sentence-similarity graph
+     - TF: frequency-based sentence scoring
+   Both get position + headline-overlap boosts (news-tuned).
+   ============================================================ */
+
+const STOPWORDS = new Set(("a an and are as at be by for from has he in is it its of on that the to was were will with " +
+  "this these those i you your we they them their our his her she him but or nor not no so if then than " +
+  "up out about into over after under again more most other some such only own same too very can just " +
+  "who whom which what when where why how all any both each few there here been being have had do does did " +
+  "would could should may might must shall about against between through during before above below because " +
+  "while also said says say according new one two get got make made like time year years day says told").split(" "));
+
+/* Site chrome / promo / nav filter. Extractive summarizers are garbage-in
+   garbage-out: newsletter CTAs and nav menus are repetitive and front-loaded,
+   so they score high unless we strip them BEFORE scoring. */
+const PROMO_RE = /\b(sign ?up|sign ?in|log ?in|subscribe|subscription|newsletter|join now|join the|join the discussion|create an account|read now|read more|latest\b.{0,20}\b(news|reviews)|breaking\b.{0,20}\bnews|coming soon|member[- ]only|members only|member badges|earn badges|exclusive (competition|article|content|competitions|articles)|we will send|confirmation|cookies?\b|consent|privacy policy|terms of|follow us|share this|commenting|the community|advertisement|sponsored|you.?ve unlocked|see what you|skip to|main content|from the creators of|weekly (gaming|newsletter)|related (articles|stories)|most popular|trending now|recommended for you)\b/i;
+const GLUE_RE = /^(the|a|an|of|to|in|on|and|for|with|that|is|are|was|were|has|have|as|by|from|but|it|they|he|she|we|you|this|which|who|their|his|her|because|when|will|would|about|at|not)$/i;
+
+function isBoilerplate(s) {
+  if (PROMO_RE.test(s)) return true;
+  const words = s.split(/\s+/);
+  const cap = words.filter(w => /^[A-Z0-9]/.test(w)).length;
+  const glue = words.filter(w => GLUE_RE.test(w)).length;
+  if (words.length >= 4 && cap / words.length > 0.6 && glue <= 1) return true; // capitalized nav/menu run
+  if (words.length <= 12 && glue === 0) return true;                           // button/label fragment
+  return false;
+}
+
+function splitSentences(text) {
+  // Normalize whitespace, protect common abbreviations, then split.
+  let t = text.replace(/\s+/g, " ").trim();
+  t = t.replace(/\b(Mr|Mrs|Ms|Dr|Prof|Sr|Jr|St|vs|etc|Inc|Ltd|Co|Gov|Sen|Rep|U\.S|U\.K)\./g, "$1<DOT>");
+  const parts = t.split(/(?<=[.!?])\s+(?=[A-Z"'])/);
+  return parts
+    .map(s => s.replace(/<DOT>/g, ".").trim())
+    .filter(s => {
+      const words = s.split(/\s+/).length;
+      return words >= 5 && words <= 80 && /[a-zA-Z]/.test(s);
+    });
+}
+
+function tokenize(sentence) {
+  return (sentence.toLowerCase().match(/[a-z']+/g) || [])
+    .filter(w => w.length > 2 && !STOPWORDS.has(w));
+}
+
+// Clean markdown / reader artifacts from fetched text, isolate the body.
+function cleanArticleText(raw) {
+  let t = raw;
+  // Jina returns a header block "Title:...\nURL Source:...\nMarkdown Content:\n". Keep only body.
+  const marker = t.indexOf("Markdown Content:");
+  if (marker !== -1) t = t.slice(marker + "Markdown Content:".length);
+  t = t.replace(/!\[[^\]]*\]\([^)]*\)/g, " ");      // images
+  t = t.replace(/\[([^\]]*)\]\([^)]*\)/g, "$1");     // links -> text
+  t = t.replace(/[#*_>`]/g, " ");                    // md symbols
+  t = t.replace(/^\s*[-–|].*$/gm, " ");              // list/table lines (often nav)
+  t = t.replace(/https?:\/\/\S+/g, " ");             // stray urls
+  return t.replace(/\n{2,}/g, "\n").replace(/[ \t]+/g, " ").trim();
+}
+
+function headlineKeywords(headline) {
+  return new Set(tokenize(headline || ""));
+}
+
+// ---- Method 1: TF frequency scoring ----
+function scoreTF(sentences, hlWords) {
+  const freq = {};
+  sentences.forEach(s => tokenize(s).forEach(w => { freq[w] = (freq[w] || 0) + 1; }));
+  const max = Math.max(1, ...Object.values(freq));
+  return sentences.map((s, i) => {
+    const toks = tokenize(s);
+    if (!toks.length) return 0;
+    let score = toks.reduce((sum, w) => sum + (freq[w] || 0) / max, 0) / toks.length;
+    score *= positionBoost(i, sentences.length);
+    score *= headlineBoost(toks, hlWords);
+    return score;
+  });
+}
+
+// ---- Method 2: TextRank (PageRank over similarity graph) ----
+function scoreTextRank(sentences, hlWords) {
+  const n = sentences.length;
+  const toks = sentences.map(tokenize);
+  const sets = toks.map(t => new Set(t));
+  const sim = Array.from({ length: n }, () => new Array(n).fill(0));
+  for (let i = 0; i < n; i++) {
+    for (let j = i + 1; j < n; j++) {
+      const s = sentenceSimilarity(sets[i], sets[j]);
+      sim[i][j] = s; sim[j][i] = s;
+    }
+  }
+  const rowSum = sim.map(r => r.reduce((a, b) => a + b, 0));
+  let rank = new Array(n).fill(1 / n);
+  const d = 0.85;
+  for (let iter = 0; iter < 30; iter++) {
+    const next = new Array(n).fill((1 - d) / n);
+    for (let i = 0; i < n; i++) {
+      for (let j = 0; j < n; j++) {
+        if (i !== j && rowSum[j] > 0) next[i] += d * (sim[i][j] / rowSum[j]) * rank[j];
+      }
+    }
+    rank = next;
+  }
+  return rank.map((r, i) => r * positionBoost(i, n) * headlineBoost(toks[i], hlWords));
+}
+
+function sentenceSimilarity(a, b) {
+  if (!a.size || !b.size) return 0;
+  let overlap = 0;
+  a.forEach(w => { if (b.has(w)) overlap++; });
+  const norm = Math.log(a.size + 1) + Math.log(b.size + 1);
+  return norm === 0 ? 0 : overlap / norm;
+}
+
+function positionBoost(i, n) {
+  // News front-loads. First few sentences matter most; gentle taper.
+  if (i === 0) return 1.6;
+  if (i === 1) return 1.35;
+  if (i === 2) return 1.2;
+  return 1 + Math.max(0, (n - i) / n) * 0.1;
+}
+
+function headlineBoost(toks, hlWords) {
+  if (!hlWords.size) return 1;
+  const hits = toks.filter(w => hlWords.has(w)).length;
+  return 1 + Math.min(hits, 4) * 0.15;
+}
+
+function summarize(text, headline, numBullets, method) {
+  const sentences = splitSentences(text).filter(s => !isBoilerplate(s));
+  if (sentences.length === 0) return { bullets: [], total: 0 };
+  if (sentences.length <= numBullets) return { bullets: sentences, total: sentences.length };
+
+  const hlWords = headlineKeywords(headline);
+  const scores = method === "tfidf" ? scoreTF(sentences, hlWords) : scoreTextRank(sentences, hlWords);
+
+  // Take top-scoring indices, then de-duplicate near-identical picks, then restore reading order.
+  const ranked = scores.map((s, i) => ({ i, s })).sort((a, b) => b.s - a.s);
+  const chosen = [];
+  const chosenTokSets = [];
+  for (const { i } of ranked) {
+    if (chosen.length >= numBullets) break;
+    const ts = new Set(tokenize(sentences[i]));
+    const dup = chosenTokSets.some(prev => sentenceSimilarity(ts, prev) > 0.8);
+    if (dup) continue;
+    chosen.push(i); chosenTokSets.push(ts);
+  }
+  chosen.sort((a, b) => a - b);
+  return { bullets: chosen.map(i => tidy(sentences[i])), total: sentences.length };
+}
+
+function tidy(s) {
+  s = s.trim();
+  if (s.length > 260) s = s.slice(0, 257).replace(/\s+\S*$/, "") + "…";
+  return s;
+}
+
+/* ---------------- Fetch via Jina Reader ---------------- */
+async function readerFetch(url, extraHeaders) {
+  const endpoint = "https://r.jina.ai/" + url;
+  const res = await fetch(endpoint, { headers: Object.assign({ "Accept": "text/plain" }, extraHeaders || {}) });
+  if (!res.ok) throw new Error("Reader returned HTTP " + res.status);
+  const txt = await res.text();
+  if (!txt || txt.length < 200) throw new Error("Fetched content was too short to summarize.");
+  return txt;
+}
+
+// How much real article body a fetch produced (after stripping the reader header + markup).
+function bodyLength(raw) { return cleanArticleText(raw).length; }
+
+/* Fallback for sites that block the reader (EW/People/Variety, etc.): pull raw
+   HTML through a CORS proxy, then extract the article with Readability. */
+async function proxyFetch(url) {
+  const proxies = [
+    u => "https://api.allorigins.win/raw?url=" + encodeURIComponent(u),
+    u => "https://corsproxy.io/?url=" + encodeURIComponent(u),
+  ];
+  let html = "";
+  for (const mk of proxies) {
+    try {
+      const r = await fetch(mk(url));
+      if (!r.ok) continue;
+      const t = await r.text();
+      if (t && t.length > 800) { html = t; break; }
+    } catch (e) { /* try next proxy */ }
+  }
+  if (!html) throw new Error("all fetch routes blocked");
+
+  let title = "", text = "";
+  try {
+    const doc = new DOMParser().parseFromString(html, "text/html");
+    title = (doc.querySelector("title") && doc.querySelector("title").textContent || "").trim();
+    if (window.Readability) {
+      const art = new window.Readability(doc).parse();   // note: mutates doc
+      if (art) { title = art.title || title; text = (art.textContent || "").trim(); }
+    }
+  } catch (e) { /* fall through to naive extraction */ }
+
+  if (text.length < 400) {
+    // Naive fallback: join the paragraph text from a fresh parse.
+    const doc2 = new DOMParser().parseFromString(html, "text/html");
+    text = [...doc2.querySelectorAll("p")].map(p => p.textContent.trim())
+      .filter(s => s.length > 40).join("\n");
+  }
+  if (text.length < 200) throw new Error("couldn't extract the article text");
+  // Mimic the reader's format so cleanArticleText / extractTitle work unchanged.
+  return "Title: " + title + "\n\nMarkdown Content:\n" + text;
+}
+
+// Try the reader first; if it's blocked or returns a thin/paywalled stub, try the proxy route.
+async function fetchArticleText(url) {
+  try {
+    const t = await readerFetch(url);
+    if (bodyLength(t) >= 400) return t;
+    // Reader returned something too thin (often a block/paywall notice) — try the proxy.
+    const p = await proxyFetch(url);
+    return bodyLength(p) > bodyLength(t) ? p : t;
+  } catch (e) {
+    return await proxyFetch(url);
+  }
+}
+
+/* ---------------- Reddit handling ----------------
+   Reddit blocks direct access. Route through the reader, which follows the
+   /s/ share-link redirect server-side, then pull the outbound article URL
+   out of the rendered thread. If it's a text/discussion post with no
+   external link, we summarize the Reddit post itself. */
+function isRedditUrl(u) { return /(^|\.)reddit\.com|redd\.it/i.test(u); }
+
+function isLikelyArticleUrl(u) {
+  // Reject Reddit's own infrastructure, media/CDNs, and bare homepages.
+  const junk = /reddit\.com|redd\.it|redditstatic|redditmedia|reddituploads|redd\.it|i\.redd|v\.redd|preview\.redd|\.(jpg|jpeg|png|gif|webp|mp4|gifv|svg)(\?|#|$)|imgur\.com\/a\/|/i;
+  if (junk.test(u)) return false;
+  if (/\/(login|signup|register|privacy|terms|about|policy)\b/i.test(u)) return false;
+  try {
+    const p = new URL(u);
+    return /^https?:$/.test(p.protocol) && p.pathname.replace(/\/+$/, "").length > 1;
+  } catch { return false; }
+}
+
+// Returns { articleUrl, redditText, domain } — articleUrl null means summarize the Reddit text itself.
+async function resolveRedditLink(url) {
+  // Ask the reader to append a "Links/Buttons" summary so we get a clean URL list.
+  const txt = await readerFetch(url, { "X-With-Links-Summary": "true" });
+  const found = [...txt.matchAll(/https?:\/\/[^\s)\]"'>]+/g)].map(m => m[0].replace(/[.,]+$/, ""));
+  const article = found.find(isLikelyArticleUrl);
+  let domain = null;
+  if (article) { try { domain = new URL(article).hostname.replace(/^www\./, ""); } catch (e) {} }
+  return { articleUrl: article || null, redditText: txt, domain };
+}
+
+/* Jina Reader prefixes its output with a "Title:" line — use it as the headline. */
+function extractTitle(raw) {
+  const m = raw.match(/^Title:\s*(.+)$/m);
+  if (m) return m[1].trim().replace(/\s+[|\-–—]\s+[^|\-–—]{1,40}$/, ""); // drop trailing " | Site Name"
+  return "";
+}
+
+/* Summaries go through a Cloudflare Worker that holds the Gemini key as an
+   encrypted secret — so the key is NEVER in this page or the repo (which is
+   what got the hardcoded key auto-disabled). Set this to your Worker URL. */
+const PROXY_URL = "https://REPLACE-WITH-YOUR-WORKER.workers.dev";
+
+/* ---------------- Model selection ----------------
+   Flash free tiers are tiny (2.5-flash = 20/day) while newer Flash-Lite models
+   are 500/day. Rather than hardcode one guessed id, ask the API which models
+   this key can use, rank them (Flash-Lite first, newest generation first), and
+   try them in order — falling through to the next when one 404s or runs dry. */
+const FALLBACK_MODELS = ["gemini-2.5-flash-lite", "gemini-2.5-flash"];
+let _modelChain = null;   // available models, best (most free headroom) first
+let _pickedModel = null;  // the model that last worked — tried first next time
+
+function geminiKey() { return (($("apiKey") && $("apiKey").value) || "").trim(); }
+
+function rankModel(name) {
+  const n = name.toLowerCase();
+  if (!/gemini/.test(n) || !/flash/.test(n)) return -1;               // flash family only (cheap + high quota)
+  if (/(vision|embedding|aqa|tts|image|audio|live|robot|thinking)/.test(n)) return -1;
+  let score = /flash-lite/.test(n) ? 1000 : 0;                        // lite = biggest free daily quota
+  const ver = (n.match(/gemini-(\d+(?:\.\d+)?)/) || [])[1];
+  score += ver ? parseFloat(ver) * 10 : 0;                           // newer generation first
+  if (/preview|exp/.test(n)) score -= 3;                            // prefer stable over preview
+  return score;
+}
+
+// Ask the API which models this key can actually use, ranked best-first.
+async function discoverModels() {
+  const useProxy = !/REPLACE-WITH-YOUR-WORKER/.test(PROXY_URL);
+  if (useProxy) return null;                                          // ListModels isn't served by the summarize proxy
+  const key = geminiKey();
+  if (!key) return null;
+  const res = await fetch("https://generativelanguage.googleapis.com/v1beta/models?pageSize=1000&key=" + encodeURIComponent(key));
+  if (!res.ok) return null;
+  const data = await res.json();
+  const ranked = (data.models || [])
+    .filter(m => (m.supportedGenerationMethods || m.supported_generation_methods || []).some(x => /generateContent/i.test(x)))
+    .map(m => (m.name || "").replace(/^models\//, ""))
+    .map(n => ({ n, s: rankModel(n) }))
+    .filter(x => x.n && x.s > 0)
+    .sort((a, b) => b.s - a.s)
+    .map(x => x.n);
+  return ranked.length ? ranked : null;
+}
+
+async function getModelChain() {
+  if (_modelChain) return _modelChain;
+  let chain = null;
+  try { chain = await discoverModels(); } catch (e) { /* fall back */ }
+  _modelChain = (chain && chain.length) ? chain : FALLBACK_MODELS.slice();
+  return _modelChain;
+}
+
+// Shared bullet-style rules for both the URL path and the text path.
+const STYLE_RULES =
+`Match this style exactly:
+- Target 7-9 bullets. Nearly every real news article supports this once you give each fact its own line. Go below 6 ONLY for a genuine 2-3 sentence stub. Do not pad with filler — but do not compress a full story into 4 bullets either.
+- Give EACH distinct fact, statement, or quote its own bullet. Never merge two facts into one bullet (e.g. an admission and a penalty are two bullets, not one). Err toward MORE, more granular bullets.
+- Each bullet is a complete, information-dense sentence in neutral AP / wire-service style — third person, past tense.
+- Keep every specific: full names, ages, exact dates, locations, event names, times/scores, dollar amounts, and descriptors (e.g. "the five-time Masters winner").
+- Keep source attributions when the article gives them ("according to court records", "per the affidavit", "Entertainment Weekly can confirm").
+- When the article quotes someone, pull their key quotes VERBATIM in quotation marks — do not paraphrase a quote into a fragment. A notable quote gets its own bullet, even if it runs long. Include at least two direct quotes when the article contains them.
+- Order the bullets: lead with the core news, then background, then context, history, reactions, or quotes.
+- Facts and quotes only. No editorializing, no clichés, no "this shows / highlights / demonstrates" lines.
+- Use only what is stated in the article. Do not invent anything.`;
+
+// Single request to one specific model (via proxy if configured, else the pasted key).
+async function geminiRaw(body, model) {
+  const useProxy = !/REPLACE-WITH-YOUR-WORKER/.test(PROXY_URL);
+  const headers = { "Content-Type": "application/json" };
+  let url;
+  if (useProxy) {
+    url = PROXY_URL.replace(/\/$/, "") + "?model=" + encodeURIComponent(model);
+  } else {
+    const key = geminiKey();
+    if (!key) throw new Error("no key");
+    url = "https://generativelanguage.googleapis.com/v1beta/models/" + encodeURIComponent(model) + ":generateContent";
+    headers["x-goog-api-key"] = key;
+  }
+  const res = await fetch(url, { method: "POST", headers, body: JSON.stringify(body) });
+  if (!res.ok) {
+    let msg = "HTTP " + res.status;
+    try { const e = await res.json(); if (e.error && e.error.message) msg = e.error.message; } catch (x) {}
+    throw new Error(msg);
+  }
+  const data = await res.json();
+  const cand = data && data.candidates && data.candidates[0];
+  const parts = cand && cand.content && cand.content.parts;
+  const text = Array.isArray(parts) ? parts.map(p => p.text || "").join("") : "";
+  return { text, cand };
+}
+
+// Try a model; if it rejects thinkingConfig (Flash-Lite has no "thinking"), retry without it.
+async function callModel(body, model) {
+  try {
+    return await geminiRaw(body, model);
+  } catch (e) {
+    if (/invalid.?argument/i.test(e.message) && body.generationConfig && body.generationConfig.thinkingConfig) {
+      const b2 = JSON.parse(JSON.stringify(body));
+      delete b2.generationConfig.thinkingConfig;
+      return await geminiRaw(b2, model);
+    }
+    throw e;
+  }
+}
+
+// Run the request across the ranked model chain: first that works wins and is remembered.
+async function geminiCall(body) {
+  const useProxy = !/REPLACE-WITH-YOUR-WORKER/.test(PROXY_URL);
+  if (!useProxy && !geminiKey()) throw new Error("no key");
+  const chain = await getModelChain();
+  const order = _pickedModel ? [_pickedModel, ...chain.filter(m => m !== _pickedModel)] : chain.slice();
+  let lastErr;
+  for (const model of order) {
+    try {
+      const r = await callModel(body, model);
+      _pickedModel = model;
+      return r;
+    } catch (e) {
+      lastErr = e;
+      // Key/permission problems affect every model — stop. Otherwise (not found,
+      // quota, rate limit, bad tool/arg) move on to the next model.
+      if (/api.?key not valid|API_KEY_INVALID|PERMISSION_DENIED|not been used|is disabled|SERVICE_DISABLED/i.test(e.message)) throw e;
+    }
+  }
+  throw lastErr || new Error("no model available");
+}
+
+function parseBullets(out) {
+  return out.split(/\n+/)
+    .map(l => l.replace(/^\s*[-•*]\s*/, "").replace(/^\s*\d+[.)]\s*/, "").trim())
+    .filter(l => l.length > 1 && !/^TITLE:/i.test(l))
+    .slice(0, 10);
+}
+
+// PRIMARY PATH: hand Gemini the URL and let its url_context tool fetch + read the page.
+async function geminiSummarizeUrl(url) {
+  const prompt =
+`You are building a radio show prep sheet. Open and read the article at the URL below, then write a thorough bulleted brief the host can read on air.
+
+${STYLE_RULES}
+
+URL: ${url}
+
+Output exactly this: first a single line "TITLE: <the article's exact headline>", then the bullets, each on its own line starting with "- ". Nothing else.`;
+  const { text: out, cand } = await geminiCall({
+    contents: [{ parts: [{ text: prompt }] }],
+    tools: [{ url_context: {} }],
+    generationConfig: { temperature: 0.25, maxOutputTokens: 3072, thinkingConfig: { thinkingBudget: 0 } }
+  });
+  // Guard against hallucination: only trust the answer if url_context actually retrieved the page.
+  const meta = (cand && (cand.urlContextMetadata || cand.url_context_metadata)) || null;
+  const rows = meta && (meta.urlMetadata || meta.url_metadata) || [];
+  const fetched = Array.isArray(rows) && rows.some(r =>
+    /SUCCESS/i.test(r.urlRetrievalStatus || r.url_retrieval_status || ""));
+  if (!out) throw new Error("empty response");
+  const titleLine = out.split(/\n/).find(l => /^\s*TITLE:/i.test(l));
+  const headline = titleLine ? titleLine.replace(/^\s*TITLE:\s*/i, "").trim() : "";
+  return { headline, bullets: parseBullets(out), verified: fetched };
+}
+
+// TEXT PATH (fallback): summarize article text we fetched ourselves.
+async function geminiSummarize(text, headline) {
+  const prompt =
+`You are building a radio show prep sheet. Read the article and write a thorough bulleted brief the host can read on air.
+
+${STYLE_RULES}
+
+Headline: ${headline || "(unknown)"}
+
+Article:
+"""
+${text.slice(0, 24000)}
+"""
+
+Return ONLY the bullets, each on its own line starting with "- ". No preamble, no sign-off.`;
+  const { text: out } = await geminiCall({
+    contents: [{ parts: [{ text: prompt }] }],
+    generationConfig: { temperature: 0.25, maxOutputTokens: 3072, thinkingConfig: { thinkingBudget: 0 } }
+  });
+  if (!out) throw new Error("empty response");
+  return parseBullets(out);
+}
+
+/* ---------------- UI wiring ---------------- */
+const $ = id => document.getElementById(id);
+
+function setStatus(msg, kind) {
+  const el = $("status");
+  el.textContent = msg;
+  el.className = kind || "";
+}
+
+// Swap Nico's sprite: "idle" (waiting), "run" (fetching), "win" (back with the ball).
+function setNico(state) {
+  const el = $("nico");
+  if (el) el.className = state;
+}
+
+let lastResult = null; // { headline, link } — bullets are read live from the DOM (they're deletable)
+
+// Five ways Nico celebrates a good fetch — one picked at random on success.
+const NICO_WINS = [
+  "🦴 NICO FETCHED IT! GOOD BOY!",
+  "🐾 GOOD BOY, NICO — GOT THE STORY!",
+  "🦴 NICO DROPPED IT RIGHT AT YOUR FEET!",
+  "🐾 NICO SNAGGED THAT ONE CLEAN!",
+  "🦴 NICO BROUGHT IT BACK — WHO'S A GOOD BOY?"
+];
+function nicoWin() { return NICO_WINS[Math.floor(Math.random() * NICO_WINS.length)]; }
+function nicoLost(code) { return "🐕 NICO LOST THIS ONE — THROW HIM ANOTHER ONE! [" + (code || "?") + "]"; }
+
+// Each bullet gets a small × so the host can drop it before copying.
+function makeBulletLi(text) {
+  const li = document.createElement("li");
+  const span = document.createElement("span");
+  span.className = "btext";
+  span.textContent = text;
+  const del = document.createElement("button");
+  del.type = "button"; del.className = "del"; del.title = "Delete this bullet"; del.textContent = "×";
+  del.addEventListener("click", () => li.remove());
+  li.appendChild(span); li.appendChild(del);
+  return li;
+}
+function currentBullets() {
+  return [...document.querySelectorAll("#resBullets li .btext")].map(s => s.textContent);
+}
+
+function showResult(headline, bullets, link) {
+  lastResult = { headline: headline || "(headline not detected)", link: link || "" };
+  $("resHeadline").textContent = lastResult.headline;
+  const ul = $("resBullets");
+  ul.innerHTML = "";
+  bullets.forEach(b => ul.appendChild(makeBulletLi(b)));
+  const a = $("resLink");
+  if (link) { a.href = link; a.textContent = link; a.style.display = "block"; }
+  else { a.style.display = "none"; }
+  $("result").classList.remove("hidden");
+  setNico("win");           // Nico trots back with the ball
+  setStatus(nicoWin(), "ok");
+}
+
+// Summarize fetched article text. Throws on failure so the caller shows a Nico "lost" message.
+async function process(rawText, link, knownHeadline) {
+  const headline = knownHeadline || extractTitle(rawText);
+  const clean = cleanArticleText(rawText);
+  const bullets = await geminiSummarize(clean, headline);
+  if (!bullets || !bullets.length) throw new Error("empty-summary");
+  showResult(headline, bullets, link);
+}
+
+$("goBtn").addEventListener("click", async () => {
+  const url = $("url").value.trim();
+  if (!url) { setStatus("Paste a link first!", "err"); return; }
+  $("goBtn").disabled = true;
+  setNico("run");           // Nico takes off running
+  setStatus("🐾 GO GET IT NICO…");
+  try {
+    if (isRedditUrl(url)) {
+      const { articleUrl, redditText, domain } = await resolveRedditLink(url);
+      if (articleUrl) await summarizeLink(articleUrl, url);   // fetch the article, show the original link
+      else await process(redditText, url);                    // text/discussion post
+    } else {
+      await summarizeLink(url, url);
+    }
+  } catch (e) {
+    setNico("idle");        // came back empty-pawed
+    setStatus(nicoLost(e.message), "err");
+    $("pasteWrap").style.display = "block";
+  } finally {
+    $("goBtn").disabled = false;
+  }
+});
+
+// PRIMARY: fetch the REAL article text ourselves (reader -> proxy) and summarize that —
+// the only path that can't hallucinate. url_context is a verified-only last resort.
+async function summarizeLink(fetchUrl, displayLink) {
+  let fetchErr = "";
+  try {
+    const text = await fetchArticleText(fetchUrl);
+    await process(text, displayLink);
+    return;
+  } catch (e) { fetchErr = e.message; }
+  try {
+    setStatus("🐾 NICO'S DIGGING DEEPER…");
+    const { headline, bullets, verified } = await geminiSummarizeUrl(fetchUrl);
+    if (verified && bullets && bullets.length) { showResult(headline, bullets, displayLink); return; }
+  } catch (e2) { /* fall through to report the fetch error */ }
+  throw new Error(fetchErr || "blocked");
+}
+
+$("pasteBtn").addEventListener("click", async () => {
+  const text = $("pasteText").value.trim();
+  if (text.length < 100) { setStatus("Give Nico more to chew on — at least a paragraph.", "err"); return; }
+  $("pasteBtn").disabled = true;
+  setNico("run");
+  setStatus("🐾 GO GET IT NICO…");
+  try {
+    const guess = (text.split(/\n/).map(l => l.trim()).find(l => l.length > 12) || "").slice(0, 160);
+    await process(text, $("url").value.trim(), guess); // keep the link if one was entered
+  } catch (e) {
+    setNico("idle");
+    setStatus(nicoLost(e.message), "err");
+  } finally {
+    $("pasteBtn").disabled = false;
+  }
+});
+
+function copyText(text, okMsg) {
+  navigator.clipboard.writeText(text).then(
+    () => setStatus(okMsg, "ok"),
+    () => setStatus("Copy failed — select the text manually.", "err")
+  );
+}
+
+// Doc block: headline, link on its own line, then dash bullets — matches the show doc.
+$("copyDocBtn").addEventListener("click", () => {
+  if (!lastResult) return;
+  const bullets = currentBullets();
+  if (!bullets.length) { setStatus("No bullets left to copy.", "err"); return; }
+  const parts = [lastResult.headline];
+  if (lastResult.link) parts.push(lastResult.link);
+  parts.push(bullets.map(b => "- " + b).join("\n"));
+  copyText(parts.join("\n"), "Copied — paste into your Doc.");
+});
+
+// Sheets row: [Headline] [Bullets in one cell] [Link].
+$("copySheetBtn").addEventListener("click", () => {
+  if (!lastResult) return;
+  const bullets = currentBullets();
+  if (!bullets.length) { setStatus("No bullets left to copy.", "err"); return; }
+  const cell = s => /[\t\n"]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+  const bulletsCell = bullets.map(b => "• " + b).join("\n");
+  const row = [cell(lastResult.headline), cell(bulletsCell), cell(lastResult.link)].join("\t");
+  copyText(row, "Copied — paste into a Google Sheet row.");
+});
+
+/* ---------------- Settings persistence ---------------- */
+function lsGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+
+(function initSettings() {
+  const savedKey = lsGet("gemini-key"); if (savedKey) $("apiKey").value = savedKey;
+  $("apiKey").addEventListener("input", () => lsSet("gemini-key", $("apiKey").value.trim()));
+  // Enter in the URL box triggers Summarize.
+  $("url").addEventListener("keydown", e => { if (e.key === "Enter") $("goBtn").click(); });
+})();
+</script>
+</body>
+</html>

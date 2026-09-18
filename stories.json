@@ -1,6 +1,547 @@
 [
   {
     "date": "2026-09-17",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Matthew Stafford reveals secret behind throws few NFL QBs can make",
+    "angle": "Matthew Stafford reveals secret behind throws few NFL QBs can make",
+    "bullets": [],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/17/sports/matthew-stafford-reveals-secret-behind-his-incredible-arm-angle-no-look-throws/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Ladd McConkey and his wife give shocking news to their family",
+    "angle": "The Chargers' breakout receiver is sidelined with an injury, but he and his wife just shared some kind of major family news \u2014 the kind of good-news-bad-news split that makes for easy, relatable talk on air.",
+    "bullets": [
+      " Baby news, house, ring upgrade \u2014 what's your bet on what they just announced?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/17/sports/ladd-mcconkey-and-his-wife-give-shocking-news-to-their-family/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Brock Purdy comes up short in hilarious bet with George Kittle",
+    "angle": "Two 49ers stars, one dumb rivalry bet gone wrong \u2014 Brock Purdy's Iowa State just got embarrassed by George Kittle's Iowa Hawkeyes, and now Purdy's stuck paying up in front of the whole locker room.",
+    "bullets": [
+      " Brock Purdy and George Kittle bet each other every year when Iowa State and Iowa play",
+      " Iowa beat Iowa State 16-13 on Saturday",
+      " Purdy had to face Kittle right after the loss to settle the bet",
+      " What's the most brutal bet you've ever lost to a coworker or teammate?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/17/sports/brock-purdy-comes-up-short-in-hilarious-bet-with-george-kittle/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Blade-wielding 'gangster-ass' crab tries attacking Florida man and his dog: shocking video https://t.co/CUm9Q0RRFa https://t.co/6Eb71wmClE",
+    "angle": "It's the kind of only-in-Florida viral video that writes itself for radio \u2014 a crab squaring up like it's got a weapon, caught on camera, tailor-made for a quick laugh-and-react moment.",
+    "bullets": [
+      " A Florida man and his dog were reportedly confronted by a crab described as 'blade-wielding' and 'gangster-ass'",
+      " What's the most unhinged animal standoff you've ever had in your own yard? X/Twitter @NYPost (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2100763590441439625",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "We Regret to Inform You Chipotle Is Now Working With Palantir",
+    "angle": "Palantir built its name on defense, intelligence, and ICE contracts \u2014 now it's reportedly plugged into Chipotle, and the internet is having a field day with the mental whiplash of \"burrito bowl\" meeting \"surveillance tech giant.\"",
+    "bullets": [
+      " Chipotle is reportedly now working with Palantir, the data-analytics company best known for military, intelligence, and government contracts.",
+      " Palantir has been pushing hard into commercial and retail data deals lately, but this one's got people doing a double-take.",
+      " Does it creep you out that a company known for military and ICE contracts might now be crunching data on your burrito order?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://newrepublic.com/post/215501/chipotle-palantir",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Hackers find encryption keys stored on stolen Flock camera despite company's denials-- group extracts more than 27,000 clips, 1.6 million images captured in a span of 21 days from the device",
+    "angle": "Flock Safety cameras are bolted onto street corners in thousands of towns tracking license plates for police, and the company swore the data was locked down tight - so hackers proving otherwise by pulling over a million images off a stolen unit is a real 'wait, WHAT' moment for anyone who's driven past one.",
+    "bullets": [
+      " Hackers say they found encryption keys stored right on a stolen Flock camera - despite the company insisting that couldn't happen.",
+      " Also pulled 1.6 million images off the single device.",
+      " All of that came from just 21 days of footage on one camera.",
+      " If a hacker can crack one stolen camera and walk away with 1.6 million photos, how comfortable are you with these things scanning every plate in your neighborhood?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-find-encryption-key-stored-on-flock-camera-group-extracts-mor",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Marvel's Wolverine motorcycle section and quicktime events are getting the wrong kind of attention because \"the game plays itself\" and \"you don't have to press anything\"",
+    "angle": "Marvel's Wolverine motorcycle section and quicktime events are getting the wrong kind of attention because \"the game plays itself\" and \"you don't have to press anything\"",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gamesradar.com/games/action/marvels-wolverine-motorcycle-section-and-quicktime-events-are-getting-the-wrong-kind-",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Shopify CEO says employees' 'slop grenades' are making more work for everyone else",
+    "angle": "A tech CEO just put a name to something office workers everywhere have felt but couldn't articulate - lazy AI output getting dumped on a coworker's desk to clean up. It's a workplace-culture flashpoint that goes way beyond one company.",
+    "bullets": [
+      " Shopify's CEO publicly called out staff for tossing 'slop grenades' into the workflow.",
+      " His point: low-effort, AI-generated work doesn't save time - it just shifts the cleanup burden onto someone else.",
+      " Callers: have you ever gotten handed a coworker's half-baked AI 'slop grenade' - and had to clean up the mess? ON-AIR BIT BREAKDOWN - Step 1: Name That Slop Grenade - 60-90 seconds, phone/text-in -> Hosts ask listeners to text in their best - or worst - example of getting handed obviously lazy AI-generated work at their job. - Step 2: Host Confession - Quick back-and-forth -> Each host admits whether they've ever lobbed a 'slop grenade' of their own - a rushed email, report, or reply they didn't proofread. - Step 3: The Verdict - Wrap-up take -> Hosts debate: is AI making work faster, or just making messes for other people to fix?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.businessinsider.com/shopify-ceo-ai-slop-grenades-can-make-work-harder-2026-9",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "I drew Canada as a LOTR/Tolkien fantasy map",
+    "angle": "A fan artist turned the entire country into a hand-drawn Tolkien-style fantasy map and it's blowing up on r/Canada \u2014 pure nerdy Canadian pride that's perfect for a fun, shareable segment.",
+    "bullets": [
+      " Artist posted a Lord of the Rings-style fantasy map of Canada on r/Canada",
+      " They joked, apologizing in advance \"for missing or misspelling any towns\"",
+      " You can buy a print on Redbubble of the map, titled \"Realm of Canada\"",
+      " Artist runs an Instagram, @realmofmaps, full of similar fantasy-style maps",
+      " Ask listeners: if our city got the Middle-earth treatment, what fantasy name would it deserve \u2014 and would it be Rivendell or Mordor? ON-AIR BIT BREAKDOWN - Step 1: Pull up the map - 30 seconds, cold open -> Hosts describe what they're looking at on screen \u2014 a hand-drawn fantasy map with Canadian cities relabeled as kingdoms, mountains, and strongholds. - Step 2: Guess the Middle-earth match - 1-2 minutes -> Hosts each pick a major Canadian city (Toronto, Calgary, Halifax) and riff on what LOTR location it should be \u2014 Shire, Mordor, Gondor \u2014 and argue it out. - Step 3: Open the phone lines - Caller bit -> Invite listeners to call in and pitch a fantasy name for their own hometown, funniest pitch gets a shoutout."
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1wj0mei",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Spain\u2019s PM posts image of maple leaf on EU flag. Live updates here.",
+    "angle": "A European head of government publicly folding Canada's maple leaf into the EU flag is a striking, symbolic gesture - the kind of image that reads as a diplomatic wink and gets people asking what message is really being sent.",
+    "bullets": [
+      " Spain's Prime Minister shared an image combining a maple leaf with the EU flag",
+      " Details on the exact context and timing are still limited",
+      " Is this genuine solidarity with Canada, a jab at someone else, or just a PM having fun online - what's your read?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/politics/article/canadian-pm-welcomes-eus-ambition-for-associate-membership-after-trump-outburst-live-upd",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Carney nods to Trump, says Canada, Europe not 'fair-weather allies' in speech to European Parliament | CBC News",
+    "angle": "PM Mark Carney took a not-so-subtle swipe at Trump-style alliance-hopping in a speech to the European Parliament, framing Canada and Europe as the steady, reliable partners - a live storyline as Canada navigates its own tense trade relationship with Washington.",
+    "bullets": [
+      " Mark Carney delivered the speech directly to the European Parliament",
+      " He said Canada and Europe are not \"fair-weather allies\"",
+      " Is Carney smart to publicly cozy up to Europe while trying to keep the peace with Trump on trade, or is that playing with fire?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/carney-addresses-eu-parliament-9.7346339",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Manitoba to stick with daylight time year-round",
+    "angle": "Manitoba's ditching the twice-a-year clock change and locking in daylight time year-round, reigniting the national debate over whether Canada should just kill the time change for good.",
+    "bullets": [
+      " Would you want your province to make the same move, even if it means sunrise in the dead of winter feels like the middle of the night?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theglobeandmail.com/canada/article-manitoba-daylight-time-year-round/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Associated Press: Carney to address EU Parliament after Trump calls Canada associate membership a possible hostile act",
+    "angle": "Canada's PM is set to speak directly to the EU Parliament, and Trump has already called the idea of Canada cozying up to Europe a 'possible hostile act' \u2014 that's about as blunt as trade tension talk gets between allies.",
+    "bullets": [
+      " Mark Carney is scheduled to address the EU Parliament directly.",
+      " Donald Trump has publicly floated that such a move could be seen as a 'possible hostile act.'",
+      " It's the latest flashpoint in the ongoing US-Canada trade and diplomacy tension under the new administration.",
+      " Should Canada be looking to Europe for backup, or is picking a fight with Trump over it just bad strategy?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/carney-canada-eu-trump-parliament-speech-ef4559ce5972abb47444e469f42005bb",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "PM Carney says Canada welcomes ambition to deepen alliance with Europe",
+    "angle": "With trade tensions and unpredictability south of the border, Carney signaling a deeper Canada-Europe alliance taps into the bigger \"who's Canada's best friend now\" conversation everyone's already having.",
+    "bullets": [
+      " PM Mark Carney says Canada \"welcomes\" ambition to deepen its alliance with Europe",
+      " Comes amid a broader push from Ottawa to diversify trade and security ties beyond the U.S.",
+      " Should Canada be cozying up to Europe more than the U.S. right now \u2014 yes or no?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/politics/article/pm-carney-says-canada-welcomes-ambition-to-deepen-alliance-with-europe/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Viral Horny Pumpkin Song Not That Horny, Insists Horny Guy Who Wrote It",
+    "angle": "A pumpkin-themed song went viral for its cheeky innuendo, and now the guy who wrote it is doing damage control, insisting it's tamer than everyone thinks - which is exactly the kind of internet-goes-too-literal moment hosts can have fun with.",
+    "bullets": [
+      " Can a song title alone make something 'too horny' before anyone's even heard the lyrics? gizmodo.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/viral-horny-pumpkin-song-not-that-horny-insists-horny-guy-who-wrote-it-2000813453",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Colin Farrell Looks Unrecognizable with Shaved Head in Shocking Transformation - people.com",
+    "angle": "A total shaved-head transformation from a recognizable leading man is easy, visual, water-cooler fodder \u2014 perfect for a quick \"did you see this photo\" moment on air.",
+    "bullets": [
+      " Bold new look or better off keeping the hair \u2014 where do you land on Colin Farrell's shaved head? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "Fd1FqZExxSU9ZQQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVjNTRkg5YTVmNkZxRUdwbkp2empuSGlQTURFdGFMWDlOMkVLTkhzX",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Karol G Scores First Multi-Week No. 1 on Billboard Global Charts With \u2018BbY WOW\u2019",
+    "angle": "Karol G's track 'BbY WOW' is holding the No. 1 spot on Billboard's Global Charts for a second straight week \u2014 her first-ever multi-week global chart-topper, a big career milestone for the reggaeton superstar.",
+    "bullets": [
+      " Karol G scores her first-ever multi-week No. 1 on the Billboard Global Charts",
+      " Marks a new career milestone for the Colombian superstar on the global stage",
+      " Is 'BbY WOW' actually her best song, or just her best-timed one? X/Twitter @Billboard (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2100704734877262043",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "New Documentary Film Argues That Bible References to Homosexuality Are Mistranslations",
+    "angle": "A new documentary is reopening one of the oldest culture-war debates by arguing the Bible verses used to condemn homosexuality are the result of bad translations, not scripture itself \u2014 guaranteed to spark strong reactions from both sides of the aisle.",
+    "bullets": [
+      " Do you think this doc changes any minds, or does everyone just retreat to their same corner?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.moviemaker.com/1946-bible-homosexuality-mistranslation/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Millie Bobby Brown Welcomes Baby No. 2 with Husband Jake Bongiovi",
+    "angle": "The Stranger Things star and her husband, Jake Bongiovi, are growing their family again - a rare feel-good celebrity moment that's easy, breezy pop-culture chat for the show.",
+    "bullets": [
+      " Millie Bobby Brown and husband Jake Bongiovi have welcomed their second child together",
+      " Jake Bongiovi is the son of rock icon Jon Bon Jovi",
+      " Two under two for Millie Bobby Brown - what's the wildest celebrity baby name you're bracing for next?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/millie-bobby-brown-welcomes-second-baby-with-husband-jake-bongiovi-source-12125396?utm_campaign=peopl",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'You're Not Going To Win Tonight With That Stupid Face': Ke Huy Quan Reveals Cruel Dig From Famous Actor",
+    "angle": "Everyone loves Ke Huy Quan's comeback story, so hearing a brutal, catty insult from an unnamed A-lister is instant gossip fuel \u2014 and the mystery of who said it makes it even juicier.",
+    "bullets": [
+      " Ke Huy Quan says a famous actor told him: 'You're not going to win tonight with that stupid face.'",
+      " Quan hasn't publicly named who said it, leaving fans to speculate.",
+      " Who do you think said it to him \u2014 drop your guess on the phones. ON-AIR BIT BREAKDOWN - Step 1: Read The Insult Cold - 30 seconds, no context first -> One host reads the quote flat, deadpan, then reveals it's Ke Huy Quan sharing it about himself. - Step 2: Guess The Actor - 2-3 minutes -> Hosts each throw out a guess for who they think said it, based on reputation for shade. - Step 3: Open The Phone Lines - Ongoing -> Ask listeners to call or text their guess for who delivered the dig."
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/ke-huy-quan-unnamed-actor-sag-awards-memoir-1764162",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "NBA player Kyrie Irving to ESPN: \"Her name is HIND RAJAB. And She was more brave than every single one of you at ESPN\"",
+    "angle": "Kyrie Irving is never shy about controversy, and this direct shot at ESPN invoking the Israel-Gaza conflict is guaranteed to reignite the debate over athletes mixing sports and politics.",
+    "bullets": [
+      " Kyrie Irving called out ESPN directly, referencing a name tied to the Gaza conflict.",
+      " His exact quote: \"Her name is HIND RAJAB. And she was more brave than every single one of you at ESPN.\"",
+      " Should athletes use their platform for political statements like this, or is it a line they shouldn't cross with the media?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/34i49qfvr4qh1.png",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "In the wake of the Ed Sheeran controversy, bbno$ wants to throw a charity concert for Palestine",
+    "angle": "A viral pop star controversy is now spilling into other artists' actions \u2014 bbno$ jumping in with his own charity concert idea turns a one-off scandal into an industry-wide conversation about musicians and politics.",
+    "bullets": [
+      " bbno$ (the Canadian rapper behind \"Edamame\") is reportedly floating a charity concert benefiting Palestine",
+      " Story is circulating on r/fauxmoi, a hotbed for celebrity gossip and reactions",
+      " Should musicians be using their platform for political charity moves, or should artists just stick to the music?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/8qaeq4uts3qh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Woman\u2019s Mugshot Is Going Viral as Commenters Claim She Resembles Jennifer Lopez - people.com",
+    "angle": "A random mugshot blew up online because commenters swear the woman is a dead ringer for Jennifer Lopez \u2014 it's the kind of goofy internet rabbit hole that's tailor-made for a quick photo debate on air.",
+    "bullets": [
+      " A woman's mugshot started circulating online and went viral",
+      " Commenters flooded the post claiming she's a lookalike for Jennifer Lopez",
+      " Pull up the photo on air \u2014 do your listeners see JLo, or is the internet reaching? ON-AIR BIT BREAKDOWN - Step 1: Show the Photo - Cold open, no context -> Hosts pull up the mugshot on the show's social feed/screen without saying who it's compared to and ask co-host for a first reaction. - Step 2: Reveal the Comparison - 30 seconds -> Tell them the internet is saying Jennifer Lopez \u2014 get their honest yes/no take. - Step 3: Phone/Text Poll - Live audience vote -> Ask listeners to text in 'JLo' or 'Nah' and read a few responses on air. People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "VRjNVFCakpxX0lNODIzQm5kZUlqOA?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVE1hNFBnellRYWc0X3ZTYmVibnVkN200eTc3WUR1a3BaR3ctMnk3MW",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Erin Tatum, a TikTok-famous woman with cerebral palsy, slams Ed Sheeran",
+    "angle": "A viral TikTok creator known for disability advocacy is calling out one of the biggest pop stars on the planet \u2014 that's an instant clash of a huge fanbase and a huge platform, which is exactly the kind of internet beef that gets people talking.",
+    "bullets": [
+      " Erin Tatum, a TikTok creator known for her advocacy around living with cerebral palsy, is publicly criticizing Ed Sheeran.",
+      " Exact details of what sparked the criticism aren't confirmed yet \u2014 worth digging up before you go deep on air.",
+      " When a creator with a huge platform calls out a superstar, who do you side with by default \u2014 the celebrity or the advocate?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/c7irfhlty1qh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Bleeding Gums Linked to 61% Higher Alzheimer's Risk in 10-Year Study: In a long-term study in Japan, bleeding and receding gums were linked to substantially higher risk of dementia. Emerging evidence is linking gum disease and oral microbes with changes to neurological tissue and cognitive function.",
+    "angle": "A 10-year Japanese study says bleeding, receding gums could raise your Alzheimer's risk by 61% - a story that turns everyday flossing guilt into a real gut-check about brain health.",
+    "bullets": [
+      " 10-year study out of Japan tracked gum health against dementia outcomes",
+      " People with bleeding or receding gums showed a 61% higher risk of developing Alzheimer's",
+      " Researchers point to oral bacteria potentially traveling to and altering neurological tissue",
+      " Be honest - when's the last time you actually flossed, and does this headline change that tonight?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/bleeding-gums-linked-to-61-higher-alzheimers-risk-in-10-year-study",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Just smelling coffee may be enough to alter mood and brain activity, according to new research. Scientists found that coffee aroma alone can influence attention, alertness, and cognitive processing\u2014even without drinking a single sip.",
+    "angle": "New research says the mere scent of coffee can shift your mood, focus, and brain activity before you take a single sip \u2014 the kind of 'wait, really?' science that makes for an easy, relatable chat since basically everyone in the audience has a coffee ritual.",
+    "bullets": [
+      " New research found that coffee aroma alone \u2014 no drinking involved \u2014 was enough to influence attention and alertness.",
+      " Scientists measured actual shifts in brain activity and cognitive processing triggered just by the smell.",
+      " Be honest \u2014 do you actually need the caffeine, or does just smelling coffee wake you up? ON-AIR BIT BREAKDOWN - Step 1: Brew It Live - Set up before the segment -> Have a fresh pot brewing in studio so the aroma's already in the air when you introduce the story. - Step 2: The Sniff, No Sip - On mic -> Both hosts smell the coffee without drinking it and narrate whether they instantly feel more alert or focused. - Step 3: Phone Lines Open - Audience participation -> Ask listeners to call or text: does the smell alone actually perk you up, or is it all placebo?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/just-smelling-coffee-may-change-your-mood-and-brain-activity",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "CLOSER: THROWBACK THURSDAY",
+    "title": "Selena Gomez Says She and \u2018Joyful\u2019 Husband Benny Blanco Are Still in \u2018Honeymoon Stage\u2019 Ahead of First Anniversary (Exclusive) - people.com",
+    "angle": "Selena Gomez and Benny Blanco are about to hit their first wedding anniversary, and she's telling People they're still giddy in love \u2014 a feel-good celebrity check-in that's easy, relatable water-cooler talk for the show.",
+    "bullets": [
+      " Selena Gomez opened up to People in an exclusive ahead of her first wedding anniversary with Benny Blanco.",
+      " She calls him her \"joyful\" husband.",
+      " What's the real expiration date on the honeymoon phase \u2014 and did yours last past year one? People (via Google News) (Tier 2) | Score: 69/90 (40 fit + 8 source + 21 quality) -> STRONG"
+    ],
+    "debate": "WmlNRzJRUmZyM2x4amRwU2Nycm5zTTJaUkd4Rlg0M0xvNWdTWGlyYkJsU2V6cVY?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN0o0Qy1oZUFsZ2RwOWdEQ2pCV0tZbmxiYUc5bUpEMEk0Wk5US0Vh",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Researchers use genetically engineered immune cells to put a child's metastatic cancer into remission",
+    "angle": "A child's cancer that had already spread went into remission after doctors engineered the kid's own immune cells to hunt it down - the kind of science-fiction-turned-real story that makes for an easy feel-good chat.",
+    "bullets": [
+      " Doctors used genetically engineered immune cells to treat the case",
+      " This is one of those 'science is wild' stories - anyone else feel like we're living in the medical future we were promised?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 53/90 (45 fit + 12 source + 21 quality - 25 penalty (used within the last 30 days)) -> STRONG",
+    "url": "https://www.techspot.com/news/113869-researchers-use-genetically-engineered-immune-cells-put-child.html",
+    "score": "53/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "3-Year-Old Boy's Cancer Disappears After He Gets Experimental Immunotherapy https://t.co/rTj7WcS6v0",
+    "angle": "A miracle medical story with instant mass appeal \u2014 a toddler's cancer disappearing after a cutting-edge immunotherapy trial is the kind of good-news headline that stops people scrolling and gets shared everywhere.",
+    "bullets": [
+      " He received an experimental immunotherapy treatment",
+      " His cancer disappeared following the treatment, according to the report",
+      " Ask listeners: any of you had a family member's health turn around thanks to a clinical trial or experimental treatment? X/Twitter @Gizmodo (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Gizmodo/status/2100696447070908674",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "River with 500 crocodiles in it will be used for rowing at Olympics",
+    "angle": "It's the kind of headline that sounds fake but isn't, which is exactly why r/nottheonion exists - a river packed with 500 crocodiles is apparently getting the green light as an Olympic rowing course.",
+    "bullets": [
+      " Report says the proposed rowing venue is home to an estimated 500 crocodiles",
+      " Story is making rounds via r/nottheonion for being almost too absurd to believe",
+      " Would you get in a boat on a river with 500 crocodiles for a gold medal?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.the-express.com/sport/other-sport/216170/Brisbane-Olympics-500-crocodiles-river-rowing-australia",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "River crawling with crocodiles is approved as Olympic rowing venue",
+    "angle": "It's the kind of headline that stops you mid-scroll - officials signing off on a crocodile-infested river for Olympic competition is peak 'wait, what?' news that practically writes its own jokes.",
+    "bullets": [
+      " What's the one animal that would make YOU refuse to compete, no matter the medal?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thetimes.com/world/australasia/article/fitzroy-river-crocodile-olympics-brisbane-rowing-zqrfv7rgf",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "\"What Changed?\": Activist Launches Movement To Restore O.J. Simpson's Scrubbed Legacy",
+    "angle": "This is a pure 'you can't make this up' r/nottheonion find - an activist reportedly pushing to rehab O.J. Simpson's image is the kind of headline that stops you mid-scroll and demands a reaction.",
+    "bullets": [
+      " Just read the headline cold and let the silence - or the laugh - do the work."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Students Risk 'Cognitive Surrender' by Relying on AI for Answers",
+    "angle": "New warnings say kids leaning on AI for every answer might be losing the ability to think for themselves \u2014 a debate that hits parents, teachers, and anyone who's ever let a chatbot do their thinking.",
+    "bullets": [
+      " Ask listeners: when's the last time you asked AI instead of just working it out yourself?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.chosun.com/english/industry-en/2026/09/17/V6LSYDIO2JBOTAJFSKJOBAGUT4/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
     "slot": "am",
     "category": "THE LIST",
     "title": "A child with metastatic liver cancer that had stopped responding to chemotherapy is now in remission after doctors treated him with genetically engineered immune cells. Twelve months later, he still appears to be cancer free, offering new hope for treating solid tumors with CAR T therapy.",

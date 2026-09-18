@@ -213,6 +213,8 @@ a:hover{text-decoration:underline}
   content:'\25B6';position:absolute;left:14px;
   animation:blink-cursor 0.8s step-end infinite;
 }
+.menu-btn.fetcher{color:#ff9e5c;border-color:#ff9e5c;text-shadow:0 0 8px rgba(255,158,92,0.4)}
+.menu-btn.fetcher:hover{background:rgba(255,158,92,0.12);box-shadow:0 0 20px rgba(255,158,92,0.3),inset 0 0 20px rgba(255,158,92,0.08)}
 .menu-btn.options{color:var(--text-dim);border-color:var(--border-bright);font-size:0.5rem}
 .menu-btn.options:hover{color:var(--purple);border-color:var(--purple);background:rgba(180,74,255,0.08)}
 @keyframes blink-cursor{50%{opacity:0}}
@@ -589,6 +591,7 @@ a:hover{text-decoration:underline}
     <div class="intro-menu">
       <button class="brand-switcher" id="brandSwitcher" onclick="toggleBrand()"></button>
       <button class="menu-btn start" onclick="startGame()">START</button>
+      <button class="menu-btn fetcher" onclick="location.href='summarizer.html'">NICO FETCHER</button>
       <button class="menu-btn options" onclick="showOptions()">OPTIONS</button>
       <button class="theme-toggle" id="introThemeBtn" onclick="toggleTheme()"></button>
     </div>
