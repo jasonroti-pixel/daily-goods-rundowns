@@ -350,8 +350,11 @@ function extractTitle(raw) {
    what got the hardcoded key auto-disabled). Set this to your Worker URL. */
 const PROXY_URL = "https://REPLACE-WITH-YOUR-WORKER.workers.dev";
 
-/* ---------------- AI summary via free Gemini ---------------- */
-const GEMINI_MODEL = "gemini-2.5-flash";
+/* ---------------- AI summary via free Gemini ----------------
+   gemini-2.5-flash free tier is only 20 requests/DAY. The "flash-lite-latest"
+   alias points at the newest Flash-Lite (500/day free), which is plenty for a
+   shared team key and still a strong writer. Swap this if a model errors. */
+const GEMINI_MODEL = "gemini-flash-lite-latest";
 
 // Shared bullet-style rules for both the URL path and the text path.
 const STYLE_RULES =
