@@ -296,13 +296,17 @@ const GEMINI_MODEL = "gemini-2.5-flash";
 async function geminiSummarize(text, headline) {
   const useProxy = !/REPLACE-WITH-YOUR-WORKER/.test(PROXY_URL);
   const prompt =
-`You are prepping a radio host for a live show. Read the article and write the key bullet points the host needs — only the facts that matter.
-Rules:
-- Plain, punchy, one sentence each.
-- Write ONLY as many bullets as the article actually supports. Fewer strong bullets beat padding. Most stories need 3-6.
-- Facts only. No clichés, no editorializing, no lines like "this shows/highlights/demonstrates" or "age is just a number." If it isn't a concrete fact from the article, leave it out.
-- Include who, what, key numbers, and why it matters.
-- Use only facts stated in the article. Do not invent anything.
+`You are building a radio show prep sheet. Read the article and write a thorough bulleted brief the host can read on air.
+
+Match this style exactly:
+- Write 6-9 bullets for a substantive story; use fewer only if the article is genuinely thin. Never pad with filler to hit a number.
+- Each bullet is a complete, information-dense sentence in neutral AP / wire-service style — third person, past tense.
+- Keep the specifics: full names, ages, exact dates, locations, dollar amounts, and descriptors (e.g. "the five-time Masters winner").
+- Keep source attributions when the article gives them ("according to court records", "per the affidavit", "Entertainment Weekly can confirm").
+- Include the most notable direct quotes verbatim, in quotation marks. A strong quote can be its own bullet, even if it runs long.
+- Order the bullets: lead with the core news, then background, then context, history, or quotes.
+- Facts and quotes only. No editorializing, no clichés, no "this shows / highlights / demonstrates" lines.
+- Use only what is stated in the article. Do not invent anything.
 
 Headline: ${headline || "(unknown)"}
 
@@ -329,7 +333,7 @@ Return ONLY the bullets, each on its own line starting with "- ". No preamble, n
       contents: [{ parts: [{ text: prompt }] }],
       // thinkingBudget:0 turns off Gemini 2.5's hidden reasoning, which would
       // otherwise eat the output-token budget and truncate the bullets.
-      generationConfig: { temperature: 0.25, maxOutputTokens: 2048, thinkingConfig: { thinkingBudget: 0 } }
+      generationConfig: { temperature: 0.25, maxOutputTokens: 3072, thinkingConfig: { thinkingBudget: 0 } }
     })
   });
   if (!res.ok) {
@@ -344,7 +348,7 @@ Return ONLY the bullets, each on its own line starting with "- ". No preamble, n
   return out.split(/\n+/)
     .map(l => l.replace(/^\s*[-•*]\s*/, "").replace(/^\s*\d+[.)]\s*/, "").trim())
     .filter(l => l.length > 1)
-    .slice(0, 8);
+    .slice(0, 10);
 }
 
 /* ---------------- UI wiring ---------------- */
