@@ -110,6 +110,22 @@ const STOPWORDS = new Set(("a an and are as at be by for from has he in is it it
   "would could should may might must shall about against between through during before above below because " +
   "while also said says say according new one two get got make made like time year years day says told").split(" "));
 
+/* Site chrome / promo / nav filter. Extractive summarizers are garbage-in
+   garbage-out: newsletter CTAs and nav menus are repetitive and front-loaded,
+   so they score high unless we strip them BEFORE scoring. */
+const PROMO_RE = /\b(sign ?up|sign ?in|log ?in|subscribe|subscription|newsletter|join now|join the|join the discussion|create an account|read now|read more|latest\b.{0,20}\b(news|reviews)|breaking\b.{0,20}\bnews|coming soon|member[- ]only|members only|member badges|earn badges|exclusive (competition|article|content|competitions|articles)|we will send|confirmation|cookies?\b|consent|privacy policy|terms of|follow us|share this|commenting|the community|advertisement|sponsored|you.?ve unlocked|see what you|skip to|main content|from the creators of|weekly (gaming|newsletter)|related (articles|stories)|most popular|trending now|recommended for you)\b/i;
+const GLUE_RE = /^(the|a|an|of|to|in|on|and|for|with|that|is|are|was|were|has|have|as|by|from|but|it|they|he|she|we|you|this|which|who|their|his|her|because|when|will|would|about|at|not)$/i;
+
+function isBoilerplate(s) {
+  if (PROMO_RE.test(s)) return true;
+  const words = s.split(/\s+/);
+  const cap = words.filter(w => /^[A-Z0-9]/.test(w)).length;
+  const glue = words.filter(w => GLUE_RE.test(w)).length;
+  if (words.length >= 4 && cap / words.length > 0.6 && glue <= 1) return true; // capitalized nav/menu run
+  if (words.length <= 12 && glue === 0) return true;                           // button/label fragment
+  return false;
+}
+
 function splitSentences(text) {
   // Normalize whitespace, protect common abbreviations, then split.
   let t = text.replace(/\s+/g, " ").trim();
@@ -211,7 +227,7 @@ function headlineBoost(toks, hlWords) {
 }
 
 function summarize(text, headline, numBullets, method) {
-  const sentences = splitSentences(text);
+  const sentences = splitSentences(text).filter(s => !isBoilerplate(s));
   if (sentences.length === 0) return { bullets: [], total: 0 };
   if (sentences.length <= numBullets) return { bullets: sentences, total: sentences.length };
 
@@ -240,13 +256,42 @@ function tidy(s) {
 }
 
 /* ---------------- Fetch via Jina Reader ---------------- */
-async function fetchArticle(url) {
+async function fetchArticle(url, extraHeaders) {
   const endpoint = "https://r.jina.ai/" + url;
-  const res = await fetch(endpoint, { headers: { "Accept": "text/plain" } });
+  const res = await fetch(endpoint, { headers: Object.assign({ "Accept": "text/plain" }, extraHeaders || {}) });
   if (!res.ok) throw new Error("Reader returned HTTP " + res.status);
   const txt = await res.text();
   if (!txt || txt.length < 200) throw new Error("Fetched content was too short to summarize.");
   return txt;
+}
+
+/* ---------------- Reddit handling ----------------
+   Reddit blocks direct access. Route through the reader, which follows the
+   /s/ share-link redirect server-side, then pull the outbound article URL
+   out of the rendered thread. If it's a text/discussion post with no
+   external link, we summarize the Reddit post itself. */
+function isRedditUrl(u) { return /(^|\.)reddit\.com|redd\.it/i.test(u); }
+
+function isLikelyArticleUrl(u) {
+  // Reject Reddit's own infrastructure, media/CDNs, and bare homepages.
+  const junk = /reddit\.com|redd\.it|redditstatic|redditmedia|reddituploads|redd\.it|i\.redd|v\.redd|preview\.redd|\.(jpg|jpeg|png|gif|webp|mp4|gifv|svg)(\?|#|$)|imgur\.com\/a\/|/i;
+  if (junk.test(u)) return false;
+  if (/\/(login|signup|register|privacy|terms|about|policy)\b/i.test(u)) return false;
+  try {
+    const p = new URL(u);
+    return /^https?:$/.test(p.protocol) && p.pathname.replace(/\/+$/, "").length > 1;
+  } catch { return false; }
+}
+
+// Returns { articleUrl, redditText, domain } — articleUrl null means summarize the Reddit text itself.
+async function resolveRedditLink(url) {
+  // Ask the reader to append a "Links/Buttons" summary so we get a clean URL list.
+  const txt = await fetchArticle(url, { "X-With-Links-Summary": "true" });
+  const found = [...txt.matchAll(/https?:\/\/[^\s)\]"'>]+/g)].map(m => m[0].replace(/[.,]+$/, ""));
+  const article = found.find(isLikelyArticleUrl);
+  let domain = null;
+  if (article) { try { domain = new URL(article).hostname.replace(/^www\./, ""); } catch (e) {} }
+  return { articleUrl: article || null, redditText: txt, domain };
 }
 
 /* ---------------- UI wiring ---------------- */
@@ -282,10 +327,24 @@ $("goBtn").addEventListener("click", async () => {
   const headline = $("headline").value.trim();
   if (!url) { setStatus("Enter a URL, or use the paste fallback.", "err"); return; }
   $("goBtn").disabled = true;
-  setStatus("Fetching article via r.jina.ai …");
   try {
-    const text = await fetchArticle(url);
-    render(headline, text, "fetched");
+    if (isRedditUrl(url)) {
+      setStatus("Reddit link — resolving to the underlying article …");
+      const { articleUrl, redditText, domain } = await resolveRedditLink(url);
+      if (articleUrl) {
+        setStatus("Found article on " + domain + " — fetching & summarizing …");
+        const text = await fetchArticle(articleUrl);
+        render(headline, text, "Reddit → " + domain);
+      } else {
+        // Text/discussion post: summarize the Reddit thread itself.
+        setStatus("No external article — summarizing the Reddit post itself …");
+        render(headline, redditText, "Reddit post");
+      }
+    } else {
+      setStatus("Fetching article via r.jina.ai …");
+      const text = await fetchArticle(url);
+      render(headline, text, "fetched");
+    }
   } catch (e) {
     setStatus("Fetch failed: " + e.message + "  → try the paste fallback below.", "err");
     $("pasteWrap").style.display = "block";
