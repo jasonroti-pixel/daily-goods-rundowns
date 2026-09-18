@@ -38,7 +38,11 @@
   #result h2 { font-size: 16px; margin-bottom: 2px; }
   .meta { font-size: 12px; color: #888; margin-bottom: 12px; }
   ul.bullets { padding-left: 22px; }
-  ul.bullets li { margin-bottom: 9px; }
+  ul.bullets li { margin-bottom: 9px; display: flex; align-items: flex-start; gap: 8px; }
+  ul.bullets li .btext { flex: 1; }
+  .del { flex: none; background: none; color: #b91c1c; border: none; padding: 0 6px; margin: 0;
+         font-size: 18px; font-weight: 700; line-height: 1.3; cursor: pointer; width: auto; }
+  .del:hover { color: #7f1d1d; }
   .card { background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 18px 20px; }
   .hidden { display: none; }
   .opts { margin-top: 8px; }
@@ -60,7 +64,7 @@
   <label for="url" class="biglabel">Nico Fetch? Paste The Link</label>
   <input type="url" id="url" placeholder="Paste the link">
   <input type="password" id="apiKey" placeholder="API key (paste once)" autocomplete="off" spellcheck="false">
-  <button id="goBtn">Summarize</button>
+  <button id="goBtn">GO GET IT NICO!</button>
 
   <div id="pasteWrap" class="hidden">
     <textarea id="pasteText" placeholder="Site blocked the fetch — paste the article text here"></textarea>
@@ -539,94 +543,105 @@ function setStatus(msg, kind) {
   el.className = kind || "";
 }
 
-let lastResult = null; // { headline, bullets, link } — for the copy button
+let lastResult = null; // { headline, link } — bullets are read live from the DOM (they're deletable)
 
-function showResult(headline, bullets, link, note) {
-  note = note || "";
-  lastResult = { headline: headline || "(headline not detected)", bullets, link: link || "" };
+// Five ways Nico celebrates a good fetch — one picked at random on success.
+const NICO_WINS = [
+  "🦴 NICO FETCHED IT! GOOD BOY!",
+  "🐾 GOOD BOY, NICO — GOT THE STORY!",
+  "🦴 NICO DROPPED IT RIGHT AT YOUR FEET!",
+  "🐾 NICO SNAGGED THAT ONE CLEAN!",
+  "🦴 NICO BROUGHT IT BACK — WHO'S A GOOD BOY?"
+];
+function nicoWin() { return NICO_WINS[Math.floor(Math.random() * NICO_WINS.length)]; }
+function nicoLost(code) { return "🐕 NICO LOST THIS ONE — THROW HIM ANOTHER ONE! [" + (code || "?") + "]"; }
+
+// Each bullet gets a small × so the host can drop it before copying.
+function makeBulletLi(text) {
+  const li = document.createElement("li");
+  const span = document.createElement("span");
+  span.className = "btext";
+  span.textContent = text;
+  const del = document.createElement("button");
+  del.type = "button"; del.className = "del"; del.title = "Delete this bullet"; del.textContent = "×";
+  del.addEventListener("click", () => li.remove());
+  li.appendChild(span); li.appendChild(del);
+  return li;
+}
+function currentBullets() {
+  return [...document.querySelectorAll("#resBullets li .btext")].map(s => s.textContent);
+}
+
+function showResult(headline, bullets, link) {
+  lastResult = { headline: headline || "(headline not detected)", link: link || "" };
   $("resHeadline").textContent = lastResult.headline;
   const ul = $("resBullets");
   ul.innerHTML = "";
-  bullets.forEach(b => { const li = document.createElement("li"); li.textContent = b; ul.appendChild(li); });
+  bullets.forEach(b => ul.appendChild(makeBulletLi(b)));
   const a = $("resLink");
   if (link) { a.href = link; a.textContent = link; a.style.display = "block"; }
   else { a.style.display = "none"; }
   $("result").classList.remove("hidden");
-  setStatus("Done." + note, note ? "err" : "ok");
+  setStatus(nicoWin(), "ok");
 }
 
-// Fallback path: summarize article text we fetched ourselves (reader/proxy/paste).
+// Summarize fetched article text. Throws on failure so the caller shows a Nico "lost" message.
 async function process(rawText, link, knownHeadline) {
   const headline = knownHeadline || extractTitle(rawText);
   const clean = cleanArticleText(rawText);
-
-  let bullets, note = "";
-  setStatus("Summarizing …");
-  try {
-    bullets = await geminiSummarize(clean, headline);
-  } catch (e) {
-    // No key or the AI call failed — fall back to the keyless extractive engine.
-    bullets = summarize(clean, headline, 5, "textrank").bullets;
-    note = e.message === "no key" ? "  (add an API key for AI summaries)" : "  (AI error: " + e.message + " — used basic mode)";
-  }
-  if (!bullets || !bullets.length) { setStatus("Couldn't summarize that.", "err"); return; }
-  showResult(headline, bullets, link, note);
+  const bullets = await geminiSummarize(clean, headline);
+  if (!bullets || !bullets.length) throw new Error("empty-summary");
+  showResult(headline, bullets, link);
 }
 
 $("goBtn").addEventListener("click", async () => {
   const url = $("url").value.trim();
-  if (!url) { setStatus("Paste a URL, or use the paste fallback.", "err"); return; }
+  if (!url) { setStatus("Paste a link first!", "err"); return; }
   $("goBtn").disabled = true;
+  setStatus("🐾 GO GET IT NICO…");
   try {
     if (isRedditUrl(url)) {
       const { articleUrl, redditText, domain } = await resolveRedditLink(url);
-      if (articleUrl) {
-        setStatus("Found article on " + domain + " …");
-        await summarizeLink(articleUrl, url);   // fetch the article, show the original link
-      } else {
-        await process(redditText, url);         // text/discussion post
-      }
+      if (articleUrl) await summarizeLink(articleUrl, url);   // fetch the article, show the original link
+      else await process(redditText, url);                    // text/discussion post
     } else {
       await summarizeLink(url, url);
     }
   } catch (e) {
-    setStatus("Couldn't read that link — " + e.message + ". Paste the article text below.", "err");
+    setStatus(nicoLost(e.message), "err");
     $("pasteWrap").style.display = "block";
   } finally {
     $("goBtn").disabled = false;
   }
 });
 
-// PRIMARY: let Gemini read the URL directly (url_context). Fall back to
-// fetching the text ourselves (reader → proxy) only if that fails.
-// On total failure, surface BOTH errors so we can see which layer broke.
+// PRIMARY: fetch the REAL article text ourselves (reader -> proxy) and summarize that —
+// the only path that can't hallucinate. url_context is a verified-only last resort.
 async function summarizeLink(fetchUrl, displayLink) {
-  // PRIMARY: fetch the REAL article text ourselves (reader -> proxy), then
-  // summarize that. This is the only path that can't hallucinate.
   let fetchErr = "";
   try {
-    setStatus("Fetching the article …");
     const text = await fetchArticleText(fetchUrl);
     await process(text, displayLink);
     return;
   } catch (e) { fetchErr = e.message; }
-  // LAST RESORT for blocked sites: Gemini's url_context — but ONLY if it
-  // verifies it actually fetched the page. Unverified output = invented, discard it.
   try {
-    setStatus("Fetch blocked — trying Gemini's own reader …");
+    setStatus("🐾 NICO'S DIGGING DEEPER…");
     const { headline, bullets, verified } = await geminiSummarizeUrl(fetchUrl);
-    if (verified && bullets && bullets.length) { showResult(headline, bullets, displayLink, ""); return; }
+    if (verified && bullets && bullets.length) { showResult(headline, bullets, displayLink); return; }
   } catch (e2) { /* fall through to report the fetch error */ }
-  throw new Error(fetchErr);
+  throw new Error(fetchErr || "blocked");
 }
 
 $("pasteBtn").addEventListener("click", async () => {
   const text = $("pasteText").value.trim();
-  if (text.length < 100) { setStatus("Paste more of the article (at least a paragraph).", "err"); return; }
+  if (text.length < 100) { setStatus("Give Nico more to chew on — at least a paragraph.", "err"); return; }
   $("pasteBtn").disabled = true;
+  setStatus("🐾 GO GET IT NICO…");
   try {
     const guess = (text.split(/\n/).map(l => l.trim()).find(l => l.length > 12) || "").slice(0, 160);
     await process(text, $("url").value.trim(), guess); // keep the link if one was entered
+  } catch (e) {
+    setStatus(nicoLost(e.message), "err");
   } finally {
     $("pasteBtn").disabled = false;
   }
@@ -642,17 +657,21 @@ function copyText(text, okMsg) {
 // Doc block: headline, link on its own line, then dash bullets — matches the show doc.
 $("copyDocBtn").addEventListener("click", () => {
   if (!lastResult) return;
+  const bullets = currentBullets();
+  if (!bullets.length) { setStatus("No bullets left to copy.", "err"); return; }
   const parts = [lastResult.headline];
   if (lastResult.link) parts.push(lastResult.link);
-  parts.push(lastResult.bullets.map(b => "- " + b).join("\n"));
+  parts.push(bullets.map(b => "- " + b).join("\n"));
   copyText(parts.join("\n"), "Copied — paste into your Doc.");
 });
 
 // Sheets row: [Headline] [Bullets in one cell] [Link].
 $("copySheetBtn").addEventListener("click", () => {
   if (!lastResult) return;
+  const bullets = currentBullets();
+  if (!bullets.length) { setStatus("No bullets left to copy.", "err"); return; }
   const cell = s => /[\t\n"]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
-  const bulletsCell = lastResult.bullets.map(b => "• " + b).join("\n");
+  const bulletsCell = bullets.map(b => "• " + b).join("\n");
   const row = [cell(lastResult.headline), cell(bulletsCell), cell(lastResult.link)].join("\t");
   copyText(row, "Copied — paste into a Google Sheet row.");
 });
