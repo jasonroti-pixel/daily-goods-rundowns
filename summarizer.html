@@ -353,12 +353,9 @@ const PROXY_URL = "https://REPLACE-WITH-YOUR-WORKER.workers.dev";
 /* ---------------- AI summary via free Gemini ---------------- */
 const GEMINI_MODEL = "gemini-2.5-flash";
 
-async function geminiSummarize(text, headline) {
-  const useProxy = !/REPLACE-WITH-YOUR-WORKER/.test(PROXY_URL);
-  const prompt =
-`You are building a radio show prep sheet. Read the article and write a thorough bulleted brief the host can read on air.
-
-Match this style exactly:
+// Shared bullet-style rules for both the URL path and the text path.
+const STYLE_RULES =
+`Match this style exactly:
 - Target 7-9 bullets. Nearly every real news article supports this once you give each fact its own line. Go below 6 ONLY for a genuine 2-3 sentence stub. Do not pad with filler — but do not compress a full story into 4 bullets either.
 - Give EACH distinct fact, statement, or quote its own bullet. Never merge two facts into one bullet (e.g. an admission and a penalty are two bullets, not one). Err toward MORE, more granular bullets.
 - Each bullet is a complete, information-dense sentence in neutral AP / wire-service style — third person, past tense.
@@ -367,16 +364,11 @@ Match this style exactly:
 - When the article quotes someone, pull their key quotes VERBATIM in quotation marks — do not paraphrase a quote into a fragment. A notable quote gets its own bullet, even if it runs long. Include at least two direct quotes when the article contains them.
 - Order the bullets: lead with the core news, then background, then context, history, reactions, or quotes.
 - Facts and quotes only. No editorializing, no clichés, no "this shows / highlights / demonstrates" lines.
-- Use only what is stated in the article. Do not invent anything.
+- Use only what is stated in the article. Do not invent anything.`;
 
-Headline: ${headline || "(unknown)"}
-
-Article:
-"""
-${text.slice(0, 24000)}
-"""
-
-Return ONLY the bullets, each on its own line starting with "- ". No preamble, no sign-off.`;
+// One place that knows how to reach Gemini (via proxy if configured, else the pasted key).
+async function geminiRaw(body) {
+  const useProxy = !/REPLACE-WITH-YOUR-WORKER/.test(PROXY_URL);
   const headers = { "Content-Type": "application/json" };
   let url;
   if (useProxy) {
@@ -387,16 +379,7 @@ Return ONLY the bullets, each on its own line starting with "- ". No preamble, n
     url = "https://generativelanguage.googleapis.com/v1beta/models/" + encodeURIComponent(GEMINI_MODEL) + ":generateContent";
     headers["x-goog-api-key"] = key;
   }
-  const res = await fetch(url, {
-    method: "POST",
-    headers,
-    body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      // thinkingBudget:0 turns off Gemini 2.5's hidden reasoning, which would
-      // otherwise eat the output-token budget and truncate the bullets.
-      generationConfig: { temperature: 0.25, maxOutputTokens: 3072, thinkingConfig: { thinkingBudget: 0 } }
-    })
-  });
+  const res = await fetch(url, { method: "POST", headers, body: JSON.stringify(body) });
   if (!res.ok) {
     let msg = "HTTP " + res.status;
     try { const e = await res.json(); if (e.error && e.error.message) msg = e.error.message; } catch (x) {}
@@ -404,12 +387,66 @@ Return ONLY the bullets, each on its own line starting with "- ". No preamble, n
   }
   const data = await res.json();
   const cand = data && data.candidates && data.candidates[0];
-  const out = cand && cand.content && cand.content.parts && cand.content.parts[0] && cand.content.parts[0].text;
-  if (!out) throw new Error("empty response");
+  const parts = cand && cand.content && cand.content.parts;
+  const text = Array.isArray(parts) ? parts.map(p => p.text || "").join("") : "";
+  return { text, cand };
+}
+
+function parseBullets(out) {
   return out.split(/\n+/)
     .map(l => l.replace(/^\s*[-•*]\s*/, "").replace(/^\s*\d+[.)]\s*/, "").trim())
-    .filter(l => l.length > 1)
+    .filter(l => l.length > 1 && !/^TITLE:/i.test(l))
     .slice(0, 10);
+}
+
+// PRIMARY PATH: hand Gemini the URL and let its url_context tool fetch + read the page.
+async function geminiSummarizeUrl(url) {
+  const prompt =
+`You are building a radio show prep sheet. Open and read the article at the URL below, then write a thorough bulleted brief the host can read on air.
+
+${STYLE_RULES}
+
+URL: ${url}
+
+Output exactly this: first a single line "TITLE: <the article's exact headline>", then the bullets, each on its own line starting with "- ". Nothing else.`;
+  const { text: out, cand } = await geminiRaw({
+    contents: [{ parts: [{ text: prompt }] }],
+    tools: [{ url_context: {} }],
+    generationConfig: { temperature: 0.25, maxOutputTokens: 3072, thinkingConfig: { thinkingBudget: 0 } }
+  });
+  // Guard against hallucination: only trust the answer if url_context actually retrieved the page.
+  const meta = (cand && (cand.urlContextMetadata || cand.url_context_metadata)) || null;
+  const rows = meta && (meta.urlMetadata || meta.url_metadata) || [];
+  const fetched = Array.isArray(rows) && rows.some(r =>
+    /SUCCESS/i.test(r.urlRetrievalStatus || r.url_retrieval_status || ""));
+  if (!fetched) throw new Error("url_context did not fetch the page");
+  if (!out) throw new Error("empty response");
+  const titleLine = out.split(/\n/).find(l => /^\s*TITLE:/i.test(l));
+  const headline = titleLine ? titleLine.replace(/^\s*TITLE:\s*/i, "").trim() : "";
+  return { headline, bullets: parseBullets(out) };
+}
+
+// TEXT PATH (fallback): summarize article text we fetched ourselves.
+async function geminiSummarize(text, headline) {
+  const prompt =
+`You are building a radio show prep sheet. Read the article and write a thorough bulleted brief the host can read on air.
+
+${STYLE_RULES}
+
+Headline: ${headline || "(unknown)"}
+
+Article:
+"""
+${text.slice(0, 24000)}
+"""
+
+Return ONLY the bullets, each on its own line starting with "- ". No preamble, no sign-off.`;
+  const { text: out } = await geminiRaw({
+    contents: [{ parts: [{ text: prompt }] }],
+    generationConfig: { temperature: 0.25, maxOutputTokens: 3072, thinkingConfig: { thinkingBudget: 0 } }
+  });
+  if (!out) throw new Error("empty response");
+  return parseBullets(out);
 }
 
 /* ---------------- UI wiring ---------------- */
@@ -423,6 +460,21 @@ function setStatus(msg, kind) {
 
 let lastResult = null; // { headline, bullets, link } — for the copy button
 
+function showResult(headline, bullets, link, note) {
+  note = note || "";
+  lastResult = { headline: headline || "(headline not detected)", bullets, link: link || "" };
+  $("resHeadline").textContent = lastResult.headline;
+  const ul = $("resBullets");
+  ul.innerHTML = "";
+  bullets.forEach(b => { const li = document.createElement("li"); li.textContent = b; ul.appendChild(li); });
+  const a = $("resLink");
+  if (link) { a.href = link; a.textContent = link; a.style.display = "block"; }
+  else { a.style.display = "none"; }
+  $("result").classList.remove("hidden");
+  setStatus("Done." + note, note ? "err" : "ok");
+}
+
+// Fallback path: summarize article text we fetched ourselves (reader/proxy/paste).
 async function process(rawText, link, knownHeadline) {
   const headline = knownHeadline || extractTitle(rawText);
   const clean = cleanArticleText(rawText);
@@ -436,22 +488,8 @@ async function process(rawText, link, knownHeadline) {
     bullets = summarize(clean, headline, 5, "textrank").bullets;
     note = e.message === "no key" ? "  (add an API key for AI summaries)" : "  (AI unavailable — basic mode)";
   }
-
-  if (!bullets || !bullets.length) {
-    setStatus("Couldn't summarize that.", "err");
-    return;
-  }
-
-  lastResult = { headline: headline || "(headline not detected)", bullets, link: link || "" };
-  $("resHeadline").textContent = lastResult.headline;
-  const ul = $("resBullets");
-  ul.innerHTML = "";
-  bullets.forEach(b => { const li = document.createElement("li"); li.textContent = b; ul.appendChild(li); });
-  const a = $("resLink");
-  if (link) { a.href = link; a.textContent = link; a.style.display = "block"; }
-  else { a.style.display = "none"; }
-  $("result").classList.remove("hidden");
-  setStatus("Done." + note, note ? "err" : "ok");
+  if (!bullets || !bullets.length) { setStatus("Couldn't summarize that.", "err"); return; }
+  showResult(headline, bullets, link, note);
 }
 
 $("goBtn").addEventListener("click", async () => {
@@ -463,23 +501,35 @@ $("goBtn").addEventListener("click", async () => {
       const { articleUrl, redditText, domain } = await resolveRedditLink(url);
       if (articleUrl) {
         setStatus("Found article on " + domain + " …");
-        const text = await fetchArticleText(articleUrl);
-        await process(text, url);            // link shown = the original pasted link
+        await summarizeLink(articleUrl, url);   // fetch the article, show the original link
       } else {
-        await process(redditText, url);      // text/discussion post
+        await process(redditText, url);         // text/discussion post
       }
     } else {
-      setStatus("Fetching …");
-      const text = await fetchArticleText(url);
-      await process(text, url);
+      await summarizeLink(url, url);
     }
   } catch (e) {
-    setStatus("Couldn't fetch that link — paste the article text below.", "err");
+    setStatus("Couldn't read that link — paste the article text below.", "err");
     $("pasteWrap").style.display = "block";
   } finally {
     $("goBtn").disabled = false;
   }
 });
+
+// PRIMARY: let Gemini read the URL directly (url_context). Fall back to
+// fetching the text ourselves (reader → proxy) only if that fails.
+async function summarizeLink(fetchUrl, displayLink) {
+  try {
+    setStatus("Reading the article with Gemini …");
+    const { headline, bullets } = await geminiSummarizeUrl(fetchUrl);
+    if (bullets && bullets.length) { showResult(headline, bullets, displayLink, ""); return; }
+    throw new Error("no bullets");
+  } catch (e) {
+    setStatus("Fetching the article text …");
+    const text = await fetchArticleText(fetchUrl);
+    await process(text, displayLink);
+  }
+}
 
 $("pasteBtn").addEventListener("click", async () => {
   const text = $("pasteText").value.trim();
