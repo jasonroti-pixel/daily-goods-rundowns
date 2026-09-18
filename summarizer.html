@@ -50,7 +50,7 @@
 <body>
 
 <h1>Article Summarizer <span style="font-weight:400;color:#888;font-size:15px;">— demo</span></h1>
-<p class="sub">Paste a headline + URL. Runs in your browser. AI mode uses a free Gemini key ($0 at radio-prep volume); extractive mode needs no key at all.</p>
+<p class="sub">Paste any article or Reddit URL — it pulls the headline and writes the bullets. AI is powered by a built-in free Gemini key that works for the whole team, on any device, with nothing to set up.</p>
 
 <div class="card">
   <label for="url">Article URL</label>
@@ -71,7 +71,7 @@
 
   <div id="keyRow">
     <label for="apiKey">Google Gemini API key
-      <span class="note" style="font-weight:400;">— free, no credit card: <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">get one here</a></span>
+      <span class="note" style="font-weight:400;">— built in and ready. Only change it to use a different <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">free key</a>.</span>
     </label>
     <div class="row">
       <div style="flex:3;">
@@ -317,6 +317,10 @@ function extractTitle(raw) {
   return "";
 }
 
+/* Built-in free Gemini key (no credit card attached = no billing risk).
+   The key field below overrides this if you ever paste a different one. */
+const DEFAULT_GEMINI_KEY = "AIzaSyByX_dcAUrvhpwuK0IbavFta_zFH3XqqCg";
+
 /* ---------------- AI summary via free Gemini ---------------- */
 async function geminiSummarize(text, headline, num, key, model) {
   const prompt =
@@ -379,11 +383,7 @@ async function process(rawText, source, knownHeadline) {
 
   let bullets, engineLabel, note = "";
   if (engine === "ai") {
-    const key = ($("apiKey").value || "").trim();
-    if (!key) {
-      setStatus("Add your free Gemini API key above, or switch Engine to “Extractive (no key)”.", "err");
-      return;
-    }
+    const key = ($("apiKey").value || "").trim() || DEFAULT_GEMINI_KEY;
     setStatus("Reading & summarizing with Gemini …");
     try {
       bullets = await geminiSummarize(clean, headline, num, key, $("model").value);
@@ -481,7 +481,7 @@ function toggleKeyRow() {
 }
 
 (function initSettings() {
-  const savedKey = lsGet("gemini-key"); if (savedKey) $("apiKey").value = savedKey;
+  const savedKey = lsGet("gemini-key"); $("apiKey").value = savedKey || DEFAULT_GEMINI_KEY;
   const savedModel = lsGet("gemini-model"); if (savedModel) $("model").value = savedModel;
   const savedEngine = lsGet("summarizer-engine"); if (savedEngine) $("engine").value = savedEngine;
   toggleKeyRow();
