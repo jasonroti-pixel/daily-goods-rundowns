@@ -350,11 +350,54 @@ function extractTitle(raw) {
    what got the hardcoded key auto-disabled). Set this to your Worker URL. */
 const PROXY_URL = "https://REPLACE-WITH-YOUR-WORKER.workers.dev";
 
-/* ---------------- AI summary via free Gemini ----------------
-   gemini-2.5-flash free tier is only 20 requests/DAY. The "flash-lite-latest"
-   alias points at the newest Flash-Lite (500/day free), which is plenty for a
-   shared team key and still a strong writer. Swap this if a model errors. */
-const GEMINI_MODEL = "gemini-flash-lite-latest";
+/* ---------------- Model selection ----------------
+   Flash free tiers are tiny (2.5-flash = 20/day) while newer Flash-Lite models
+   are 500/day. Rather than hardcode one guessed id, ask the API which models
+   this key can use, rank them (Flash-Lite first, newest generation first), and
+   try them in order — falling through to the next when one 404s or runs dry. */
+const FALLBACK_MODELS = ["gemini-2.5-flash-lite", "gemini-2.5-flash"];
+let _modelChain = null;   // available models, best (most free headroom) first
+let _pickedModel = null;  // the model that last worked — tried first next time
+
+function geminiKey() { return (($("apiKey") && $("apiKey").value) || "").trim(); }
+
+function rankModel(name) {
+  const n = name.toLowerCase();
+  if (!/gemini/.test(n) || !/flash/.test(n)) return -1;               // flash family only (cheap + high quota)
+  if (/(vision|embedding|aqa|tts|image|audio|live|robot|thinking)/.test(n)) return -1;
+  let score = /flash-lite/.test(n) ? 1000 : 0;                        // lite = biggest free daily quota
+  const ver = (n.match(/gemini-(\d+(?:\.\d+)?)/) || [])[1];
+  score += ver ? parseFloat(ver) * 10 : 0;                           // newer generation first
+  if (/preview|exp/.test(n)) score -= 3;                            // prefer stable over preview
+  return score;
+}
+
+// Ask the API which models this key can actually use, ranked best-first.
+async function discoverModels() {
+  const useProxy = !/REPLACE-WITH-YOUR-WORKER/.test(PROXY_URL);
+  if (useProxy) return null;                                          // ListModels isn't served by the summarize proxy
+  const key = geminiKey();
+  if (!key) return null;
+  const res = await fetch("https://generativelanguage.googleapis.com/v1beta/models?pageSize=1000&key=" + encodeURIComponent(key));
+  if (!res.ok) return null;
+  const data = await res.json();
+  const ranked = (data.models || [])
+    .filter(m => (m.supportedGenerationMethods || m.supported_generation_methods || []).some(x => /generateContent/i.test(x)))
+    .map(m => (m.name || "").replace(/^models\//, ""))
+    .map(n => ({ n, s: rankModel(n) }))
+    .filter(x => x.n && x.s > 0)
+    .sort((a, b) => b.s - a.s)
+    .map(x => x.n);
+  return ranked.length ? ranked : null;
+}
+
+async function getModelChain() {
+  if (_modelChain) return _modelChain;
+  let chain = null;
+  try { chain = await discoverModels(); } catch (e) { /* fall back */ }
+  _modelChain = (chain && chain.length) ? chain : FALLBACK_MODELS.slice();
+  return _modelChain;
+}
 
 // Shared bullet-style rules for both the URL path and the text path.
 const STYLE_RULES =
@@ -369,17 +412,17 @@ const STYLE_RULES =
 - Facts and quotes only. No editorializing, no clichés, no "this shows / highlights / demonstrates" lines.
 - Use only what is stated in the article. Do not invent anything.`;
 
-// One place that knows how to reach Gemini (via proxy if configured, else the pasted key).
-async function geminiRaw(body) {
+// Single request to one specific model (via proxy if configured, else the pasted key).
+async function geminiRaw(body, model) {
   const useProxy = !/REPLACE-WITH-YOUR-WORKER/.test(PROXY_URL);
   const headers = { "Content-Type": "application/json" };
   let url;
   if (useProxy) {
-    url = PROXY_URL.replace(/\/$/, "") + "?model=" + encodeURIComponent(GEMINI_MODEL);
+    url = PROXY_URL.replace(/\/$/, "") + "?model=" + encodeURIComponent(model);
   } else {
-    const key = (($("apiKey") && $("apiKey").value) || "").trim();
+    const key = geminiKey();
     if (!key) throw new Error("no key");
-    url = "https://generativelanguage.googleapis.com/v1beta/models/" + encodeURIComponent(GEMINI_MODEL) + ":generateContent";
+    url = "https://generativelanguage.googleapis.com/v1beta/models/" + encodeURIComponent(model) + ":generateContent";
     headers["x-goog-api-key"] = key;
   }
   const res = await fetch(url, { method: "POST", headers, body: JSON.stringify(body) });
@@ -393,6 +436,42 @@ async function geminiRaw(body) {
   const parts = cand && cand.content && cand.content.parts;
   const text = Array.isArray(parts) ? parts.map(p => p.text || "").join("") : "";
   return { text, cand };
+}
+
+// Try a model; if it rejects thinkingConfig (Flash-Lite has no "thinking"), retry without it.
+async function callModel(body, model) {
+  try {
+    return await geminiRaw(body, model);
+  } catch (e) {
+    if (/invalid.?argument/i.test(e.message) && body.generationConfig && body.generationConfig.thinkingConfig) {
+      const b2 = JSON.parse(JSON.stringify(body));
+      delete b2.generationConfig.thinkingConfig;
+      return await geminiRaw(b2, model);
+    }
+    throw e;
+  }
+}
+
+// Run the request across the ranked model chain: first that works wins and is remembered.
+async function geminiCall(body) {
+  const useProxy = !/REPLACE-WITH-YOUR-WORKER/.test(PROXY_URL);
+  if (!useProxy && !geminiKey()) throw new Error("no key");
+  const chain = await getModelChain();
+  const order = _pickedModel ? [_pickedModel, ...chain.filter(m => m !== _pickedModel)] : chain.slice();
+  let lastErr;
+  for (const model of order) {
+    try {
+      const r = await callModel(body, model);
+      _pickedModel = model;
+      return r;
+    } catch (e) {
+      lastErr = e;
+      // Key/permission problems affect every model — stop. Otherwise (not found,
+      // quota, rate limit, bad tool/arg) move on to the next model.
+      if (/api.?key not valid|API_KEY_INVALID|PERMISSION_DENIED|not been used|is disabled|SERVICE_DISABLED/i.test(e.message)) throw e;
+    }
+  }
+  throw lastErr || new Error("no model available");
 }
 
 function parseBullets(out) {
@@ -412,7 +491,7 @@ ${STYLE_RULES}
 URL: ${url}
 
 Output exactly this: first a single line "TITLE: <the article's exact headline>", then the bullets, each on its own line starting with "- ". Nothing else.`;
-  const { text: out, cand } = await geminiRaw({
+  const { text: out, cand } = await geminiCall({
     contents: [{ parts: [{ text: prompt }] }],
     tools: [{ url_context: {} }],
     generationConfig: { temperature: 0.25, maxOutputTokens: 3072, thinkingConfig: { thinkingBudget: 0 } }
@@ -443,7 +522,7 @@ ${text.slice(0, 24000)}
 """
 
 Return ONLY the bullets, each on its own line starting with "- ". No preamble, no sign-off.`;
-  const { text: out } = await geminiRaw({
+  const { text: out } = await geminiCall({
     contents: [{ parts: [{ text: prompt }] }],
     generationConfig: { temperature: 0.25, maxOutputTokens: 3072, thinkingConfig: { thinkingBudget: 0 } }
   });
