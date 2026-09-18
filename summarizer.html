@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Article Summarizer — Demo</title>
+<style>
+  /* Deliberately plain. This demo exists to test summary QUALITY, not looks.
+     Visual/brand styling comes later once the logic is proven. */
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    max-width: 780px; margin: 0 auto; padding: 24px 16px 80px;
+    color: #1a1a1a; background: #fafafa; line-height: 1.5;
+  }
+  h1 { font-size: 22px; margin-bottom: 4px; }
+  .sub { color: #666; font-size: 13px; margin-bottom: 24px; }
+  label { display: block; font-weight: 600; font-size: 13px; margin: 14px 0 4px; }
+  input[type=text], input[type=url], textarea, select {
+    width: 100%; padding: 9px 11px; border: 1px solid #ccc; border-radius: 6px;
+    font-size: 14px; font-family: inherit; background: #fff;
+  }
+  textarea { min-height: 120px; resize: vertical; }
+  .row { display: flex; gap: 12px; align-items: flex-end; flex-wrap: wrap; }
+  .row > div { flex: 1; min-width: 140px; }
+  button {
+    padding: 10px 18px; border: none; border-radius: 6px; background: #2563eb;
+    color: #fff; font-size: 14px; font-weight: 600; cursor: pointer; margin-top: 14px;
+  }
+  button:disabled { background: #9db8e8; cursor: not-allowed; }
+  button.secondary { background: #e5e7eb; color: #333; }
+  .toggle { font-size: 13px; color: #2563eb; cursor: pointer; margin-top: 14px; display: inline-block; text-decoration: underline; }
+  #pasteWrap { display: none; }
+  #status { margin-top: 16px; font-size: 13px; min-height: 18px; }
+  #status.err { color: #b91c1c; }
+  #status.ok { color: #15803d; }
+  #result { margin-top: 22px; }
+  #result h2 { font-size: 16px; margin-bottom: 2px; }
+  .meta { font-size: 12px; color: #888; margin-bottom: 12px; }
+  ul.bullets { padding-left: 22px; }
+  ul.bullets li { margin-bottom: 9px; }
+  .card { background: #fff; border: 1px solid #e5e7eb; border-radius: 8px; padding: 18px 20px; }
+  .hidden { display: none; }
+  .opts { margin-top: 8px; }
+  .opts label { display: inline-block; font-weight: 400; margin-right: 8px; }
+  code { background: #eee; padding: 1px 5px; border-radius: 3px; font-size: 12px; }
+  .note { font-size: 12px; color: #777; margin-top: 6px; }
+</style>
+</head>
+<body>
+
+<h1>Article Summarizer <span style="font-weight:400;color:#888;font-size:15px;">— demo</span></h1>
+<p class="sub">Paste any article or Reddit URL — it pulls the headline and writes the bullets. AI is powered by a built-in free Gemini key that works for the whole team, on any device, with nothing to set up.</p>
+
+<div class="card">
+  <label for="url">Article URL</label>
+  <input type="url" id="url" placeholder="Paste any article or Reddit link — that's it">
+  <p class="note">Pulls the headline and article automatically. Reddit links resolve to the underlying article.</p>
+
+  <div class="opts">
+    <label for="numBullets">Bullets:</label>
+    <select id="numBullets" style="width:auto;display:inline-block;">
+      <option>3</option><option selected>5</option><option>7</option><option>10</option>
+    </select>
+    <label for="engine" style="margin-left:16px;">Engine:</label>
+    <select id="engine" style="width:auto;display:inline-block;">
+      <option value="ai" selected>AI — Gemini (best)</option>
+      <option value="extractive">Extractive (no key)</option>
+    </select>
+  </div>
+
+  <div id="keyRow">
+    <label for="apiKey">Google Gemini API key
+      <span class="note" style="font-weight:400;">— built in and ready. Only change it to use a different <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">free key</a>.</span>
+    </label>
+    <div class="row">
+      <div style="flex:3;">
+        <input type="password" id="apiKey" placeholder="AIza…" autocomplete="off" spellcheck="false">
+      </div>
+      <div style="flex:1;">
+        <select id="model" title="Model">
+          <option value="gemini-2.0-flash" selected>gemini-2.0-flash</option>
+          <option value="gemini-2.5-flash">gemini-2.5-flash</option>
+          <option value="gemini-1.5-flash">gemini-1.5-flash</option>
+        </select>
+      </div>
+    </div>
+    <p class="note">Stored only in this browser (localStorage). Sent only to Google's API, nowhere else. If one model errors, try another.</p>
+  </div>
+
+  <span class="toggle" id="pasteToggle">▸ Can't fetch? Paste the article text instead</span>
+  <div id="pasteWrap">
+    <label for="pasteText">Article text</label>
+    <textarea id="pasteText" placeholder="Paste the full article body here..."></textarea>
+  </div>
+
+  <div class="row">
+    <button id="goBtn">Summarize</button>
+    <button id="pasteBtn" class="secondary hidden">Summarize pasted text</button>
+  </div>
+  <div id="status"></div>
+</div>
+
+<div id="result" class="hidden">
+  <div class="card">
+    <h2 id="resHeadline"></h2>
+    <div class="meta" id="resMeta"></div>
+    <ul class="bullets" id="resBullets"></ul>
+    <button class="secondary" id="copyBtn">Copy bullets</button>
+  </div>
+</div>
+
+<script>
+/* ============================================================
+   EXTRACTIVE SUMMARIZER  — pure client-side, zero cost
+   Two methods:
+     - TextRank: PageRank over a sentence-similarity graph
+     - TF: frequency-based sentence scoring
+   Both get position + headline-overlap boosts (news-tuned).
+   ============================================================ */
+
+const STOPWORDS = new Set(("a an and are as at be by for from has he in is it its of on that the to was were will with " +
+  "this these those i you your we they them their our his her she him but or nor not no so if then than " +
+  "up out about into over after under again more most other some such only own same too very can just " +
+  "who whom which what when where why how all any both each few there here been being have had do does did " +
+  "would could should may might must shall about against between through during before above below because " +
+  "while also said says say according new one two get got make made like time year years day says told").split(" "));
+
+/* Site chrome / promo / nav filter. Extractive summarizers are garbage-in
+   garbage-out: newsletter CTAs and nav menus are repetitive and front-loaded,
+   so they score high unless we strip them BEFORE scoring. */
+const PROMO_RE = /\b(sign ?up|sign ?in|log ?in|subscribe|subscription|newsletter|join now|join the|join the discussion|create an account|read now|read more|latest\b.{0,20}\b(news|reviews)|breaking\b.{0,20}\bnews|coming soon|member[- ]only|members only|member badges|earn badges|exclusive (competition|article|content|competitions|articles)|we will send|confirmation|cookies?\b|consent|privacy policy|terms of|follow us|share this|commenting|the community|advertisement|sponsored|you.?ve unlocked|see what you|skip to|main content|from the creators of|weekly (gaming|newsletter)|related (articles|stories)|most popular|trending now|recommended for you)\b/i;
+const GLUE_RE = /^(the|a|an|of|to|in|on|and|for|with|that|is|are|was|were|has|have|as|by|from|but|it|they|he|she|we|you|this|which|who|their|his|her|because|when|will|would|about|at|not)$/i;
+
+function isBoilerplate(s) {
+  if (PROMO_RE.test(s)) return true;
+  const words = s.split(/\s+/);
+  const cap = words.filter(w => /^[A-Z0-9]/.test(w)).length;
+  const glue = words.filter(w => GLUE_RE.test(w)).length;
+  if (words.length >= 4 && cap / words.length > 0.6 && glue <= 1) return true; // capitalized nav/menu run
+  if (words.length <= 12 && glue === 0) return true;                           // button/label fragment
+  return false;
+}
+
+function splitSentences(text) {
+  // Normalize whitespace, protect common abbreviations, then split.
+  let t = text.replace(/\s+/g, " ").trim();
+  t = t.replace(/\b(Mr|Mrs|Ms|Dr|Prof|Sr|Jr|St|vs|etc|Inc|Ltd|Co|Gov|Sen|Rep|U\.S|U\.K)\./g, "$1<DOT>");
+  const parts = t.split(/(?<=[.!?])\s+(?=[A-Z"'])/);
+  return parts
+    .map(s => s.replace(/<DOT>/g, ".").trim())
+    .filter(s => {
+      const words = s.split(/\s+/).length;
+      return words >= 5 && words <= 80 && /[a-zA-Z]/.test(s);
+    });
+}
+
+function tokenize(sentence) {
+  return (sentence.toLowerCase().match(/[a-z']+/g) || [])
+    .filter(w => w.length > 2 && !STOPWORDS.has(w));
+}
+
+// Clean markdown / reader artifacts from fetched text, isolate the body.
+function cleanArticleText(raw) {
+  let t = raw;
+  // Jina returns a header block "Title:...\nURL Source:...\nMarkdown Content:\n". Keep only body.
+  const marker = t.indexOf("Markdown Content:");
+  if (marker !== -1) t = t.slice(marker + "Markdown Content:".length);
+  t = t.replace(/!\[[^\]]*\]\([^)]*\)/g, " ");      // images
+  t = t.replace(/\[([^\]]*)\]\([^)]*\)/g, "$1");     // links -> text
+  t = t.replace(/[#*_>`]/g, " ");                    // md symbols
+  t = t.replace(/^\s*[-–|].*$/gm, " ");              // list/table lines (often nav)
+  t = t.replace(/https?:\/\/\S+/g, " ");             // stray urls
+  return t.replace(/\n{2,}/g, "\n").replace(/[ \t]+/g, " ").trim();
+}
+
+function headlineKeywords(headline) {
+  return new Set(tokenize(headline || ""));
+}
+
+// ---- Method 1: TF frequency scoring ----
+function scoreTF(sentences, hlWords) {
+  const freq = {};
+  sentences.forEach(s => tokenize(s).forEach(w => { freq[w] = (freq[w] || 0) + 1; }));
+  const max = Math.max(1, ...Object.values(freq));
+  return sentences.map((s, i) => {
+    const toks = tokenize(s);
+    if (!toks.length) return 0;
+    let score = toks.reduce((sum, w) => sum + (freq[w] || 0) / max, 0) / toks.length;
+    score *= positionBoost(i, sentences.length);
+    score *= headlineBoost(toks, hlWords);
+    return score;
+  });
+}
+
+// ---- Method 2: TextRank (PageRank over similarity graph) ----
+function scoreTextRank(sentences, hlWords) {
+  const n = sentences.length;
+  const toks = sentences.map(tokenize);
+  const sets = toks.map(t => new Set(t));
+  const sim = Array.from({ length: n }, () => new Array(n).fill(0));
+  for (let i = 0; i < n; i++) {
+    for (let j = i + 1; j < n; j++) {
+      const s = sentenceSimilarity(sets[i], sets[j]);
+      sim[i][j] = s; sim[j][i] = s;
+    }
+  }
+  const rowSum = sim.map(r => r.reduce((a, b) => a + b, 0));
+  let rank = new Array(n).fill(1 / n);
+  const d = 0.85;
+  for (let iter = 0; iter < 30; iter++) {
+    const next = new Array(n).fill((1 - d) / n);
+    for (let i = 0; i < n; i++) {
+      for (let j = 0; j < n; j++) {
+        if (i !== j && rowSum[j] > 0) next[i] += d * (sim[i][j] / rowSum[j]) * rank[j];
+      }
+    }
+    rank = next;
+  }
+  return rank.map((r, i) => r * positionBoost(i, n) * headlineBoost(toks[i], hlWords));
+}
+
+function sentenceSimilarity(a, b) {
+  if (!a.size || !b.size) return 0;
+  let overlap = 0;
+  a.forEach(w => { if (b.has(w)) overlap++; });
+  const norm = Math.log(a.size + 1) + Math.log(b.size + 1);
+  return norm === 0 ? 0 : overlap / norm;
+}
+
+function positionBoost(i, n) {
+  // News front-loads. First few sentences matter most; gentle taper.
+  if (i === 0) return 1.6;
+  if (i === 1) return 1.35;
+  if (i === 2) return 1.2;
+  return 1 + Math.max(0, (n - i) / n) * 0.1;
+}
+
+function headlineBoost(toks, hlWords) {
+  if (!hlWords.size) return 1;
+  const hits = toks.filter(w => hlWords.has(w)).length;
+  return 1 + Math.min(hits, 4) * 0.15;
+}
+
+function summarize(text, headline, numBullets, method) {
+  const sentences = splitSentences(text).filter(s => !isBoilerplate(s));
+  if (sentences.length === 0) return { bullets: [], total: 0 };
+  if (sentences.length <= numBullets) return { bullets: sentences, total: sentences.length };
+
+  const hlWords = headlineKeywords(headline);
+  const scores = method === "tfidf" ? scoreTF(sentences, hlWords) : scoreTextRank(sentences, hlWords);
+
+  // Take top-scoring indices, then de-duplicate near-identical picks, then restore reading order.
+  const ranked = scores.map((s, i) => ({ i, s })).sort((a, b) => b.s - a.s);
+  const chosen = [];
+  const chosenTokSets = [];
+  for (const { i } of ranked) {
+    if (chosen.length >= numBullets) break;
+    const ts = new Set(tokenize(sentences[i]));
+    const dup = chosenTokSets.some(prev => sentenceSimilarity(ts, prev) > 0.8);
+    if (dup) continue;
+    chosen.push(i); chosenTokSets.push(ts);
+  }
+  chosen.sort((a, b) => a - b);
+  return { bullets: chosen.map(i => tidy(sentences[i])), total: sentences.length };
+}
+
+function tidy(s) {
+  s = s.trim();
+  if (s.length > 260) s = s.slice(0, 257).replace(/\s+\S*$/, "") + "…";
+  return s;
+}
+
+/* ---------------- Fetch via Jina Reader ---------------- */
+async function fetchArticle(url, extraHeaders) {
+  const endpoint = "https://r.jina.ai/" + url;
+  const res = await fetch(endpoint, { headers: Object.assign({ "Accept": "text/plain" }, extraHeaders || {}) });
+  if (!res.ok) throw new Error("Reader returned HTTP " + res.status);
+  const txt = await res.text();
+  if (!txt || txt.length < 200) throw new Error("Fetched content was too short to summarize.");
+  return txt;
+}
+
+/* ---------------- Reddit handling ----------------
+   Reddit blocks direct access. Route through the reader, which follows the
+   /s/ share-link redirect server-side, then pull the outbound article URL
+   out of the rendered thread. If it's a text/discussion post with no
+   external link, we summarize the Reddit post itself. */
+function isRedditUrl(u) { return /(^|\.)reddit\.com|redd\.it/i.test(u); }
+
+function isLikelyArticleUrl(u) {
+  // Reject Reddit's own infrastructure, media/CDNs, and bare homepages.
+  const junk = /reddit\.com|redd\.it|redditstatic|redditmedia|reddituploads|redd\.it|i\.redd|v\.redd|preview\.redd|\.(jpg|jpeg|png|gif|webp|mp4|gifv|svg)(\?|#|$)|imgur\.com\/a\/|/i;
+  if (junk.test(u)) return false;
+  if (/\/(login|signup|register|privacy|terms|about|policy)\b/i.test(u)) return false;
+  try {
+    const p = new URL(u);
+    return /^https?:$/.test(p.protocol) && p.pathname.replace(/\/+$/, "").length > 1;
+  } catch { return false; }
+}
+
+// Returns { articleUrl, redditText, domain } — articleUrl null means summarize the Reddit text itself.
+async function resolveRedditLink(url) {
+  // Ask the reader to append a "Links/Buttons" summary so we get a clean URL list.
+  const txt = await fetchArticle(url, { "X-With-Links-Summary": "true" });
+  const found = [...txt.matchAll(/https?:\/\/[^\s)\]"'>]+/g)].map(m => m[0].replace(/[.,]+$/, ""));
+  const article = found.find(isLikelyArticleUrl);
+  let domain = null;
+  if (article) { try { domain = new URL(article).hostname.replace(/^www\./, ""); } catch (e) {} }
+  return { articleUrl: article || null, redditText: txt, domain };
+}
+
+/* Jina Reader prefixes its output with a "Title:" line — use it as the headline. */
+function extractTitle(raw) {
+  const m = raw.match(/^Title:\s*(.+)$/m);
+  if (m) return m[1].trim().replace(/\s+[|\-–—]\s+[^|\-–—]{1,40}$/, ""); // drop trailing " | Site Name"
+  return "";
+}
+
+/* Built-in free Gemini key (no credit card attached = no billing risk).
+   The key field below overrides this if you ever paste a different one. */
+const DEFAULT_GEMINI_KEY = "AIzaSyByX_dcAUrvhpwuK0IbavFta_zFH3XqqCg";
+
+/* ---------------- AI summary via free Gemini ---------------- */
+async function geminiSummarize(text, headline, num, key, model) {
+  const prompt =
+`You are helping a radio host prep for a live on-air show. Read the article and write exactly ${num} bullet points the host could say on air.
+Rules:
+- One sentence per bullet, plain spoken language, punchy.
+- Capture what happened, who's involved, key numbers, and why it matters.
+- Lead with the single most important point.
+- Ignore website navigation, ads, newsletter prompts, related-article teasers, and author bios.
+- Only use facts stated in the article. Do not invent anything.
+
+Headline: ${headline || "(unknown)"}
+
+Article:
+"""
+${text.slice(0, 24000)}
+"""
+
+Return ONLY the ${num} bullets, each on its own line starting with "- ". No preamble, no sign-off.`;
+  const url = "https://generativelanguage.googleapis.com/v1beta/models/" +
+              encodeURIComponent(model) + ":generateContent?key=" + encodeURIComponent(key);
+  const res = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: { temperature: 0.3, maxOutputTokens: 1024 }
+    })
+  });
+  if (!res.ok) {
+    let msg = "HTTP " + res.status;
+    try { const e = await res.json(); if (e.error && e.error.message) msg = e.error.message; } catch (x) {}
+    throw new Error(msg);
+  }
+  const data = await res.json();
+  const cand = data && data.candidates && data.candidates[0];
+  const out = cand && cand.content && cand.content.parts && cand.content.parts[0] && cand.content.parts[0].text;
+  if (!out) throw new Error("Empty response (possibly blocked or over quota).");
+  return out.split(/\n+/)
+    .map(l => l.replace(/^\s*[-•*]\s*/, "").replace(/^\s*\d+[.)]\s*/, "").trim())
+    .filter(l => l.length > 1)
+    .slice(0, num);
+}
+
+/* ---------------- UI wiring ---------------- */
+const $ = id => document.getElementById(id);
+
+function setStatus(msg, kind) {
+  const el = $("status");
+  el.textContent = msg;
+  el.className = kind || "";
+}
+
+async function process(rawText, source, knownHeadline) {
+  const num = parseInt($("numBullets").value, 10);
+  const engine = $("engine").value;
+  const headline = knownHeadline || extractTitle(rawText);
+  const clean = cleanArticleText(rawText);
+  const words = clean.split(/\s+/).filter(Boolean).length;
+
+  let bullets, engineLabel, note = "";
+  if (engine === "ai") {
+    const key = ($("apiKey").value || "").trim() || DEFAULT_GEMINI_KEY;
+    setStatus("Reading & summarizing with Gemini …");
+    try {
+      bullets = await geminiSummarize(clean, headline, num, key, $("model").value);
+      engineLabel = "Gemini " + $("model").value.replace("gemini-", "");
+    } catch (e) {
+      note = "  ⚠ Gemini failed (" + e.message + ") — used extractive fallback.";
+      bullets = summarize(clean, headline, num, "textrank").bullets;
+      engineLabel = "TextRank (fallback)";
+    }
+  } else {
+    bullets = summarize(clean, headline, num, "textrank").bullets;
+    engineLabel = "TextRank";
+  }
+
+  if (!bullets || !bullets.length) {
+    setStatus("Couldn't produce a summary from that content." + note, "err");
+    return;
+  }
+  $("resHeadline").textContent = headline || "(headline not detected)";
+  $("resMeta").textContent = `${bullets.length} bullets · ${engineLabel} · ~${words.toLocaleString()} words · ${source}`;
+  const ul = $("resBullets");
+  ul.innerHTML = "";
+  bullets.forEach(b => { const li = document.createElement("li"); li.textContent = b; ul.appendChild(li); });
+  $("result").classList.remove("hidden");
+  setStatus("Done." + note, note ? "err" : "ok");
+}
+
+$("goBtn").addEventListener("click", async () => {
+  const url = $("url").value.trim();
+  if (!url) { setStatus("Paste a URL, or use the paste fallback.", "err"); return; }
+  $("goBtn").disabled = true;
+  try {
+    if (isRedditUrl(url)) {
+      setStatus("Reddit link — resolving to the underlying article …");
+      const { articleUrl, redditText, domain } = await resolveRedditLink(url);
+      if (articleUrl) {
+        setStatus("Found article on " + domain + " — fetching & summarizing …");
+        const text = await fetchArticle(articleUrl);
+        await process(text, "Reddit → " + domain);
+      } else {
+        // Text/discussion post: summarize the Reddit thread itself.
+        setStatus("No external article — summarizing the Reddit post itself …");
+        await process(redditText, "Reddit post");
+      }
+    } else {
+      setStatus("Fetching article via r.jina.ai …");
+      const text = await fetchArticle(url);
+      await process(text, "fetched");
+    }
+  } catch (e) {
+    setStatus("Fetch failed: " + e.message + "  → try the paste fallback below.", "err");
+    $("pasteWrap").style.display = "block";
+    $("pasteBtn").classList.remove("hidden");
+  } finally {
+    $("goBtn").disabled = false;
+  }
+});
+
+$("pasteBtn").addEventListener("click", async () => {
+  const text = $("pasteText").value.trim();
+  if (text.length < 100) { setStatus("Paste more article text (at least a paragraph).", "err"); return; }
+  $("pasteBtn").disabled = true;
+  try {
+    // Pasted text has no reader "Title:" line — first non-empty line is a decent headline guess.
+    const guess = (text.split(/\n/).map(l => l.trim()).find(l => l.length > 12) || "").slice(0, 160);
+    await process(text, "pasted", guess);
+  } finally {
+    $("pasteBtn").disabled = false;
+  }
+});
+
+$("pasteToggle").addEventListener("click", () => {
+  const w = $("pasteWrap");
+  const showing = w.style.display === "block";
+  w.style.display = showing ? "none" : "block";
+  $("pasteBtn").classList.toggle("hidden", showing);
+  $("pasteToggle").textContent = (showing ? "▸" : "▾") + " Can't fetch? Paste the article text instead";
+});
+
+$("copyBtn").addEventListener("click", () => {
+  const bullets = [...$("resBullets").querySelectorAll("li")].map(li => "• " + li.textContent).join("\n");
+  const hl = $("resHeadline").textContent;
+  navigator.clipboard.writeText(hl + "\n\n" + bullets).then(
+    () => setStatus("Copied to clipboard.", "ok"),
+    () => setStatus("Copy failed — select the text manually.", "err")
+  );
+});
+
+/* ---------------- Settings persistence ---------------- */
+function lsGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+
+function toggleKeyRow() {
+  $("keyRow").style.display = $("engine").value === "ai" ? "block" : "none";
+}
+
+(function initSettings() {
+  const savedKey = lsGet("gemini-key"); $("apiKey").value = savedKey || DEFAULT_GEMINI_KEY;
+  const savedModel = lsGet("gemini-model"); if (savedModel) $("model").value = savedModel;
+  const savedEngine = lsGet("summarizer-engine"); if (savedEngine) $("engine").value = savedEngine;
+  toggleKeyRow();
+  $("apiKey").addEventListener("input", () => lsSet("gemini-key", $("apiKey").value.trim()));
+  $("model").addEventListener("change", () => lsSet("gemini-model", $("model").value));
+  $("engine").addEventListener("change", () => { lsSet("summarizer-engine", $("engine").value); toggleKeyRow(); });
+  // Enter in the URL box triggers Summarize.
+  $("url").addEventListener("keydown", e => { if (e.key === "Enter") $("goBtn").click(); });
+})();
+</script>
+</body>
+</html>
