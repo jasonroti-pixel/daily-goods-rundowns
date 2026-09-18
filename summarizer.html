@@ -419,7 +419,10 @@ Output exactly this: first a single line "TITLE: <the article's exact headline>"
   const rows = meta && (meta.urlMetadata || meta.url_metadata) || [];
   const fetched = Array.isArray(rows) && rows.some(r =>
     /SUCCESS/i.test(r.urlRetrievalStatus || r.url_retrieval_status || ""));
-  if (!fetched) throw new Error("url_context did not fetch the page");
+  if (!fetched) {
+    const statuses = (Array.isArray(rows) ? rows : []).map(r => r.urlRetrievalStatus || r.url_retrieval_status || "?").join(",");
+    throw new Error("retrieval status: " + (statuses || "no metadata returned"));
+  }
   if (!out) throw new Error("empty response");
   const titleLine = out.split(/\n/).find(l => /^\s*TITLE:/i.test(l));
   const headline = titleLine ? titleLine.replace(/^\s*TITLE:\s*/i, "").trim() : "";
@@ -509,7 +512,7 @@ $("goBtn").addEventListener("click", async () => {
       await summarizeLink(url, url);
     }
   } catch (e) {
-    setStatus("Couldn't read that link — paste the article text below.", "err");
+    setStatus("Couldn't read that link — " + e.message + ". Paste the article text below.", "err");
     $("pasteWrap").style.display = "block";
   } finally {
     $("goBtn").disabled = false;
@@ -518,16 +521,21 @@ $("goBtn").addEventListener("click", async () => {
 
 // PRIMARY: let Gemini read the URL directly (url_context). Fall back to
 // fetching the text ourselves (reader → proxy) only if that fails.
+// On total failure, surface BOTH errors so we can see which layer broke.
 async function summarizeLink(fetchUrl, displayLink) {
+  let aiErr = "";
   try {
     setStatus("Reading the article with Gemini …");
     const { headline, bullets } = await geminiSummarizeUrl(fetchUrl);
     if (bullets && bullets.length) { showResult(headline, bullets, displayLink, ""); return; }
-    throw new Error("no bullets");
-  } catch (e) {
-    setStatus("Fetching the article text …");
+    aiErr = "no bullets";
+  } catch (e) { aiErr = e.message; }
+  try {
+    setStatus("Gemini couldn't read it (" + aiErr + ") — fetching the text …");
     const text = await fetchArticleText(fetchUrl);
     await process(text, displayLink);
+  } catch (e2) {
+    throw new Error("url_context [" + aiErr + "]; fetch [" + e2.message + "]");
   }
 }
 
