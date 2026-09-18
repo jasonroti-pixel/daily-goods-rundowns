@@ -50,26 +50,42 @@
 <body>
 
 <h1>Article Summarizer <span style="font-weight:400;color:#888;font-size:15px;">— demo</span></h1>
-<p class="sub">Paste a headline + URL. Runs 100% in your browser. No API keys, no per-use cost, no tokens.</p>
+<p class="sub">Paste a headline + URL. Runs in your browser. AI mode uses a free Gemini key ($0 at radio-prep volume); extractive mode needs no key at all.</p>
 
 <div class="card">
-  <label for="headline">Headline</label>
-  <input type="text" id="headline" placeholder="e.g. City council approves new transit budget">
-
   <label for="url">Article URL</label>
-  <input type="url" id="url" placeholder="https://...">
-  <p class="note">Fetched via the free Jina Reader service (<code>r.jina.ai</code>). If a site blocks it, use the paste fallback below.</p>
+  <input type="url" id="url" placeholder="Paste any article or Reddit link — that's it">
+  <p class="note">Pulls the headline and article automatically. Reddit links resolve to the underlying article.</p>
 
   <div class="opts">
     <label for="numBullets">Bullets:</label>
     <select id="numBullets" style="width:auto;display:inline-block;">
       <option>3</option><option selected>5</option><option>7</option><option>10</option>
     </select>
-    <label for="method" style="margin-left:16px;">Method:</label>
-    <select id="method" style="width:auto;display:inline-block;">
-      <option value="textrank" selected>TextRank</option>
-      <option value="tfidf">Frequency (TF)</option>
+    <label for="engine" style="margin-left:16px;">Engine:</label>
+    <select id="engine" style="width:auto;display:inline-block;">
+      <option value="ai" selected>AI — Gemini (best)</option>
+      <option value="extractive">Extractive (no key)</option>
     </select>
+  </div>
+
+  <div id="keyRow">
+    <label for="apiKey">Google Gemini API key
+      <span class="note" style="font-weight:400;">— free, no credit card: <a href="https://aistudio.google.com/apikey" target="_blank" rel="noopener">get one here</a></span>
+    </label>
+    <div class="row">
+      <div style="flex:3;">
+        <input type="password" id="apiKey" placeholder="AIza…" autocomplete="off" spellcheck="false">
+      </div>
+      <div style="flex:1;">
+        <select id="model" title="Model">
+          <option value="gemini-2.0-flash" selected>gemini-2.0-flash</option>
+          <option value="gemini-2.5-flash">gemini-2.5-flash</option>
+          <option value="gemini-1.5-flash">gemini-1.5-flash</option>
+        </select>
+      </div>
+    </div>
+    <p class="note">Stored only in this browser (localStorage). Sent only to Google's API, nowhere else. If one model errors, try another.</p>
   </div>
 
   <span class="toggle" id="pasteToggle">▸ Can't fetch? Paste the article text instead</span>
@@ -294,6 +310,57 @@ async function resolveRedditLink(url) {
   return { articleUrl: article || null, redditText: txt, domain };
 }
 
+/* Jina Reader prefixes its output with a "Title:" line — use it as the headline. */
+function extractTitle(raw) {
+  const m = raw.match(/^Title:\s*(.+)$/m);
+  if (m) return m[1].trim().replace(/\s+[|\-–—]\s+[^|\-–—]{1,40}$/, ""); // drop trailing " | Site Name"
+  return "";
+}
+
+/* ---------------- AI summary via free Gemini ---------------- */
+async function geminiSummarize(text, headline, num, key, model) {
+  const prompt =
+`You are helping a radio host prep for a live on-air show. Read the article and write exactly ${num} bullet points the host could say on air.
+Rules:
+- One sentence per bullet, plain spoken language, punchy.
+- Capture what happened, who's involved, key numbers, and why it matters.
+- Lead with the single most important point.
+- Ignore website navigation, ads, newsletter prompts, related-article teasers, and author bios.
+- Only use facts stated in the article. Do not invent anything.
+
+Headline: ${headline || "(unknown)"}
+
+Article:
+"""
+${text.slice(0, 24000)}
+"""
+
+Return ONLY the ${num} bullets, each on its own line starting with "- ". No preamble, no sign-off.`;
+  const url = "https://generativelanguage.googleapis.com/v1beta/models/" +
+              encodeURIComponent(model) + ":generateContent?key=" + encodeURIComponent(key);
+  const res = await fetch(url, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: { temperature: 0.3, maxOutputTokens: 1024 }
+    })
+  });
+  if (!res.ok) {
+    let msg = "HTTP " + res.status;
+    try { const e = await res.json(); if (e.error && e.error.message) msg = e.error.message; } catch (x) {}
+    throw new Error(msg);
+  }
+  const data = await res.json();
+  const cand = data && data.candidates && data.candidates[0];
+  const out = cand && cand.content && cand.content.parts && cand.content.parts[0] && cand.content.parts[0].text;
+  if (!out) throw new Error("Empty response (possibly blocked or over quota).");
+  return out.split(/\n+/)
+    .map(l => l.replace(/^\s*[-•*]\s*/, "").replace(/^\s*\d+[.)]\s*/, "").trim())
+    .filter(l => l.length > 1)
+    .slice(0, num);
+}
+
 /* ---------------- UI wiring ---------------- */
 const $ = id => document.getElementById(id);
 
@@ -303,29 +370,50 @@ function setStatus(msg, kind) {
   el.className = kind || "";
 }
 
-function render(headline, text, source) {
+async function process(rawText, source, knownHeadline) {
   const num = parseInt($("numBullets").value, 10);
-  const method = $("method").value;
-  const clean = cleanArticleText(text);
-  const { bullets, total } = summarize(clean, headline, num, method);
-  if (!bullets.length) {
-    setStatus("Couldn't extract sentences from that content.", "err");
+  const engine = $("engine").value;
+  const headline = knownHeadline || extractTitle(rawText);
+  const clean = cleanArticleText(rawText);
+  const words = clean.split(/\s+/).filter(Boolean).length;
+
+  let bullets, engineLabel, note = "";
+  if (engine === "ai") {
+    const key = ($("apiKey").value || "").trim();
+    if (!key) {
+      setStatus("Add your free Gemini API key above, or switch Engine to “Extractive (no key)”.", "err");
+      return;
+    }
+    setStatus("Reading & summarizing with Gemini …");
+    try {
+      bullets = await geminiSummarize(clean, headline, num, key, $("model").value);
+      engineLabel = "Gemini " + $("model").value.replace("gemini-", "");
+    } catch (e) {
+      note = "  ⚠ Gemini failed (" + e.message + ") — used extractive fallback.";
+      bullets = summarize(clean, headline, num, "textrank").bullets;
+      engineLabel = "TextRank (fallback)";
+    }
+  } else {
+    bullets = summarize(clean, headline, num, "textrank").bullets;
+    engineLabel = "TextRank";
+  }
+
+  if (!bullets || !bullets.length) {
+    setStatus("Couldn't produce a summary from that content." + note, "err");
     return;
   }
-  $("resHeadline").textContent = headline || "(no headline given)";
-  const words = clean.split(/\s+/).length;
-  $("resMeta").textContent = `${bullets.length} bullets · ${method === "tfidf" ? "Frequency" : "TextRank"} · from ${total} sentences / ~${words.toLocaleString()} words · ${source}`;
+  $("resHeadline").textContent = headline || "(headline not detected)";
+  $("resMeta").textContent = `${bullets.length} bullets · ${engineLabel} · ~${words.toLocaleString()} words · ${source}`;
   const ul = $("resBullets");
   ul.innerHTML = "";
   bullets.forEach(b => { const li = document.createElement("li"); li.textContent = b; ul.appendChild(li); });
   $("result").classList.remove("hidden");
-  setStatus("Done.", "ok");
+  setStatus("Done." + note, note ? "err" : "ok");
 }
 
 $("goBtn").addEventListener("click", async () => {
   const url = $("url").value.trim();
-  const headline = $("headline").value.trim();
-  if (!url) { setStatus("Enter a URL, or use the paste fallback.", "err"); return; }
+  if (!url) { setStatus("Paste a URL, or use the paste fallback.", "err"); return; }
   $("goBtn").disabled = true;
   try {
     if (isRedditUrl(url)) {
@@ -334,16 +422,16 @@ $("goBtn").addEventListener("click", async () => {
       if (articleUrl) {
         setStatus("Found article on " + domain + " — fetching & summarizing …");
         const text = await fetchArticle(articleUrl);
-        render(headline, text, "Reddit → " + domain);
+        await process(text, "Reddit → " + domain);
       } else {
         // Text/discussion post: summarize the Reddit thread itself.
         setStatus("No external article — summarizing the Reddit post itself …");
-        render(headline, redditText, "Reddit post");
+        await process(redditText, "Reddit post");
       }
     } else {
       setStatus("Fetching article via r.jina.ai …");
       const text = await fetchArticle(url);
-      render(headline, text, "fetched");
+      await process(text, "fetched");
     }
   } catch (e) {
     setStatus("Fetch failed: " + e.message + "  → try the paste fallback below.", "err");
@@ -354,12 +442,17 @@ $("goBtn").addEventListener("click", async () => {
   }
 });
 
-$("pasteBtn").addEventListener("click", () => {
+$("pasteBtn").addEventListener("click", async () => {
   const text = $("pasteText").value.trim();
-  const headline = $("headline").value.trim();
   if (text.length < 100) { setStatus("Paste more article text (at least a paragraph).", "err"); return; }
-  setStatus("Summarizing pasted text …");
-  render(headline, text, "pasted");
+  $("pasteBtn").disabled = true;
+  try {
+    // Pasted text has no reader "Title:" line — first non-empty line is a decent headline guess.
+    const guess = (text.split(/\n/).map(l => l.trim()).find(l => l.length > 12) || "").slice(0, 160);
+    await process(text, "pasted", guess);
+  } finally {
+    $("pasteBtn").disabled = false;
+  }
 });
 
 $("pasteToggle").addEventListener("click", () => {
@@ -378,6 +471,26 @@ $("copyBtn").addEventListener("click", () => {
     () => setStatus("Copy failed — select the text manually.", "err")
   );
 });
+
+/* ---------------- Settings persistence ---------------- */
+function lsGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+
+function toggleKeyRow() {
+  $("keyRow").style.display = $("engine").value === "ai" ? "block" : "none";
+}
+
+(function initSettings() {
+  const savedKey = lsGet("gemini-key"); if (savedKey) $("apiKey").value = savedKey;
+  const savedModel = lsGet("gemini-model"); if (savedModel) $("model").value = savedModel;
+  const savedEngine = lsGet("summarizer-engine"); if (savedEngine) $("engine").value = savedEngine;
+  toggleKeyRow();
+  $("apiKey").addEventListener("input", () => lsSet("gemini-key", $("apiKey").value.trim()));
+  $("model").addEventListener("change", () => lsSet("gemini-model", $("model").value));
+  $("engine").addEventListener("change", () => { lsSet("summarizer-engine", $("engine").value); toggleKeyRow(); });
+  // Enter in the URL box triggers Summarize.
+  $("url").addEventListener("keydown", e => { if (e.key === "Enter") $("goBtn").click(); });
+})();
 </script>
 </body>
 </html>
