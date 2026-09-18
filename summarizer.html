@@ -488,7 +488,7 @@ async function process(rawText, link, knownHeadline) {
   } catch (e) {
     // No key or the AI call failed — fall back to the keyless extractive engine.
     bullets = summarize(clean, headline, 5, "textrank").bullets;
-    note = e.message === "no key" ? "  (add an API key for AI summaries)" : "  (AI unavailable — basic mode)";
+    note = e.message === "no key" ? "  (add an API key for AI summaries)" : "  (AI error: " + e.message + " — used basic mode)";
   }
   if (!bullets || !bullets.length) { setStatus("Couldn't summarize that.", "err"); return; }
   showResult(headline, bullets, link, note);
