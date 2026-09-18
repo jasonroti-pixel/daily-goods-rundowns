@@ -1,5 +1,604 @@
 [
   {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "A child with metastatic liver cancer that had stopped responding to chemotherapy is now in remission after doctors treated him with genetically engineered immune cells. Twelve months later, he still appears to be cancer free, offering new hope for treating solid tumors with CAR T therapy.",
+    "angle": "A child whose liver cancer had stopped responding to chemo is now cancer-free a year later, thanks to engineered immune cells \u2014 a genuine breakthrough moment in the fight against solid tumors, which have always been way harder to crack than blood cancers.",
+    "bullets": [
+      " Doctors used genetically engineered immune cells \u2014 CAR T therapy \u2014 to fight it",
+      " Twelve months later, the child still appears to be cancer free",
+      " It's being called a hopeful sign for using this approach on solid tumors, not just blood cancers",
+      " Ask listeners: does a story like this restore your faith in where medical science is headed?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/113869-researchers-use-genetically-engineered-immune-cells-put-child.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "FDA Announces Hand Soap Recall in 15 States\u2014Thousands of Bottles May Contain Bacteria",
+    "angle": "A hand soap recall spanning 15 states with a bacteria contamination scare is the kind of story listeners will go check their own bathroom for mid-show \u2014 it's relatable, a little gross, and genuinely useful info.",
+    "bullets": [
+      " Thousands of bottles are affected by the recall",
+      " Callers \u2014 go look at your soap dispenser right now, what brand is it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.health.com/hand-soap-recall-september-2026-12123997",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Iran strikes on Amazon data centers caused permanent loss of customer data",
+    "angle": "If true, this is a wild one \u2014 an act of war knocking out cloud data centers and permanently erasing customer data would be a first, and it hits anyone whose stuff lives on AWS, which is basically half the internet. Still an unverified, developing claim circulating online, which is its own story about how fast this stuff spreads.",
+    "bullets": [
+      " Reports claim strikes tied to Iran hit Amazon data center infrastructure",
+      " Claim is that the damage caused permanent loss of customer data \u2014 not just downtime",
+      " Story is spreading via Reddit's r/technology, with no official confirmation yet from Amazon",
+      " If a geopolitical strike can permanently wipe your data off 'the cloud,' was it ever really safe up there?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Devastated father says his 9-year-old son spent $118,000 on YouTube ad campaigns for his Minecraft channel using a company credit card - bill racked up in just three weeks was supposed to be one $20 promotion",
+    "angle": "A kid trying to grow his Minecraft channel accidentally torched six figures in three weeks - it's the ultimate 'don't leave your card unlocked' cautionary tale with a viral, relatable twist for any parent who's handed a phone to a kid.",
+    "bullets": [
+      " Dad says the plan was a $20 YouTube ad promo for his son's Minecraft channel.",
+      " Instead, the 9-year-old racked up $118,000 in ad spend.",
+      " Would you make your kid pay it back, or is this on you for leaving the card logged in?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/video-games/devastated-father-says-his-9-year-old-son-spent-usd118-000-on-youtube-ad-campaign",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "PS5 Linux lead quits as open-source projects have become \u201ca bunch of noobs using LLMs\u201d that \u201cthey don\u2019t even understand\u201d",
+    "angle": "A veteran open-source developer just walked away from the PS5 Linux project, saying AI coding tools have flooded the community with contributors who copy-paste code they don't understand \u2014 it's the latest flashpoint in the growing backlash against AI in tech work.",
+    "bullets": [
+      " Their parting shot: open-source contributors are now \"a bunch of noobs using LLMs\" who submit code \"they don't even understand.\"",
+      " It taps into a bigger tech-world debate: are AI coding tools making software development faster \u2014 or just flooding projects with sloppy, unreviewable code?",
+      " Is AI making us better at our jobs, or just letting people fake competence they don't have?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techpowerup.com/352739/ps5-linux-dev-drops-project-after-slop-kiddies-cash-in-on-crucial-exploit",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Your Computer Might Demand Your Age Soon, No Matter Where You Live | New state laws are pushing age verification into macOS and Windows. By 2027, logging in might require a facial scan or government ID.",
+    "angle": "A wave of new state age-verification laws is about to reach beyond apps and websites and into your actual operating system - meaning Windows and Mac could soon ask for a face scan or ID just to use your own computer. It's a huge privacy flashpoint that touches literally everyone with a device, not just one state.",
+    "bullets": [
+      " New state laws are pushing age verification directly into macOS and Windows, not just individual apps or websites",
+      " Reports suggest by 2027, logging into your computer could require a facial scan or government ID",
+      " It would apply no matter where you live - a state-level push with nationwide tech implications",
+      " Would you rather scan your face every time you turn on your laptop, or lose access to half the internet?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://uk.pcmag.com/security/167356/your-computer-might-demand-your-age-soon-no-matter-where-you-live",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Microsoft reportedly showed off an instant-loading File Explorer to Insiders",
+    "angle": "Every Windows user on earth has sat there watching a folder spin, so word that Microsoft is testing an instant-loading File Explorer is the rare tech update that's actually relatable instead of niche.",
+    "bullets": [
+      " Microsoft reportedly demoed a redesigned, instant-loading File Explorer internally",
+      " No public rollout date yet \u2014 this is still in the early testing phase",
+      " What's the one everyday tech annoyance you'd fix instantly if you had a magic wand?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.xda-developers.com/your-windows-11-woes-may-soon-be-over-as-insiders-confirm-a-faster-snappier-os-overall/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works",
+    "angle": "Flock Safety's license-plate cameras are quietly everywhere now, from neighborhoods to police fleets across North America, and most people have no idea what they're actually collecting. Hackers breaking one open and exposing how the system works is exactly the kind of surveillance story that makes people rethink that camera on their corner.",
+    "bullets": [
+      " Would you want to see exactly what one of these cameras knows about your daily routine?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/?utm_source=firefox-newtab-en-us",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Transit People TTC 2",
+    "angle": "The TTC always gets Canadians talking, whether it's safety, service cuts, or just another wild ride story out of Toronto's transit system.",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1whzq60",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Carney presses 10 EU countries to ratify Canada trade deal",
+    "angle": "This is Canada's Prime Minister personally lobbying holdout EU countries to lock in a trade deal years in the making \u2014 a sign Ottawa wants to lean harder on Europe as trade ties with the U.S. get shakier.",
+    "bullets": [
+      " Mark Carney is directly pressing 10 EU member countries to ratify a Canada-EU trade agreement.",
+      " Timing suggests Canada is looking to diversify trade partnerships beyond its usual reliance on the U.S.",
+      " Should Canada be putting more eggs in Europe's basket instead of leaning on the U.S.?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.politico.eu/article/mark-carney-canada-presses-10-eu-countries-to-ratify-trade-deal/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Trump signs memorandum to identify and remove Canadian products from U.S. federal procurement | CBC News",
+    "angle": "This lands right in the middle of the ongoing U.S.-Canada trade tension, and it's a very literal 'Buy American' move - the federal government auditing its own supply chain to cut Canadian products out. It's the kind of story that ripples into jobs and business on both sides of the border.",
+    "bullets": [
+      " Trump signed a memorandum directing agencies to identify and remove Canadian products from U.S. federal procurement",
+      " Move applies to purchasing across the U.S. federal government, not a single agency",
+      " Comes amid ongoing U.S.-Canada trade friction that's been simmering for months",
+      " Is this smart economic nationalism or a self-inflicted wound that just raises costs for the U.S. government itself?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/trump-memorandum-canadian-goods-removed-9.7346944",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Associated Press: Carney to address EU Parliament after Trump calls Canada associate membership a possible hostile act",
+    "angle": "This is a real trade-and-diplomacy flashpoint: Canada's PM is about to stand in front of the European Parliament right after Trump suggested closer Canada-EU ties could be seen as hostile to the US \u2014 that's the kind of three-way tension North American listeners want explained in plain English.",
+    "bullets": [
+      " Mark Carney is scheduled to address the European Parliament",
+      " Donald Trump floated that Canada pursuing associate membership with the EU could be viewed as a 'hostile act'",
+      " Puts Carney in the middle of a live US-Canada-EU trade and diplomacy standoff",
+      " Is Canada allowed to get closer to Europe without it being a slap in the face to Washington?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/carney-canada-eu-trump-parliament-speech-ef4559ce5972abb47444e469f42005bb",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "911 services gradually being restored after outages affect Ontario, Quebec, other parts of Canada",
+    "angle": "If your phone can't reach 911 in an emergency, that's not a small glitch \u2014 it's the kind of thing that makes everyone check their own service the second they hear about it.",
+    "bullets": [
+      " Emergency response services say the issue is gradually being resolved",
+      " No word yet on the exact cause of the outage",
+      " Anyone else immediately check if their phone still had bars when they heard this?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/toronto/911-service-down-ontario-canada-9.7347530?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Millions of fish tested Canada's largest nuclear plant. The incident points to a growing climate risk",
+    "angle": "A massive fish swarm clogged intake systems at Canada's largest nuclear plant and reportedly challenged reactor safety \u2014 a weird nature story that's really a warning about climate change stress-testing our power grid.",
+    "bullets": [
+      " Millions of fish swarmed the facility in a freak event",
+      " Officials say the incident 'challenged reactor safety'",
+      " Experts warn nuclear plants need to get more climate-resilient, not less, as we lean on them to fight climate change",
+      " Millions of fish almost knocked out a nuclear plant \u2014 is our power grid ready for a stranger, weirder climate?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/ontario-bruce-power-climate-change-gizzard-shad-fish-event-lake-huron-9.7337290?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Tommy Robinson comes out in support for Ed Sheeran in career low for singer",
+    "angle": "When a divisive UK activist publicly cosigns you, it's not exactly the kind of press a pop star wants - this one's got people talking about endorsements nobody asked for.",
+    "bullets": [
+      " Tommy Robinson, the controversial UK activist, publicly voiced support for pop star Ed Sheeran.",
+      " It's making the rounds on Reddit's r/nottheonion, the sub for real stories too weird to sound real.",
+      " Would you want praise from a controversial public figure, even if you never asked for it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.joe.co.uk/news/tommy-robinson-comes-out-in-support-for-ed-sheeran-in-career-low-for-singer-547913",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Macklemore releases new statement saying his earnings from Ed Sheeran\u2019s The Loop Tour will be donated to Palestinian organisations",
+    "angle": "Macklemore has been one of the loudest pro-Palestinian voices in music since his song \"Hind's Hall,\" so this isn't a random gesture - it's him putting his money where his activism already was, and it's the kind of move that splits a comment section instantly.",
+    "bullets": [
+      " Macklemore is opening for Ed Sheeran on The Loop Tour.",
+      " He says his earnings from the run will go to Palestinian organisations.",
+      " Is this brave activism or a PR move riding someone else's tour - callers, pick a side."
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1wi84hl",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Comedian Salma Hindy \u201cI lost my position as Chelsea Handler\u2019s opener after I spoke to her about Palestine.\u201d",
+    "angle": "A comedian publicly claiming she lost a high-profile opening gig over a political conversation taps right into the ongoing Hollywood tension around speaking out on Israel-Gaza \u2014 instant debate fuel for a comedy/free-speech angle.",
+    "bullets": [
+      " Comedian Salma Hindy says she lost her gig opening for Chelsea Handler.",
+      " Hindy claims the fallout came right after she spoke to Handler about Palestine.",
+      " Should comedians risk the gig to speak their politics to the boss, or is staying quiet just smart business?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/5ap1yacmtzph1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Matt Bernstein asks Lady Gaga and Ed Sheeran to talk about Palestine: \u201cHow much goddamn money do you need\u201d",
+    "angle": "A viral callout is putting two of pop's biggest names on blast for staying quiet on a hot-button issue - exactly the kind of celebrity-activism debate that splits a comment section in half.",
+    "bullets": [
+      " Social commentator Matt Bernstein publicly called out Lady Gaga and Ed Sheeran over their silence on Palestine.",
+      " His pointed quote: \"How much goddamn money do you need\".",
+      " Should A-list stars be expected to weigh in on politics, or is 'stick to music' a fair boundary?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/19o3j1r1lwph1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Pink Floyd legend Roger Waters calls Ed Sheeran a \"prick\" for booting Macklemore",
+    "angle": "A Pink Floyd legend going scorched-earth on Ed Sheeran is the kind of generational-clash celebrity beef that writes its own headlines - instant watercooler material for anyone who loves a good rock-vs-pop feud.",
+    "bullets": [
+      " Roger Waters - yes, the Pink Floyd co-founder - publicly called Ed Sheeran a \"prick\"",
+      " Old rock royalty dragging a pop megastar online - do you side with the legend or the hitmaker?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/ikyt8daj4xph1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Marissa Bode (Nessarose in Wicked) calls out Ed Sheeran: \"My legs may not work like they used to before, but at least I have a f--king spine. Free Palestine, b---h!\"",
+    "angle": "A pointed, deeply personal clapback from a Wicked star at a music A-lister is exactly the kind of celebrity friction that gets phones ringing \u2014 plus she dropped a political statement in the same breath, so there's two conversations in one.",
+    "bullets": [
+      " Marissa Bode, who plays Nessarose in Wicked, fired back at Ed Sheeran on social media.",
+      " Her line: \"My legs may not work like they used to before, but at least I have a f--king spine.\"",
+      " She capped it off with \"Free Palestine, b---h!\"",
+      " Bode uses a wheelchair in real life, which makes the \"spine\" line land as a pointed, personal jab, not just a generic insult.",
+      " Savage clapback or did she cross a line mixing a personal insult with a political statement \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/yvcg11kxswph1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Allie Trimm (former Glinda on Broadway) recounting how the Wicked team tried to silence her for speaking up about Palestine",
+    "angle": "A former lead from one of Broadway's biggest shows going public with claims she was pressured into silence over a political stance is exactly the kind of entertainment-meets-politics collision that gets people talking.",
+    "bullets": [
+      " Allie Trimm played Glinda in the Broadway production of Wicked.",
+      " She's now speaking out, claiming the Wicked team tried to silence her after she spoke up about Palestine.",
+      " Her account is coming straight from her own Instagram, not a network statement.",
+      " Should Broadway stars have to stay quiet on politics to keep their job, or is that a line producers shouldn't get to draw?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/sz2da8mdsxph1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Ireland will boycott 2027 Eurovision Song Contest for 2nd year over Israel's participation",
+    "angle": "Ireland is doubling down on its Eurovision boycott, and it puts the contest right back in the middle of the Israel-Gaza fallout that's been dividing entertainment and sports worldwide.",
+    "bullets": [
+      " Ireland's national broadcaster RT\u00c9 announced the boycott on Thursday.",
+      " This is the second year in a row Ireland is sitting out the contest.",
+      " Should politics ever get to cancel a pop song contest \u2014 or is Eurovision already political enough?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/ireland-national-broadcaster-eurovision-boycott-9.7347639?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Nicotine\u2026 for wellness? Stimulant pouches are the hot \u2018productivity\u2019 drug \u2014 but fans admit: \u2018Oh, I am addicted\u2019",
+    "angle": "Gen Z and biohackers are swapping coffee for nicotine pouches as a discreet 'focus' hack, but the trend comes with a catch \u2014 even the people hooked on them are admitting it's just addiction wearing a wellness costume.",
+    "bullets": [
+      " Nicotine pouches are being marketed online as the latest 'biohack' for productivity and focus.",
+      " Users like them because they're discreet \u2014 no smoke, no vape cloud, just a tiny pouch.",
+      " One user's blunt admission cuts through the hype: 'Oh, I am addicted.'",
+      " Is this actually a productivity hack, or just Big Tobacco's oldest trick with a wellness filter slapped on it?"
+    ],
+    "debate": "The obvious catch nobody's addressing: what happens when the buzz wears off?",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/17/health/nicotine-pouches-are-the-hot-productivity-drug-fans-admit-i-am-addicted/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "How common are measles deaths in the United States as vaccination rates fall? - CNN",
+    "angle": "A fourth measles death was just confirmed in Pennsylvania, and health officials say it's the deadliest year for measles in the US in decades \u2014 all as vaccination rates keep slipping. It's a real public health story with a built-in debate about vaccine hesitancy that touches every listener with kids.",
+    "bullets": [
+      " A fourth person in Pennsylvania has died from measles, state officials confirmed Tuesday.",
+      " It's the first time in decades the US has recorded this many measles deaths in a single year.",
+      " Health experts are directly tying the spike to falling vaccination rates nationwide.",
+      " Measles was declared eliminated in the US back in 2000 \u2014 this surge marks a sharp reversal.",
+      " Are you still fully vaccinating your kids on schedule, or has the hesitancy trend hit your own family? CNN (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.cnn.com/2026/09/16/health/us-measles-deaths-explainer",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Taylor Frankie Paul dealt new custody battle blow as she fails multiple drug tests: report",
+    "angle": "Taylor Frankie Paul's messy custody battle is already reality-TV catnip, and a new report of failed drug tests just raised the stakes for her three kids.",
+    "bullets": [
+      " Taylor Frankie Paul, star of \"Secret Lives of Mormon Wives,\" is fighting a custody battle over her three kids.",
+      " She's up against both ex-husband Tate Paul and ex-boyfriend Dakota Mortensen.",
+      " A new report claims she's failed multiple drug tests amid the case.",
+      " When reality stars' real-life drama outpaces the show itself, are we still watching for entertainment or just rubbernecking?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/17/parents/taylor-frankie-paul-dealt-custody-battle-blow-fails-multiple-drug-tests/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "After a Virginia Tech cancer center saved their cat from cancer, a couple gave it a record $15 million donation to fund cancer research that could help pets and people. It is the largest gift in the center\u2019s history.",
+    "angle": "It's the ultimate 'thank you' gift - a couple was so grateful their cat survived cancer treatment that they wrote the largest check in the history of a Virginia Tech cancer center, and the research could end up helping humans too.",
+    "bullets": [
+      " It's earmarked for cancer research at a Virginia Tech veterinary cancer center",
+      " Would you write a life-changing check to say thank you for saving your pet - and how much is too much?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://cardinalnews.org/2026/09/15/virginia-tech-receives-15-million-gift-to-advance-animal-cancer-treatment/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Bad News: New Study Suggests Water Will Make Large Moon Colonies Impossible",
+    "angle": "It's giving very 'well that's inconvenient' energy - scientists say H2O itself may be the roadblock to building big lunar cities, which is a fun gut-check on how far off moon living actually is.",
+    "bullets": [
+      " New study reportedly finds water could be the limiting factor for large-scale moon colonies",
+      " Story's out of r/nottheonion - the kind of headline that sounds made up but apparently isn't",
+      " No word yet on the specifics of the study, just the headline-grabbing conclusion: big moon bases, not so fast",
+      " Would you actually sign up to live on the moon if they figured this out - or is that a hard pass for you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.extremetech.com/science/bad-news-new-study-suggests-water-will-make-large-moon-colonies-impossible",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "UK Lawyers for Israel Want Doctors Without Borders Branded a Terror Group",
+    "angle": "A UK legal group representing Israel is pushing to have Doctors Without Borders \u2014 yes, the Nobel Peace Prize-winning medical charity \u2014 officially labeled a terror organization, and the sheer audacity of that ask is why it's blowing up online.",
+    "bullets": [
+      " UK Lawyers for Israel is the group behind the push",
+      " MSF won the Nobel Peace Prize in 1999 for its work treating patients in conflict zones",
+      " Story is currently trending on r/nottheonion, where readers are reacting like it's satire",
+      " Does calling a Nobel Prize-winning charity a 'terror group' hold any water, or is this just lawfare gone off the rails?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://novaramedia.com/2026/09/16/uk-lawyers-for-israel-want-doctors-without-borders-branded-a-terror-group/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Take a Look at the Antisemitism Command Center Inside Gillette Stadium",
+    "angle": "The headline alone reads like satire, which is exactly why Reddit's r/nottheonion crowd latched onto it - a pro football stadium running a dedicated command center for antisemitism sounds like a punchline until you remember it's real, making it perfect \"wait, what?\" kicker material.",
+    "bullets": [
+      " Story surfaced via r/nottheonion, a subreddit built around real headlines that sound fake",
+      " Smart security move by an NFL franchise, or does \"command center\" sound like overkill for a football stadium?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.jewishexponent.com/take-a-look-at-the-antisemitism-command-center-inside-gillette-stadium/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Scientists discover an amphibian gut bacterium 100% effective in destroying cancer cells in rats",
+    "angle": "Scientists found a bacterium living in amphibian guts that wiped out cancer cells in rats with 100% effectiveness - the kind of weird-science headline that makes people stop scrolling and go 'wait, what?'",
+    "bullets": [
+      " In early trials, it was 100% effective at destroying cancer cells in rats",
+      " Still animal-stage research, but it's the kind of 'nature already had the answer' story that tends to blow up online",
+      " Ask listeners: what's the weirdest place you'd believe a cancer cure could come from?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/110656-scientists-discover-amphibian-gut-bacterium-100-effective-destroying.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Brooklyn bodega owner reunited with kidnapped 3-month-old kitten after community effort to return cat",
+    "angle": "A missing shop cat and a whole neighborhood banding together to get her back \u2014 it's the kind of good-news underdog story that makes people actually feel something on a Tuesday.",
+    "bullets": [
+      " A Brooklyn bodega owner's kitten \u2014 just 3 months old \u2014 was reported kidnapped from the shop.",
+      " A community effort mobilized to track the kitten down and bring her back.",
+      " Ever seen your neighborhood actually pull together over something this small and this sweet \u2014 tell us your local 'whole block banded together' story."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.themirror.com/news/us-news/brooklyn-bodega-owner-reunited-kidnapped-2027227",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Scientists made mice with half a brain. Then they filled them with human organoids",
+    "angle": "This one sounds like a headline from a sci-fi script, not a lab report \u2014 a real \"they did WHAT now\" story that's tailor-made for a quick reaction segment.",
+    "bullets": [
+      " \"Human brain organoids\" are lab-grown clusters of human brain tissue \u2014 scientists have been using them to study how the brain develops and repairs itself.",
+      " Exact study details are thin from this headline alone, but the concept \u2014 human tissue integrating into a living rodent brain \u2014 is enough to raise eyebrows on its own.",
+      " Cool science breakthrough or straight-up nightmare fuel \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.statnews.com/2026/09/16/human-brain-organoids-neuro-chimeric-mice-study-published-nature/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "OpenAI Discloses Six New Incidents of \u2018Concerning\u2019 A.I. Behavior",
+    "angle": "Millions of us are chatting with ChatGPT daily, so when the company itself flags 'concerning' behavior from its own AI, that's the kind of trust-gap headline that makes people pause mid-scroll.",
+    "bullets": [
+      " Does hearing OpenAI admit to 'concerning' incidents make you trust AI less, or does it just mean they're being honest?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html?unlocked_article_code=1.B1E.X-XI.CIa59YXr1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Joint Chiefs chairman says U.S. forces must prepare to be \u2018hunted\u2019 by autonomous systems",
+    "angle": "The Pentagon's top uniformed officer is warning that autonomous weapons and drones are changing warfare so fast that American troops need to train for a future where they're the ones being tracked and targeted by machines, not just soldiers.",
+    "bullets": [
+      " It's a rare moment of a top military leader speaking bluntly about how fast autonomous weapons tech is outpacing traditional combat training.",
+      " Does it freak you out more, or comfort you, to know the military is already war-gaming a future full of killer robots?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://defensescoop.com/2026/09/16/gen-dan-caine-drones-autonomous-systems-ai-enabled-warfare",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-17",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Huawei just sped up its AI chip plans and wants to link a million processors to take on Nvidia",
+    "angle": "It's the ultimate tech grudge match \u2014 Huawei can't out-build Nvidia's chips one-for-one, so they're going nuclear on scale, teasing a supercluster of a million AI chips linked together. Great excuse for a plain-English 'what does this actually mean' chat about the AI arms race.",
+    "bullets": [
+      " Announced at Huawei's Connect conference in Shanghai",
+      " Ascend 960DT chips moved up to Q1 2027",
+      " Ascend 960PR now targeted for Q3 2027, months ahead of schedule",
+      " New Atlas 960 SuperPoD plus UnifiedBus interconnect tech could eventually link up to 1 million AI chips into one giant cluster",
+      " Is 'go bigger, not better' actually a winning strategy, or just a flex while you catch up?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/r/Futurology/comments/1wir9qb/huawei_just_sped_up_its_ai_chip_plans_and_wants/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-16",
     "slot": "pm",
     "category": "THE LIST",
