@@ -1,5 +1,565 @@
 [
   {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "This Wavytalk styler is the closest alterative to the Dyson Airwrap",
+    "angle": "Dupe culture is a nonstop trending topic right now, and pitting a cheap styler against the pricey, cult-favorite Dyson Airwrap is exactly the kind of budget-vs-luxury debate that gets listeners texting in with their own dupe wins and fails.",
+    "bullets": [
+      " Callers: what's the one dupe you swear works just as good as theI brand original?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/shopping/wavytalk-airshape-air-styler-set-review/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Drunk British tourist tackled by Thai police after he punched Good Samaritan",
+    "angle": "A wild viral clip out of Thailand - a British tourist decks the teenager trying to help him, then gets tackled by cops - it's the kind of dumb-tourist-abroad chaos that makes for an easy, funny watercooler segment.",
+    "bullets": [
+      " Ryan Parker, a 21-year-old British tourist, was arrested by Thai police on Sept. 16",
+      " He'd lost his keys and was arguing with his girlfriend when a 17-year-old stopped his motorbike to help",
+      " Parker allegedly threw a haymaker at the teen Good Samaritan instead of thanking him",
+      " Police reportedly had to tackle Parker to get him into custody, per Viral Press",
+      " Worst way to say 'thank you' you've ever seen, or worst travel meltdown story you've got?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/video/drunk-british-tourist-tackled-by-thai-police-after-he-punched-good-samaritan/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Hackers find encryption keys stored on stolen Flock camera despite company's denials-- group extracts more than 27,000 clips, 1.6 million images captured in a span of 21 days from the device",
+    "angle": "Flock Safety cameras are the license-plate readers watching intersections in thousands of North American towns, and the company insisted its encryption kept stolen units useless \u2014 until hackers cracked one open and proved that wrong. This is a real privacy gut-punch: a camera watching your street got popped, and everything it saw leaked.",
+    "bullets": [
+      " Hackers pulled data off a stolen Flock Safety camera after the company said stolen units couldn't be exploited because of encryption.",
+      " All of that surveillance footage came from just 21 days of the camera running.",
+      " There's probably a Flock camera on your commute right now \u2014 does this change how you feel about it, or is it just the cost of 'safer streets'?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/hackers-find-encryption-key-stored-on-flock-camera-group-extracts-mor",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Marvel's Wolverine motorcycle section and quicktime events are getting the wrong kind of attention because \"the game plays itself\" and \"you don't have to press anything\"",
+    "angle": "Marvel's Wolverine is one of the most anticipated games coming out, but early buzz is about the motorcycle chase and quicktime moments basically driving themselves - a classic gamer flashpoint about whether big-budget titles are turning into movies you barely touch.",
+    "bullets": [
+      " Critics say \"you don't have to press anything\" during these sequences",
+      " It's reigniting the old gamer debate over interactive cutscenes vs. real hands-on gameplay",
+      " Do you want games to challenge you, or is a cinematic autopilot moment actually the cool part?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gamesradar.com/games/action/marvels-wolverine-motorcycle-section-and-quicktime-events-are-getting-the-wrong-kind-",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,' new unredacted filings reveal",
+    "angle": "This is a Microsoft exec's own words, newly unsealed in court filings, essentially admitting what critics have been screaming for years about AI. It lands right in the middle of the bigger fight over whether AI companies owe creators and workers for the content that trained their models.",
+    "bullets": [
+      " It surfaced through litigation, adding fuel to the ongoing legal fights over how AI companies source their training data.",
+      " If the people building AI are calling it theft behind closed doors, does that change how you feel about using it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filin",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "China dominates batteries. That could become a problem for Western defence.",
+    "angle": "China controls the vast majority of battery production and the raw materials behind it, and now that's raising alarms that Western militaries could be dangerously dependent on a rival for the tech powering everything from drones to submarines.",
+    "bullets": [
+      " China dominates global battery manufacturing and the supply chain behind it",
+      " Concerns are growing that this gives China major leverage over Western defence capabilities",
+      " Modern militaries increasingly rely on batteries for drones, vehicles, and other next-gen hardware",
+      " Should Western governments be forced to pay more to build batteries at home instead of relying on China?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.rusi.org/explore-our-research/publications/commentary/battery-gap-building-industrial-strength-military-edge",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Trump says Canada having more friends is bullying",
+    "angle": "Trump's taking a shot at Canada's alliances, framing teamwork among allies as a hit job on the U.S. \u2014 that's the kind of loaded rhetoric that fires up the cross-border relationship debate instantly.",
+    "bullets": [
+      " Donald Trump reportedly claimed that Canada having more international friends/allies amounts to 'bullying' the U.S.",
+      " Is that just classic Trump trash talk, or does it actually reveal something about how the U.S.-Canada relationship is shifting?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thebeaverton.com/2026/09/trump-says-canada-having-more-friends-is-bullying/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Judge says Trump has to give 30 days notice before demolishing Kennedy Center",
+    "angle": "A federal judge just put the brakes on the Trump administration's plans for the Kennedy Center, ruling they can't start demolition without a 30-day heads-up first \u2014 a fresh flashpoint in the ongoing fight over Trump's takeover of the iconic DC arts institution.",
+    "bullets": [
+      " A judge ruled the Trump administration must give 30 days' notice before any demolition work at the Kennedy Center.",
+      " Should a president be able to reshape a national arts institution like the Kennedy Center at all \u2014 or is this exactly what courts are supposed to slow down?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://abcnews.com/Politics/trump-photographed-kennedy-center-demolishedplacard-amid-fight-venues/story?id=136519219",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Manitoba to stick with daylight time year-round",
+    "angle": "Manitoba is planning to ditch the twice-a-year clock switch and lock in on daylight time permanently \u2014 the kind of change every Canadian has an opinion on, because everyone's felt that groggy Monday after the time change.",
+    "bullets": [
+      " Phones lines: would you rather have darker mornings or losing that extra hour of evening light \u2014 Manitoba just picked a side, should your province?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theglobeandmail.com/canada/article-manitoba-daylight-time-year-round/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Far-right German politician heckles Carney with 'U.S.A.' chant before EU address | CBC News",
+    "angle": "Canada's PM getting heckled with an American chant right before an EU speech is the kind of awkward, symbolic moment that says a lot about the populist wave rattling European politics right now.",
+    "bullets": [
+      " Mark Carney was heckled just before delivering an address to the EU.",
+      " A far-right German politician interrupted him with chants of \"U.S.A.! U.S.A.!\"",
+      " Why would a German politician troll Canada's PM by chanting the name of a different country entirely?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/usa-heckler-carney-eu-afd-9.7348759",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "PM Carney says EU partnership to go to debate, vote in Parliament",
+    "angle": "The PM is letting elected MPs actually debate and vote on a major Canada-EU partnership instead of just signing off on it himself \u2014 that's the kind of transparency-vs-speed tension that gets people talking about how big deals should get made.",
+    "bullets": [
+      " PM Mark Carney says the Canada-EU partnership will go to a formal debate and vote in Parliament",
+      " Puts the deal's fate in the hands of MPs rather than just the executive branch",
+      " Should big international deals like this always get a Parliament vote, or does that just slow Canada down?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/politics/article/pm-carney-says-eu-partnership-to-go-to-debate-vote-in-parliament/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "New cat species identified for the 1st time in a century",
+    "angle": "This is the first new living cat species named in over 100 years, discovered hiding in Bolivia's cloud forest \u2014 a genuinely rare science headline that gives the hosts a fun, easy-to-love break from the news cycle.",
+    "bullets": [
+      " It's the first new living cat species formally named and described in more than a century",
+      " Discoveries like this are exceptionally rare \u2014 most new cat classifications come from splitting up known species, not finding one entirely new",
+      " If you discovered a brand new species tomorrow, what would you name it? ON-AIR BIT BREAKDOWN - Step 1: Introduce the mystery cat - 30 seconds -> Host reads the basics: tiny wild cat, Bolivian cloud forest, first new cat species in 100+ years - Step 2: Name That Cat - 1-2 minutes -> Both hosts pitch their own name for the new species before revealing (or joking about) what scientists actually called it - Step 3: Phone-in fun - 2-3 minutes -> Ask listeners to call/text their pick for the cat's name or their own 'if I discovered a species' idea"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/science/tilcayo-tiger-cat-new-species-9.7349140?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "'Cocaine eyes' to cash bribes: 5 revelations from Project South wiretaps",
+    "angle": "A major corruption investigation just had its wiretaps go public, and the code language allegedly used \u2014 including the phrase \"cocaine eyes\" for cash bribes \u2014 is the kind of bizarre detail that makes a serious story instantly shareable.",
+    "bullets": [
+      " What's the weirdest code word you'd invent if you had to talk about dirty money on a wiretap?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/toronto/project-south-cocaine-eyes-9.7348668?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "At Issue | Is Carney\u2019s Europe pivot in Canada\u2019s best interest?",
+    "angle": "Canada's PM is pivoting hard toward the EU for trade and investment while a former PM defends walking away from the Americans \u2014 this is the trade-war soap opera Canadians can't stop watching.",
+    "bullets": [
+      " Prime Minister Mark Carney is pushing to deepen ties with the European Union",
+      " Former PM Stephen Harper publicly backs the call to walk away from U.S. trade talks",
+      " Is Canada smart to lean on Europe, or are we just poking the bear next door?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/player/play/9.7348953?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "See the new \u2018SNL\u2019 cast members, plus our Grace Reiter interview",
+    "angle": "SNL's Season 52 cast additions always spark instant curiosity, but this one's got a viral hook - one of the new featured players got there off a YouTube parody blowing up online, which is basically the internet-fame-to-primetime dream.",
+    "bullets": [
+      " SNL added two new featured players ahead of Season 52: Saidah Belo-Osagie and Grace Reiter",
+      " Reiter exclusively told Page Six back in Dec. 2025 she'd thought about whether she'd ever end up doing SNL",
+      " Season 52 premieres Sept. 26 on NBC",
+      " Can a viral YouTube parody actually predict who's going to make it on SNL, or is it a total coin flip?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 90/90 (45 fit + 12 source + 33 quality) -> LEAD",
+    "url": "https://pagesix.com/video/see-the-new-snl-cast-members-plus-our-grace-reiter-interview/",
+    "score": "90/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "More Like \u2018MobLand\u2019: 10 Best Guy Ritchie Movies and TV Shows to Watch on Netflix, Paramount+, Prime Video, and More",
+    "angle": "He's the guy behind those fast-talking British crime movies you quote at parties, and now he's basically running his own mini-studio across every streamer - 'MobLand' is just the latest proof he's everywhere.",
+    "bullets": [
+      " A new roundup ranks his 10 best movies and shows, spread across Netflix, Paramount+, and Prime Video",
+      " His newest, 'MobLand,' is name-checked as the launch point for the list",
+      " He's gone from cult indie director to a guy with projects across basically every major streaming platform",
+      " Ask the hosts (and callers) to defend their pick for the *actual* best Guy Ritchie movie - 'Snatch,' 'Lock, Stock,' or something newer - and see if anyone agrees."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://decider.com/2026/09/18/best-guy-ritchie-movies-and-tv-shows-on-streaming/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Tom Cruise lifts lid on his conversation with \u2018genius\u2019 Taylor Swift at Chiefs game",
+    "angle": "Cruise and Swift's Chiefs-game friendship has been quietly trending all season, and now Cruise himself is dishing on what she's actually like one-on-one - easy tabloid crossover between Hollywood and Swiftie world.",
+    "bullets": [
+      " Tom Cruise opened up about chatting with Taylor Swift at a Chiefs game",
+      " His verdict: \"She's funny. She's got such a great sense of humor\"",
+      " Cruise called her a \"genius\" in the process",
+      " Who's the most surprisingly funny celebrity you'd never expect to be a riot in person?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/18/entertainment/tom-cruise-lifts-lid-on-his-conversation-with-genius-taylor-swift-at-chiefs-game/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "James Gunn Is Trying to Temper Your \u2018Man of Tomorrow\u2019 Expectations",
+    "angle": "DC boss James Gunn is publicly lowering the temperature on fan hype before the 2027 sequel even starts rolling out marketing, which is exactly the kind of \"is he protecting the movie or admitting it's thinner than expected\" debate fans love to chew on.",
+    "bullets": [
+      " James Gunn, head of DC Studios, is telling fans not to expect \"secret characters\" in the upcoming film.",
+      " Is Gunn being smart by killing rumors early, or already managing expectations because the movie can't live up to the hype? gizmodo.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/james-gunn-is-trying-to-temper-your-man-of-tomorrow-expectations-2000813644",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Jamie Miller talks about his viral song \u2018Babydoll,\u2019 dancing with celebrities, and starting a new chapter",
+    "angle": "Jamie Miller nearly walked away from music for good, and now his song 'Babydoll' is everywhere \u2014 it's the classic comeback story that always gets an audience rooting.",
+    "bullets": [
+      " Jamie Miller had been grinding in music for almost a decade before \"Babydoll\" finally broke through",
+      " He stepped away from music entirely for close to two years before this comeback",
+      " Opens up on Page Six's \"Viral Deep Dive\" series about the song's unexpected rise",
+      " Also talks dancing with celebrities and starting a fresh \"new chapter\" in his career",
+      " Ever almost quit on a dream right before it paid off \u2014 what made you stick it out, or what made you walk away? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/video/jamie-miller-talks-about-his-viral-song-babydoll-dancing-with-celebrities-and-starting-a-new-chapter/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Tom Cruise says Taylor Swift was \"schooling me on football\" at the Kansas City Chiefs game on Monday.",
+    "angle": "Two of the biggest names on the planet sitting together at a Chiefs game is instant tabloid gold, and Cruise gushing about Swift's football IQ (and her writing, directing, everything) is the kind of odd-couple crossover moment that gets clipped everywhere.",
+    "bullets": [
+      " Tom Cruise says Taylor Swift was \"schooling me on football\" at Monday's Kansas City Chiefs game.",
+      " Cruise says they also talked music and movies.",
+      " He called her \"funny\" with \"such a great sense of humor.\"",
+      " Cruise praised her as \"a brilliant writer... a brilliant musician and director \u2014 very skilled.\"",
+      " Is Tom Cruise a closet Swiftie now, or just being polite to the most powerful woman in football's luxury box? X/Twitter @Variety (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Variety/status/2100883212683644986",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "'You're Not Going To Win Tonight With That Stupid Face': Ke Huy Quan Reveals Cruel Dig From Famous Actor",
+    "angle": "An Oscar winner just aired out a nasty backstage dig from a fellow A-lister \u2014 that's instant Hollywood gossip gold, and everyone's going to want to know who said it.",
+    "bullets": [
+      " Ke Huy Quan claims a famous actor told him: \"You're not going to win tonight with that stupid face.\"",
+      " Callers, take your shot: which A-lister do you think was cold enough to say that to Ke Huy Quan's face? ON-AIR BIT BREAKDOWN - Step 1: Drop The Quote - Cold open, no names yet -> Read the line exactly as reported \u2014 'You're not going to win tonight with that stupid face' \u2014 and let it sit for a beat. - Step 2: Hosts Guess First - 30 seconds, no cheating -> Each host throws out one guess for which famous actor they think has that kind of petty energy. - Step 3: Open The Phones - Quick caller round -> Take 2-3 caller guesses on air, ranking the wildest theory before moving on."
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/ke-huy-quan-unnamed-actor-sag-awards-memoir-1764162",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Millie Bobby Brown Welcomes Baby No. 2 with Husband Jake Bongiovi",
+    "angle": "The Stranger Things star and her Bon Jovi-family husband just added a second kid to their fast-growing household \u2014 a quick, feel-good pop culture beat listeners will want the details on.",
+    "bullets": [
+      " Millie Bobby Brown and husband Jake Bongiovi have welcomed their second child together.",
+      " Jake Bongiovi is the son of rocker Jon Bon Jovi, keeping this one firmly in the celebrity-family spotlight.",
+      " This marks baby No. 2 for the young couple, who married in 2024.",
+      " From Netflix's biggest teen star to a two-time mom before 25 \u2014 how fast does that timeline feel to you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/millie-bobby-brown-welcomes-second-baby-with-husband-jake-bongiovi-source-12125396?utm_campaign=peopl",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Scientists Develop a Way to Restore Aging EV Batteries to Up to 95% of Their Original Capacity Instead of Breaking Them Down for Recycling, Potentially Giving Old Batteries a New Life.",
+    "angle": "Everyone assumes EV batteries just die and get tossed - this is the opposite of that fear, and it plays into the bigger \"is EV ownership actually practical long-term\" conversation everyone's having.",
+    "bullets": [
+      " Researchers found a way to restore old, degraded EV batteries back up to 95% of original capacity",
+      " Instead of the usual path - shredding worn-out batteries down for recycling - this method effectively reverses the aging",
+      " Could mean old EV batteries get a second life instead of being scrapped",
+      " Would this change your mind about buying a used EV if you knew the battery could basically be reset like new?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/113894-scientists-develop-way-restore-aging-ev-batteries-without.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Julia Stiles calls out \u2018diva\u2019 Andy Cohen\u2019s criticism of her dancing on \u2018DWTS\u2019 \u2014 and he responds - Page Six",
+    "angle": "A bona fide '90s movie star is throwing shade at one of Bravo's biggest names live on network TV, and Derek Hough jumped in to pile on \u2014 that's a celebrity feud with legs, not just DWTS inside baseball.",
+    "bullets": [
+      " Julia Stiles called out Andy Cohen on \"Dancing With the Stars\" Wednesday night over his criticism of her dancing.",
+      " Stiles said she \"stopped taking dance classes\" because people expected her to be a certain kind of dancer, tying it back to Cohen's comments.",
+      " DWTS host Derek Hough publicly sided with Stiles, declaring on air: \"Eat it, Andy Cohen!\"",
+      " Cohen, who hosts Bravo's \"Watch What Happens Live,\" responded to the callout.",
+      " Team Julia or Team Andy \u2014 who's actually in the wrong here? Page Six (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/17/entertainment/julia-stiles-calls-out-diva-andy-cohens-criticism-on-dwts-and-he-responds/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Study finds association between passenger vehicle size and pedestrian fatality rates. Every additional 100 kg of vehicle weight increased pedestrian fatality odds by 6%. Every additional 10 cm of vehicle height increased pedestrian fatality odds by 11%",
+    "angle": "Everyone's noticed SUVs and pickups getting bigger every year - this study puts hard numbers on why that trend might actually be more dangerous for people walking, not just safer for people driving.",
+    "bullets": [
+      " Every extra 100 kg of vehicle weight bumped pedestrian fatality odds up 6%",
+      " Every extra 10 cm of vehicle height bumped pedestrian fatality odds up 11%",
+      " Height mattered even more than weight - taller front ends, not just heavier vehicles, are the bigger factor",
+      " Would you ever downsize your vehicle for pedestrian safety, or is a bigger ride a non-negotiable for you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2210670726006633?via%3Dihub",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "A new liquid biopsy blood test can now detect pancreatic cancer much earlier, when it\u2019s not only more treatable but also when it\u2019s precancerous and potentially curable. Pancreatic cancer has the lowest survival rates of any cancer. 90% have tumors detected at when the malignancy has already spread.",
+    "angle": "Pancreatic cancer is basically the scariest diagnosis in oncology because it's almost always caught too late - this is a rare good-news health story that hits home for anyone who's lost someone to it.",
+    "bullets": [
+      " It's a liquid biopsy - meaning a simple blood draw, not a scan or a surgical biopsy.",
+      " Right now 90% of pancreatic cancer cases aren't caught until the disease has already spread.",
+      " Pancreatic cancer has the lowest survival rate of any major cancer.",
+      " This test can flag it at the precancerous stage - before it's technically even cancer yet, and potentially curable.",
+      " Everybody knows someone who's been touched by this disease - would you want to get a blood test like this just to know your risk, even before you had any symptoms?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cityofhope.org/research/research-news/new-study-blood-test-shows-promise-for-detecting-pancreatic-cancer-at-its-earlie",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "New research shows that irritability is strongly associated with post-traumatic stress disorder symptoms, chronic pain and difficulty understanding speech in noisy environments among military veterans with chronic mild traumatic brain injury, or concussion.",
+    "angle": "New research on military veterans found irritability isn't just a mood thing after a brain injury \u2014 it's tightly tied to PTSD symptoms, chronic pain, and even trouble hearing conversations in noisy rooms. It's a relatable hook for anyone who's noticed a veteran in their life get short-tempered since an injury, and it reframes 'irritability' as a real symptom worth taking seriously.",
+    "bullets": [
+      " Researchers found irritability is strongly linked to PTSD symptoms in this group.",
+      " It's also connected to chronic pain and trouble understanding speech in noisy environments.",
+      " Anyone got a veteran in their life who's been way quicker to snap since a head injury \u2014 does this explain it?"
+    ],
+    "debate": "-hearing-difficulties?utm_campaign=veteran_ptsd&utm_source=reddit&utm_medium=social",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.cuanschutz.edu/news-stories/study-finds-irritability-long-after-concussions-in-veterans-is-linked-to-ptsd-chronic-pain-and",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "CLOSER: WHAT THE FRIDAY",
+    "title": "The day isn't even close to over and I already am done with it.",
+    "angle": "It's Friday and the internet is already collectively exhausted \u2014 a viral vent-tweet like this is the perfect mirror for a 'What The Friday' segment where the hosts just need to commiserate on air.",
+    "bullets": [
+      " What's the one thing that's already broken your Friday before noon? X/Twitter @WomenBeingAwful (Tier 1) | Score: 67/90 (40 fit + 12 source + 15 quality) -> STRONG"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/WomenBeingAwful/status/2100655246246551830",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Twin sisters conjoined at the head underwent successful separation surgery",
+    "angle": "It's the kind of against-the-odds medical miracle that makes a perfect show closer \u2014 a rare, high-risk surgery that actually worked out for two little girls.",
+    "bullets": [
+      " They underwent a successful separation surgery, a procedure that typically requires multiple surgical teams and can stretch on for many hours.",
+      " This is the kind of story you end the show on \u2014 a reminder that sometimes the long-shot surgery actually works."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://abcnews.com/GMA/Wellness/2-year-twins-conjoined-head-underwent-successful-separation/story?id=136489246",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "North Korean anthem played at South Korean field hockey match at Asian Games",
+    "angle": "North Korean anthem played at South Korean field hockey match at Asian Games",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.espn.ph/olympics/story/_/id/49971431/north-korean-anthem-played-south-korean-field-hockey-match-asian-games",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Archbishop of Canterbury revokes award given to cleric who praised Osama bin Laden",
+    "angle": "The Archbishop of Canterbury just revoked an honor from a cleric after it came out he praised Osama bin Laden - the kind of 'wait, THAT happened?' headline that's tailor-made for r/nottheonion.",
+    "bullets": [
+      " Story is blowing up on r/nottheonion for how wild the premise sounds.",
+      " How does someone get an award in the first place after praising Bin Laden?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.sky.com/story/archbishop-of-canterbury-revokes-award-given-to-cleric-who-praised-osama-bin-laden-13589162",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Boston University English Majors Must Prove They Can Write Without AI",
+    "angle": "Boston University's English department is reportedly pushing students back to in-class, pen-and-paper writing to prove they're not leaning on ChatGPT \u2014 a sign the AI cheating panic on campus has gone from rumor to actual policy change.",
+    "bullets": [
+      " Boston University's English program is reportedly requiring students to demonstrate writing ability without AI assistance.",
+      " It raises the bigger question of how any school can actually *prove* a paper is AI-free.",
+      " If you were grading papers right now, would you trust a take-home essay \u2014 or make everyone write it out by hand in front of you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gadgetreview.com/boston-university-english-majors-must-prove-they-can-write-without-ai",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "US chip fabs face massive 157,000 worker shortfall, mere 3% of US engineering grads enter chipmaking \u2014 despite six-figure salaries, US chip manufacturers are in dire need of engineers and technicians",
+    "angle": "The US is pouring billions into building chip factories, but there might not be anyone to run them \u2014 a massive worker gap that threatens the whole plan to bring high-tech manufacturing back home.",
+    "bullets": [
+      " US chip fabs are facing a staggering 157,000 worker shortfall",
+      " Only about 3% of US engineering grads are going into chipmaking",
+      " This shortage exists despite six-figure salaries on offer",
+      " If six-figure pay can't fill these jobs, is it a money problem, a prestige problem, or a 'nobody wants to work in a factory' problem?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/semiconductors/us-chip-manufacturers-are-in-dire-need-of-engineers-and-technicians-",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-17",
     "slot": "pm",
     "category": "THE LIST",
