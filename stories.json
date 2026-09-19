@@ -1,6 +1,492 @@
 [
   {
     "date": "2026-09-18",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "World\u2019s first large-scale, green hydrogen-based steel plant can cut emissions by up to 95%",
+    "angle": "Steelmaking is one of the dirtiest industries on Earth, and this plant claims it can gut emissions by up to 95% by swapping coal for hydrogen \u2014 a huge deal for climate tech and for every industry that buys steel.",
+    "bullets": [
+      " Billed as the world's first large-scale steel plant running on green hydrogen",
+      " Claims it can slash emissions by up to 95% compared to traditional coal-fired steelmaking",
+      " Steel production is one of the biggest industrial carbon polluters globally, so a viable green alternative is a milestone moment",
+      " Is 'green steel' actually going to scale fast enough to matter, or is this a nice headline that stays a one-off pilot plant?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://interestingengineering.com/innovation/world-first-green-hydrogen-steel-plant",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Many Republicans want to lose the midterms so they don\u2019t have to pass Trump-backed bills, Laura Ingraham claims",
+    "angle": "Laura Ingraham is floating a wild insider theory - that some Republicans would rather tank the midterms than get stuck voting on Trump's agenda. It's the kind of inside-baseball conspiracy talk that turns into a real fight about whether politicians actually work for voters or just for themselves.",
+    "bullets": [
+      " Laura Ingraham, one of Fox News' biggest primetime names, is the one pushing this claim - not a random pundit.",
+      " Her theory: a chunk of Republicans secretly want to LOSE the midterms rather than win and be forced to pass Trump-backed bills.",
+      " It paints sitting GOP lawmakers as more scared of tough votes than of losing their jobs.",
+      " Would politicians really rather LOSE an election than take a hard vote - cynical genius or tinfoil hat?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.the-independent.com/news/world/americas/us-politics/trump-republicans-midterms-laura-ingraham-b3052487.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Donald Trump Says He\u2019s Banning CNN, MS NOW and Politico From the White House \u2018Effective Immediately\u2019 as a Result of \u2018Their Constant Fake News\u2019",
+    "angle": "This is a president openly barring specific news outlets from the briefing room over coverage he doesn't like \u2014 a press freedom flashpoint that's got media watchdogs, politicians, and social media all lit up at once.",
+    "bullets": [
+      " Donald Trump says he's banning CNN, MS NOW (the network formerly known as MSNBC), and Politico from the White House \"effective immediately\"",
+      " His stated reason: what he calls their \"constant fake news\" coverage",
+      " All three outlets have long been frequent targets of Trump's media criticism",
+      " Is this a president fighting back against biased coverage, or the government punishing reporters for doing their job \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/donald-trump-ban-cnn-msnow-politico-from-white-house-fake-news-1236867138/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Barbra Streisand torches Donald Trump and his 'unchecked ego' after Kennedy Center drama",
+    "angle": "Barbra Streisand torches Donald Trump and his 'unchecked ego' after Kennedy Center drama",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.irishstar.com/culture/entertainment/barbra-streisand-donald-trump-kennedy-37675243?utm_source=reddit&utm_medium",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump bans CNN, MSNOW, and Politico from the White House",
+    "angle": "A sitting president cutting off major newsrooms from White House access is a straight-up press freedom flashpoint, and it's the kind of story that splits a room fast between 'about time' and 'this is dangerous.'",
+    "bullets": [
+      " CNN, MSNOW, and Politico have reportedly been banned from White House access under Trump",
+      " It's the latest escalation in the administration's ongoing feud with mainstream media outlets",
+      " Details on the specific reasoning behind the ban are still thin in early reports",
+      " Is this a president finally pushing back on biased coverage, or the White House shutting the door on accountability?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/353hzn2ivbqh1.jpeg",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump says deal struck to boost U.S. military presence in Greenland",
+    "angle": "Trump says deal struck to boost U.S. military presence in Greenland",
+    "bullets": [],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/trump-deal-claim-greenland-denmark-security-9.7350385?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "The National | Trump says Greenland's security now under U.S. control",
+    "angle": "Trump claims Denmark just handed over 'permanent control' of Greenland's security to the US - after a year of him openly musing about annexing the island, this is either a huge geopolitical shift or a massive overstatement, and either way it's a story with real stakes for NATO and North America.",
+    "bullets": [
+      " Donald Trump says Denmark has agreed to hand over 'permanent control' of Greenland's security to the U.S.",
+      " Comes after months of Trump publicly floating the idea of the U.S. acquiring Greenland outright",
+      " Is this a real deal or Trump just saying it's a deal - and either way, should the US be this openly eyeing another country's territory?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/player/play/9.4236164?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Whistleblower says CIBC is replacing Canadians with cheap foreign labour",
+    "angle": "This taps straight into the outsourcing/job security anxiety a lot of Canadians already feel, and it's a big bank accused of it - that's an easy debate to get two hosts and the phones going.",
+    "bullets": [
+      " A whistleblower is alleging CIBC is replacing Canadian workers with cheaper foreign labour",
+      " Claim surfaced on r/Canada, suggesting it's already getting grassroots traction online",
+      " Limited detail available beyond the core allegation - no official CIBC response cited yet",
+      " Should Canadian banks be required to prioritize Canadian jobs, or is this just how global business works now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://wiretapmedia.ca/whistleblower-says-cibc-is-replacing-canadians-with-cheap-foreign-labour/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "As Carney's popularity soars, Conservatives weigh what to do about their own leader",
+    "angle": "As Prime Minister Mark Carney's popularity keeps climbing, whispers are growing inside the Conservative Party about whether their own leader can actually beat him \u2014 a classic 'panic button' political story that Canadian listeners on both sides will have opinions on.",
+    "bullets": [
+      " Mark Carney's approval appears to be trending up as PM, per chatter out of r/canada.",
+      " That surge is reportedly putting pressure on the Conservative Party to reassess its own leadership.",
+      " Specific numbers and named sources aren't confirmed yet \u2014 this one's still developing.",
+      " If you're a Conservative voter \u2014 is it time to cut your losses on leadership, or stick it out?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/poilievre-conservative-party-caucus-9.7348564",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canadian investors ditched U.S. stocks at a record pace in July",
+    "angle": "Cross-border money moves usually fly under the radar, but this one's a record \u2014 and it says a lot about how Canadians are feeling about the U.S. economy and the trade relationship right now.",
+    "bullets": [
+      " Canadian investors pulled out of U.S. stocks at a record pace in July.",
+      " Have you moved any of your own money out of U.S. investments lately \u2014 and what's driving that call?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theglobeandmail.com/business/article-canadian-investors-ditched-us-stocks-at-a-record-pace-in-july/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "F.B.I. Temporarily Halted Cooperation With Canada Over References to 9/11",
+    "angle": "A rare rupture in US-Canada law enforcement ties is trending because it touches the most sensitive nerve in American politics - 9/11 - and signals just how frayed the relationship has gotten behind the scenes.",
+    "bullets": [
+      " Full details are still thin - this is a developing story worth tracking for specifics on what exactly was said and by whom.",
+      " Does this feel like a real diplomatic rift, or a headline-grabbing overreaction?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nytimes.com/2026/09/18/us/politics/fbi-canada-cbc-9-11.html?smid=nytcore-android-share",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "RCMP says relationships with allies 'strong' after report FBI stopped co-operation following CBC 9/11 memo",
+    "angle": "A leaked report claims the FBI paused cooperation with Canadian police over a CBC memo tied to 9/11 \u2014 and now the RCMP is publicly insisting everything's fine with its closest ally.",
+    "bullets": [
+      " RCMP issued a statement calling its relationship with international allies \"strong\"",
+      " Full details on what the memo said and why it triggered the reported freeze remain unclear",
+      " Is this a real diplomatic rift between Canada and the U.S., or damage control over a story that got overblown?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/cbc-9-11-memo-fbi-rcmp-new-york-times-9.7350004?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Time zones in Canada are getting complicated. These maps lay them out",
+    "angle": "Most people assume Canada has like four time zones \u2014 turns out it's way more complicated than that, with weird local offsets and half-hour quirks that trip up even Canadians. It's a fun, relatable \"wait, what?\" story that plays perfectly for a cross-country audience.",
+    "bullets": [
+      " Call in and tell us the most confusing time zone mix-up you've ever had trying to schedule something across Canada. ON-AIR BIT BREAKDOWN - Step 1: Guess the Zone - 60 seconds, cold open -> Name a small Canadian town and have the co-host guess its time zone before revealing the (probably wrong) answer. - Step 2: Newfoundland Time Roast - Quick back-and-forth -> Riff on Canada's infamous half-hour time zone and ask listeners to defend or roast it."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/time-zone-canada-map-9.7349663?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Stop trying to sell us Chris Brown's redemption arc",
+    "angle": "Every few months there's a fresh push to reframe Chris Brown as a misunderstood artist deserving a comeback narrative, and this piece is the latest pushback saying enough is enough - it's the kind of pop culture debate that splits a room fast.",
+    "bullets": [
+      " Can - or should - an artist's history ever be fully separated from their art, no matter how much time passes?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.motherjones.com/media/2026/09/chris-brown-jasmine-crockett-epstein-abuse-congressional-honor/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Nicole \u2018Snooki\u2019 Polizzi Says She\u2019s Cancer-Free 7 Months After Diagnosis: \u2018I\u2019m on the Other Side\u2019",
+    "angle": "A beloved reality TV name sharing a cancer battle and beating it is exactly the kind of good-news, human-interest story that gets an audience talking \u2014 relatable, emotional, and worth a happy update on air.",
+    "bullets": [
+      " Nicole 'Snooki' Polizzi revealed she is now cancer-free",
+      " Her quote: \"I'm on the other side\"",
+      " Anyone else have a 'ringing the bell' moment in their family worth sharing on air?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/nicole-snooki-polizzi-says-she-is-cancer-free-exclusive-12127569?utm_campaign=peoplemagazine&utm_medium",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "When Kesha lost her case vs Dr Luke and contractually had to keep making albums under his label, Sony refused to promote her and she could only play small theaters. Macklemore invited her on a joint tour where they split stage time evenly, donating a portion of sales to SA victims & racial justice.",
+    "angle": "This is the ultimate 'good guy in the music industry' story - while Kesha was contractually trapped and getting frozen out by her own label, another artist gave up half his spotlight and cash to back her. That kind of loyalty is rare in entertainment and it's a great water-cooler moment about industry ethics.",
+    "bullets": [
+      " Kesha lost her legal case against Dr. Luke, leaving her contractually obligated to keep making albums under his label",
+      " Sony reportedly refused to promote her music after the ruling",
+      " She was relegated to playing small theaters instead of the big venues her career once had",
+      " Macklemore invited her on a joint tour, splitting stage time evenly and donating a portion of sales to SA victims and racial justice causes",
+      " Would you split your own spotlight - and your paycheck - to help a friend claw back a career the industry tried to bury?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://en.wikipedia.org/wiki/Kesha_v._Dr._Luke",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Damon Albarn of Gorillaz holds up a Palestinian flag at their show last night in Orlando, FL: \u201cDon\u2019t forget this. Ever. Stand your position. Don\u2019t ever be neutral\u201d",
+    "angle": "Damon Albarn just turned a Gorillaz show into a political flashpoint - artists wading into Israel-Palestine on stage always splits a crowd, and 'don't ever be neutral' is the kind of line that gets clipped and argued about online for days.",
+    "bullets": [
+      " Happened at last night's Gorillaz show in Orlando, FL",
+      " Frontman Damon Albarn held up a Palestinian flag on stage",
+      " His exact quote to the crowd: \"Don't forget this. Ever. Stand your position. Don't ever be neutral\"",
+      " Story is circulating out of r/fauxmoi on Reddit",
+      " Should musicians use the stage to push political statements, or just play the hits?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/ovvjzbp6vbqh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "In 1994, promoters told Green Day that they wouldn\u2019t allow their opener Pansy Division, a queer punk band, to play. Green Day\u2019s response was that if Pansy Division didn\u2019t play, they wouldn\u2019t play. The promoters backed down.",
+    "angle": "This old story's making the rounds again because it's basically the blueprint for using your platform right \u2014 a massive band using their leverage to protect a queer opener instead of just staying quiet.",
+    "bullets": [
+      " Back in 1994, promoters tried to bar Pansy Division, an openly queer punk band, from opening for Green Day.",
+      " Callers \u2014 name a time a celebrity actually used their leverage for someone else instead of just posting about it."
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/or1b4cwn1aqh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Ed Sheeran's tattoo artist joins the conversation, saying that Ed Sheerans's terrible tattoos are not his fault. He says Ed Sheeran started out as a nice guy and that he is now \"a lot darker\"",
+    "angle": "Ed Sheeran's body art is basically a running joke at this point, so when his own tattoo artist steps up to defend the ink and instead throws shade at Ed's personality, that's a gossip goldmine.",
+    "bullets": [
+      " Ed Sheeran's tattoo artist spoke out, insisting the singer's infamously rough-looking tattoos are \"not his fault.\"",
+      " But says Sheeran is now \"a lot darker\" - a pretty loaded quote from someone who's literally inked his skin.",
+      " Story is circulating out of Reddit's r/fauxmoi, the internet's go-to for celeb tea.",
+      " So is the tattoo artist spilling real tea on Ed Sheeran's personality, or just covering for some rough needlework?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/uuw9wsud8cqh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Love & Hip Hop Atlanta\u2019 star detransitioning after living as a woman for 12 years: \u2018This isn\u2019t about erasing my past\u2019",
+    "angle": "This is a first for reality TV \u2014 the show's trailblazing transgender cast member is now opening up about detransitioning, which instantly makes it a bigger cultural conversation than just one celebrity's personal news.",
+    "bullets": [
+      " Smith made history in 2016 as the first transgender cast member on VH1's 'Love & Hip Hop Atlanta.'",
+      " Smith lived as a woman for 12 years before deciding to detransition.",
+      " In announcing the change, Smith said: \"This isn't about erasing my past.\"",
+      " Detransitioning stories are rare in the public eye \u2014 what does it say that this conversation is happening on reality TV first?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/18/celebrity-news/love-hip-hop-atlanta-star-detransitioning-after-living-as-a-woman-for-12-years/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "AI-Generated \u2018Actress\u2019 Tilly Norwood Starts Rambling in Cantonese During Piers Morgan Interview",
+    "angle": "Hollywood's controversial AI-generated actress was already a lightning rod for the 'is AI coming for actors' jobs' debate - now she's melting down live on camera, which is basically a gift for anyone skeptical this whole thing is ready for prime time.",
+    "bullets": [
+      " Tilly Norwood is a fully AI-generated 'actress' that's been stirring up backlash across Hollywood.",
+      " During a live interview with Piers Morgan, Tilly reportedly started rambling in Cantonese out of nowhere.",
+      " Would you trust an AI 'actress' after watching her short-circuit live on camera? gizmodo.com (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/ai-generated-actress-tilly-norwood-starts-rambling-in-cantonese-during-piers-morgan-interview-2000814431",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Kyle Shanahan defends Sean McVay\u2019s blunder on 49ers-Rams opening season in Australia",
+    "angle": "The Rams got run out of the building 27-7 by the 49ers in Australia after McVay admitted he never wanted to play there again \u2014 a Super Bowl favorite flaming out on a global stage is exactly the kind of clip the internet piles onto.",
+    "bullets": [
+      " Sean McVay said he hoped the Rams would never have to play in Australia again",
+      " 49ers beat the Rams 27-7 in the season-opening game in Melbourne",
+      " Kyle Shanahan publicly came to McVay's defense after the comments went viral",
+      " Is McVay right to complain about the international game format, or is that just a coach making excuses for a 20-point beatdown?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/18/sports/kyle-shanahan-defends-sean-mcvays-blunder-on-49ers-rams-opening-season-in-australia/",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "15 Useful Tech Devices You Can Buy for Under $50 - Lifehacker",
+    "angle": "Everyone loves a good gadget, but not everyone loves the price tag - this is the 'you don't need to be rich for cool tech' story that always gets listeners texting in their own cheap-gear wins.",
+    "bullets": [
+      " Pitch is simple: \"high-quality tech\" doesn't require a big budget",
+      " What's the best gadget you own that cost you less than $50? Lifehacker.com (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://lifehacker.com/tech/best-tech-devices-under-50-dollars",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "VIA Rail schedule changes spark backlash",
+    "angle": "VIA Rail is Canada's cross-country passenger line, so when they mess with the timetable it hits travelers in multiple provinces, not just one city - that's why commuters and frequent riders are venting.",
+    "bullets": [
+      " Have VIA Rail's new schedules already messed up a trip you had planned? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "ZtODJFU1Y4N0VadklKQlpMWnhKSUdYUQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZk0tX0k5UU40WVpVYTY4V3ZxV29XelItSWc5S1BMMGdUZ2xDZEVFSG",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Blood-Brain Barrier Successfully Repaired in Alzheimer's Models: in Alzheimer's disease, this protective border can begin to leak. The study used zebrafish, APOE4 mice, postmortem brain tissue and CSF from people with Alzheimer's, human cells, and three-dimensional blood-vessel models.",
+    "angle": "Alzheimer's has always felt like a mystery with no fix in sight, but this is a genuine 'huh, that's actually hopeful' science story - researchers didn't just study the disease, they repaired a broken part of the brain in the lab.",
+    "bullets": [
+      " Researchers say they successfully repaired that barrier in disease models",
+      " They even built 3D blood-vessel models in the lab to test the fix on human cells",
+      " Everyone's got an Alzheimer's story in their family - ask listeners if a headline like this actually gives them hope or if we've heard 'breakthrough' too many times before."
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/scientists-successfully-repair-leaky-blood-brain-barrier-in-alzheimers-models",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "SickKids ranked No. 1 among 250 children\u2019s hospitals worldwide",
+    "angle": "A hometown hospital beating out the entire planet is an easy, feel-good brag for a Canadian audience - instant local pride with zero controversy.",
+    "bullets": [
+      " SickKids (The Hospital for Sick Children, Toronto) ranked No. 1 in the world",
+      " It topped a field of 250 children's hospitals globally",
+      " Puts a Canadian institution ahead of major hospitals in the US, Europe, and beyond",
+      " Anyone got a SickKids story - staff, patient, or family - worth sharing on air?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cp24.com/local/toronto/2026/09/17/sickkids-ranked-no-1-among-250-childrens-hospitals-worldwide/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Sweden consistently outperforms Canada on universal health care despite similar spending: new study",
+    "angle": "Universal healthcare is a point of national pride in Canada, so a study saying Sweden gets better outcomes for the same spending is exactly the kind of stat that makes people ask 'wait, why?' - great water-cooler fodder for a healthcare system everyone has an opinion on.",
+    "bullets": [
+      " New study compares Sweden and Canada - both run universal health care systems",
+      " Despite similar spending, Sweden \"consistently outperforms\" Canada on results, per the study",
+      " If two countries spend the same on healthcare and get different results, is it the money - or the system?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nationalpost.com/news/canada/sweden-consistently-outperforms-canada-on-universal-health-care-despite-similar-spending-n",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "More Than 23,000 Solar Panels Have Been Floating on a London Reservoir for 10 Years, Generating 5.8 Million kWh of Clean Electricity Every Year While Covering Less Than 10% of Its Surface and Helping Reduce Water Evaporation",
+    "angle": "It's a decade-old fix that's still just quietly working - 23,000 panels bobbing on a reservoir, powering thousands of homes, and nobody's talking about it. Feel-good, low-key wild, and a nice palate cleanser story.",
+    "bullets": [
+      " 23,000+ solar panels have been floating on a London reservoir for 10 years.",
+      " It covers less than 10% of the reservoir's surface.",
+      " Bonus effect: it also helps reduce water evaporation from the reservoir.",
+      " Ten years running and this is the first time most people are hearing about it - what other quiet wins are just floating around unnoticed?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/floating-solar-queen-elizabeth-ii-reservoir-london/36873/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-18",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "A Lancashire company has saved 25 million LEGO bricks from landfill while making pre-owned LEGO 40\u201360% cheaper.",
+    "angle": "A Lancashire company has saved 25 million LEGO bricks from landfill while making pre-owned LEGO 40\u201360% cheaper.",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bbc.co.uk/news/articles/c689jqvnqw9jo",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-18",
     "slot": "am",
     "category": "THE LIST",
     "title": "This Wavytalk styler is the closest alterative to the Dyson Airwrap",
