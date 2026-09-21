@@ -1,5 +1,578 @@
 [
   {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "US solar can now generate enough clean electricity to power more than 50 million homes, over one third of all households. The country added 11.4 GW of solar in Q2 2026, up 45% from a year earlier, while solar and battery storage made up 70% of all new power capacity in the first half.",
+    "angle": "Clean energy just hit a real tipping point, not just a feel-good stat, and it's a story every listener can connect to their own power bill and the bigger fight over how America keeps the lights on.",
+    "bullets": [
+      " US solar can now generate enough electricity to power more than 50 million homes - over one third of all US households.",
+      " Solar and battery storage together made up 70% of all new power capacity added in the first half of 2026.",
+      " Solar's growing faster than almost anyone predicted - does that change how you feel about going solar at your own house, or are you still skeptical on cost and reliability?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://freepress.org/article/solar-news-week-september-13-2026",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "People hate Flock so much its employees are now demoralized and thinking of quitting",
+    "angle": "Flock Safety's surveillance cameras and license-plate readers have become a national flashpoint over privacy and policing, and now the blowback is reportedly hitting morale inside the company itself - a real 'when the controversy comes home' story.",
+    "bullets": [
+      " Flock Safety employees are reportedly demoralized amid mounting public backlash against the company",
+      " Some staffers are said to be considering quitting because of how intense the criticism has gotten",
+      " If the public hates what your company builds, is quitting the responsible move or just passing the buck?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.neowin.net/news/people-hate-flock-so-much-that-its-employees-are-now-demoralized-and-thinking-of-quitting/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Microsoft patents system to freeze games and inject ads during downtimes \u2014 watching commercials earns ad-free playtime credits",
+    "angle": "Microsoft just patented a system that pauses gameplay to force ads on you mid-session \u2014 and gamers are already furious about paying full price for a game that might interrupt itself to sell you something.",
+    "bullets": [
+      " Microsoft filed a patent for a system that freezes gameplay during \"downtimes\" to slot in ads.",
+      " Watch the ad, and you bank ad-free playtime credits to redeem later \u2014 basically buying peace and quiet.",
+      " It's a patent filing, not a confirmed feature \u2014 nothing's shipped yet, but the backlash is already loud online.",
+      " You already paid for the game \u2014 should Microsoft still get to pause it and sell you a car insurance ad?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/video-games/microsoft-patents-system-to-freeze-games-and-inject-ads-during-downtimes-watching-",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Hideo Kojima Says Sony Canceled Physint Over A Zoom Call And Claims He Still Doesn\u2019t Know The Reason Why",
+    "angle": "Legendary game designer Hideo Kojima is going public with how brutal the end of his Sony partnership really was - and the mystery is what's hooking people: even he says he doesn't know why it happened.",
+    "bullets": [
+      " Hideo Kojima says Sony canceled his project \"Physint\"",
+      " He claims the cancellation news came via a Zoom call",
+      " Kojima says he still doesn't know the reason why it was scrapped",
+      " A Zoom call to kill a multi-year passion project - is that just modern business, or ice cold for a legend like Kojima?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://kotaku.com/hideo-kojima-says-sony-canceled-physint-over-a-zoom-call-and-he-still-doesnt-know-the-reason-why-2000735931",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Microsoft patent describes in-game advertising triggered by boss fights, loading screens, and cutscenes",
+    "angle": "Microsoft's floated a patent for shoving ads into loading screens, cutscenes, and mid-boss-fight moments in games - exactly the kind of \"we already paid for this\" outrage that gets gamers and non-gamers alike fired up about where advertising doesn't belong.",
+    "bullets": [
+      " It describes triggering ads during specific in-game moments: boss fights, loading screens, and cutscenes",
+      " It's a patent filing, not a confirmed feature - but patents like this usually signal where a company's thinking is headed",
+      " You already paid $70 for the game - where's the one moment an ad pop-up would make you throw the controller? ON-AIR BIT BREAKDOWN - Step 1: Set It Up - 30 seconds -> Hosts explain the patent: Microsoft eyeing ads that hit during boss fights, loading screens, cutscenes. - Step 2: Phone Line Callout - 2-3 minutes -> Ask listeners to call/text the single worst in-game moment an ad could interrupt - funniest or most infuriating answer wins bragging rights. - Step 3: Host Ranking - 1 minute -> Hosts rank the top 3 listener answers live and argue over which is truly the most unforgivable."
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/113909-microsoft-patent-describes-game-advertising-triggered-boss-fights.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Engineered Probiotic Wipes Out 43% of Colorectal Tumors in Mice: The engineered E Coli packed a triple-whammy \u2013 chemotherapy produced directly inside the tumor, an immune stimulant, and a localized form of immune checkpoint blockade.",
+    "angle": "It sounds like sci-fi, but researchers engineered a probiotic bacteria to hunt down colon tumors and hit them with a three-pronged attack - and it wiped out nearly half the tumors in mice. Early-stage, but it's the kind of wild science headline that gets people talking about the future of cancer treatment.",
+    "bullets": [
+      " Engineered E. coli wiped out 43% of colorectal tumors in mice",
+      " Still in the mouse trial stage, but seen as a major proof-of-concept for 'living drug' cancer therapies",
+      " Would you sign up to have engineered bacteria fight your cancer from the inside out?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/engineered-probiotic-wipes-out-43-of-colorectal-tumors-in-mice",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "What AI Anxiety Looks Like in China",
+    "angle": "AI anxiety isn't just a Silicon Valley story anymore \u2014 China's government-driven AI rollout is creating a totally different kind of public panic, and it's a preview of what happens when a tech revolution gets forced from the top down instead of growing organically.",
+    "bullets": [
+      " Would you rather AI disruption hit you fast and top-down, or slow and messy like it's happening here?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theatlantic.com/international/2026/09/beijing-ai-popularity-regulation/688597/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Carney ranked best public speaker, most quotable, hardest working, and one of the best fundraisers in The Hill Times\u2019 30th annual Politically Savvy Survey",
+    "angle": "A survey of political insiders just crowned the PM the best speaker, most quotable, and hardest worker in Ottawa \u2014 the kind of glowing report card that begs the question of whether it matches how Canadians actually feel about him.",
+    "bullets": [
+      " Mark Carney was ranked the best public speaker in The Hill Times' survey",
+      " He also topped the list for most quotable",
+      " Insiders rated him the hardest working politician in Ottawa",
+      " He placed among the best fundraisers, per the 30th annual Politically Savvy Survey",
+      " Does Ottawa's opinion of Carney match how you feel about him, or are the insiders living in a different world?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.hilltimes.com/2026/09/21/prime-minister-mark-carney-pulls-ahead-in-best-public-speaking-and-most-quotable-categories",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Poilievre says Canada will never be \u201928th state\u2019 of EU at Ontario rally - National",
+    "angle": "A federal leader drawing a hard line on Canadian sovereignty at a live rally is easy tape for hosts to react to, especially with trade and identity debates already simmering north of the border.",
+    "bullets": [
+      " Pierre Poilievre made the comment at a rally in Ontario",
+      " He said Canada will never be the \"28th state\" of the EU",
+      " Is this a real concern for Canadians or just a applause line - what's actually driving the sovereignty talk right now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://globalnews.ca/news/12066501/poilievre-eu-canada-alliance/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Millions of driver\u2019s licences were allegedly listed for sale on the dark web. What does it mean for Canada\u2019s coming social media age ban?",
+    "angle": "Reports say millions of Canadian driver's licences turned up for sale on the dark web \u2014 and it's landing right as Ottawa pushes a social media age ban that would require ID verification to get online, so the timing couldn't be worse.",
+    "bullets": [
+      " Reports allege millions of Canadian driver's licences were listed for sale on the dark web",
+      " That ban would likely require users to verify their age with government ID",
+      " Critics are already asking: if this data isn't safe now, why hand over more of it?",
+      " Would you trust a government age-verification system with your ID after hearing this?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.hilltimes.com/2026/09/16/millions-of-drivers-licences-were-allegedly-listed-for-sale-on-the-dark-web-what-does-it-mean-f",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "The Corporate Takeover of Canada\u2019s Apartments Is Worse than You Think",
+    "angle": "This Reddit thread digs into corporate landlords scooping up rental buildings across Canada \u2014 a housing affordability nerve that's already raw for anyone renting right now.",
+    "bullets": [
+      " Ever found out your landlord is actually a faceless investment firm? Call in and tell us."
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thewalrus.ca/the-corporate-takeover-of-canadas-apartments-is-worse-than-you-think/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "His Hyundai Santa Fe burst into flames on busy highway after repairs at dealership",
+    "angle": "A guy's Hyundai catches fire and blows up seconds after he escapes \u2014 and it happened right after a dealership repair, so this is a real 'wait, what did they even fix' story that taps into everyone's fear of car trouble and getting the runaround from a dealer afterward.",
+    "bullets": [
+      " Jason Pelletier was driving to work in June when his Hyundai Santa Fe suddenly caught fire",
+      " He got out just seconds before the front end exploded",
+      " Three months later, he says he's still waiting for answers \u2014 and pushing for more compensation",
+      " You just got your car back from the shop \u2014 how long before you'd actually trust it again?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/business/hyundai-vehicle-fire-compensation-9.7350140?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Canada faces questions over treatment of Iranian conscripts as U.K, Australia take different approach",
+    "angle": "This is a real immigration flashpoint \u2014 people forced into Iran's military are landing in Canada, and critics say we're not handling their cases the way allies like the UK and Australia do.",
+    "bullets": [
+      " Canada is facing criticism over its treatment of Iranian conscripts seeking refuge",
+      " Story raises questions about whether forced conscripts should be treated differently than willing regime affiliates",
+      " Should someone forced into military service by a regime they didn't choose be treated the same as a willing soldier?"
+    ],
+    "debate": "h-9.7346224?cmp=rss",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/canada-faces-questions-over-treatment-of-iranian-conscripts-as-u-k-australia-take-different-approac",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "AI \u2018Actress\u2019 Tilly Norwood Glitches and Abruptly Starts Speaking Cantonese During Piers Morgan Interview",
+    "angle": "Tilly Norwood, the AI-generated 'actress' that's already got Hollywood in an uproar, reportedly glitched mid-interview with Piers Morgan and switched languages out of nowhere \u2014 proof the whole AI-actor experiment might not be ready for live TV.",
+    "bullets": [
+      " Tilly Norwood is the AI-generated \"actress\" that's been stirring controversy in Hollywood.",
+      " She sat down for an interview with Piers Morgan.",
+      " Mid-interview, she reportedly glitched and started speaking Cantonese out of nowhere.",
+      " If an AI 'actress' can't even make it through one live interview without glitching, should Hollywood really be worried about her taking real actors' jobs?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://people.com/ai-actress-tilly-norwood-glitches-changes-language-during-piers-morgan-interview-12129604",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Peter Krause\u2019s \u2018Line of Fire\u2019 Is a Promising and Engaging NBC Procedural Drama: TV Review",
+    "angle": "A new cop-show universe drops this week, and the twist is it's inspired by Jenna Bush Hager's real Secret Service days \u2014 that's a fun collision of 'Today Show mom' and gritty NBC drama.",
+    "bullets": [
+      " Stars Peter Krause in NBC's new procedural 'Line of Fire'",
+      " Created by Joshua Safran, the mind behind 'Quantico'",
+      " Loosely based on executive producer Jenna Bush Hager's real experiences with the U.S. Secret Service",
+      " Variety's review calls it 'promising and engaging'",
+      " Jenna Bush Hager helped produce a Secret Service drama \u2014 did anyone else not know she had that in her background? variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/reviews/line-of-fire-review-nbc-1236861470/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Ed Sheeran Faces Boycott Calls After Agency Boss Casey Wasserman's Name Appears 109 Times in Epstein Files",
+    "angle": "Fans are calling for a boycott after Ed Sheeran's powerhouse agent, Casey Wasserman, turned up 109 times in newly released Epstein documents - and now the internet wants to know what Sheeran knew, if anything.",
+    "bullets": [
+      " Casey Wasserman, CEO of Wasserman Media Group and longtime agent to Ed Sheeran, reportedly appears 109 times across the Epstein files.",
+      " Online chatter - centered on Reddit's r/fauxmoi - is calling for fans to boycott Sheeran over the association with his agency's boss.",
+      " No allegations have been made against Ed Sheeran himself - the backlash is entirely about his business ties to Wasserman.",
+      " Is it fair to boycott an artist over who signs his paychecks, or does 'know your circle' actually matter in 2026?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/a8v4w86pipqh1.png",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Marc Lamont Hill to Ed Sheeran: Are you crying for Palestinian babies? I mean, what are you crying for?",
+    "angle": "A pointed public callout of a beloved pop star taps right into the celebrity-activism minefield \u2014 easy watercooler fuel on whether stars get to pick and choose which tragedies they cry about.",
+    "bullets": [
+      " Commentator Marc Lamont Hill directly challenged Ed Sheeran, asking: \"Are you crying for Palestinian babies? I mean, what are you crying for?\"",
+      " Limited details available beyond the quote itself \u2014 no confirmed context yet on what prompted Sheeran's tears.",
+      " Do celebrities owe us consistency in which tragedies they publicly cry over, or is that an unfair gotcha?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/ul39oynm8pqh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Pattie Gonia: \"I\u2019m not gay as in \u2018love wins'\u2026 I\u2019m queer as in 'fuck Ed Sheeran.' He didn't learn anything and while he may not be a bad person he didn't prove himself to be a good one.",
+    "angle": "",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "will be donating to the PCRF on behalf of everyone who attended our show and encourage every artist to \u2026\"",
+    "angle": "A viral celebrity callout always gets people talking, and this one's got a sharp quote, a public feud angle, and a charity twist \u2014 easy fodder for a hosts' debate on accountability vs. clout.",
+    "bullets": [
+      " Pattie Gonia didn't mince words: \"I'm queer as in 'fuck Ed Sheeran.'\"",
+      " Says Ed Sheeran \"didn't learn anything\" and, while maybe not a bad person, \"didn't prove himself to be a good one\"",
+      " Announced they'll be donating to the PCRF on behalf of everyone who attended their show",
+      " Publicly encouraging other artists to do the same",
+      " Is a public callout like this fair accountability, or just clout dressed up as a cause?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/nfpq7zrmzqqh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Luigi Mangione thanks fashion house in a letter",
+    "angle": "The accused killer everyone's been weirdly obsessing over just got outed as having impeccable taste, and the internet can't decide if that's hilarious or deeply unsettling \u2014 pure watercooler chaos.",
+    "bullets": [
+      " A March 2025 letter from Luigi Mangione surfaced, addressed to High Society, a bespoke tailoring shop.",
+      " He thanked the shop for custom fits the atelier gifted him.",
+      " His quote: the clothes let him 'stunt on some haters.'",
+      " Is it wild that an accused murderer has fans thirsting over his tailoring \u2014 or has true crime fully merged with stan culture at this point?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1wlpp5g",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "11 things we learned from the Neil Peart documentary",
+    "angle": "Rush fans (and drum nerds everywhere) have a new documentary to obsess over, digging into what made Neil Peart one of rock's most legendary and cerebral drummers.",
+    "bullets": [
+      " It focuses on his musicianship, intellectual curiosity, and resilience",
+      " Frames his lasting influence on rock music as a drummer and lyricist for Rush",
+      " Is Neil Peart still the greatest rock drummer of all time, or does the new generation have a case against him?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/neil-peart-rush-documentary-9.7343638?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "From \u2018Andor\u2019 to \u2018Hit Man\u2019 and (Maybe?) Wonder Woman: Charting Adria Arjona\u2019s Path to Movie Stardom",
+    "angle": "She's gone from scene-stealer in 'Andor' and 'Hit Man' to real awards buzz - and now there's Wonder Woman chatter swirling, which is the kind of casting rumor that gets pop culture fans talking.",
+    "bullets": [
+      " Adria Arjona is being profiled as a rising movie star with real staying power, not just a flash-in-the-pan",
+      " Her breakout roles include 'Andor' and 'Hit Man'",
+      " She's now in the conversation for a Wonder Woman casting - though nothing's confirmed",
+      " Would you buy Adria Arjona as the next Wonder Woman, or does that role need a bigger name?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://decider.com/2026/09/21/adria-arjona-movies-onslaught-hit-man-andor-more/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Russia retaliates against record drone blitz with Kyiv warehouse strike",
+    "angle": "This is the drone war escalating to a scale we haven't seen yet - over a thousand drones in one night is a record, and it shows neither side is backing off heading into fall.",
+    "bullets": [
+      " Ukraine launched a record-breaking overnight barrage of more than 1,000 drones targeting Moscow",
+      " Russia retaliated with a wave of drone strikes across the Kyiv region",
+      " A direct hit on a warehouse complex in the Boryspil district sparked a massive fire",
+      " At least one person was injured in the strike",
+      " A thousand drones in a single night - is this the new normal for this war, or a sign it's about to get a lot worse?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/video/russia-retaliates-against-record-drone-blitz-with-kyiv-warehouse-strike/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Ed Sheeran: Israel\u2019s treatment of Gazans \u2018unjustifiable,\u2019 apologizes for Macklemore controversy",
+    "angle": "Bill Franke basically invented the no-frills airline model with Spirit and Frontier, so him warming up to first-class seats and premium upgrades is a real signal the entire budget flying experience could be shifting.",
+    "bullets": [
+      " Ed Sheeran called Israel's treatment of people in Gaza \"unjustifiable\"",
+      " He also issued an apology tied to a controversy involving Macklemore",
+      " Details on what sparked the Macklemore dust-up are still thin - worth digging into before air",
+      " Should musicians be using their platform to weigh in on geopolitics, or should they just stick to the music? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+      " Bill Franke co-founded Indigo Partners and chairs Frontier Airlines",
+      " He's long been the architect behind stripped-down, bare-bones budget carriers",
+      " Now he's reportedly warming to first-class seats and premium upgrades at those same airlines",
+      " Would you actually pay more for a fancier seat on Frontier or Spirit, or is the whole appeal that it's cheap and no-frills? CNBC (via NewsAPI) (Tier 1) | Score: 77/90 (45 fit + 12 source + 20 quality) -> LEAD"
+    ],
+    "debate": "mpIZ0IzbE5SZHowaWc?oc=5",
+    "source": "",
+    "url": "https://www.cnbc.com/2026/09/20/bill-franke-frontier-spirit-budget-airlines.html",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Researchers used Claude to hack OpenAI",
+    "angle": "Two rival AI companies, one allegedly used to poke holes in the other \u2014 it's the kind of tech-world plot twist that sounds made up, which is exactly why it landed on r/nottheonion.",
+    "bullets": [
+      " Nothing says 2026 like one AI chatbot allegedly being the tool used to hack another AI company."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "It's funny that they are ok with this considering how much of an issue they have with men dating younger women https://t.co/di3nVa34s4",
+    "angle": "A viral tweet calls out what it says is a glaring double standard - people cheering something on that they'd drag men for doing when it comes to dating younger women. It's the kind of \"wait, hold up\" callout that instantly splits a room.",
+    "bullets": [
+      " Ask listeners: is this actually a double standard, or is there a real difference nobody's naming? X/Twitter @WomenBeingAwful (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/WomenBeingAwful/status/2101851502323126421",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Alzheimer's disease starting to be considered a treatable condition - study",
+    "angle": "For decades Alzheimer's has been framed as inevitable and untreatable - new research pushing back on that is genuinely hopeful news for the millions of families dealing with it, and a rare good-news health story worth pausing on.",
+    "bullets": [
+      " New research suggests Alzheimer's may be shifting from an \"incurable\" label to a treatable condition",
+      " Marks a notable change in tone from how the disease has traditionally been discussed medically",
+      " Ask listeners: has Alzheimer's touched your family, and would news like this actually change how you think about the diagnosis?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.rnz.co.nz/news/health/1483456/alzheimer-s-disease-starting-to-be-considered-a-treatable-condition-study",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Mother accused of giving away baby to stranger at bus stop",
+    "angle": "This is a pure 'wait, what?' headline built for the kicker - a mom accused of handing her infant to a total stranger waiting for a bus is the kind of story that makes you stop scrolling and read it twice.",
+    "bullets": [
+      " A mother is accused of giving her baby away to a stranger at a bus stop",
+      " Story surfaced via r/nottheonion, the subreddit for real headlines too weird to believe",
+      " Just react live to the headline - let the audience hear you try to process 'she did WHAT at a bus stop?'"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.kgns.tv/2026/09/20/mother-18-arrested-after-giving-away-baby-stranger-bus-stop-police-say/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Shopify CEO says employees' 'slop grenades' are making more work for everyone else",
+    "angle": "AI slop has invaded the workplace, and now a Fortune 500 CEO is calling it out by name \u2014 a relatable jab at low-effort AI-generated work getting dumped on other people's plates.",
+    "bullets": [
+      " Shopify CEO publicly criticized employees for producing what he called 'slop grenades'",
+      " Story picked up by r/nottheonion, framed as almost too absurd to be real corporate speak",
+      " Have you ever gotten handed an obvious AI 'slop grenade' at work \u2014 and how'd you handle it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://fortune.com/2026/09/17/shopify-tobias-lutke-ai-slop-grenades/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
+    "angle": "A new lawsuit claims Anthropic, OpenAI, xAI, and Google secretly agreed to throttle AI development \u2014 a huge story if true, since these are the companies racing to build the tech reshaping everyday life.",
+    "bullets": [
+      " Lawsuit names Anthropic, OpenAI, SpaceXAI (xAI), and Google as defendants",
+      " Core claim: the companies made an illegal agreement to slow down AI progress",
+      " Details are still thin \u2014 this is breaking off a headline, more specifics expected to surface",
+      " If the biggest AI companies really agreed to hit the brakes together, is that a scandal \u2014 or exactly what we should want them doing?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.cnn.com/2026/09/19/business/ai-slowdown-lawsuit-antitrust",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Explosive \u2018NAZA\u2019 Documentary, Attacked By Israeli Government, To Be Released In U.S. Theaters",
+    "angle": "A documentary just controversial enough to get slammed by the Israeli government is still landing in American theaters, which instantly turns it into a free-speech-versus-politics flashpoint \u2014 exactly the kind of story that gets people picking sides before they've even seen the film.",
+    "bullets": [
+      " A documentary referred to as 'NAZA' is reportedly being attacked by the Israeli government.",
+      " Despite that pushback, the film is still set for a U.S. theatrical release.",
+      " Specific details on the filmmakers, subject matter, and release date aren't confirmed yet \u2014 worth digging into before air.",
+      " When a government attacks a film and it gets released anyway, does that make you more curious to see it \u2014 or more skeptical of it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://deadline.com/2026/09/naza-u-s-theatrical-release-1237107835/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "TW:SA. Mama Stanley makes appearance at pre-game Edmonton Oilers protest over the singing of Hockey Canada accused player Alex Formenton. Her petition calling for the singing to be reversed has garnered over 69k signatures!",
+    "angle": "A grassroots petition just crossed 69,000 signatures and turned into a real protest outside an NHL preseason game - that's a fanbase openly clashing with front office over a Hockey Canada-linked signing, which is exactly the kind of story that splits a room.",
+    "bullets": [
+      " About 100 people protested outside Saturday's Oilers preseason game over the signing of Alex Formenton",
+      " Loewen, a survivor of sexual assault herself, said other survivors have messaged her, sharing stories they'd never told anyone before",
+      " Her message to the crowd: \"Before anything else, I am a survivor... we are standing here peacefully today because survivors have spoken.\"",
+      " Should a petition and a protest be enough to make a pro team reverse a signing?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Is everyone Bricking their phones without you? The anti-FOMO (and anti-doomscroll) wellness craze https://t.co/3jMCT4i8d3 https://t.co/DhhwQ",
+    "angle": "It's the opposite of doomscrolling: people are voluntarily locking their phones down to kill FOMO and screen-time guilt, and it's becoming a whole wellness trend worth unpacking on air.",
+    "bullets": [
+      " It's being framed as an anti-FOMO, anti-doomscroll wellness move, not just a digital detox gimmick.",
+      " @NYPost is flagging it as a growing lifestyle craze right now.",
+      " Be honest \u2014 could you survive a week with your phone 'bricked,' or are you checking it before you even finish reading this? ON-AIR BIT BREAKDOWN - Step 1: The Brick Test - 60 seconds, cold open -> Both hosts hand their phones to the other host / producer for the rest of the segment and talk about how it feels not having it in reach. - Step 2: Confess Your Screen Time - 2 minutes, mid-segment -> Hosts pull up their actual daily screen-time number live and react to each other's before opening phone lines for listeners to share theirs. - Step 3: Would You Actually Brick It? - Wrap-up -> Quick gut-check poll: hosts and callers vote yes/no on whether they'd try bricking their phone for a full day. X/Twitter @NYPost (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2101990181364547867",
+    "score": "",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-20",
     "slot": "pm",
     "category": "THE LIST",
