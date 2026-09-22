@@ -1,6 +1,572 @@
 [
   {
     "date": "2026-09-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Gio Reyna relishing his new leadership role with French club that bodes well for USMNT chances",
+    "angle": "Reyna's a name US soccer fans actually know, and with the World Cup landing on home soil in 2026, any sign he's leveling up matters way beyond one fanbase.",
+    "bullets": [
+      " He's reportedly stepping into a genuine leadership role there \u2014 not just a bench piece.",
+      " If Reyna's finally leveling up overseas, does he start for the US at the 2026 World Cup?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/21/sports/how-gio-reynas-role-at-strasbourg-is-helping-him-his-usmnt-chances/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Boy with Autism, 10, Hailed Hero After Alerting Mom to \u2018Giant\u2019 Kitchen Fire, Calmly Carrying His Baby Sister to Safety",
+    "angle": "A kid hero story with an autism-representation angle - a 10-year-old calmly spotted a raging kitchen fire, got mom's attention, and carried his baby sister to safety. It's the kind of feel-good, share-it-with-everyone story that's built for a morning show.",
+    "bullets": [
+      " He alerted his mom to what's being called a \"giant\" kitchen fire.",
+      " While the fire raged, he calmly carried his baby sister to safety.",
+      " He's now being hailed as a hero for how he handled it.",
+      " Call it in: what's the most impressive thing your kid has ever done under pressure?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/boy-with-autism-10-honored-after-alerting-mom-to-kitchen-fire-saving-sister-12125946",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Part of the Aral Sea is coming back to life. Kazakhstan\u2019s Kok Aral Dam increased water volume in the northern lake by 68%, cut salinity in half and more than tripled fish production, while Uzbekistan has planted 4.2 million acres of the exposed lakebed with hardy vegetation.",
+    "angle": "One of the world's most infamous environmental disasters is quietly reversing course \u2014 a rare good-news story about humans actually undoing ecological damage, and that kind of comeback tale plays huge with a general audience.",
+    "bullets": [
+      " Kazakhstan's Kok Aral Dam boosted water volume in the northern Aral Sea by 68%",
+      " Salinity in that section has been cut in half",
+      " Fish production has more than tripled since the dam went in",
+      " Uzbekistan has replanted 4.2 million acres of the dried-up lakebed with hardy vegetation",
+      " Name one other environmental disaster you'd love to see make a comeback like this."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/aral-sea-ships-desert-restoration/36992/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Canadian investigation launched into data breach that exposed millions of IDs",
+    "angle": "Millions of driver's licenses and government IDs from both Canada and the U.S. got exposed in a breach, and Canada's privacy watchdog is now investigating - this hits basically anyone who's had to scan an ID for age verification or a rental in the last few years.",
+    "bullets": [
+      " Canada's Privacy Commissioner has officially launched an investigation into the breach",
+      " Data affected people in both Canada and the U.S., making it a cross-border story",
+      " Call in: does it freak you out how many random places ask you to scan your ID, and are you rethinking that next time?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/idscan-net-data-breach-id-canada-9.7352859?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "\u2018Line of Fire\u2019 Review: Peter Krause and Hope Davis Lead NBC\u2019s Silly but Diverting Law Enforcement Family Drama",
+    "angle": "NBC just bet big on a show where literally every branch of federal law enforcement is run by one dysfunctional family - critics are calling it ridiculous but can't stop watching, which is basically the whole appeal.",
+    "bullets": [
+      " Peter Krause and Hope Davis lead the cast as the heads of the Hollingsworth family",
+      " Family members are scattered across the Secret Service, FBI, U.S. Marshals, and the Department of Justice",
+      " Created by Joshua Safran, the same mind behind 'Quantico'",
+      " Hollywood Reporter's review calls it \"silly but diverting\"",
+      " One family running the entire federal government's law enforcement arm - too silly to work, or exactly silly enough to be a guilty-pleasure hit?"
+    ],
+    "debate": "",
+    "source": "www.hollywoodreporter.com (Tier 3) | Score: 78/90 (45 fit + 4 source + 29 quality) -> LEAD",
+    "url": "https://www.hollywoodreporter.com/tv/tv-reviews/line-of-fire-review-nbc-hope-davis-peter-krause-1236700815/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Hideo Kojima Says Sony Dropped PHYSINT During a Zoom Call and Gave No Reason - TechPowerUp",
+    "angle": "One of gaming's most legendary creators says PlayStation cut a project with him and didn't even bother to say why - that's the kind of corporate cold shoulder that gets people talking, famous name or not.",
+    "bullets": [
+      " Hideo Kojima says Sony/PlayStation ended its involvement in his game PHYSINT during a Zoom call in June",
+      " Kojima told IGN that Sony gave no reason for pulling out",
+      " He admits he didn't ask many questions during that call",
+      " Kojima says Sony hasn't been in touch since",
+      " Would you just accept a breakup like that over Zoom with zero explanation, or would you have demanded answers on the spot? Techpowerup.com (via NewsAPI) (Tier 1) | Score: 77/90 (45 fit + 12 source + 20 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.techpowerup.com/352884/hideo-kojima-says-sony-dropped-physint-during-a-zoom-call-and-gave-no-reason",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Prince William spoke to Carney and shared his 'long-standing affection for Canada' | Phone conversation between sitting prime minister and the heir apparent is unusual",
+    "angle": "A future king personally phoning a sitting prime minister isn't standard royal protocol, so this one's got people talking about why William wanted Ottawa to hear it straight from him.",
+    "bullets": [
+      " Prince William placed a phone call directly to PM Mark Carney",
+      " William told Carney he has a \"long-standing affection for Canada\"",
+      " A direct call between the heir apparent and a sitting PM is described as unusual",
+      " Is this genuine Canadian love or a smart PR move while royal relevance is being questioned back home?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/prince-william-carney-call-9.7352307",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Carney, Lula urge nations to join group to unite middle powers",
+    "angle": "Canada's PM is publicly courting other mid-sized nations to band together on the world stage - a signal Canada wants more clout when the big powers (US, China) are calling the shots.",
+    "bullets": [
+      " Mark Carney (Canada) and Lula (Brazil) are jointly urging other countries to join a new coalition",
+      " No word yet on which countries have signed on or what the group's concrete agenda is",
+      " Should Canada be out there forming its own power bloc, or is this just diplomatic theater with no teeth?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://financialpost.com/news/economy/carney-lula-urge-nations-unite-middle-powers",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "U.S. shouldn't buy 'blood potash' from Belarus, Sask. premier says",
+    "angle": "Saskatchewan's premier is putting a fertilizer ingredient into the geopolitics conversation, branding Belarusian potash \"blood potash\" and pushing the U.S. to cut it off - a direct shot at a regime propped up by Russia, and a not-so-subtle pitch for Saskatchewan's own potash industry to fill the gap.",
+    "bullets": [
+      " Scott Moe, Saskatchewan's premier, is calling on the U.S. to stop buying potash from Belarus",
+      " He's branding it \"blood potash\" - tying the trade directly to the Belarusian regime",
+      " Saskatchewan is one of the world's largest potash producers, giving the premier a direct stake in who the U.S. buys from",
+      " Should a fertilizer's country of origin be a political litmus test, or is this just Saskatchewan looking out for its own industry?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/us-blood-potash-belarus-premier-9.7352852?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Denmark, Greenland set to sign security deal with U.S. on Tuesday",
+    "angle": "Months after Trump kept floating the idea of the U.S. just taking Greenland, the island's actually getting a formal security deal \u2014 and Denmark's framing it as a way to keep Washington in check by looping in NATO.",
+    "bullets": [
+      " Denmark, Greenland and the U.S. sign the security agreement on Tuesday",
+      " Denmark says the deal puts Arctic security under NATO's watch, not just Washington and Copenhagen alone",
+      " Comes after a year of tension over Trump's repeated interest in the U.S. acquiring Greenland",
+      " Is this Denmark cleverly boxing in Trump's Greenland ambitions, or just handing the U.S. a bigger foothold in the Arctic anyway?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/denmark-greenland-us-security-deal-9.7353071?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Christopher Liew: What the average Canadian retiree actually lives on",
+    "angle": "Retirement math is one of those quiet anxieties everyone's carrying around - CPP, OAS, savings, the whole puzzle - so a real number attached to \"average retiree income\" is instant relatable water-cooler talk for anyone over 30.",
+    "bullets": [],
+    "debate": "WdTQ2ZENCNVBhcW9IcXFfaHdOanV4TlNHSmF2ay1SMS16T2VfRm5lZEpDbGhMS0M4?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQXhCS3RzN2IxT21LOFBaSUlvZDFiNFdVNDA3WnJ4cmpLNzhyTGhIMm",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Here's how Buy Canadian scanner apps did on identifying food origins",
+    "angle": "With the Buy Canadian movement still going strong amid trade tension with the U.S., these origin-scanning apps have become a go-to tool at the grocery store \u2014 but a new check-up on their accuracy is raising the obvious question: can you actually trust what they're telling you?",
+    "bullets": [
+      " Have you used one of these Buy Canadian apps \u2014 and did it actually get the origin right, or send you on a wild goose chase? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "PZG5NUkxkVU5ORVVmMHFKN3l5RDdnRTkyd2JaZnRXS2xmX0JTdlBORW8tU0x6X01xQQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVBZT040YkZXVHg2cFVsSUFXQVpQM0VqOVoyYmNrSFctVHF6QUY1",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Channing Tatum Debunks Fan Speculation of a Secret Instagram Account: \u2018If I Really Need to Say It, I Only Have One\u2019 - People.com",
+    "angle": "Fans went digging and thought they found Channing Tatum's secret burner Instagram \u2014 he just shot it down himself, which is exactly the kind of celebrity internet-sleuthing chatter that gets a segment going.",
+    "bullets": [
+      " Channing Tatum publicly denied fan speculation about a secret Instagram account",
+      " His response: 'If I Really Need to Say It, I Only Have One'",
+      " Story is developing \u2014 full details limited to the headline at this time",
+      " Would you ever run a secret 'finsta,' or is that a celebrity-only move? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "X1FneGk1S08yWXI0WmZRTDhzS3E?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0xTZjRjU1lsX1l3MGVQMGdPcERvVlVhYUpoMkpZTHFSQkRYbFNIb2t",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "William Shatner Performs Ozzy, Metallica, Mot\u00f6rhead Classics at His Debut Metal Show",
+    "angle": "William Shatner headbanging through Ozzy and Metallica at a Chicago club is the kind of gloriously unhinged pop culture moment that's built for a live read - it's funny, it's oddly inspiring, and it's just bizarre enough that listeners will want to see the clips.",
+    "bullets": [
+      " William Shatner, age 95, played his debut metal show at a Chicago club",
+      " Yes, that's the same Shatner who played Captain Kirk on Star Trek",
+      " What's the most unexpected celebrity genre-swap you've ever seen live - and does 95-year-old Shatner doing Metallica beat it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://consequence.net/2026/09/william-shatner-debut-metal-show/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Robin Williams\u2019 Daughter Calls for Fans Creating AI Videos of the Actor to \u2018Have Some Shame\u2019: \u2018Leave Him Out of Your Delusional Bulls\u2014\u2019",
+    "angle": "AI deepfakes of dead celebrities are spiraling out of control, and now Robin Williams' own daughter Zelda is publicly calling out the fans making them - a real gut-check on where AI 'tributes' cross into disrespect.",
+    "bullets": [
+      " Zelda Williams, daughter of the late Robin Williams, is speaking out against fans making AI-generated videos of her father.",
+      " Her message to them: 'have some shame.'",
+      " She didn't hold back, telling people to 'leave him out of your delusional bulls\u2014.'",
+      " Is AI-generated 'tribute' content to a dead star sweet fandom or flat-out disrespectful - where's the line?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/robin-williams-daughter-ai-videos-1236871568/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "AI \u2018actress\u2019 Tilly Norwood glitches during Piers Morgan interview",
+    "angle": "Tilly Norwood is the AI-generated 'actress' that's already got Hollywood in an uproar over AI replacing real performers \u2014 and now she's glitching live on camera, which is basically free ammo for anyone who thinks this whole thing is a gimmick.",
+    "bullets": [
+      " Tilly Norwood, the controversial AI-generated \"actress,\" malfunctioned during a live interview with Piers Morgan.",
+      " Morgan called her out on camera: 'You seem to be speaking Chinese completely randomly for no reason. Why did you do that?'",
+      " Would you ever watch a movie starring an AI actress \u2014 glitches, random Mandarin and all? torontosun.com (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://torontosun.com/entertainment/celebrity/ai-actress-tilly-norwood-glitches-piers-morgan-interview",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Princess Diana\u2019s Brother, Charles Spencer: His Most Raw Interview Ever - People.com",
+    "angle": "Earl Charles Spencer rarely does interviews about his sister or his own life, so when People calls it his \"most raw\" ever, that's a signal there's real, unfiltered stuff in there worth digging into.",
+    "bullets": [
+      " What's one thing you'd actually want to ask Princess Diana's brother if you had five minutes with him? People (via Google News) (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUW1iekpvbmhvYWd0NmxkLVhwRlpoOEpfMHYyRGF0RS1qVWdCdkdhO",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Ke Huy Quan on Receiving \u201cGenerous\u201d $100K Residuals Check for \u2018Indiana Jones and the Temple of Doom\u2019 - hollywoodreporter.com",
+    "angle": "The Oscar winner is going viral for revealing he had no idea residual checks existed as a kid actor on Indiana Jones - it's a fun, relatable rags-to-riches nugget from a beloved comeback star.",
+    "bullets": [
+      " Ke Huy Quan received a $100,000 residual check as a child for 'Indiana Jones and the Temple of Doom'",
+      " He said he \"didn't understand how more money could suddenly appear\" after already being paid for his work",
+      " Quan later won the Oscar for Best Supporting Actor for 'Everything Everywhere All at Once'",
+      " What's the most money you were shocked to get unexpectedly as a kid? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/movies/movie-news/ke-huy-quan-100k-residuals-check-temple-of-doom-1236706633/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Ben Affleck Almost Cast Ex-Wife Jennifer Garner In 'Animals' - Variety",
+    "angle": "It's Bennifer 2.0 energy \u2014 the hosts have a field day with exes who could've reunited on screen, and there's an easy 'imagine that awkward table read' angle for the show.",
+    "bullets": [
+      " Ben Affleck directs and stars in 'Animals,' premiering Oct. 9 on Netflix",
+      " He originally wanted ex-wife Jennifer Garner to play the leading lady",
+      " A scheduling conflict forced him to step into the lead role himself",
+      " Would you want to work with your ex right after a divorce \u2014 genius career move or way too messy? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/news/ben-affleck-ex-jennifer-garner-as-his-wife-in-animals-1236870451/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hayden Christensen\u2019s 11-year-old daughter with ex Rachel Bilson makes red carpet debut - pagesix.com",
+    "angle": "Celeb-kid milestones are easy watercooler fodder, and this one's got a sentimental angle since the event ties right into dad's own Star Wars legacy.",
+    "bullets": [
+      " Briar Rose, the 11-year-old daughter of Hayden Christensen and Rachel Bilson, walked her very first red carpet",
+      " She held hands with dad Hayden Christensen on the carpet",
+      " Bilson and Christensen split years ago but are still clearly co-parenting through moments like this",
+      " At what age is it actually okay to put your kid on a red carpet \u2014 is 11 too young for that spotlight? Page Six (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Her face went real purple\u2019: Police defend technique after B.C. arrest video goes viral",
+    "angle": "A bystander clip of a B.C. arrest is ripping through social media, and police are now on the defensive about the technique used \u2014 it's the kind of use-of-force debate that always gets phones ringing.",
+    "bullets": [
+      " British Columbia police are publicly defending their arrest technique after video of the incident went viral.",
+      " Where's the line between a necessary restraint and something that should never make it onto video? CTV News (via Google News) (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD"
+    ],
+    "debate": "MeDJxMFVlRm5jNnNMSExteERpWVVOdjBydm1lZXlYdmhxdlVRcEZFWXRYQ1pFOVQ3UTNXNjV1YWZ6VQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOFVZb29mSEw5ZWJPX2hRQmxyajIyTXowZm8wRG1wV3ZOUmdnVmp",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "California tech exec hits back at mockery over her viral list of dating \u2018non-negotiables\u2019 - The Independent",
+    "angle": "A California tech exec posted her list of dating 'non-negotiables' online, got roasted for it, and is now firing back at critics \u2014 a classic viral standards-vs-mockery fight that doubles as a debate about dating culture (and SF's brutal dating scene specifically).",
+    "bullets": [
+      " One social media commenter's reply summed up the pile-on: \"I can't imagine anything worse than being single and dating in SF.\"",
+      " Ask listeners: read off your own dating 'non-negotiables' \u2014 reasonable standard or red flag? ON-AIR BIT BREAKDOWN - Step 1: Read Her List (or Your Own) - Quick open, 30 seconds -> Hosts recap the viral 'non-negotiables' concept and each read one dating dealbreaker they'd never budge on. - Step 2: Reasonable or Ridiculous? - Live call-out, 1-2 minutes -> Hosts vote on each other's non-negotiables as fair standards vs. picky nonsense, then open phones/text line for listeners to submit theirs. - Step 3: SF Dating Pile-On - Wrap-up tag -> Close on the viral reply about SF dating being brutal \u2014 ask if listeners think their own city's dating scene is just as rough. The-independent.com (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.the-independent.com/life-style/viral-dating-list-tech-executive-california-b3053232.html",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Converse apologizes, pulls ad that critics say evokes KKK and lynching imagery",
+    "angle": "A major sneaker brand just got dragged so hard online - by a sitting congressman, celebrities, and marketing experts - that it pulled a national ad and apologized within days. That's a real brand crisis playing out in real time, and everyone's got an opinion on whether the backlash was fair.",
+    "bullets": [
+      " Converse pulled the ad after backlash accusing it of evoking Ku Klux Klan and lynching imagery",
+      " A U.S. congressman publicly weighed in against the ad",
+      " Several celebrities and marketing experts joined the criticism online",
+      " Did Converse actually mess up, or did the internet see something in this ad that wasn't really there?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/converse-ad-apology-9.7351903?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Christina Applegate Shares First Video Following Months-Long Hospitalization: \u2018Love to You All Out There\u2019",
+    "angle": "She's been open about her MS battle for years, so fans have been genuinely worried during this months-long hospitalization \u2014 this quick, upbeat check-in video is the kind of relatable 'good news' update that's easy to talk about on air.",
+    "bullets": [
+      " Christina Applegate posted her first video since a months-long hospital stay tied to her ongoing multiple sclerosis battle.",
+      " She showed off fresh blonde hair color in a black zip-up hoodie.",
+      " Caption included: \"Fresh hair color, new weird...\" and \"Love to You All Out There.\"",
+      " She's best known for \"Married with Children\" and has been candid about her MS diagnosis since 2021.",
+      " She's beaten expectations before \u2014 ask listeners to share the celebrity health update that made them tear up. variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/news/christina-applegate-ms-battle-1236871479/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Boomers love AI images of their grandkids; millennial parents hate it",
+    "angle": "Every family has a group chat now, and apparently grandparents have discovered AI image generators to create fake photos of grandkids - millennial parents are not amused, and this is exactly the kind of generational tech clash that gets phones lighting up.",
+    "bullets": [
+      " Has a relative ever sent you an AI-generated photo of your own kid - and how did you react?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.businessinsider.com/grandparents-ai-images-grandkids-privacy-parents-2026-9",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Research shows that people with low implicit self-worth, or a large mismatch between their conscious and unconscious self-esteem, are quicker to detect subtle facial expressions of anger and disgust.",
+    "angle": "New psych research says people with shaky self-worth are actually better at catching subtle angry or disgusted faces before anyone else notices - a weirdly relatable 'am I like this?' moment for listeners.",
+    "bullets": [
+      " New research finds people with low implicit self-worth are quicker to pick up on subtle facial expressions of anger and disgust.",
+      " Translation: your brain may be running a hidden threat-detector tuned to rejection cues, even when you don't realize it.",
+      " Be honest, callers - do you always seem to clock when someone's secretly annoyed with you before they say a word?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/people-with-low-implicit-self-worth-are-quicker-to-notice-subtle-facial-cues-of-anger-and-disgust/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "US communities blocked or delayed 45 proposed data center projects worth about $68 billion in the second quarter of 2026, as local opposition pushed cities and states to demand more consideration for electricity, water, land use and infrastructure.",
+    "angle": "AI's building boom is running into actual humans with actual water bills and actual power grids - and the humans are winning. It's a fun reality check on how big tech's biggest trend hits a wall of local town halls.",
+    "bullets": [
+      " 45 proposed data center projects got blocked or delayed by local communities in Q2 2026",
+      " Combined price tag on those stalled projects: roughly $68 billion",
+      " Residents and local officials pushed back over strain on electricity, water, land use and infrastructure",
+      " Cities and states are now demanding more say before greenlighting the next mega-server-farm",
+      " Would you fight a data center moving into your town, or welcome the tax dollars and jobs?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/local-opposition-blocked-usd68-billion-worth-of-data-center-projects-in-the",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "A daycare center in Fort Worth, Texas is being sued by a family after alleging the staff ran a \u201ctoddler fight club\u201d",
+    "angle": "It sounds like a made-up headline, but a Fort Worth family is suing a daycare over claims staff pitted toddlers against each other \u2014 and this isn't even the first time this exact allegation has popped up at a different daycare.",
+    "bullets": [
+      " A family in Fort Worth, Texas is suing a daycare center, alleging staff orchestrated a \"toddler fight club\" among kids in their care.",
+      " This is reportedly not an isolated incident \u2014 a nearly identical \"toddler fight club\" allegation surfaced at a daycare in a different state back in 2018.",
+      " This is the second daycare \"fight club\" lawsuit like this \u2014 is anyone actually checking on these places?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fox4news.com/news/fort-worth-daycare-faces-lawsuit-after-video-allegedly-shows-substitute-encouraging-toddler-fights",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "London man hits 50,000 golf balls to raise awareness for Palestinians killed in Gaza war",
+    "angle": "It's a wild, oddly specific challenge, but it's tied to one of the biggest ongoing stories in the world - that mix of quirky stunt and heavy real-world cause is exactly what gets people talking and sharing.",
+    "bullets": [
+      " A man in London took on a marathon physical challenge: hitting 50,000 golf balls.",
+      " Does a stunt like this actually move the needle on awareness, or is the challenge itself what gets remembered instead of the cause?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.ctvnews.ca/london/article/london-man-hits-50000-golf-balls-to-raise-awareness-for-palestinians-killed-in-gaza-war/",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Researchers used Claude to hack OpenAI",
+    "angle": "Two of the biggest names in AI, and one's chatbot allegedly got used to break into the other \u2014 it's the kind of tech-rivalry headline that sounds made up but is trending precisely because it's real.",
+    "bullets": [
+      " Story is circulating out of r/nottheonion \u2014 the subreddit for real headlines that read like satire.",
+      " Beyond the headline, hard details are thin \u2014 worth a light touch until more comes out.",
+      " Would you trust one AI chatbot to go snoop on its biggest rival's turf?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 61/90 (45 fit + 12 source + 29 quality - 25 penalty (used within the last 30 days)) -> STRONG",
+    "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+    "score": "61/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Melissa McCarthy Says Murder of JonBen\u00e9t Ramsey Role Drew Her Back After \u2018a Lot of Years Not Working\u2019",
+    "angle": "A beloved comedy star getting real about a career dry spell \u2014 and revealing it took a dark true-crime project to pull her back in \u2014 is the kind of Hollywood honesty that always gets people talking.",
+    "bullets": [
+      " Melissa McCarthy is opening up about landing a role tied to the JonBen\u00e9t Ramsey murder case",
+      " She says the project came after \"a lot of years not working\"",
+      " Does it surprise you that an A-lister like Melissa McCarthy said she went years without steady work?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://people.com/melissa-mccarthy-explains-why-yes-jonbenet-ramsey-series-years-not-working-12131845",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "'Backrooms' Surpasses $400 Million at Global Box Office",
+    "angle": "This started as an internet horror legend \u2014 the eerie 'liminal space' meme that freaked out half of TikTok \u2014 and it just crossed $400 million worldwide, proving Hollywood can turn even the weirdest corners of the internet into a box office monster.",
+    "bullets": [
+      " 'Backrooms' has now topped $400 million at the global box office.",
+      " An internet meme just outgrossed movies with A-list casts and real budgets \u2014 what's the next viral rabbit hole that deserves a $400 million adaptation?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/box-office/backrooms-box-office-milestone-400-million-1236870141/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Fourth Marineland whale dies after relocation, third at Shedd Aquarium in Chicago https://t.co/m0a1xdRQLM",
+    "angle": "A cross-border animal welfare story North America's already been watching closely - beluga whales relocated from a Canadian marine park keep dying at their new US home, and that pattern is what's going to get people talking.",
+    "bullets": [
+      " A fourth beluga whale has died following relocation from Marineland",
+      " Three of those four deaths happened after the whale arrived at Shedd Aquarium in Chicago",
+      " Is this just bad luck with a tough species to move, or proof these whales never should've been relocated in the first place? X/Twitter @CTVNews (Tier 1) | Score: 52/90 (45 fit + 12 source + 5 quality - 10 penalty (Depressing/negative tone)) -> STRONG"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/CTVNews/status/2102166018390913408",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-21",
     "slot": "am",
     "category": "THE LIST",
     "title": "US solar can now generate enough clean electricity to power more than 50 million homes, over one third of all households. The country added 11.4 GW of solar in Q2 2026, up 45% from a year earlier, while solar and battery storage made up 70% of all new power capacity in the first half.",
