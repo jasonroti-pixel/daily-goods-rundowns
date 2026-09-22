@@ -80,6 +80,20 @@
          width: 22px; height: 22px; padding: 0; font-size: 14px; font-weight: 700; line-height: 1; cursor: pointer; }
   .del:hover { background: #b3264a; }
   .reslink { display: block; margin: 10px 0 14px; font-size: 12px; color: #ffd700; word-break: break-all; }
+  #url { min-height: 62px; }
+  /* one story block per link */
+  .story { background: rgba(14,13,31,.86); border: 3px solid #3f3c7a; border-radius: 12px;
+           padding: 14px 16px; margin-bottom: 14px;
+           box-shadow: 0 0 14px rgba(180,74,255,.18), 0 5px 0 rgba(0,0,0,.4); }
+  .story-head { display: flex; gap: 8px; align-items: flex-start; }
+  .story h3 { font-family: 'Press Start 2P', monospace; font-size: 11px; line-height: 1.7;
+              color: #ffe1b0; margin: 0 0 8px; flex: 1; }
+  .story-remove { flex: none; background: #8a1f3a; color: #fff; border: none; border-radius: 4px;
+                  width: 22px; height: 22px; font-size: 14px; font-weight: 700; line-height: 1;
+                  cursor: pointer; font-family: inherit; }
+  .story-remove:hover { background: #b3264a; }
+  .miss { color: #ffb0b0; font-size: 12px; padding: 8px 12px; border-left: 3px solid #ff3a3a;
+          margin-bottom: 12px; word-break: break-all; }
   .note { font-size: 12px; color: #e6d3ff; margin-top: 6px; }
   .hidden { display: none; }
   .home-btn { position: fixed; top: 12px; left: 12px; z-index: 5; text-decoration: none;
@@ -148,8 +162,8 @@
   <div id="nico" class="idle"></div>
 
   <div class="card">
-    <label for="url" class="biglabel">THROW NICO A LINK</label>
-    <input type="url" id="url" placeholder="Paste the article or Reddit link">
+    <label for="url" class="biglabel">THROW NICO SOME LINKS</label>
+    <textarea id="url" placeholder="Paste one or more links — one per line"></textarea>
     <input type="password" id="apiKey" placeholder="API key (paste once)" autocomplete="off" spellcheck="false">
     <button id="goBtn">GO GET IT NICO!</button>
 
@@ -162,13 +176,11 @@
   </div>
 
   <div id="result" class="hidden">
+    <div id="resList"></div>
     <div class="card">
-      <h2 id="resHeadline"></h2>
-      <ul class="bullets" id="resBullets"></ul>
-      <a id="resLink" class="reslink" href="#" target="_blank" rel="noopener"></a>
       <div class="row">
-        <button id="copyDocBtn">COPY FOR DOC</button>
-        <button id="copySheetBtn" class="secondary">COPY FOR SHEETS</button>
+        <button id="copyDocBtn">COPY ALL FOR DOC</button>
+        <button id="copySheetBtn" class="secondary">COPY ALL FOR SHEETS</button>
       </div>
     </div>
   </div>
@@ -637,7 +649,6 @@ function setNico(state) {
   if (el) el.className = state;
 }
 
-let lastResult = null; // { headline, link } — bullets are read live from the DOM (they're deletable)
 
 // Five ways Nico celebrates a good fetch — one picked at random on success.
 const NICO_WINS = [
@@ -662,54 +673,84 @@ function makeBulletLi(text) {
   li.appendChild(span); li.appendChild(del);
   return li;
 }
-function currentBullets() {
-  return [...document.querySelectorAll("#resBullets li .btext")].map(s => s.textContent);
+// Read every story currently on screen (respects deleted bullets / removed stories).
+function currentStories() {
+  return [...document.querySelectorAll("#resList .story")].map(st => ({
+    headline: st.querySelector("h3").textContent,
+    link: st.dataset.link || "",
+    bullets: [...st.querySelectorAll("li .btext")].map(s => s.textContent)
+  })).filter(s => s.bullets.length);
 }
 
-function showResult(headline, bullets, link) {
-  lastResult = { headline: headline || "(headline not detected)", link: link || "" };
-  $("resHeadline").textContent = lastResult.headline;
-  const ul = $("resBullets");
-  ul.innerHTML = "";
+// Append one finished story: headline, deletable bullets, link, and a remove button.
+function addStory(headline, bullets, link) {
+  const st = document.createElement("div");
+  st.className = "story";
+  st.dataset.link = link || "";
+  const head = document.createElement("div"); head.className = "story-head";
+  const h = document.createElement("h3"); h.textContent = headline || "(headline not detected)";
+  const rm = document.createElement("button");
+  rm.type = "button"; rm.className = "story-remove"; rm.title = "Remove this story"; rm.textContent = "×";
+  rm.addEventListener("click", () => st.remove());
+  head.appendChild(h); head.appendChild(rm);
+  const ul = document.createElement("ul"); ul.className = "bullets";
   bullets.forEach(b => ul.appendChild(makeBulletLi(b)));
-  const a = $("resLink");
-  if (link) { a.href = link; a.textContent = link; a.style.display = "block"; }
-  else { a.style.display = "none"; }
+  st.appendChild(head); st.appendChild(ul);
+  if (link) {
+    const a = document.createElement("a");
+    a.className = "reslink"; a.href = link; a.textContent = link; a.target = "_blank"; a.rel = "noopener";
+    st.appendChild(a);
+  }
+  $("resList").appendChild(st);
   $("result").classList.remove("hidden");
-  setNico("win");           // Nico trots back with the ball
-  setStatus(nicoWin(), "ok");
 }
 
-// Summarize fetched article text. Throws on failure so the caller shows a Nico "lost" message.
+function addMiss(url, msg) {
+  const d = document.createElement("div");
+  d.className = "miss";
+  d.textContent = "🐕 Lost this one [" + msg + "]: " + url;
+  $("resList").appendChild(d);
+  $("result").classList.remove("hidden");
+}
+
+// Summarize fetched article text into a story. Throws on failure.
 async function process(rawText, link, knownHeadline) {
   const headline = knownHeadline || extractTitle(rawText);
   const clean = cleanArticleText(rawText);
   const bullets = await geminiSummarize(clean, headline);
   if (!bullets || !bullets.length) throw new Error("empty-summary");
-  showResult(headline, bullets, link);
+  addStory(headline, bullets, link);
+}
+
+// One link end to end (Reddit resolve + fetch). Throws on failure.
+async function handleOneLink(url) {
+  if (isRedditUrl(url)) {
+    const { articleUrl, redditText } = await resolveRedditLink(url);
+    if (articleUrl) await summarizeLink(articleUrl, url);
+    else await process(redditText, url);
+  } else {
+    await summarizeLink(url, url);
+  }
 }
 
 $("goBtn").addEventListener("click", async () => {
-  const url = $("url").value.trim();
-  if (!url) { setStatus("Paste a link first!", "err"); return; }
+  const urls = [...new Set((($("url").value.match(/https?:\/\/[^\s"'<>]+/g)) || []).map(u => u.replace(/[)\].,;]+$/, "")))];
+  if (!urls.length) { setStatus("Paste at least one link!", "err"); return; }
   $("goBtn").disabled = true;
-  setNico("run");           // Nico takes off running
-  setStatus("🐾 GO GET IT NICO…");
-  try {
-    if (isRedditUrl(url)) {
-      const { articleUrl, redditText, domain } = await resolveRedditLink(url);
-      if (articleUrl) await summarizeLink(articleUrl, url);   // fetch the article, show the original link
-      else await process(redditText, url);                    // text/discussion post
-    } else {
-      await summarizeLink(url, url);
-    }
-  } catch (e) {
-    setNico("idle");        // came back empty-pawed
-    setStatus(nicoLost(e.message), "err");
-    $("pasteWrap").style.display = "block";
-  } finally {
-    $("goBtn").disabled = false;
+  $("resList").innerHTML = "";
+  $("pasteWrap").style.display = "none";
+  setNico("run");
+  let ok = 0, fail = 0;
+  for (let i = 0; i < urls.length; i++) {
+    setStatus(urls.length > 1 ? `🐾 GO GET IT NICO… (${i + 1}/${urls.length})` : "🐾 GO GET IT NICO…");
+    try { await handleOneLink(urls[i]); ok++; }
+    catch (e) { fail++; addMiss(urls[i], e.message); }
   }
+  setNico(ok ? "win" : "idle");
+  if (ok && !fail) setStatus(nicoWin(), "ok");
+  else if (ok && fail) setStatus(`🦴 NICO GOT ${ok}, LOST ${fail} — VERIFY & COPY!`, "ok");
+  else { setStatus(nicoLost("all-blocked"), "err"); $("pasteWrap").style.display = "block"; }
+  $("goBtn").disabled = false;
 });
 
 // PRIMARY: fetch the REAL article text ourselves (reader -> proxy) and summarize that —
@@ -722,9 +763,8 @@ async function summarizeLink(fetchUrl, displayLink) {
     return;
   } catch (e) { fetchErr = e.message; }
   try {
-    setStatus("🐾 NICO'S DIGGING DEEPER…");
     const { headline, bullets, verified } = await geminiSummarizeUrl(fetchUrl);
-    if (verified && bullets && bullets.length) { showResult(headline, bullets, displayLink); return; }
+    if (verified && bullets && bullets.length) { addStory(headline, bullets, displayLink); return; }
   } catch (e2) { /* fall through to report the fetch error */ }
   throw new Error(fetchErr || "blocked");
 }
@@ -737,10 +777,11 @@ $("pasteBtn").addEventListener("click", async () => {
   setStatus("🐾 GO GET IT NICO…");
   try {
     const guess = (text.split(/\n/).map(l => l.trim()).find(l => l.length > 12) || "").slice(0, 160);
-    await process(text, $("url").value.trim(), guess); // keep the link if one was entered
+    const firstUrl = (($("url").value.match(/https?:\/\/[^\s"'<>]+/)) || [])[0] || "";
+    await process(text, firstUrl, guess);
+    setNico("win"); setStatus(nicoWin(), "ok");
   } catch (e) {
-    setNico("idle");
-    setStatus(nicoLost(e.message), "err");
+    setNico("idle"); setStatus(nicoLost(e.message), "err");
   } finally {
     $("pasteBtn").disabled = false;
   }
@@ -753,26 +794,26 @@ function copyText(text, okMsg) {
   );
 }
 
-// Doc block: headline, link on its own line, then dash bullets — matches the show doc.
+// Doc: each story as headline + link + dash bullets, blank line between stories.
 $("copyDocBtn").addEventListener("click", () => {
-  if (!lastResult) return;
-  const bullets = currentBullets();
-  if (!bullets.length) { setStatus("No bullets left to copy.", "err"); return; }
-  const parts = [lastResult.headline];
-  if (lastResult.link) parts.push(lastResult.link);
-  parts.push(bullets.map(b => "- " + b).join("\n"));
-  copyText(parts.join("\n"), "Copied — paste into your Doc.");
+  const stories = currentStories();
+  if (!stories.length) { setStatus("Nothing to copy yet.", "err"); return; }
+  const blocks = stories.map(s => {
+    const parts = [s.headline];
+    if (s.link) parts.push(s.link);
+    parts.push(s.bullets.map(b => "- " + b).join("\n"));
+    return parts.join("\n");
+  });
+  copyText(blocks.join("\n\n"), `Copied ${stories.length} stor${stories.length > 1 ? "ies" : "y"} — paste into your Doc.`);
 });
 
-// Sheets row: [Headline] [Bullets in one cell] [Link].
+// Sheets: one row per story — [Headline] [Bullets in one cell] [Link].
 $("copySheetBtn").addEventListener("click", () => {
-  if (!lastResult) return;
-  const bullets = currentBullets();
-  if (!bullets.length) { setStatus("No bullets left to copy.", "err"); return; }
+  const stories = currentStories();
+  if (!stories.length) { setStatus("Nothing to copy yet.", "err"); return; }
   const cell = s => /[\t\n"]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
-  const bulletsCell = bullets.map(b => "• " + b).join("\n");
-  const row = [cell(lastResult.headline), cell(bulletsCell), cell(lastResult.link)].join("\t");
-  copyText(row, "Copied — paste into a Google Sheet row.");
+  const rows = stories.map(s => [cell(s.headline), cell(s.bullets.map(b => "• " + b).join("\n")), cell(s.link)].join("\t"));
+  copyText(rows.join("\n"), `Copied ${stories.length} row${stories.length > 1 ? "s" : ""} — paste into Google Sheets.`);
 });
 
 /* ---------------- Settings persistence ---------------- */
@@ -782,8 +823,8 @@ function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
 (function initSettings() {
   const savedKey = lsGet("gemini-key"); if (savedKey) $("apiKey").value = savedKey;
   $("apiKey").addEventListener("input", () => lsSet("gemini-key", $("apiKey").value.trim()));
-  // Enter in the URL box triggers Summarize.
-  $("url").addEventListener("keydown", e => { if (e.key === "Enter") $("goBtn").click(); });
+  // Ctrl/Cmd+Enter in the links box triggers Summarize (plain Enter adds a new line).
+  $("url").addEventListener("keydown", e => { if ((e.ctrlKey || e.metaKey) && e.key === "Enter") $("goBtn").click(); });
 })();
 </script>
 </body>
