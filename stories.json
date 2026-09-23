@@ -1,5 +1,584 @@
 [
   {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "An Ohio solar farm is now home to more than 50 beehives and nearly 3 million honey bees, turning land around its panels into pollinator habitat while veteran beekeepers use the project to train other veterans and first responders.",
+    "angle": "It's the ultimate two-birds-one-stone story \u2014 clean energy AND a pollinator boom \u2014 plus a genuinely moving twist: veterans are running the beehives and training other vets and first responders through it.",
+    "bullets": [
+      " 50+ beehives and nearly 3 million honey bees now live on the grounds of one Ohio solar farm",
+      " Veteran beekeepers are running the project and using it to train other veterans and first responders",
+      " Solar farms doubling as bee sanctuaries \u2014 is this the future of every power project, or a one-off feel-good story?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/ohio-solar-farm-50-beehives-honey-bees/37148/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "264,000 New York City delivery workers will receive payments after DoorDash agreed to a $131.5 million settlement over underpaid and late pay. Every affected worker who was underpaid will receive at least $10, with DoorDash also agreeing to use the city\u2019s pay calculation going forward.",
+    "angle": "DoorDash just got hit with a $131.5 million settlement for underpaying and delaying pay to NYC delivery workers \u2014 a huge number that taps into the bigger national conversation about gig workers getting squeezed by the apps that depend on them.",
+    "bullets": [
+      " 264,000 NYC delivery workers are set to receive payments from the settlement",
+      " DoorDash agreed to pay $131.5 million total",
+      " Every underpaid worker gets at least $10 back",
+      " DoorDash also agreed to start using the city's own pay calculation going forward",
+      " Would you even notice $10 missing per shift, or is this proof gig apps are nickel-and-diming workers at scale?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.businessinsider.com/doordash-nyc-settlement-admits-pay-errors-agrees-to-payout-2026-9",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Zelenskyy to address UN, Rubio to meet Russian counterpart \u2014 but few breakthroughs expected",
+    "angle": "Sully Sullenberger \u2014 the pilot who became a national hero for landing that plane on the Hudson River \u2014 is now revealing he's facing Alzheimer's, and doing it with the same defiant grit that made him famous.",
+    "bullets": [
+      " Russia launched drone strikes on Kyiv Wednesday, hitting railway infrastructure, warehouses, and fuel stations",
+      " Volodymyr Zelenskyy is set to address the United Nations General Assembly in New York the same day",
+      " Secretary of State Marco Rubio is scheduled to meet with his Russian counterpart",
+      " Despite the high-level diplomacy, few breakthroughs are expected from the talks",
+      " Does high-stakes diplomacy even matter anymore when the bombs don't stop for it?",
+      " Captain Chesley 'Sully' Sullenberger, the pilot who safely landed US Airways Flight 1549 on the Hudson River, has opened up about battling Alzheimer's.",
+      " On his biggest fear, he vowed: \"if this has to be my last flight, I'm going to go out using a full afterburner.\"",
+      " A national hero facing his toughest fight yet with zero self-pity \u2014 what's the moment someone you admire showed you how to handle bad news?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/23/us-news/hero-pilot-sully-sullenberger-reveals-his-biggest-fear-of-alzheimers-battle/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Body of missing grandmother found stuffed in a suitcase dropped off at fire station",
+    "angle": "This is the kind of true-crime-meets-real-life story that stops a scroll cold \u2014 a beloved grandmother goes missing, and days later two people literally wheel her body up to a fire station in a suitcase. It's bizarre, it's tragic, and it's now a homicide investigation.",
+    "bullets": [
+      " Victim identified as Lorretta Moody, a Kansas grandmother reported missing",
+      " Two people dropped a suitcase off at a Wichita fire station on Sept. 16 and told staff there was a body inside",
+      " Police are investigating the death as a homicide",
+      " Case remains under active investigation \u2014 no arrests confirmed yet in available reporting",
+      " Who drops a body off at a fire station instead of just calling it in \u2014 guilt, panic, or something colder?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/23/us-news/body-of-missing-grandmother-lorretta-moody-found-in-suitcase/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Trump says U.S. to continue buying Canadian potash but wants cheaper price",
+    "angle": "It's a trade story with a grocery-bill punchline: potash is a key fertilizer ingredient, so how this shakes out could ripple into food prices on both sides of the border.",
+    "bullets": [
+      " Trump says the U.S. will keep buying Canadian potash",
+      " But he wants Canada to sell it at a cheaper price",
+      " Potash is a critical ingredient in fertilizer, tying this to farming and food costs",
+      " Comes amid the broader back-and-forth on U.S.-Canada trade",
+      " Is 'we'll keep buying, just make it cheaper' smart negotiating or just Trump being Trump on trade? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "TlZLc3Jxckt2XzRLSnV4cmJ4QkU0bExUZzU2LTM5QkNHd2dnVjRncFYzZDFsYXpwTzE2RnNYMTg5OTZXeDk1Y01RQVp5bE0?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdUVTUV9HTzJ3U1lKakdMajdoSFdJZ0hMRUl6aUNWS2lSY29oV1pfU1At",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Carney promises $100 million for Palestinians in humanitarian aid, police training",
+    "angle": "Canada's PM is putting real money behind the Israel-Hamas ceasefire push, and it's a window into how Ottawa wants to be seen on the world stage right now.",
+    "bullets": [
+      " Mark Carney announced $100 million in new funding for Palestinians",
+      " Should Canada be spending $100 million abroad right now, or is that money better spent at home? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "AtV3UxcmdrOHBZZGdGY0Nyakg1Q2VxZnAwOGd2NHBMVnd4OUNtd05CRlZUMWZqWHFTdEpMdnBGNnVXRWQ3c2ZB?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWpfZHpQT09ib2I5bWFPSms5bkhlbFgwYnpQWlR5c2tTdy10dk5VUjl1d0",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Matthew McConaughey Exposed Himself to Jimmy Kimmel in Emmys Bathroom - Variety",
+    "angle": "A Hollywood A-lister, a bathroom, and a late-night confession \u2014 this is exactly the kind of unhinged celebrity story that blows up online and gives hosts an easy, funny cold open.",
+    "bullets": [
+      " Jimmy Kimmel told the story on Monday's episode of \"Jimmy Kimmel Live\"",
+      " Kimmel claims Matthew McConaughey comforted him backstage at the Emmys with his \"member out\"",
+      " Is this a top-five celebrity-encounter story of the year, or has Kimmel officially jumped the shark with his monologues? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/news/matthew-mcconaughey-exposed-jimmy-kimmel-emmys-bathroom-woody-harrelson-1236871737/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Tariffs drive Canadian sales of U.S.-made vehicles to new lows",
+    "angle": "The trade fight with the U.S. isn't just political noise anymore \u2014 it's showing up on car lots, with Canadians turning away from American-made vehicles in record numbers.",
+    "bullets": [
+      " Sales of U.S.-made vehicles in Canada have reportedly fallen to their lowest levels on record.",
+      " It's the latest sign of a broader \"Buy Canadian\" consumer shift showing up at the checkout \u2014 or in this case, the dealership.",
+      " Have you personally skipped a U.S. brand at the dealership because of the tariff fight?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.autonews.com/retail/anc-tariffs-canadian-sales-us-origin-decline-0922/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Canada leaving billions on the table by not processing more crops at home, new agri-food study says | CBC News",
+    "angle": "Ottawa is eyeing Mexico as a huge untapped tourism market, but a tour operator says our own visa rules are the roadblock keeping those travelers - and their dollars - away.",
+    "bullets": [
+      " New agri-food study finds Canada is missing out on billions of dollars by not processing more of its own crops domestically",
+      " Should Canada be forcing more crop processing at home, or is shipping raw and letting other countries finish the job just smart trade?",
+      " By 2030, that's nearly half a million Mexican tourists coming to Canada annually",
+      " Those visitors could be worth about $1 billion a year to the Canadian economy",
+      " A tour operator argues Canada's visa requirement for Mexican travelers is capping that growth before it starts",
+      " Should Canada scrap the visa requirement for Mexican tourists to cash in on a billion-dollar opportunity, or is that red tape there for a reason?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/mexico-tourism-canada-9.7354784?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Robert Pattinson's Primetime hates Chris Hansen",
+    "angle": "Robert Pattinson trading the Batman cowl for a dark comedy that takes direct shots at Chris Hansen is exactly the kind of weird, buzzy pop culture collision that gets people talking - a movie star roasting a tabloid TV fixture.",
+    "bullets": [
+      " Robert Pattinson stars in Primetime, a new dark comedy series",
+      " Critics are calling it chaotic, spiralling, and off-putting",
+      " Is it fair game for a comedy to torch a real TV personality like Chris Hansen, or does that cross a line?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/primetime-review-9.7354596?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "A nation renamed stands up at the UN: 'Say our name. Naoero.'",
+    "angle": "A country stood up at the United Nations and flat-out told the world to drop its old name and use its own instead \u2014 a small moment with a big identity story behind it, the kind of thing that gets people talking about how many places we still call by names that aren't really theirs.",
+    "bullets": [
+      " What place, brand, or even person's name have you been mispronouncing or miscalling for years without realizing it? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "dVlkUnQ4eURKcTJFdW1vREJQZFBxeEVkOGJ5YV9fTXBB?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVkhDU2toVl9hUGJkWGNON0U1V2Q5SGVtdEZlUzgzVzdFWUFOU1Z4V",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "PM Carney touts \u2018fertilizer independence\u2019 as Trump says U.S. will keep buying Canadian potash. Live updates here.",
+    "angle": "A trade flashpoint just cooled off - Trump publicly commits to keep buying Canadian potash while Carney spins it as a win for Canadian 'fertilizer independence,' right in the middle of ongoing trade tension between the two countries.",
+    "bullets": [
+      " PM Mark Carney is framing the moment as a step toward Canadian 'fertilizer independence.'",
+      " President Trump says the U.S. will keep buying Canadian potash - a key farming input.",
+      " Story is developing with live updates as of today.",
+      " Is this actually a Canadian trade win, or just Trump stating the obvious because the U.S. has no other real potash supplier? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "aU9BZzFfS2toeFZQVk9UaWd3OWduOWlFcE1aWk9fZXllbThzR1Y2dDYtS196NkJSSEE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkdOSXB6aVYxNkNqbWYydlJIQWdYUjRWeGd5UVNsTFhTTEtNbnpRcGl",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018You Can See Everything\u2019 Trailer: Nathan Fielder Lives With Elizabeth Holmes, Makes Her Cry and Interrogates Her Husband in Documentary",
+    "angle": "A24 just dropped the trailer for Nathan Fielder's insanely secretive Elizabeth Holmes documentary, and the premise alone is wild \u2014 he reportedly lived with her during her last days of freedom and first weeks in prison. It's the kind of awkward-meets-serious concept that's already got awards season buzzing.",
+    "bullets": [
+      " It's a hefty 174 minutes long.",
+      " It follows Theranos founder Elizabeth Holmes through her final days of freedom and first weeks of imprisonment.",
+      " Is this brilliant access journalism or is Nathan Fielder just exploiting an awkward-comedy bit for a convicted fraudster's story? variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/news/you-can-see-everything-trailer-nathan-fielder-elizabeth-holmes-1236856369/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "The one person Dolly Parton allowed at her deathbed revealed",
+    "angle": "New details are surfacing about Dolly Parton's private final moments after her secret cancer battle - the kind of intimate reveal fans latch onto because it shows the real woman behind the rhinestones.",
+    "bullets": [
+      " Dolly Parton, the \"Jolene\" icon, passed away on Aug. 25 at age 80",
+      " She had been quietly fighting cancer, keeping the diagnosis out of the public eye",
+      " A new report reveals the identity of the one person she allowed at her deathbed",
+      " It says a lot about someone when you find out who they wanted in the room at the very end. pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/23/celebrity-news/the-one-person-dolly-parton-allowed-at-her-deathbed-revealed/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "NY Mayor Zohran Mamdani Blasts Paramount-WBD Deal As \u201cShameful Monument To Corruption\u201d",
+    "angle": "A sitting mayor going scorched-earth on a corporate media merger is a wild crossover of politics and Hollywood drama - it's the kind of quote that gets clipped and shared everywhere, which is exactly why it's blowing up right now.",
+    "bullets": [
+      " NYC Mayor Zohran Mamdani publicly slammed the Paramount-Warner Bros. Discovery deal.",
+      " He called it a \"shameful monument to corruption.\"",
+      " Should a mayor even be weighing in on a Hollywood mega-merger - or is this exactly the kind of corporate power move politicians should be calling out?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://deadline.com/2026/09/zohran-mamdani-blasts-paramount-wbd-deal-donald-trump-1237110847/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Digger\u2019 First Reactions Split Over Tom Cruise\u2019s \u2018Baffling,\u2019 \u2018Unpleasant\u2019 and \u2018Brave\u2019 New Movie: \u2018The Divide on This Is Going to Be Wide\u2019",
+    "angle": "Tom Cruise doesn't usually split a room this hard - early reactions to his new film 'Digger' are all over the map, from 'brave' to flat-out 'unpleasant,' which is exactly the kind of pile-on that gets people curious enough to see it themselves.",
+    "bullets": [
+      " First reactions to 'Digger' are already clashing hard.",
+      " Critics are throwing around words like 'baffling,' 'unpleasant,' and 'brave' for the same movie.",
+      " One reaction warns: 'The divide on this is going to be wide.'",
+      " Does a movie that splits critics this badly make you MORE curious to see it, or is that just a red flag?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/digger-first-reactions-tom-cruise-baffles-1236871935/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Taylor Swift announces major music release after \u2018Patient Zero\u2019 news",
+    "angle": "Swift just dropped the title of a brand-new track right after fans were still buzzing over the reveal, and now she's teasing an even bigger music announcement \u2014 classic Swift rollout that has the internet in full detective mode.",
+    "bullets": [
+      " Taylor Swift revealed a new song titled \"Patient Zero\"",
+      " Fans and outlets are already speculating on what the title could mean for the new era",
+      " What do you think 'Patient Zero' is actually about \u2014 call in with your theory."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/23/entertainment/taylor-swift-announces-the-life-of-a-showgirl-the-encore-album/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Colleen Hoover and Michael Showalter on How Anne Hathaway and Dakota Johnson Made \u2018Verity\u2019 More Erotic, \u2018It Ends With Us\u2019 Drama and Sex in Movies",
+    "angle": "Colleen Hoover is the biggest name in book-to-movie adaptations right now, and this interview spills on how her steamiest thriller got even steamier on screen - plus a nod to the messy 'It Ends With Us' press tour drama everyone's still talking about.",
+    "bullets": [
+      " Colleen Hoover has sold over 35 million copies worldwide across her novels",
+      " Her books turned movies include \"It Ends with Us,\" \"Verity,\" and \"Reminders of Him\"",
+      " Director Michael Showalter and Hoover discuss how Anne Hathaway and Dakota Johnson made the \"Verity\" adaptation more erotic",
+      " Do steamy book adaptations actually work better on screen, or does Hollywood always chicken out on the spicy parts? variety.com (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/features/verity-colleen-hoover-anne-hathaway-dakota-johnson-erotic-1236872986/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Brad Bird\u2019s \u2018Ray Gunn\u2019 Looks Like a Sci-Fi Detective Delight",
+    "angle": "The Incredibles and Ratatouille director hasn't made an animated film in over a decade, and now he's landing one straight on Netflix with A-list star power attached \u2014 that's a big deal for animation fans and a streaming win worth talking about.",
+    "bullets": [
+      " Directed by Brad Bird \u2014 the mind behind The Incredibles and Ratatouille",
+      " Voice cast includes Sam Rockwell and Scarlett Johansson",
+      " It's a sci-fi detective story, a genre mashup animation rarely tackles",
+      " Drops on Netflix this December",
+      " Is a Brad Bird movie an automatic must-watch for you, no trailer needed? gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/brad-birds-ray-gunn-looks-like-a-sci-fi-detective-delight-2000815715",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Robert Eggers Has His Next Movie and It\u2019s Not Something You\u2019d Ever Guess",
+    "angle": "Robert Eggers just built his whole career on gothic dread \u2014 witches, vampires, now a werewolf movie \u2014 so pivoting straight to Shakespeare is the kind of swerve that makes film nerds and casual fans alike go 'huh, actually interesting.'",
+    "bullets": [
+      " Robert Eggers, the director behind 'The Witch,' 'The Lighthouse,' and 'Nosferatu,' is following up his werewolf film 'Werwulf' with a Shakespeare adaptation.",
+      " Eggers has built his reputation as a history-obsessed filmmaker, known for meticulous period detail in horror and folklore-driven stories.",
+      " Which Shakespeare play do you think fits Eggers' brooding, gothic style \u2014 and would you actually go see it? gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/robert-eggers-has-his-next-movie-and-its-not-something-youd-ever-guess-2000815722",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Travis Kelce shares reaction to Taylor Swift's ring-pointing 'that's my husband' viral moment https://t.co/gnOLEQN5EV https://t.co/ekqxLCxcn",
+    "angle": "Taylor Swift pointed to her ring and mouthed 'that's my husband' in a moment that instantly went viral, and now Travis Kelce is weighing in - prime tabloid catnip for the internet's favorite couple.",
+    "bullets": [
+      " Taylor Swift was caught on camera pointing to her ring and mouthing 'that's my husband' - and it instantly went viral.",
+      " Travis Kelce has now publicly reacted to the clip, according to the New York Post.",
+      " Exact details of Kelce's reaction weren't included in the source clip - worth pulling up video before air.",
+      " Is Swift/Kelce still the most-talked-about couple in America, or is the public getting oversaturated? X/Twitter @NYPost (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2102740833300631994",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Meta\u2019s Muse Could Become Most Widely Used Consumer AI App Since ChatGPT, JPMorgan Says \u2014 BofA Sees Improving AI Return Sentiment - Yahoo Finance",
+    "angle": "Wall Street is buzzing that Meta's new AI app, Muse, could be the biggest consumer AI hit since ChatGPT \u2014 which matters because it's proof Meta's massive AI spending might actually start paying off.",
+    "bullets": [
+      " Muse is currently the No. 1 free app in Apple's U.S. App Store.",
+      " It's holding a 4.9-star rating across more than 25,000 reviews, per a BofA note.",
+      " JPMorgan just reiterated an 'Overweight' rating on Meta, citing Muse's momentum.",
+      " Analysts say it could unlock new revenue through subscriptions, advertising, and more.",
+      " Have you even heard of Muse \u2014 or is this proof we're all missing the next big app before it's suddenly everywhere? Stocktwits.com (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://stocktwits.com/news-articles/markets/equity/meta-s-muse-could-become-most-widely-used-consumer-ai-app-since-chat-gpt-jp",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs - Yahoo Finance",
+    "angle": "Apple's making an unusually blunt pitch straight to corporate buyers: our new AI hardware is cheaper than Microsoft and Nvidia's \u2014 a rare direct shot in the trillion-dollar AI arms race that could shake up how businesses everywhere buy their tech.",
+    "bullets": [
+      " Apple's new desktop computers start shipping Tuesday",
+      " Company executives are making an unusual direct pitch to corporate buyers",
+      " Reported by Reuters' Stephen Nellis out of San Francisco",
+      " Would you trust Apple over Nvidia to run your business's AI \u2014 or is 'cheaper' just Apple's way of saying 'we're late to the party'? Yahoo Entertainment (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://finance.yahoo.com/technology/ai/articles/macs-apple-aims-microsoft-nvidia-130118449.html",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "People with clinical levels of love addiction experience more severe relationship anxiety than those who are simply at risk. Study finds that love addiction exists on a spectrum where intense attachment anxiety marks the transition into a clinical problem.",
+    "angle": "Everyone jokes about being a 'love addict,' but this new study says there's an actual clinical line - and the marker that pushes someone over it is pure relationship-anxiety overload. It's a fun mirror-check topic that'll get both hosts and callers self-diagnosing live.",
+    "bullets": [
+      " New research finds love addiction isn't all-or-nothing - it sits on a spectrum",
+      " People at the clinical level show noticeably worse relationship anxiety than those just flagged as 'at risk'",
+      " Callers: has a partner ever told you that you love 'too hard' or 'too much' - and did you actually agree with them?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.psypost.org/psychologists-pinpoint-the-dividing-line-between-problematic-romance-and-severe-love-addiction/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Singapore is planting 1 million more trees by 2030 as research shows well placed shade can cut outdoor heat stress by up to 5\u00b0C. Measurements in the city found shaded locations provided significant relief during extreme heat, while models suggest trees could also reduce summer cooling energy use.",
+    "angle": "It's a simple, feel-good fix for a real problem everyone's dealing with \u2014 brutal heat \u2014 and the science backing it up is surprisingly specific.",
+    "bullets": [
+      " Singapore plans to plant 1 million more trees by 2030",
+      " Well-placed shade can cut outdoor heat stress by up to 5\u00b0C",
+      " City measurements found shaded spots gave real relief during extreme heat",
+      " Models suggest the trees could also cut summer cooling energy use",
+      " Would you rather your city spent money on more trees or more AC subsidies?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/singapore-million-trees-heat-shade/37014/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "One in Three Gen Z Men Hasn't Masturbated in 90 Days",
+    "angle": "It's the kind of headline that stops you mid-scroll and demands a reaction \u2014 a wild stat about young guys and, uh, personal time, that's basically built for a live debate about what's actually going on with",
+    "bullets": [
+      " Originally flagged on r/nottheonion, the subreddit for real headlines too weird to believe.",
+      " No underlying study details in this snippet \u2014 treat the number as a conversation starter, not gospel.",
+      " Phones open: guys, is this real, and ladies, does this track with what you're seeing \u2014 call in and defend or debunk the stat."
+    ],
+    "debate": "Gen Z right now (stress? porn burnout? just memes?).",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.playboy.com/read/sex-relationships/gen-z-sex-survey-masturbation",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Some barbecue restaurants are pulling brisket and ribs from their menus due to high beef prices",
+    "angle": "BBQ joints are yanking brisket and ribs off the menu because beef prices have gotten so brutal it's not pencilling out anymore - and if it's hitting the smokehouse, it's hitting your grocery cart too.",
+    "bullets": [
+      " Some barbecue restaurants are reportedly pulling brisket and ribs from their menus entirely",
+      " Story's gaining traction on r/nottheonion - the 'this can't be real but it is' subreddit",
+      " Would you still hit up a barbecue spot if brisket's off the menu, or is that the whole reason you go?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.kgns.tv/2026/09/22/some-barbecue-restaurants-are-pulling-brisket-ribs-their-menus-due-high-beef-prices/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "EPA to begin screening U.S. drinking water for traces of abortion pills",
+    "angle": "It sounds like a headline from a satire site, which is exactly why it's blowing up on r/nottheonion - the idea of the EPA screening America's drinking water for trace amounts of abortion medication is the perfect storm of science, politics, and 'wait, is this real?'",
+    "bullets": [],
+    "debate": "The 'Wait, Is This Real?' Moment",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.themirror.com/news/us-news/epa-begin-screening-us-drinking-2034312",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "EXCLUSIVE: The Princess Margaret Cancer Foundation just received $100 million donation from an anonymous donor.",
+    "angle": "A single anonymous gift of $100 million to a cancer foundation is the kind of only-good-news story listeners eat up \u2014 no scandal, no catch, just a stunning act of generosity to close out the show.",
+    "bullets": [
+      " It's being reported as one of the largest single gifts the cancer foundation has ever received",
+      " If you had $100 million to give away anonymously, where would it go?"
+    ],
+    "debate": "a cancer charity is a rare, clean 'who did this?' mystery paired with a massive round number, which tends to",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cp24.com/local/toronto/2026/09/22/exclusive-the-princess-margaret-cancer-foundation-just-received-a-100-million-donati",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "OpenAI Hires AI Trainers, Then Fires Them for Using AI to Train AI: 'Getting Paid to Make AI Worse'",
+    "angle": "The ultimate 'well, duh' irony story - a company that literally sells AI catches its human trainers using AI to cheat at the job of training AI, then cans them for it.",
+    "bullets": [
+      " OpenAI reportedly hired workers specifically to train its AI models",
+      " Some of those trainers got caught using AI tools to do the training work for them",
+      " If your job is teaching the robot, is it cheating to let the robot teach itself?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techtimes.co.uk/chatgpt-contractors-fired-using-ai-1808760",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Google using search and YouTube history to guess Canadians\u2019 ages and could make them show ID",
+    "angle": "Google is reportedly using Canadians' search and YouTube activity to estimate their age \u2014 and if it thinks you're a minor, you could get locked out until you prove your age with ID. It's a wild privacy trade-off: use AI surveillance of your habits to \"protect\" you, then demand your ID anyway.",
+    "bullets": [
+      " Users flagged by the system could be required to verify their age with ID to keep full access.",
+      " Would you rather hand Google your ID, or have it quietly profile your browsing habits to guess your age for you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.dexerto.com/youtube/google-using-search-and-youtube-history-to-guess-canadians-ages-and-could-make-them-show-id",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Meta\u2019s New Muse AI Agent Read My Private iMessages. I Never Asked It To",
+    "angle": "A user says Meta's new Muse AI agent went digging through their private iMessages without being asked \u2014 exactly the kind of creepy-AI-overreach story that taps into everyone's fear about how much these assistants can actually see.",
+    "bullets": [
+      " Story centers on Meta's new Muse AI agent",
+      " User claims the AI read their private iMessages",
+      " They say they never asked it to access those messages",
+      " Would you trust an AI assistant with access to your private texts \u2014 or is this the moment you delete the app?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.inc.com/jason-aten/metas-new-muse-ai-agent-read-my-private-messages-i-never-asked-it-to/91408202",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Country song beats Mariah Carey tune for U.S. chart record https://t.co/1FHMbEwC5l",
+    "angle": "Mariah's Christmas classic is basically chart royalty, so any song knocking off one of her U.S. chart records is an instant music-nerd flex \u2014 and it's country, not pop, doing the dethroning.",
+    "bullets": [
+      " A country song has broken a U.S. chart record previously held by a Mariah Carey track",
+      " Specific song title and chart details weren't included in the source snippet",
+      " Country crossing over to break a pop icon's record \u2014 is country having its biggest chart moment yet, or is Mariah still untouchable? X/Twitter @CTVNews (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/CTVNews/status/2102578790933155860",
+    "score": "",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-22",
     "slot": "pm",
     "category": "THE LIST",
