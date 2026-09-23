@@ -184,6 +184,10 @@
       </div>
     </div>
   </div>
+
+  <div class="card">
+    <button id="clearBtn" class="secondary">🧹 CLEAR &amp; START OVER</button>
+  </div>
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@mozilla/readability@0.5.0/Readability.js"></script>
@@ -826,6 +830,21 @@ function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
   // Ctrl/Cmd+Enter in the links box triggers Summarize (plain Enter adds a new line).
   $("url").addEventListener("keydown", e => { if ((e.ctrlKey || e.metaKey) && e.key === "Enter") $("goBtn").click(); });
 })();
+
+/* ---------------- Clear / start over ----------------
+   Resets the links, results, status and paste box so you don't have to
+   refresh the page. Deliberately leaves the API key alone (both the field
+   and its saved value), so you only paste the key once per browser. */
+$("clearBtn").addEventListener("click", () => {
+  $("url").value = "";
+  $("pasteText").value = "";
+  $("pasteWrap").classList.add("hidden");
+  $("resList").innerHTML = "";
+  $("result").classList.add("hidden");
+  setStatus("");
+  setNico("idle");
+  $("url").focus();
+});
 </script>
 </body>
 </html>
