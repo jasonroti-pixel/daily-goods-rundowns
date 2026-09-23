@@ -1,6 +1,593 @@
 [
   {
     "date": "2026-09-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Largest wildlife overpass in North America located in Colorado with 91% reduction in collisions: \"Big success\"",
+    "angle": "It's North America's biggest wildlife overpass, and it's slashing animal-vehicle collisions by 91% \u2014 a rare good-news infrastructure story with an easy visual (deer strolling over a highway) that plays everywhere, not just Colorado.",
+    "bullets": [
+      " It's the largest wildlife overpass in North America \u2014 built specifically in Colorado",
+      " Animal-vehicle collisions in the area dropped 91% since it opened",
+      " Officials are calling it a \"big success\"",
+      " Would you want your tax dollars building animal bridges \u2014 or is that money better spent elsewhere?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbsnews.com/colorado/news/largest-wildlife-overpass-north-america-colorado-reduce-wildlife-collisions/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Martha\u2019s Rule Has Potentially Saved 446 Lives in England by Giving Patients, Loved Ones and NHS Staff the Right to Request a Rapid Review of Care When They Fear Someone Is Deteriorating. After More Than 10,000 Calls, It Is Now Being Expanded to Every A&E, Including Waiting Rooms.",
+    "angle": "It's a simple, replicable idea: if a patient or their family feels like something's wrong, they can force a rapid second look \u2014 no waiting on doctors to notice. It's spreading fast because it's working, and it's the kind of story that makes people ask 'why don't we have this here?'",
+    "bullets": [
+      " Martha's Rule gives patients, families, and NHS staff the right to demand a rapid review if they fear someone is deteriorating",
+      " It's credited with potentially saving 446 lives in England so far",
+      " There have been more than 10,000 calls made under the rule",
+      " It's now expanding to every A&E department, including waiting rooms",
+      " Would you trust your gut enough to override a doctor and demand a second opinion \u2014 and should every hospital here have a rule like this?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/society/2026/sep/22/marthas-rule-expanded-nhs-england",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump flexes 'American power' on UN's biggest stage",
+    "angle": "The President used the world's biggest diplomatic stage to double down on using US military force to push out foreign rivals from our own backyard \u2014 that's the kind of bold, quotable geopolitics that gets phones ringing and opinions flying.",
+    "bullets": [
+      " President Trump addressed the United Nations and defended using American military power to protect US interests.",
+      " He specifically called out \"hostile foreign adversaries\" trying to gain a foothold in the Western Hemisphere.",
+      " Is 'flexing military power' smart strategy or reckless saber-rattling on the world stage \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/trump-un-general-assembly-speech-9.7353658?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "British Columbia's next provincial election set for Oct. 24 after Eby calls early vote",
+    "angle": "British Columbia's next provincial election set for Oct. 24 after Eby calls early vote",
+    "bullets": [],
+    "debate": "https://www.cbc.ca/news/canada/british-columbia/livestory/british-columbia-snap-election-2026-ndp-leader-david-eby-9.7349059?cmp=rss",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Terrifying mugshot shows homeless man who chased California college student into her apartment",
+    "angle": "A California college student says she was chased into her own home by a homeless man - and her blunt takedown of police inaction is striking a nerve on a story that taps into the national homelessness and public-safety debate.",
+    "bullets": [
+      " A California college student says she was chased into her apartment by a homeless man, whose mugshot has now surfaced.",
+      " Her reaction: \"You guys don't do anything until it's too late.\"",
+      " She added: \"This happens too often to too many people.\"",
+      " Ask listeners: does your city/campus actually respond before something like this escalates, or only after?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/22/us-news/scary-mugshot-shows-man-who-chased-uc-berkeley-student-to-apartment/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump says U.S. to continue buying Canadian potash but wants cheaper price",
+    "angle": "It's the classic Trump trade move: keep the deal, squeeze the price. With fertilizer costs hitting everything from farm bills to grocery prices, this is a US-Canada story with real pocketbook stakes on both sides of the border.",
+    "bullets": [
+      " Trump says the U.S. will keep buying Canadian potash",
+      " But he wants it at a cheaper price",
+      " Potash is a key ingredient in fertilizer, tying this directly to farming and food costs",
+      " Comes amid the broader back-and-forth over U.S.-Canada trade terms",
+      " Is this smart negotiating or just squeezing a neighbor who doesn't have much choice? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "TlZLc3Jxckt2XzRLSnV4cmJ4QkU0bExUZzU2LTM5QkNHd2dnVjRncFYzZDFsYXpwTzE2RnNYMTg5OTZXeDk1Y01RQVp5bE0?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdUVTUV9HTzJ3U1lKakdMajdoSFdJZ0hMRUl6aUNWS2lSY29oV1pfU1At",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Melania Trump breaks with the U.S. president on media ban",
+    "angle": "A First Lady openly disagreeing with her own husband's White House policy is rare enough to stop the scroll - and when it's about restricting media access, it's the kind of family-vs-politics split that makes for instant water-cooler talk.",
+    "bullets": [
+      " Reports indicate Melania Trump has broken publicly with President Trump over a media ban.",
+      " Story surfaced via CTV News, signaling cross-border pickup in Canada as well as the U.S.",
+      " Limited detail available beyond the headline - full specifics on the ban and her comments still emerging.",
+      " When the First Lady disagrees with the President in public, is that a crack in the marriage or a smart political move? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "2Z5NmJ4SnZBTmMxQ2xpcHpYOWpNcGhUVk1RRA?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVzladDdkR3JyamoxTUZBc1pIakt2MzVmMG5laXRFRGtSd3dfZDFfaXRfV",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada nearing free-trade deals with the Philippines, ASEAN block, Trade Minister says",
+    "angle": "Canada's Trade Minister says we're getting close to free-trade agreements with the Philippines and the entire ASEAN bloc - a move that could open up new markets and supply chains right as Canada looks to lean less on trade with the U.S.",
+    "bullets": [
+      " Canada's Trade Minister says free-trade talks with the Philippines are nearing completion.",
+      " A separate deal is also close with the ASEAN bloc - the 10-country Southeast Asian trading group.",
+      " Specifics on tariffs, timelines, and which industries benefit haven't been released yet.",
+      " New trade lanes with Southeast Asia could mean more product choice and competition on Canadian shelves down the line."
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theglobeandmail.com/business/article-canada-nearing-free-trade-deals-with-the-philippines-asean-block/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "\u2018They owe me a new vehicle\u2019: Ontario man shocked after 3-week-old truck needs new engine",
+    "angle": "It's the nightmare every new-car buyer thinks about - you drop serious cash on a brand-new vehicle and it grenades itself before the plates even feel broken in. Instant relatable outrage for anyone who's ever fought a dealership or warranty department.",
+    "bullets": [
+      " Ontario man says his truck needed a brand-new engine after just 3 weeks of ownership",
+      " His reaction, in his own words: \"They owe me a new vehicle\"",
+      " Story surfaced on Reddit's r/canada, where it's stirring up debate over lemon laws and dealer accountability",
+      " Would you accept a repair on a 3-week-old vehicle, or demand a full replacement - call in and tell us your worst new-car horror story."
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/toronto/consumer-alert/article/they-owe-me-a-new-vehicle-ontario-man-shocked-after-3-week-old-truck-need",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Danielle Smith floats charging temporary residents $1,900 to access public health care",
+    "angle": "Alberta votes October 19th on whether temporary residents should pay out of pocket to use public health care and schools \u2014 a referendum question that cuts right into the immigration and cost-of-living debate.",
+    "bullets": [
+      " Danielle Smith floated a $1,900 fee for certain non-permanent residents to access Alberta's health care system",
+      " Albertans vote in a referendum on Oct. 19 on the issue",
+      " Should temporary residents pay extra for health care and schools, or is that a two-tier system in disguise?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/calgary/alberta-danielle-smith-health-care-fee-9.7354117?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Modi to visit Canada as Carney looks to finalize trade deal with India by end of year",
+    "angle": "This is a full 180 after years of Canada-India relations being in the deep freeze \u2014 now they're talking trade deals and state visits, which is the kind of political whiplash that makes for good watercooler talk.",
+    "bullets": [
+      " Narendra Modi is expected to visit Canada in December",
+      " PM Mark Carney confirmed the trip on Tuesday",
+      " Both countries are pushing to finalize a trade deal by the end of the year",
+      " This relationship was basically frozen solid not long ago \u2014 so what changed, and who blinked first, Ottawa or New Delhi?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/modi-canada-trade-deal-visit-9.7354352?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "PM Carney touts \u2018fertilizer independence\u2019 as Trump says U.S. will keep buying Canadian potash. Live updates here.",
+    "angle": "A Canadian PM bragging about cutting reliance on the U.S. right as Trump says he'll keep buying anyway is a made-for-radio power flex in the middle of the trade tension saga.",
+    "bullets": [
+      " PM Mark Carney is pushing the idea of 'fertilizer independence' for Canada",
+      " Donald Trump says the U.S. will keep buying Canadian potash regardless",
+      " Potash is the key ingredient in fertilizer - and Canada is the world's biggest supplier of it",
+      " Is this Carney flexing independence, or is Canada still stuck needing the U.S. to actually buy the stuff? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "aU9BZzFfS2toeFZQVk9UaWd3OWduOWlFcE1aWk9fZXllbThzR1Y2dDYtS196NkJSSEE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkdOSXB6aVYxNkNqbWYydlJIQWdYUjRWeGd5UVNsTFhTTEtNbnpRcGl",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Could Canadians handle a 32-hour workweek?",
+    "angle": "The 32-hour workweek debate keeps resurfacing as burnout and work-life balance dominate water-cooler talk \u2014 this is a guaranteed opinion-splitter between hosts who'd love it and bosses who'd panic.",
+    "bullets": [
+      " Call in: would you trade a day off for a pay cut, or is 'same pay, less work' the only version you'd take? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "nQ4TG5WM0szTTVTVGc?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2VOTEsxLW9XX2I2cEk0MmlKVGtBc2FVc0NJUVY0NEVkakhLR29Hd2t0",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018The Housewife\u2019 Review: Naomi Watts Anchors a Watchable but Underpowered True Story of Hidden Nazism in Suburban Queens",
+    "angle": "It's based on a real case \u2014 a Queens housewife who was secretly a former Nazi camp guard \u2014 and the true story angle is what makes this one worth a mention even if the movie itself is getting mixed reviews.",
+    "bullets": [
+      " Naomi Watts stars as immigrant homemaker Hermine Ryan, born Hermine Braunsteiner, in a true story set in suburban Queens",
+      " Variety's review calls the film \"watchable but underpowered,\" knocking heavy-handed direction and scripting",
+      " Despite the script issues, the review praises Watts' performance for its \"detail and integrity\"",
+      " Would you want to know if the quiet neighbor down the street was hiding a secret like that? variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/news/the-housewife-review-naomi-watts-1236870548/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\"Best MAGA event in the country\" Freedom Fest ft. Kid Rock and more cancelled after selling 'only 6 VIP tickets'",
+    "angle": "A patriotic mega-festival branded as the country's premier MAGA event got quietly cancelled after barely selling any VIP tickets \u2014 the gap between the hype and the actual turnout is the kind of self-inflicted comedy that writes itself.",
+    "bullets": [
+      " Event was marketed as the 'Best MAGA event in the country'",
+      " Lineup reportedly included Kid Rock and other acts",
+      " Organizers cancelled the show, dubbed Freedom Fest, after selling just 6 VIP tickets",
+      " Six VIP tickets \u2014 is that a brand problem, a booking problem, or just bad timing? ON-AIR BIT BREAKDOWN - Step 1: Guess the Flop - 60-second warm-up before diving into the story -> Each host guesses how many VIP tickets they think 'Freedom Fest' actually sold before revealing the real number: 6. - Step 2: Rebrand It - Quick improv bit -> Hosts pitch a new name/lineup for a 'Freedom Fest 2.0' that might actually sell tickets."
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://app.ekkow.com/1475004780508709161",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Mahershala Ali Says \u2018I Agree\u2019 That Marvel Not Making \u2018Blade\u2019 Is the \u2018Biggest Failure\u2019 of Kevin Feige\u2019s Career: \u2018I Don\u2019t Know Why It Didn\u2019t Happen\u2019",
+    "angle": "An Oscar winner is publicly agreeing that scrapping the 'Blade' reboot is Kevin Feige's biggest career failure \u2014 that's an A-lister taking a real shot at the MCU's boss, and superhero fans have been asking 'what happened to Blade?' for years.",
+    "bullets": [
+      " Mahershala Ali says 'I agree' that not making Blade is the 'biggest failure' of Kevin Feige's career",
+      " Ali's quote: 'I don't know why it didn't happen'",
+      " Ali was cast as Blade back in 2019 and the film still hasn't gotten off the ground",
+      " Ask listeners: is Blade Marvel's biggest missed opportunity, or is there a bigger MCU botch job out there?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/mahershala-ali-blade-failure-kevin-feige-1236872401/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Robin Williams's daughter Zelda slams deepfake video of her dad",
+    "angle": "AI deepfakes of dead celebrities are becoming a real ethical flashpoint, and Zelda Williams just put a human face on why it's not harmless internet fun.",
+    "bullets": [
+      " Zelda Williams, daughter of Robin Williams, publicly called out AI-generated deepfake videos of her late father",
+      " She used her social media platform to debunk the videos and defend his legacy",
+      " Where's the line between AI tribute and digital grave-robbing when it's someone's actual dead parent?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/robin-williams-deepfake-video-9.7353857?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Yankees lose AL East to Rays with Game 2 defeat in doubleheader split",
+    "angle": "The Yankees just blew their number one regular-season goal, and it happened in the worst way possible \u2014 a doubleheader split where the loss that mattered came in Game 2. That's exactly the kind of gut-punch that gets Yankees fans calling in.",
+    "bullets": [
+      " It came down to a doubleheader split \u2014 split the two games, but the Game 2 loss sealed the division.",
+      " Missing out on the division title makes their road through the postseason tougher from here.",
+      " Yankees fans \u2014 is losing the division to the Rays a real red flag heading into October, or just a shrug-it-off footnote?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/22/sports/yankees-lose-al-east-to-rays-with-game-2-defeat-in-doubleheader-split/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Heated Rivalry\u2019 star\u2019s girlfriend calls out fans for crossing \u2018huge\u2019 boundary: \u2018Hugely uncomfortable for everyone\u2019",
+    "angle": "A celeb couple went public at the Oscars party in March, and now she's publicly drawing a line with fans who crossed it \u2014 that's a juicy 'where's the line' debate for a lifestyle audience.",
+    "bullets": [
+      " She says the behavior has been \"hugely uncomfortable for everyone\"",
+      " Where's the line between being a fan and being invasive with a celebrity's real-life relationship?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/22/celebrity-news/heated-rivalry-stars-girlfriend-calls-out-fans-for-crossing-boundary/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Totally outrageous\u2019: Tom Cruise unleashes \u2018Digger\u2019 at starIstudded Royal premiere",
+    "angle": "Tom Cruise doing anything at a star-studded, royal-adjacent premiere is instant tabloid catnip, and headlines calling it 'totally outrageous' mean there's a fun, over-the-top moment here worth describing on air.",
+    "bullets": [
+      " Headline calls the moment 'totally outrageous'",
+      " Went down at a star-studded Royal premiere",
+      " Tom Cruise was the one who brought the surprise element - a dog(?) named 'Digger'",
+      " Who or what is 'Digger,' and does Tom Cruise ever do anything at a premiere that ISN'T over-the-top? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "UdEVENlTno2c1JmanhuRUFHT2c2MjRWei1PX3d1VFBzZ3VfTDlkZEU2T1RjaENqcFRTZW1uQ2JOR3ZUTmlnWmdGR044OA?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdU5lN243Nk9DeV92WVpCaVVvb1IzUWM3cFVua3N5ZTN2S3VubHpYd1",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Tom Cruise Says AI Is \u2018Coming and It\u2019s Going to Happen,\u2019 but \u2018People Want to See Real Things\u2019: \u2018Keep Creating\u2019 - Variety",
+    "angle": "Hollywood's AI panic meets its biggest movie star, who's basically betting his whole career on practical stunts and real film over anything synthetic \u2014 perfect setup for a debate on where audiences actually stand.",
+    "bullets": [
+      " Tom Cruise says AI is \"coming and it's going to happen\" for the film industry",
+      " He insists \"people want to see real things\" on screen despite the tech threat",
+      " Cruise's message to filmmakers: \"keep creating\"",
+      " Comments came at a BAFTA \"Life in Pictures\" sit-down in London",
+      " Team Cruise: do you actually care if what you're watching is real, or does a good story just work either way? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/global/tom-cruise-ai-movies-people-want-real-things-1236871464/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "KPMG manager Yuen Lee placed on administrative leave after billionaire Bill Ackman shares viral, out-of-context gym altercation video",
+    "angle": "A billionaire's tweet turned a heated gym argument into a firing in hours, and it's reigniting the fight over cancel culture, due process, and how much power a viral clip should have over someone's livelihood.",
+    "bullets": [
+      " Yuen Lee, a manager at KPMG, was caught on video shouting \"Zionist pig\" during a confrontation at Chelsea Piers Fitness.",
+      " Billionaire Bill Ackman and the account StopAntisemitism posted the clip and directly tagged KPMG, pushing for consequences.",
+      " KPMG put her on administrative leave almost immediately after the post went viral.",
+      " Should a stranger's out-of-context video be enough to get you suspended from your job?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://v.redd.it/ren7x9slt2rh1",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "P.E.I. orchard owner 'fed up' after children damage apples during U-pick visit",
+    "angle": "A frustrated orchard owner's rant about kids bruising and tossing apples during U-pick visits has gone viral, tapping into a much bigger debate about parenting, manners, and how we treat small businesses when we visit them.",
+    "bullets": [
+      " A Prince Edward Island orchard owner posted online saying they're \"fed up\" with the damage",
+      " Is it the kids, or the parents not watching them \u2014 who's actually responsible when your family visits a U-pick farm?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-wintermoor-orchard-children-damage-apples-9.7353630?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "From April 2027, people in Great Britain who experience pregnancy loss before 24 weeks will have a legal right to up to two weeks of unpaid bereavement leave, including after miscarriage or unsuccessful IVF. The new rules also extend bereavement leave to more family relationships.",
+    "angle": "Starting April 2027, Britain becomes one of the first places to legally guarantee bereavement leave after pregnancy loss or failed IVF \u2014 a policy shift that's already sparking the obvious question: why doesn't everywhere else have this?",
+    "bullets": [
+      " Applies to pregnancy loss before 24 weeks, including miscarriage and unsuccessful IVF",
+      " Takes effect April 2027 in Great Britain",
+      " Rules also expand bereavement leave to more family relationships, not just pregnancy loss",
+      " Should paid (not just unpaid) miscarriage leave be the norm everywhere, and does your workplace already offer anything like this?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.manchestereveningnews.co.uk/news/uk-news/andy-burnham-government-confirms-major-34651082.amp",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Singapore is planting 1 million more trees by 2030 as research shows well placed shade can cut outdoor heat stress by up to 5\u00b0C. Measurements in the city found shaded locations provided significant relief during extreme heat, while models suggest trees could also reduce summer cooling energy use.",
+    "angle": "It's a simple, feel-good fix to a problem everyone deals with \u2014 free shade that actually cools you down \u2014 and the numbers behind it are wild enough to make you rethink your own backyard.",
+    "bullets": [
+      " Singapore is planting 1 million more trees by 2030.",
+      " Research shows well-placed shade can cut outdoor heat stress by up to 5\u00b0C.",
+      " City measurements found shaded spots gave major relief during extreme heat.",
+      " Models suggest the trees could also cut summer cooling energy use.",
+      " Would you rather your city plant a million trees or hand out AC rebates \u2014 which actually fixes the heat problem?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/singapore-million-trees-heat-shade/37014/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "One in Three Gen Z Men Hasn't Masturbated in 90 Days",
+    "angle": "This one's pure watercooler bait \u2014 a viral stat claiming a third of young men have gone three months without, well, taking care of business, and it's got the internet debating whether Gen Z is burned out, touch-starved, or just lying on surveys.",
+    "bullets": [
+      " Story is making the rounds via r/nottheonion, so treat the number as an internet stat to react to, not a peer-reviewed study.",
+      " Fellas, be honest \u2014 is that number wildly believable or total internet nonsense? ON-AIR BIT BREAKDOWN - Step 1: Gut Check Guess - Before the reveal -> Both hosts guess what percentage of Gen Z men they THINK the real number is before saying it out loud. - Step 2: The Reveal - Drop the stat -> Reveal the '1 in 3' claim and react \u2014 surprised, skeptical, or 'yeah that tracks'? - Step 3: Open The Lines - Caller/text bit -> Ask listeners to weigh in anonymously: dating app burnout, stress, or is the stat just made up?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.playboy.com/read/sex-relationships/gen-z-sex-survey-masturbation",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "How to watch Matthew McConaughey, Woody Harrelson in \u2018Brothers\u2019 for free",
+    "angle": "Real-life buddies Matthew McConaughey and Woody Harrelson play brothers on screen, and the movie's free to stream right now \u2014 that's an easy watercooler tip for anyone hunting for something to watch tonight.",
+    "bullets": [
+      " Matthew McConaughey and Woody Harrelson star as brothers in the new comedy 'Brothers'",
+      " It's described as 'heartfelt, chaotic and wildly funny'",
+      " You can watch it for free right now",
+      " Free movie, real-life besties playing brothers \u2014 who's clearing their couch tonight? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/22/entertainment/how-to-watch-new-matthew-mcconaughey-woody-harrelson-show-for-free/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "There's no law to ticket the Waymo that drove through a Denver farmers market",
+    "angle": "A driverless Waymo rolled straight through a Denver farmers market and there's literally no law on the books to ticket it \u2014 because current traffic codes don't know what to do with a car that has no driver to blame.",
+    "bullets": [
+      " A Waymo self-driving vehicle drove through an active farmers market in Denver",
+      " Local authorities reportedly have no legal mechanism to issue a ticket since the vehicle has no human driver",
+      " Story is trending on r/nottheonion, framed as a real-life case of rules not catching up to robot cars",
+      " If a robot car can't get a ticket, who's actually responsible when it messes up?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.9news.com/article/news/community/transportation/waymo-drives-denver-farmers-market-no-law/73-a55cac7b-9c76-4003",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "This Ranch Survived Russian Occupation. Now Its Horses Are Helping Ukrainian Soldiers Find Peace in the Pastures",
+    "angle": "It's a war story with a hopeful twist - soldiers coming back from the front line are finding calm working with horses on a ranch that itself lived through occupation, which is exactly the kind of resilience story that cuts through the grim Ukraine headlines.",
+    "bullets": [
+      " Ever done equine therapy or know someone who has - does the 'horses read your energy' thing actually work?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://united24media.com/life-in-ukraine/this-ranch-survived-russian-occupation-now-its-horses-are-helping-ukrainian-soldiers-find-p",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Comerica Park will be renamed to Fifth Third Park starting in 2027",
+    "angle": "The Detroit Tigers' home field is swapping naming-rights sponsors, and \"Fifth Third Park\" is such an inherently goofy mouthful that it landed on r/nottheonion - an easy, harmless laugh for the back half of the show.",
+    "bullets": [
+      " Comerica Park, home of the Detroit Tigers, is getting a new name.",
+      " It'll become Fifth Third Park starting in 2027.",
+      " Try saying \"Fifth Third Park\" on air three times fast and see who trips first. ON-AIR BIT BREAKDOWN - Step 1: Read the name cold - 10 seconds -> Host A says \"Fifth Third Park\" out loud, no warning, and reacts to how weird it sounds. - Step 2: Speed round - 20 seconds -> Both hosts race to say \"Fifth Third Park\" five times fast; first one to fumble it loses. - Step 3: Rename hall of fame - 30 seconds -> Toss out other awkward corporate stadium names to compare it against (e.g. past renames you both remember)."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wxyz.com/sports/fifth-third-detroit-tigers-to-announce-new-name-of-comerica-park-on-monday",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "SNICKERS\u00ae Launches the World's First Digital Candy Bar for when AI Acts \"Hungry\"",
+    "angle": "A legacy snack brand jumping into the AI hype with a literal 'digital candy bar' is exactly the kind of absurd, screenshot-ready marketing stunt that gets people talking and sharing.",
+    "bullets": [
+      " SNICKERS\u00ae says it's dropped the world's first digital candy bar."
+    ],
+    "debate": "Genius brand stunt or proof marketing has officially run out of real ideas?",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "It's Donald Trump Versus MAGA on Data Centers | The president has doubled down on data centers and AI. His base is running in the opposite direction.",
+    "angle": "The president is all-in on data centers and AI as an economic win, but MAGA voters are pushing back over land use, power bills, and water \u2014 a rare public split between Trump and his own base worth unpacking.",
+    "bullets": [
+      " Donald Trump has doubled down publicly on data centers and AI expansion as a priority",
+      " A growing faction of his own MAGA base is pushing back against that build-out",
+      " Would you want a massive AI data center built in your neighborhood if it meant higher power bills?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wired.com/story/donald-trump-versus-maga-on-data-centers",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Google using search and YouTube history to guess Canadians\u2019 ages and could make them show ID",
+    "angle": "Google's rolling out AI age-detection in Canada that scans your search and YouTube history to guess if you're under 18 \u2014 and if it thinks you are, you could get hit with a request to show ID. It's a privacy flashpoint that touches literally everyone with a Google account.",
+    "bullets": [
+      " Users flagged as underage could be asked to verify their age, potentially with ID",
+      " It's part of a broader push by tech platforms toward AI-driven age verification",
+      " Would you actually hand Google your ID to prove you're an adult, or does that cross a line?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.dexerto.com/youtube/google-using-search-and-youtube-history-to-guess-canadians-ages-and-could-make-them-show-id",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "People Training OpenAI\u2019s AI Fired for Using AI to Train the AI",
+    "angle": "It's the ultimate AI irony story \u2014 people paid to teach the robot got caught letting the robot do their homework, and got axed for it. This is exactly the kind of self-referential AI-industry chaos that keeps going viral right now.",
+    "bullets": [
+      " Workers hired by OpenAI to help train its AI models were reportedly fired",
+      " If your job is literally to teach the robot, and you get caught letting the robot teach itself \u2014 were you actually wrong?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-22",
     "slot": "am",
     "category": "THE LIST",
     "title": "Kentucky is writing to 46,000 people this week to tell them their medical debt is gone, it gave $2.5m to a nonprofit that buys medical debt for the pennies debt collectors pay for it and then cancels it instead of chasing it, the first letters went out within a week of 15 September.",
