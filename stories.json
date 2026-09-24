@@ -1,6 +1,610 @@
 [
   {
     "date": "2026-09-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Raiders\u2019 Kirk Cousins reveals shocking love interest",
+    "angle": "The Raiders are rolling at 2-0 for the first time since 2021, and a loose, winning locker room means players start opening up about stuff way outside football - like Kirk Cousins' old celebrity crush. It's the kind of goofy, human-interest nugget that makes a 15-year NFL vet feel relatable.",
+    "bullets": [
+      " Kirk Cousins and the Raiders are off to a 2-0 start - their best since 2021",
+      " Cousins is a 15-year NFL veteran, now getting the lighter, off-field questions thanks to the winning streak",
+      " Reporters pressed him on a childhood crush, and he actually answered",
+      " Before you read the reveal - who do you think Kirk Cousins' childhood crush was?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/23/sports/kirk-cousins-reveals-meagan-good-as-celebrity-crush/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Norway's EV transition is nearing completion, with electric cars making up a record 98.7% of new passenger car registrations in August. EVs now account for 97.8% of new cars sold in 2026 so far, up from 94.5% during the same period last year.",
+    "angle": "Nearly every new car sold in Norway last month was electric \u2014 this is what the endgame of the EV transition actually looks like, and it's a real preview of where North America's own EV debate could be headed.",
+    "bullets": [
+      " 98.7% of new passenger car registrations in Norway last month were electric",
+      " EVs make up 97.8% of all new car sales in Norway so far in 2026",
+      " That's up from 94.5% during the same stretch last year \u2014 gas cars are basically rounding error now",
+      " Norway didn't ban gas cars outright \u2014 this is the market just tipping almost all the way over",
+      " Could North America ever realistically hit numbers like that, or are we just too big and too spread out for it to work the same way?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://insideevs.com/news/806799/norway-ev-sales-98-percent/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "In drought hit France, corn grown beneath 5,500 rotating solar panels produced 19.6% more plant matter than open field corn, with plants averaging 79 inches versus 63 inches. The elevated panels helped protect the crop from the season\u2019s extreme heat and drought.",
+    "angle": "It sounds backwards \u2014 shade should hurt a crop, not help it \u2014 but as droughts get worse, this 'grow food under solar panels' trick might be the future of farming, and it actually worked better than the old-school method.",
+    "bullets": [
+      " Corn grown under 5,500 rotating solar panels produced 19.6% more plant matter than corn in an open field.",
+      " Shaded corn plants averaged 79 inches tall, compared to just 63 inches for unprotected corn.",
+      " It's essentially two harvests off the same acre: solar power and food, grown together on purpose.",
+      " Would you trust 'solar farm corn' on your dinner plate, or does this feel like sci-fi science that's too good to be true?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.autonocion.com/us/5500-panels-corn-outgrew-open-rows/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump says Canada is 'destroying itself' with immigration. Ministers say that's bogus",
+    "angle": "Trump is trashing Canada's immigration system on the world stage, and Canadian ministers are calling him flat-out wrong \u2014 a cross-border war of words that touches politics, national pride, and the always-hot immigration debate.",
+    "bullets": [
+      " Donald Trump claimed Canada is \"destroying itself\" with its immigration policy",
+      " Trump alleged the country let in \"millions\" of people without proper security checks",
+      " Federal ministers pushed back hard, calling the comments \"ill-informed\" and \"grossly inaccurate\"",
+      " Is Trump calling out a real problem or just stirring the pot with Canada again?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/trump-canada-immigration-unemployment-9.7355556?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "FBI employee data allegedly hacked by ShinyHunters contains sensitive info about intelligence roles",
+    "angle": "A hacking group called ShinyHunters allegedly stole internal FBI personnel data revealing exactly who's working which spy cases - from Chinese and Russian intelligence to cartel investigations. If real, this isn't just a data breach, it's a potential roadmap for foreign adversaries.",
+    "bullets": [
+      " Hacking group ShinyHunters allegedly breached FBI employee data, according to Reuters",
+      " Sensitive assignments allegedly exposed include work against Chinese spies, Russian intelligence, and drug cartels",
+      " Reuters is the outlet that broke and verified the findings on the alleged breach",
+      " If a hack like this is real, does it make you trust government data security less - or is this just the cost of living in 2026?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/shinyhunters-fbi-hack-9.7355635?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump says Canada \u2018destroying itself\u2019 with high immigration levels, data show numbers going down",
+    "angle": "Trump's taking shots at Canada's immigration policy again, except the actual data says intake is dropping, not spiking \u2014 a classic 'the numbers don't back the claim' story that's tailor-made for a debate segment on both sides of the border.",
+    "bullets": [
+      " Donald Trump claims Canada is 'destroying itself' with high immigration levels",
+      " Data cited in the report shows Canada's immigration numbers are actually going down, not up",
+      " Story comes via CTV News, framing a direct contradiction between the claim and the stats",
+      " Is this just Trump being Trump on Canada, or does it touch a nerve because immigration numbers ARE a real political fight up here too? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "S01mS18yYkphQTZaUE9OeTVlMVcyT0lGM185aVN4akVMYklaTEJ5VnpsSk0tYlJvbmI4azZEWk5ySFl4aS1oYg?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV0VpTXgzZjk3djJUX0FaSVh1UkFua1B3TmZMbDQxZkV4ZXJXSE45b3lq",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump has a \u2018sledgehammer\u2019 way to slash diesel prices. But it could boomerang back on the U.S.",
+    "angle": "Diesel prices hit truckers, shippers, and eventually your grocery bill \u2014 so a president floating a blunt-force fix to bring costs down is national pocketbook news, especially with a built-in \"this could backfire\" twist that makes for an easy debate.",
+    "bullets": [
+      " Trump is reportedly eyeing a \"sledgehammer\" approach to force diesel prices lower.",
+      " Diesel costs ripple through trucking, shipping, and food prices \u2014 so this isn't just a gas-pump story.",
+      " Would you take a quick win at the pump if it risked a bigger economic hit down the road? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaHNleG5BcFozb3I4akdNY0RrRkViOE90TjhBdGJ2aUZDckdxN2QtV3JyO",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Carney tells NYT he studied risk of U.S.-led military action in Canada",
+    "angle": "The Canadian PM just told the New York Times his government actually studied the risk of the U.S. military moving on Canada - a stunning admission about how far Trump-era tension has pushed the relationship, even with Carney downplaying it as covering an 'extreme tail risk.'",
+    "bullets": [
+      " Mark Carney told the New York Times he studied the possibility of U.S.-led military action against Canada.",
+      " He wouldn't detail what that analysis actually involved.",
+      " Carney framed it as basic due diligence, calling it preparation for an 'extreme tail risk'.",
+      " He argued it would be irresponsible not to have looked into it.",
+      " Is this smart contingency planning from a PM doing his job, or a sign the Canada-U.S. relationship is in scarier shape than anyone's admitting?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/carney-nyt-interview-9.7356284?cmp=rss",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada's boycott forces the sale of a California winery",
+    "angle": "Cross-border consumer boycotts have been simmering all year, but this one didn't just hurt sales - it reportedly forced an actual sale of the winery, which is a whole new level of \"put your money where your mouth is.\"",
+    "bullets": [
+      " Does a boycott actually work, or is this a one-off - call in and tell us if you've ditched a brand over where it's from."
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.latimes.com/business/story/2026-09-23/canadas-boycott-forces-sale-of-california-winery",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada pledges $100M for Palestine at United Nations General Assembly",
+    "angle": "A nine-figure pledge at the UN puts Canada squarely in the middle of the global debate over the Israel-Gaza conflict and foreign aid spending - the kind of move that splits opinion fast.",
+    "bullets": [
+      " Canada pledged $100 million for Palestine at the United Nations General Assembly",
+      " It reignites the ongoing debate over how much Canada should be spending abroad versus at home",
+      " Is $100 million the right move for Canada right now - or should that money stay home?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/carney-gaza-aid-israel-west-bank-9.7354263",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Southwestern Mexico braces for arrival of 'extremely dangerous' Hurricane Polo",
+    "angle": "It's officially a major hurricane now, and forecasters are calling it 'extremely dangerous' - plus there's a second storm setting up to hammer Hawaii, so this is shaping up to be a rough week for anyone with a beach vacation booked.",
+    "bullets": [
+      " Hurricane Polo has strengthened into a major Pacific hurricane",
+      " Southwestern Mexico is bracing for heavy rains and mudslides starting Wednesday",
+      " Forecasters are describing Polo as \"extremely dangerous\"",
+      " A separate storm system is tracking toward Hawaii, with forecasters warning of possible \"catastrophic flooding\" later in the week",
+      " Anyone got a trip to Mexico or Hawaii booked this week? This might be the storm that wrecks those plans."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/nhc-polo-mexico-california-9.7354826?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "PM Carney prepared for \u2018risk\u2019 that Trump might order U.S.-led military invasion of Canada: report",
+    "angle": "This is the kind of story that sounds like satire until you realize it's a real report about a sitting PM's government preparing contingency plans for the unthinkable \u2014 a U.S. military move against Canada.",
+    "bullets": [
+      " PM Mark Carney is reportedly being briefed on the 'risk' that Trump could order a U.S.-led military invasion of Canada",
+      " No specific trigger, timeline, or military details are included in what's been reported so far",
+      " Wildest headline of the week or a real geopolitical red flag \u2014 where do you land? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "SHk2RlQ4RTlqeDNyNzJtSmkycnNmSlVTMmJmUlF3bw?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVWpBZk5NZW5jekxjMTFmM3U5eXhoRUJpMEY1QlhyQ3BCYThER2lDb",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canadian author accused of using AI for prize-winning novel, publishers defend writer",
+    "angle": "A Canadian author is under fire for allegedly using AI to help pen their prize-winning book, and their publisher is now publicly backing them up \u2014 it's the literary world colliding head-on with the AI authenticity debate everyone's already arguing about.",
+    "bullets": [
+      " A Canadian author is being accused of using AI in the writing of their prize-winning novel",
+      " No word yet on which AI tool is allegedly involved or how the accusation surfaced",
+      " If AI helped polish a prize-winning book, does the award still count \u2014 or is that cheating? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWm9maWxJb1Y5bkQyMG84QTF6TlVhZzFFX0NpMHFtTUpIN0ZaWEZob",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Journalist explains how viral Mike Macdonald-Sean Payton feud video came to be: \u2018Error in my judgement\u2019",
+    "angle": "Everyone's seen the viral clip of Seahawks coach Mike Macdonald and Broncos coach Sean Payton going at it - now the journalist who caught it is admitting there's more to the story of how it got out.",
+    "bullets": [
+      " He calls it an 'error in my judgement' - his own words",
+      " Is this a real apology or just damage control now that the clip's already viral?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/23/sports/how-viral-mike-macdonald-sean-payton-feud-video-came-to-be/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Incredibles\u2019 director Brad Bird talks new Netflix movie \u2018Ray Gunn,\u2019 and why it was 30 years in the making",
+    "angle": "Brad Bird \u2014 the guy behind The Incredibles, Ratatouille, and The Iron Giant \u2014 is dropping a Netflix movie he's been trying to make for three decades, which is exactly the kind of 'wait, why did it take THAT long' story that gets a conversation going.",
+    "bullets": [
+      " Brad Bird, Oscar-winning director of The Incredibles, Ratatouille, and The Iron Giant, has a new Netflix film called Ray Gunn",
+      " Netflix held a top-secret press event around the film's reveal",
+      " What's a passion project you'd wait 30 years to finally pull off? pagesix.com (Tier 2) | Score: 86/90 (45 fit + 8 source + 33 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/23/hollywood/incredibles-director-brad-bird-talks-new-netflix-movie-ray-gunn-and-why-it-was-30-years-in",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Ryan Murphy Says He \u2018Just Finished the Script\u2019 for a \u2018Glee\u2019 Reboot and Has Spoken to the Original Cast: \u2018They All Were Very Enthusiastic\u2019",
+    "angle": "Glee was a straight-up cultural phenomenon a decade ago, so any reboot talk is instant nostalgia bait \u2014 and now the creator himself is confirming it's real, not just fan rumor.",
+    "bullets": [
+      " Ryan Murphy told Entertainment Tonight on Wednesday: \"I just finished the script an hour ago.\"",
+      " Murphy says co-creator Brad Falchuk is involved in the reboot plans.",
+      " Murphy has already reached out to the original cast, saying \"they all were very enthusiastic.\"",
+      " Callers \u2014 are you actually watching a Glee reboot, or is this one better left as a memory? ON-AIR BIT BREAKDOWN - Step 1: Dream Cast Callout - 2-3 min phone/social bit -> Ask listeners which original Glee cast members they'd want back for the reboot, and who they'd cut - Step 2: Host Pick: Best Glee Cover - Quick back-and-forth -> Each host names their favorite Glee musical number/cover and makes the case for it on air variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/news/ryan-murphy-glee-reboot-script-1236873863/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'No Famous Person Has Stood Beside Them': Rosie O'Donnell Plans Epstein Series After 'Jimmy Kimmel Live!' Rejection",
+    "angle": "Rosie O'Donnell says she pitched an Epstein docuseries and got turned down by 'Jimmy Kimmel Live!' \u2014 a juicy behind-the-scenes spat that doubles as a jab at how gun-shy late night is on the topic.",
+    "bullets": [
+      " Rosie O'Donnell says she's moving forward with a series about Jeffrey Epstein",
+      " She claims the project was rejected by 'Jimmy Kimmel Live!'",
+      " Her line: 'No famous person has stood beside them' \u2014 pointing at survivors getting overlooked",
+      " Frames it as a story that's been slow-walked by mainstream media/entertainment gatekeepers",
+      " Is Hollywood actually avoiding the Epstein story, or is Rosie just stirring the pot?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/rosie-odonnell-epstein-survivor-interviews-1764442",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Robert Pattinson Says \u2018The Batman 2\u2019 Is \u2018So Ambitious\u2019 and a \u2018Different Take\u2019 on the Franchise: \u2018It\u2019s a Real Left Turn From the First\u2019",
+    "angle": "Fans have been dying for any scrap of intel on the Batman sequel, and Pattinson himself is now teasing it won't just be more of the same \u2014 that's the kind of comment that gets comment sections arguing instantly.",
+    "bullets": [
+      " Robert Pattinson calls 'The Batman 2' \"so ambitious\"",
+      " He describes it as a \"different take\" on the franchise",
+      " His exact words: \"It's a real left turn from the first\"",
+      " Do you want a sequel that plays it safe, or are you here for Pattinson's promised 'left turn'?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/robert-pattinson-batman-2-different-take-1236872971/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Marcus Semien sticks it to his former team with go-ahead homer as Mets beat Rangers",
+    "angle": "A former Blue Jay/A's fan-favorite goes deep against the club that let him walk, and the crowd let him hear about it \u2014 classic sports revenge-game drama, even if the ending twists.",
+    "bullets": [
+      " Marcus Semien hit a go-ahead homer against his former team",
+      " Fans booed him in the eighth inning",
+      " Is booing a guy for doing his job against his old team classy fandom or just bitter?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/23/sports/marcus-semien-sticks-it-to-his-former-team-with-go-ahead-homer-as-mets-drub-rangers/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Matthew McConaughey and Woody Harrelson Explain Their \u2018Brothers\u2019 TV Idea \u2014 and What Happened at the Emmys - hollywoodreporter.com",
+    "angle": "These two have been inseparable for 30 years, they genuinely believe they might be half-brothers, and they just teased the whole theory in a viral Emmys moment that's now becoming an actual Apple TV comedy.",
+    "bullets": [
+      " Matthew McConaughey and Woody Harrelson have been best friends for three decades",
+      " Their 2026 Emmys bit played off the theory and teased their new Apple TV comedy based on it",
+      " Woody Harrelson won an Emmy back in 1989 for Cheers",
+      " Callers: would you want to find out a lifelong best friend is secretly your brother, or is some mystery better left alone? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/tv/tv-features/woody-harrelson-matthew-mcconaughey-emmys-brothers-show-1236707655/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Isabel Sandoval, Tricia Tuttle, \u2018Elephants in the Fog\u2019 Producer Anup Poudel Join QueerFrames Mentor Lineup as Lab Unveils New Cohort, Southeast Asia Expansion (EXCLUSIVE)",
+    "angle": "Representation in Hollywood keeps expanding behind the camera, and this lab is quietly building the next wave of queer storytellers across a whole new region.",
+    "bullets": [
+      " QueerFrames Screenwriting Lab is expanding into Southeast Asia for its 4th annual edition.",
+      " New cohort pulls storytellers from India, the Philippines, Vietnam, Singapore, Indonesia and the diaspora.",
+      " New mentors joining include Isabel Sandoval, Tricia Tuttle, and 'Elephants in the Fog' producer Anup Poudel.",
+      " Behind-the-scenes labs like this rarely make headlines, but they're where the next indie breakout director usually gets discovered first. variety.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/news/queerframes-lab-expands-southeast-asia-fourth-cohort-2-1236871948/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Dancing with the Stars\u2019 Recap: 1 Star Gets Sent Home on Viral Hits Night After Breaking Down in Tears at Practice - People.com",
+    "angle": "Week 2 of 'Dancing with the Stars' just got emotional and dramatic - a contestant broke down crying at practice before getting sent home on Viral Hits Night, and host Alfonso Ribeiro revealed voting numbers blew past the previous week's totals.",
+    "bullets": [
+      " Season 35, Week 2 was themed 'Viral Hits Night' with 14 contestants competing",
+      " Host Alfonso Ribeiro revealed voting had already surpassed the total votes from either previous night - halfway through the show",
+      " One star broke down in tears at practice before getting eliminated on air",
+      " Contestants are competing for the Len Goodman Mirrorball trophy",
+      " Was this elimination the right call, or did America get it wrong? PEOPLE (via NewsAPI) (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://people.com/dancing-with-the-stars-reacap-viral-hits-night-who-gets-sent-home-12135518",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Is it unprofessional to bring iced coffee to a job interview? Gen Z is being dragged for it",
+    "angle": "It's a classic generational flashpoint dressed up as a coffee cup - a viral debate over whether showing up caffeinated reads as chill confidence or a red flag, and it's splitting the internet right down age lines.",
+    "bullets": [
+      " Critics argue walking into an interview holding an iced coffee signals an unserious, too-casual attitude.",
+      " Defenders push back, saying staying caffeinated has nothing to do with how qualified or professional someone is.",
+      " It's become a broader stand-in for the bigger fight over Gen Z workplace norms vs. old-school interview etiquette.",
+      " Would you show up to a job interview with an iced coffee in hand - harmless habit or instant red flag?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/ice-coffee-job-interviews-gen-z-9.7353458?cmp=rss",
+    "score": "82/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "California now requires influencers to disclose paid political ads, with fines of up to $5,000 for each violation, bringing greater transparency to sponsored political content on social media and giving voters clearer information about who is paying for it.",
+    "angle": "If you're an influencer in California and someone pays you to push a political message, you now have to say so \u2014 or risk a hefty fine. It's a real test case for how the law starts catching up to social media's role in elections.",
+    "bullets": [
+      " California now legally requires influencers to disclose paid political advertisements",
+      " Violators face fines of up to $5,000 per incident",
+      " Should every state make influencers disclose political payments, or is this government overreach into social media?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Wow feminism...",
+    "angle": "A viral eye-roll tweet aimed at feminism is racking up reactions online, and it's the kind of one-liner that instantly splits a comment section - perfect fuel for a quick lifestyle debate.",
+    "bullets": [
+      " Is this fair criticism or just internet snark dressed up as a take? X/Twitter @WomenBeingAwful (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/WomenBeingAwful/status/2102782328686690442",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A new evolutionary theory suggests that consciousness did not simply emerge from high intelligence, but rather evolved as a distinct adaptation to help fragile organisms coordinate competing survival needs and manage self-maintenance under threat.",
+    "angle": "A new theory says consciousness didn't just show up once we got smart enough \u2014 it evolved specifically to help fragile bodies juggle competing survival needs, like a built-in referee for hunger vs. fear vs. fatigue. It's a fun 'wait, what am I actually thinking with' rabbit hole for a slow-news lifestyle segment.",
+    "bullets": [
+      " Instead, it frames consciousness as a distinct evolutionary adaptation, not a byproduct of brainpower",
+      " Purpose: helping fragile organisms coordinate competing survival needs",
+      " Also tied to self-maintenance under threat \u2014 basically triage mode for the body",
+      " Ask listeners: do you think your 'gut feeling' is really just your brain running survival triage \u2014 and when's the last time it overruled your logic?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/consciousness-may-have-evolved-to-solve-a-problem-that-pure-intelligence-couldnt-handle-fascinating-new-",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "The assumption that men\u2019s interest in sex is purely physical and always switched on is a common stereotype, but recent evidence indicates that men\u2019s sexual desire is actually quite complex. When men felt happy and equal in their partnerships, their interest in solitary sexual activities decreased.",
+    "angle": "It flips the tired stereotype that guys are just wired to always want sex \u2014 new research suggests happiness and equality in a relationship actually change what men want, which is a fun myth-buster for a couples conversation.",
+    "bullets": [
+      " New research challenges the stereotype that men's sexual desire is purely physical and always \"on.\"",
+      " Does this match what you've seen in your own relationship \u2014 happier couples, less solo time?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Dunkin\u2019 customer accidentally orders 6,000 donuts instead of 60. Once the mistake was realized, the store decided to turn the situation into a wholesome community gesture.",
+    "angle": "A classic \"oops\" moment everyone can relate to \u2014 a customer meant to order 60 donuts, typo'd it into 6,000 \u2014 but instead of a refund nightmare, the store turned it into a feel-good giveaway for the whole community.",
+    "bullets": [
+      " A Dunkin' customer accidentally ordered 6,000 donuts instead of 60",
+      " Rather than scrap the order, the store leaned into the mistake",
+      " Employees turned the glut into a wholesome community giveaway",
+      " If 6,000 donuts landed on your doorstep by mistake tomorrow, what's the first thing you'd do with them?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.operationsports.com/dunkin-customer-accidentally-orders-6000-donuts-instead-of-60-and-the-store-turned-the-mistake-i",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Stanford University admits AI was used to \u2018race swap\u2019 student photo",
+    "angle": "Stanford University admits AI was used to \u2018race swap\u2019 student photo",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://san.com/cc/stanford-university-admits-ai-was-used-to-race-swap-student-photo/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Nike co-founder donates $1B to university \u2014 his latest massive charitable move",
+    "angle": "A single person writing a check for a billion dollars to a school is the kind of number that stops people in their tracks \u2014 and it's not even his first massive gift, which makes it a great feel-good closer.",
+    "bullets": [
+      " Reports frame it as his latest in a pattern of massive charitable gifts",
+      " If you had a billion dollars sitting around, what's the one thing you'd fund?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.independent.co.uk/us/money/nike-phil-knight-university-of-oregon-donation-philanthropy-b3055118.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Three years after seeing a Philadelphia school close because it lacked air conditioning, Jalen Hurts has donated $600,000 to air condition Northeast High\u2019s auditorium. He says he wants to help get the number of Philadelphia schools without AC to zero.",
+    "angle": "It's the ultimate athlete-gives-back story \u2014 a hometown QB turning a memory of a school shutting down into a $600K fix, with a bigger goal attached. Perfect note to end the show on.",
+    "bullets": [
+      " Jalen Hurts donated $600,000 to install air conditioning in the auditorium at Northeast High in Philadelphia",
+      " His stated goal: get the number of Philly schools without air conditioning down to zero",
+      " Name an athlete in our city who could pull off a hometown assist like this."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.inquirer.com/education/jalen-hurts-air-conditioning-philadelphia-northeast-high-school-20260915.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Wendy's releases new emo album with metalcore, pop punk vocalists",
+    "angle": "A fast food chain making a scene-core record sounds like satire, but it's exactly the kind of brand-gone-viral stunt that gets people checking if it's real mid-scroll.",
+    "bullets": [
+      " It reportedly features metalcore and pop punk vocalists."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.usatoday.com/story/money/food/2026/09/23/wendys-emo-music-album/91904303007/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Radio executive had \u2018innocent explanation\u2019 for \u20ac111k cannabis delivery to workplace",
+    "angle": "A radio executive reportedly had a six-figure cannabis shipment sent straight to the office \u2014 and had an excuse ready to go. It's a pure 'you can't make this up' lifestyle story built for two hosts to riff on.",
+    "bullets": [
+      " A radio executive is reported to have received a cannabis delivery worth \u20ac111,000 \u2014 sent directly to the workplace.",
+      " Story is making the rounds on r/nottheonion, the internet's home for real headlines that sound fake.",
+      " What's the most 'innocent explanation' you've ever had to give at work? ON-AIR BIT BREAKDOWN - Step 1: Drop the Number First - ~30 seconds -> Read the \u20ac111,000 figure and let it land before revealing it's cannabis, and that it went to an office. - Step 2: Hosts Pitch Their Own Excuse - 2-3 minutes -> Each host has to improvise their own over-the-top 'innocent explanation' for something absurd showing up at their job. - Step 3: Open the Phone Lines - caller segment -> Ask listeners to call or text in the wildest 'innocent explanation' they've actually used at work."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.irishtimes.com/crime-law/courts/2026/09/23/radio-executive-had-innocent-explanation-for-111k-cannabis-delivery-to-wor",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
+    "angle": "A university department reportedly used AI to digitally change students' race in promotional materials - which is exactly the kind of \"wait, they did WHAT\" headline that makes r/nottheonion a goldmine, and it's a fresh flashpoint in the ongoing AI-authenticity debate.",
+    "bullets": [
+      " Stanford's Residential & Dining Enterprises (R&DE) is at the center of the story",
+      " Story is circulating via r/nottheonion, meaning it's being read as too absurd to be real - but is",
+      " Where's the line between 'diverse stock photo' and flat-out digitally editing a real student's race?"
+    ],
+    "debate": "The 'Wait, Seriously?' Reaction",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "When the Shield Strikes the Citizen: Inside the Botched ICE Operation That Left an American Injured",
+    "angle": "A law enforcement operation that hits the wrong person is exactly the kind of story that fuels the ongoing national debate over ICE tactics and accountability \u2014 and this one's got a headline so blunt it reads like satire.",
+    "bullets": [
+      " It's framed as \"When the Shield Strikes the Citizen\" \u2014 a jab at law enforcement hurting the very public it's supposed to protect.",
+      " It's blowing up on r/nottheonion, the subreddit dedicated to real stories too absurd to believe.",
+      " When the people enforcing the law end up hurting an innocent citizen, who actually answers for it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://kylesinvestigation.com/2026/09/23/when-the-shield-strikes-the-citizen-inside-the-botched-ice-operation-that-left-an-american-i",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-23",
     "slot": "am",
     "category": "THE LIST",
     "title": "An Ohio solar farm is now home to more than 50 beehives and nearly 3 million honey bees, turning land around its panels into pollinator habitat while veteran beekeepers use the project to train other veterans and first responders.",
