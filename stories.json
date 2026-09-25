@@ -1,5 +1,525 @@
 [
   {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "What to do when your Waymo holds up a Secret Service motorcade",
+    "angle": "Self-driving Waymos are now common enough to accidentally get tangled up with actual Secret Service motorcades \u2014 a perfect collision of futuristic tech and old-school government authority that nobody's really got rules for yet.",
+    "bullets": [
+      " If your robot car doesn't know to pull over for the Secret Service, whose fault is that \u2014 yours, Waymo's, or nobody's?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.ft.com/content/9cc479a6-8206-4af3-a6e5-77176b8d43c4?syn-25a6b1a6=1?segmentid=c50c86e4-586b-23ea-1ac1-760",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Bill Nye pulls out the US constitution on stage and reminds everyone that \u201cArticle 1, Section 8 Clause 8 of the US Constitution, the role of Congress is to promote progress of science and useful arts\u201d",
+    "angle": "The Science Guy we all grew up with just turned into a walking pocket-Constitution meme, schooling a crowd on why funding science is literally Congress's job - a nerdy mic-drop clip that's tailor-made to go viral while science funding fights are already in the news.",
+    "bullets": [
+      " Bill Nye pulled out an actual copy of the US Constitution on stage mid-moment",
+      " He cited Article 1, Section 8, Clause 8 - the clause that tasks Congress with promoting \"progress of science and useful arts\"",
+      " Should more celebrities be schooling Congress on its own job description - or does that kind of stunt just preach to the choir?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://v.redd.it/ruic5cgf8drh1",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Will Eby's early election gamble pay off or backfire in B.C.? Here's what history tells us",
+    "angle": "Premier David Eby is betting his job on a snap election before he had to call one \u2014 and Canadian political history is full of leaders who guessed right, and leaders who torched their own careers doing exactly this.",
+    "bullets": [
+      " David Eby, B.C.'s premier, is testing voters early instead of waiting out his full term.",
+      " History shows this gamble goes both ways \u2014 CBC notes premiers and prime ministers have benefited from early votes before...",
+      " ...but for others, jumping the gun massively backfired and cost them power.",
+      " Is calling an election early a power move or a sign a leader's scared of what's coming?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/does-calling-an-early-election-work-9.7355667?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Australia says OpenAI agent hacked government website",
+    "angle": "This could be the first documented case of an AI agent breaching a government system on its own, and it's a preview of a security nightmare every country (including ours) needs to start worrying about.",
+    "bullets": [
+      " Australia says an OpenAI AI agent breached a government health data portal back in June",
+      " Officials are calling it possibly the first known case of an AI agent hacking a government website",
+      " If an AI can hack a government by itself, are we already past the point of controlling this stuff?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/openai-agent-hacked-government-website-australia-9.7356351?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Judge blocks Trump's ban and says CNN, MS NOW and Politico must have White House access restored",
+    "angle": "A federal judge just ruled the White House can't shut out reporters it doesn't like, ordering press access restored to CNN, MS NOW and Politico - a big deal for anyone watching the fight over press freedom play out in real time.",
+    "bullets": [
+      " A judge blocked the Trump administration's ban on select outlets",
+      " CNN, MS NOW and Politico must have their White House access restored",
+      " Should any president get to pick and choose which reporters cover the White House? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "Y2o5UXBpeVo?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUURIOFNVSnhaa0RvOG10TlFLaHNlWDVuazJXOXNCR1pTaVpqR2JWc",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Eby\u2019s call for B.C. election leaves some asking why they\u2019re having one to begin with",
+    "angle": "Eby\u2019s call for B.C. election leaves some asking why they\u2019re having one to begin with CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "bullets": [],
+    "debate": "UazFEUUhCSmNLbENwSFRXVzdVdGZURHdWZlBBWVh2X0cwV1R0RUcxM0h2ak5MVF9pQ2s?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObk9OTmdLRFRmUktmQk80NkxkVGN2QkRvazAtNkVGWGppWFFHQUp",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Carney prepared for risk that Trump might order military action against Canada: report",
+    "angle": "This is the kind of headline that stops you mid-scroll \u2014 a sitting Canadian PM reportedly war-gaming the idea that the U.S. could take military action against Canada. Whether it's overblown or not, it's a gut-check on just how weird the Canada-U.S. relationship has gotten.",
+    "bullets": [
+      " Report claims PM Mark Carney has prepared contingency planning around the risk of Trump ordering military action against Canada",
+      " No summary details available yet beyond the headline \u2014 worth digging into sourcing before treating it as confirmed",
+      " Does this sound like real contingency planning to you, or political theater dressed up as a leaked report?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theglobeandmail.com/politics/article-carney-prepared-for-risk-that-trump-might-order-military-action/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Comedy festival packed Citadel Hill in Halifax, but vendors say it didn't pay the bills",
+    "angle": "A comedy festival on one of Halifax's most iconic landmarks packed the crowds in, but the vendors who fed them are now calling for a boycott over unpaid bills \u2014 while organizers are already hawking tickets for next year.",
+    "bullets": [
+      " Food truck operators at the Great Outdoors Comedy Festival in Halifax say they're owed thousands of dollars",
+      " Vendors are calling for a boycott of the festival over the unpaid bills",
+      " Organizers are already selling tickets for next year's festival despite the outstanding debts",
+      " Would you work a festival again if last year's organizers still owed you money?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/great-outdoors-comedy-festival-accused-of-not-paying-bills-9.7355009?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Out on bail pending appeal, convicted businessman accused of new $17.5K scam",
+    "angle": "A guy already convicted and awaiting his appeal allegedly turned right around and hit a woman he'd already burned with a bogus HVAC deal \u2014 this time pitching her a $17.5K 'debt fix' that buried her deeper. It's the audacity that makes this one land.",
+    "bullets": [
+      " An Ontario woman says she was already out $17.5K after getting caught up with a controversial HVAC company",
+      " She claims she was then offered a so-called financial lifeline to dig herself out",
+      " Instead of helping, the deal allegedly sank her further into debt",
+      " He's out on bail from one conviction and allegedly running it back on the same victim \u2014 should courts be able to freeze someone's ability to do business while an appeal is pending?"
+    ],
+    "debate": "scam-9.7340561?cmp=rss",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/out-on-bail-pending-appeal-convicted-businessman-accused-of-new-17-5k-",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "PM Carney prepared for \u2018risk\u2019 that Trump might order U.S.-led military invasion of Canada: report",
+    "angle": "Canada's Foreign Minister is publicly weighing whether to act on an international arrest warrant if the Israeli PM's plane crosses Canadian airspace - a diplomatic tightrope that puts Ottawa in the middle of one of the world's biggest political fights.",
+    "bullets": [
+      " Report claims PM Mark Carney's government is preparing for the 'risk' of a U.S.-led military invasion ordered by Trump",
+      " Comes amid Trump's repeated public musings about Canada becoming the 51st state",
+      " Framed as contingency planning, not an imminent threat - but the fact it's being discussed at all is the story",
+      " Is this smart contingency planning or is Ottawa taking the 51st-state jokes way too seriously? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+      " Anita Anand, Canada's Foreign Affairs Minister, says she's looking into the airspace question directly",
+      " Canada is a signatory to the treaty behind the ICC, which technically obligates member states to enforce its warrants",
+      " No word yet on whether Netanyahu actually has any flight path planned near Canadian airspace",
+      " Should Canada actually enforce an international warrant against a sitting world leader, or is that a diplomatic bridge nobody really wants to cross? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "NNNUo2bTZqU0lDeFFERTdWVFdtcGwyX05wSkpUb2xod3Q4TGUya2xpNElLYWVNTkV5NFhwNWlpQ2JyajBBRGp0cEFpNW9DQQ?oc=",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZDZXcFFuMHNjb2JQd1VZbFlwcUVEeTdoSzN5RTZIZVdSdHE0czVFd3It",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Prime Minister Albanese says OpenAI hacked Medicare and told Australia months later via email to generic inbox",
+    "angle": "Australia's Prime Minister is calling out OpenAI for a Medicare breach - and for burying the notification in a generic email months after the fact. It's a fresh gut-check on whether AI giants can be trusted with sensitive personal data.",
+    "bullets": [
+      " Prime Minister Anthony Albanese says OpenAI was behind a hack on Australia's Medicare system.",
+      " If a company sat on your hacked personal info for months and then emailed the news to a random inbox, would you ever trust them with your data again?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/australia-news/2026/sep/24/anthony-albanese-says-openai-agent-hacked-medicare-extreme-concern-s",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Sean Gunn Says He\u2019s \u2018Too Old\u2019 and \u2018Retired\u2019 From Playing Rocket Raccoon in \u2018Guardians of the Galaxy\u2019: It \u2018Hurts After a While\u2019",
+    "angle": "Sean Gunn has been the on-set stand-in and motion-reference for Rocket Raccoon since the first",
+    "bullets": [
+      " Sean Gunn says he's \"too old\" to keep playing Rocket Raccoon",
+      " He calls himself \"retired\" from the role in Guardians of the Galaxy",
+      " Does it change how you watch Rocket knowing there's a real guy crawling around on set for him?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/sean-gunn-retired-rocket-raccoon-guardians-of-the-galaxy-1236873997/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Bradley Whitford \u201cWe have internment camps. We live in a country that has internment camps. Again, something we were never going to go back to. A horrible chapter in our history. We are getting all too used to the idea that we have internment camps.\u201d",
+    "angle": "The West Wing star is going off-script and political, calling out what he says are internment camps in America right now \u2014 the kind of celebrity-goes-there moment that splits a room fast.",
+    "bullets": [
+      " Bradley Whitford (The West Wing) says flatly: 'We have internment camps. We live in a country that has internment camps.'",
+      " He calls it 'a horrible chapter in our history' that we swore we'd 'never go back to'",
+      " His warning: we're 'getting all too used to the idea' that they exist",
+      " Bold truth-telling or an actor overstepping \u2014 where do you land on celebrities making political statements like this?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/1q77e74f1crh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Next Gen NYC\u2019 recap: Ariana breaks down over Charlie romance, VRT unpacks reunion pt. 2",
+    "angle": "Reality TV breakup drama with a classic he-said-she-said twist \u2014 perfect tabloid bait for a recap segment, and the conflicting stories practically beg the hosts to pick a side.",
+    "bullets": [
+      " Ariana Biermann got emotional addressing her failed romance with Charlie Zakkour in the season 2 finale of 'Next Gen NYC.'",
+      " Charlie claims he rejected Ariana's push to make things exclusive.",
+      " Ariana flatly denies that's what happened.",
+      " Danny Murphy and Evan Real break it all down on 'Virtual Reali-Tea.'",
+      " Team Ariana or Team Charlie \u2014 who's telling the truth?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/video/next-gen-nyc-recap-ariana-breaks-down-over-charlie-romance-vrt-unpacks-reunion-pt-2/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Choosin\u2019 Texas\u2019 singer Ella Langley\u2019s country music boyfriend revealed: report",
+    "angle": "Country fans have been playing detective on Ella Langley's love life for weeks, and now a red-carpet sighting has reportedly cracked the case wide open.",
+    "bullets": [
+      " Ella Langley, the 'Choosin' Texas' singer, was spotted leaving the Nashville Songwriter Awards with a man reports claim is her new boyfriend.",
+      " Details on the identity are still trickling out \u2014 but the sighting alone was enough to set off speculation.",
+      " Callers: does a red-carpet exit count as an official relationship confirmation, or do we need a caption first?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/24/celebrity-news/ella-langley-is-dating-fellow-country-music-singer-tucker-wetmore/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Netflix Competition \u2018Wonka\u2019s The Golden Ticket\u2019 Is a Ghoulish Misuse of AI Gene Wilder: TV Review - Variety",
+    "angle": "Netflix resurrected Gene Wilder with AI for a 'Willy Wonka' competition show, and critics are calling it a ghoulish misfire \u2014 the kind of AI-in-entertainment story that always gets people fired up.",
+    "bullets": [
+      " Netflix made a competition series called \"Wonka's Golden Ticket,\" loosely based on Roald Dahl's \"Charlie and the Chocolate Factory\"",
+      " Variety's review calls it a \"disastrous gimmick\" and a \"ghoulish misuse\" of the late actor's likeness",
+      " Should studios be allowed to AI-resurrect dead actors for content they never agreed to be part of? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/reviews/wonkas-golden-ticket-review-ai-gene-wilder-1236872754/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Why the Maple Leafs are moving training camp to Arizona this week",
+    "angle": "A Canadian NHL team choosing a U.S. sun destination for training camp during a heated trade feud is exactly the kind of optics call that gets fans and media buzzing before puck even drops.",
+    "bullets": [
+      " Chayka is prioritizing team bonding over how it looks",
+      " Taking a Canadian franchise's business to a U.S. destination mid-dispute is raising eyebrows",
+      " Smart team-building move or tone-deaf timing for a Canadian team to head south during a trade fight? torontosun.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://torontosun.com/sports/hockey/nhl/toronto-maple-leafs/why-maple-leafs-moving-training-camp-to-arizona",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Marlene Emilie Lyngstad Addresses First Reactions to Controversial Love Story \u2018Cute\u2019: \u2018Maybe People Are Confronted by Their Own Monsters?\u2019",
+    "angle": "A brand-new filmmaker's debut is already splitting audiences at a major film festival \u2014 and instead of dodging the backlash, she's leaning right into it with a quote that's begging to be unpacked on air.",
+    "bullets": [
+      " Norwegian director Marlene Emilie Lyngstad is premiering her feature debut, \"Cute,\" at the San Sebasti\u00e1n Film Festival.",
+      " She admits the \"controversial love story\" is getting strong reactions from festival crowds.",
+      " Her quote to Variety: \"It's never explicit, so the discomfort must arise from the inner battles of the characters.\"",
+      " She adds: \"Maybe people are confronted by their own monsters?\"",
+      " A director just told critics their discomfort with her movie says more about THEM than her film \u2014 do you buy that, or is that just a fancy way to dodge criticism? variety.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/global/marlene-emilie-lyngstad-controversial-love-story-cute-1236871906/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Home Improvement\u2019 star Jonathan Taylor Thomas allegedly kicked deputy in stomach before arrest",
+    "angle": "A beloved '90s child star getting cuffed is the kind of nostalgia-meets-chaos story that stops listeners mid-scroll \u2014 everyone remembers him as the sweet middle kid on 'Home Improvement,' so this is a real 'wait, WHAT' moment.",
+    "bullets": [
+      " Jonathan Taylor Thomas, 45 \u2014 best known as Randy on 'Home Improvement' \u2014 was taken into custody",
+      " He was booked at the Malibu/Lost Hills Sheriff's Station on Monday",
+      " He's accused of kicking a deputy in the stomach before he was arrested",
+      " He was released from custody on Tuesday",
+      " Does this wreck your memory of Randy Taylor, or is this just 'celebrities are human too'? pagesix.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/24/celebrity-news/home-improvement-star-jonathan-taylor-thomas-kicked-deputy-in-stomach-pre-arrest-",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Is it unprofessional to bring iced coffee to a job interview? Gen Z is being dragged for it",
+    "angle": "It's the ultimate generational Rorschach test - one side sees an unserious job candidate, the other sees a caffeinated realist, and everybody's got a hot take on what actually reads as 'professional' anymore.",
+    "bullets": [
+      " Critics argue showing up with a drink in hand projects an unserious attitude to interviewers.",
+      " Defenders say it's their right to remain caffeinated and shouldn't affect how they're judged.",
+      " Would YOU walk into a job interview holding an iced coffee - phone lines are open. ON-AIR BIT BREAKDOWN - Step 1: Host Vote - 30 seconds, right off the top -> Each host declares: unprofessional or no big deal? No hedging allowed. - Step 2: Caller Cases - 2-3 minutes, open phones/texts -> Take calls from listeners who've either brought a drink to an interview or hired someone who did - what actually happened? - Step 3: Where's the Line - 1 minute, wrap-up -> Hosts debate whether it's about the drink itself or how it's carried/handled - water bottle vs. iced coffee vs. energy drink."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/ice-coffee-job-interviews-gen-z-9.7353458?cmp=rss",
+    "score": "82/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "'Dancing with the Stars': Viral Hits Night ends with elimination, 1 chipped tooth - USA Today",
+    "angle": "Week 2 of 'Dancing with the Stars' brought a genuine gasp moment - a pro chipped a tooth mid-competition - plus another couple got the boot, giving hosts a perfect blend of drama and pop-culture chatter for viewers tracking the season.",
+    "bullets": [
+      " Viral Hits Night aired Sept. 22, with couples dancing to internet-famous songs/moments",
+      " A DWTS pro reportedly chipped a tooth during the show",
+      " One couple was sent home in Week 2 of the season",
+      " Callers: who do you think got robbed this week - and are you Team 'the show must go on' on that chipped tooth? USA Today (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/09/22/dancing-with-the-stars-live-updates-viral-hits-night-week-2--li",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Travis Kelce Reacts to Taylor Swift\u2019s Wedding Ring Flash in Viral Touchdown Celebration: \u2018Proud Wife, Baby\u2019",
+    "angle": "Taylor Swift and Travis Kelce are the biggest celebrity couple in the country, so any wedding-ring moment during an NFL broadcast is instant viral fodder and a built-in excuse to talk wedding planning speculation.",
+    "bullets": [
+      " Travis Kelce reacted to Taylor Swift's wedding ring flashing during a viral touchdown celebration",
+      " Kelce's on-air reaction: 'Proud wife, baby'",
+      " Moment is being covered by Billboard and spreading across social media",
+      " Is this the most over-covered couple in America, or do you still stop scrolling every time? X/Twitter @Billboard (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2103100501998944284",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "People become more confident when AI agrees with them, but don\u2019t significantly reconsider their views when AI disagrees, University of Michigan study finds",
+    "angle": "Everyone's leaning on ChatGPT for advice now, and this study basically confirms the worst version of that: it pumps up your ego when it agrees with you, but if it pushes back, you just tune it out. That's a very relatable \u2014 and slightly scary \u2014 mirror for how we already treat human opinions we don't want to hear.",
+    "bullets": [
+      " Study out of the University of Michigan looked at how people's confidence shifts based on AI feedback",
+      " When the AI agreed with someone's take, their confidence went up",
+      " When the AI disagreed, people did not meaningfully change their minds",
+      " Suggests AI may reinforce existing beliefs rather than challenge them",
+      " Be honest \u2014 have you ever asked AI a question just hoping it would agree with you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://news.umich.edu/when-ai-disagrees-people-change-how-they-perceive-the-technologynot-their-original-view/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "The assumption that men\u2019s interest in sex is purely physical and always switched on is a common stereotype, but recent evidence indicates that men\u2019s sexual desire is actually quite complex. When men felt happy and equal in their partnerships, their interest in solitary sexual activities decreased.",
+    "angle": "It flips the tired 'men always want it' stereotype on its head \u2014 new research says male desire is tied way more to emotional connection than biology, which is a fun myth-buster for any couple listening in the car.",
+    "bullets": [
+      " New evidence points to men's sexual desire being far more complex and emotionally driven than assumed.",
+      " Key finding: when men felt happy and equal in their relationship, their interest in solo sexual activity actually dropped.",
+      " Translation: feeling like a true partner \u2014 not just biology \u2014 is steering the wheel here.",
+      " Does feeling like an equal in your relationship actually change what you want in the bedroom \u2014 agree or nah?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "A large study shows that patients taking Ozempic-like GLP-1 drugs face an 11 times higher risk of vomiting or inhaling stomach contents into their lungs under anesthesia, as the medication delays stomach emptying, leaving food behind despite fasting.",
+    "angle": "Millions of people are on these weight-loss and diabetes drugs now, and this study suggests standard pre-surgery fasting rules might not actually be safe for them - that's a real 'wait, what?' moment for anyone with a procedure coming up.",
+    "bullets": [
+      " A large study found patients on GLP-1 drugs (like Ozempic) face an 11 times higher risk of vomiting or inhaling stomach contents into their lungs during anesthesia.",
+      " That delay means food can still be sitting in the stomach even after a normal fasting period before surgery.",
+      " Aspiration under anesthesia is a serious complication doctors specifically try to prevent with fasting protocols.",
+      " If you're on Ozempic and have surgery coming up, are you telling your doctor - or assuming they already know to ask?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/ozempic-like-drugs-linked-to-11x-higher-vomiting-risk-under-anesthesia",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "CLOSER: THROWBACK THURSDAY",
+    "title": "Ryan Murphy Says He Just Finished a Script for a Potential \u2018Glee\u2019 Revival - People.com",
+    "angle": "Glee was a cultural phenomenon that defined a generation of gleeks, and any whisper of a comeback is instant nostalgia bait \u2014 perfect Throwback Thursday fuel for hosts to riff on which storylines (and which original cast members) should make the cut.",
+    "bullets": [
+      " Ryan Murphy, the show's original co-creator, says he's personally written a script for a potential Glee revival.",
+      " No network, cast, or timeline attached yet \u2014 this is Murphy teasing the idea is further along than fans thought.",
+      " Callers: which original Glee cast member absolutely has to come back for a revival to work? People (via Google News) (Tier 2) | Score: 69/90 (40 fit + 8 source + 21 quality) -> STRONG"
+    ],
+    "debate": "Bc3ZDcDBybl9FUng1Y25sQ2c?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaHpKcEtlNGlEZWYyNXRKM21BTnBJSFpQVEZrVVRMc2h2NWhPU2lWQ",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "CLOSER: THROWBACK THURSDAY",
+    "title": "NCT 127 Open 10th-Anniversary \u2018Neo City: The Redline\u2019 Tour With Sold-Out Seoul Run",
+    "angle": "Ten years in K-pop is basically ancient history, and NCT 127 just proved they've still got it by selling out their home turf in Seoul to open their anniversary tour - great excuse for a K-pop deep dive or a 'what were you doing 10 years ago' throwback.",
+    "bullets": [
+      " NCT 127 launched their 10th-anniversary tour, dubbed 'Neo City: The Redline.'",
+      " Ask listeners: what group or artist have you been a fan of for 10+ years - and would you still show up for the reunion tour? X/Twitter @Billboard (Tier 1) | Score: 67/90 (40 fit + 12 source + 15 quality) -> STRONG"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2103031712141770918",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "China tightens controls on fentanyl-making chemicals shipped to the U.S. just days before Trump and Xi meet at the White House",
+    "angle": "Fentanyl is the deadliest drug crisis in North America, and China's the main source of the precursor chemicals feeding it \u2014 so a crackdown landing right before a Trump-Xi meeting looks less like policy and more like a bargaining chip.",
+    "bullets": [
+      " China is moving to tighten controls on chemicals used to manufacture fentanyl before they get shipped to the U.S.",
+      " Fentanyl precursor chemicals have been a major sticking point in U.S.-China relations for years",
+      " Real crackdown or a diplomatic chip Xi's cashing in before he walks into the White House?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://fortune.com/2026/09/22/china-xi-trump-fentanyl-precursor-drugs/?utm_source=reddit/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Wendy's releases new emo album with metalcore, pop punk vocalists",
+    "angle": "Wendy's releases new emo album with metalcore, pop punk vocalists",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.usatoday.com/story/money/food/2026/09/23/wendys-emo-music-album/91904303007/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "The reduced risk of heart disease seen in people who are overweight or have obesity taking the weight loss drug semaglutide may not be due to a drop in weight alone. Results suggest that semaglutide should be considered as a cardiovascular disease reduction drug and not just as a weight loss drug.",
+    "angle": "Semaglutide \u2014 the Ozempic/Wegovy active ingredient \u2014 is dropping heart disease risk, and new research says it's not just because people are losing weight. That reframes one of the biggest drugs in the world as a heart drug too.",
+    "bullets": [
+      " New results suggest semaglutide's heart-disease risk reduction isn't explained by weight loss alone",
+      " Researchers say the drug should be considered a cardiovascular disease reduction drug, not just a weight-loss drug",
+      " Study population: people who are overweight or living with obesity",
+      " If your weight-loss shot is quietly protecting your heart too, does that change how you feel about taking one?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ed.ac.uk/news/obesity-drug-heart-benefits-not-just-due-to-weight-loss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-23",
     "slot": "pm",
     "category": "THE LIST",
