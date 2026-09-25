@@ -1,6 +1,507 @@
 [
   {
     "date": "2026-09-24",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Insidious checkout trick costing California\u2019s convenience store shoppers triple the advertised price",
+    "angle": "It's the kind of story that makes everyone want to go dig an old receipt out of their car - a checkout scam quietly tripling prices at one of the biggest convenience chains in the country, and it's happening in the most populous state in the U.S.",
+    "bullets": [
+      " Shoppers are reportedly being charged up to triple the advertised shelf price at checkout",
+      " Have you ever caught a store overcharging you at checkout - and did you say something or just eat the cost?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/24/us-news/california-7-11-stores-caught-charging-shoppers-more-than-advertised/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "\u2018The Traitors: New Blood\u2019 Sends 3 More Players Home In Shocking Double-Episode Bloodbath",
+    "angle": "A double-episode elimination on one of TV's most-talked-about reality shows always sends fans into a frenzy online, and a three-person wipeout in one go is rare enough to be real watercooler talk today.",
+    "bullets": [
+      " Are you Team Traitor or Team Faithful \u2014 call in and tell us who you think should've gone home instead."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://decider.com/2026/09/24/who-went-home-on-the-traitors-new-blood-this-week/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Germany has completed the world\u2019s tallest series produced onshore wind turbine, standing 285 metres tall with a 199 metre hub. Its 7.2 MW capacity is expected to generate 17\u201318 million kWh a year, helping its owner produce about two thirds of its electricity from renewables.",
+    "angle": "It's a literal skyscraper spinning out clean power - a record-breaking feat of engineering that gives hosts an easy \"how big is that, really\" comparison moment while tapping into the bigger renewable energy conversation.",
+    "bullets": [
+      " Stands 285 metres tall - that's taller than most skyscrapers",
+      " Hub height alone is 199 metres",
+      " Rated at 7.2 MW, expected to crank out 17-18 million kWh a year",
+      " Its owner now gets roughly two-thirds of its electricity from renewables",
+      " Ask listeners to guess how many football fields tall 285 metres actually is before you tell them (it's about three)."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.max-boegl.de/en/news/world-record-hub-height-max-boegl-and-vestas-complete-wind-energy-project-with-the-tallest-seri",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "McDonald's unveils $8.5 billion tech plan to fend off Burger King",
+    "angle": "This isn't just a burger fight anymore - it's Big Macs vs. Whoppers going full Silicon Valley, and an $8.5 billion number is the kind of flex that gets everyone asking what fast food even looks like in five years.",
+    "bullets": [
+      " McDonald's is reportedly rolling out a massive $8.5 billion tech investment plan.",
+      " Would you actually notice $8.5 billion in 'tech upgrades' next time you're in the drive-thru, or is this just corporate chest-thumping?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://qz.com/mcdonalds-investor-day-next-strategy-restaurant-overhaul-092326",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "If Trump bans U.S. diesel exports, global prices will go even higher, experts say",
+    "angle": "Diesel prices touch everything from trucking to home heating, so a U.S. export ban aimed at helping Americans could actually spike costs everywhere, including at home \u2014 a classic case of a policy possibly doing the opposite of what it promises.",
+    "bullets": [
+      " Trump is reportedly considering a ban on U.S. diesel exports",
+      " Experts warn the move would push global diesel prices even higher, not lower",
+      " Would you trust a 'keep prices down' policy that experts say could actually jack them up worldwide?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/business/us-diesel-export-ban-9.7357460?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump considers banning export of U.S. diesel",
+    "angle": "This is a real 'wait, what does that mean for MY gas station' story - diesel powers trucking, farming, and shipping, so any export ban talk moves prices fast and puts Trump's energy policy back in the headlines.",
+    "bullets": [
+      " If it means cheaper diesel at home, are you here for it - or does 'keep it domestic' policy make you nervous? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "WVM0bV9qVEFkcVprQVZGR3Y2V1k3UWh4VVE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeFU1dWJ0UWkybERzcmFWcDFDcjU5cmV1MExoM3Mzb0ItVDdlTU9Ld0t",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "CEO who posted about wearing 'Lake America' sweatshirts to Halifax is no longer CEO",
+    "angle": "A Canadian company's top exec is out of a job after a viral post showing off 'Lake America' sweatshirts on a Halifax trip - the kind of petty-nationalism jab that's been everywhere since the Trump 'Gulf of America' rebrand, except this one may have cost someone their career.",
+    "bullets": [
+      " Should a CEO get fired for a joke that plays great with customers but embarrasses the board?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/lake-america-sweatshirts-halifax-9.7356629",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "More than two in three Canadians back EU associate membership: poll",
+    "angle": "A new poll finds a solid majority of Canadians would back some kind of formal tie-up with the European Union \u2014 worth talking about given how much noise there's been lately about Canada rethinking its reliance on the US.",
+    "bullets": [
+      " Poll finds more than 2 in 3 Canadians support the idea of EU associate membership",
+      " Story is generating buzz on Reddit's r/canada",
+      " Comes amid broader chatter about Canada diversifying its international alliances",
+      " Would you actually want Canada tied closer to the EU \u2014 trade, travel, maybe even a shared passport lane \u2014 or is that a bridge too far?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://toronto.citynews.ca/2026/09/24/more-than-two-in-three-canadians-back-eu-associate-membership-poll/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Carney's comments over possibility of U.S. invasion reveal how contingency plans are always in place",
+    "angle": "It sounds like a wild headline, but it's really a window into how governments quietly plan for every scenario - even ones involving your closest ally. Given the recent friction in U.S.-Canada relations, this comment is going to get people talking about just how seriously Ottawa takes the idea.",
+    "bullets": [
+      " Prime Minister Mark Carney publicly addressed the idea of a possible U.S. invasion of Canada.",
+      " He pointed to it as proof that contingency plans exist for virtually any scenario, no matter how far-fetched it sounds.",
+      " Does it freak you out that there's literally a plan on the shelf for a U.S. invasion, or does it just prove Ottawa's doing its homework?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/canada-us-trump-carney-invasion-plans-9.7357842?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Brave 12-year-old fought off angry black mama bear in his backyard: \u2018It was fight or die\u2019",
+    "angle": "A kid says it was literally 'fight or die' against a black bear near his Canadian backyard - a wild survival story with a happy ending that's tailor-made for water-cooler talk.",
+    "bullets": [
+      " Westgate, just 12 years old, describes the encounter bluntly: 'It was fight or die.'",
+      " He lives near the Canadian border, in an area where black bears are a regular presence in the neighborhood.",
+      " He'd already been taught what to do if he ever ran into a bear in real life - and had to put that training to the test.",
+      " Would your kid know what to do if a bear showed up in the backyard?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/24/us-news/brave-12-year-old-fought-off-angry-black-mama-bear-in-his-backyard-it-was-fight-or-die/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Elections Quebec sets limits on use of English at polling stations",
+    "angle": "Quebec's language politics are always a live wire, and putting new limits on English at polling stations reignites the francophone-anglophone divide right as election season chatter heats up.",
+    "bullets": [
+      " Elections Quebec, the province's official election authority, is putting new limits on the use of English at polling stations.",
+      " Exact details of the new rules haven't been reported yet \u2014 just that English use is being restricted at voting sites.",
+      " Fair language protection or a step too far for English-speaking voters \u2014 where do you land? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "hPRmlJR0t1bXQ1WEhpNHhETmhtaGtfN19ROFhnSDhXX2ZSQXdFeGRkUC0yNW9NQ1ZEZjVKbW9TRTI?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1czVEpIclk3cXlHYm1CdVo3SXh1bU5sdnlLYTRoZ3AzLTFBaVBxZjBxW",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "AI 'actor' Tilly Norwood glitches during Piers Morgan interview, starts speaking Cantonese",
+    "angle": "Tilly Norwood, the AI-generated 'actress' that already had Hollywood in a panic over AI replacing real performers, just glitched out mid-interview \u2014 the kind of uncanny-valley moment that's basically a live commercial for why people don't trust this stuff yet.",
+    "bullets": [
+      " Tilly Norwood, the AI-generated 'actress,' reportedly glitched during a live interview with Piers Morgan",
+      " Mid-interview, the AI abruptly started speaking Cantonese with no explanation",
+      " Story is making rounds on r/nottheonion \u2014 the subreddit for stuff so absurd it sounds fake",
+      " Would you ever trust an AI 'actor' again after watching it randomly short-circuit into another language live on camera?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/tilly-norwood-glitches-piers-morgan-switches-language-speaks-cantonese-9.7352222",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Law Roach dishes on Zendaya\u2019s surprising reaction to him revealing she\u2019d secretly married Tom Holland",
+    "angle": "Zendaya's longtime stylist let a huge secret slip on a red carpet, and now he's dishing on how she actually reacted \u2014 that's the kind of behind-the-scenes drama that gets people talking.",
+    "bullets": [
+      " Law Roach, Zendaya's go-to stylist, revealed on a red carpet that she and Tom Holland were already secretly married.",
+      " Roach is now speaking out about Zendaya's reaction to him accidentally spilling the news.",
+      " Honest slip-up or a wink-wink way of confirming the secret without technically 'announcing' it? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/24/celebrity-news/law-roach-shares-how-zendaya-reacted-after-he-revealed-shed-secretly-married-tom-",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Law Roach Admits He Lies About Zendaya\u2019s \u2018Business\u2019 to Protect Her Privacy: \u2018You Don\u2019t Have the Right\u2019",
+    "angle": "Law Roach isn't just Zendaya's stylist \u2014 he's practically a co-star at this point, so hearing him openly cop to feeding the media misdirection is a rare, honest peek behind the celebrity PR curtain.",
+    "bullets": [
+      " Law Roach, Zendaya's longtime stylist, admits he lies about her \"business\" on purpose.",
+      " His justification, in his own words: \"You don't have the right.\"",
+      " Do celebrities owe the public the truth, or is spin control a fair form of self-defense?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/law-roach-lies-to-protect-zendaya-privacy-tom-holland-marriage-12138167?utm_campaign=peoplemagazine&utm",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Yankees playoff rotation still in flux \u2014 and Cam Schlittler may not start Game 1",
+    "angle": "The Yankees are heading into the playoffs without a set pitching plan, and the guy who looked like their breakout arm might get passed over for Game 1 \u2014 that's the kind of last-minute drama that gets fans and hosts arguing before the first pitch.",
+    "bullets": [
+      " Cam Schlittler made his final regular-season start on Thursday night",
+      " Manager hasn't locked in who starts Game 1",
+      " Would you trust the hot rookie arm or a proven vet to open a win-or-go-home series?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/24/sports/yankees-playoff-rotation-still-in-flux-and-cam-schlittler-may-not-start-game-1/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Roseanne Barr eviscerates sitcom co-star for confronting her about racist tweets: \u2018Stay f\u2013ked\u2019 - Page Six",
+    "angle": "A sitcom family feud gone nuclear years after the scandal that ended Roseanne's career \u2014 the kind of celebrity trainwreck that's pure watercooler gold.",
+    "bullets": [
+      " Roseanne Barr unloaded on former on-screen son Michael Fishman after he spoke out about her 2018 racism controversy",
+      " She called him a \"brainwashed bigot\"",
+      " Barr's rant included the line: \"He fIking doesn't even fIking know what I said\"",
+      " Should castmates ever be expected to publicly denounce a colleague years after a scandal, or is Fishman just stirring up old drama? Page Six (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/23/entertainment/roseanne-barr-eviscerates-sitcom-co-star-for-confronting-her-about-racist-tweets/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Disney+ and Hulu raise prices by up to 13 percent after doubling profits - Ars Technica",
+    "angle": "Disney+ and Hulu are hiking prices up to 13% right after Disney posted doubled streaming profits - so viewers get to foot the bill for a win the company already had. It's the latest gut-punch in the streaming price creep everyone's grumbling about.",
+    "bullets": [
+      " Price hikes are landing across Disney+ and Hulu, up to 13%.",
+      " Are you canceling a streaming service this year, or have you just accepted the price creep? Ars Technica (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Robert Pattinson Says \u2018The Batman: Part II\u2019 Is \u201ca Different Take on a Batman Movie\u201d: \u201cSo Ambitious\u201d - The Hollywood Reporter",
+    "angle": "The Batman was a three-hour noir detective story that broke box office records, so when the guy under the cowl says the sequel is a totally different animal, that's instant fan bait.",
+    "bullets": [
+      " Robert Pattinson told Collider that *The Batman: Part II* is \"a real left turn from the first\" movie.",
+      " He described the sequel as \"so ambitious,\" per The Hollywood Reporter.",
+      " Pattinson says even he's excited to see how the next film turns out."
+    ],
+    "debate": "The first one was basically a goth detective movie \u2014 what's left for a \"left turn\" that doesn't just mean weirder?",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-the-batman-2-different-take-1236708702/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Ted Lasso\u2019 Emotionally Charged Episode Brings a Return to Form for Series - The Hollywood Reporter",
+    "angle": "A beloved, decades-old California beach tradition is suddenly on the chopping block because its dates collide with bird nesting season \u2014 it's the classic \"tradition vs. environment\" fight that always gets people fired up.",
+    "bullets": [
+      " Three separate storylines collide: Gemma's injury, Alice's breakdown, and Roy's confession.",
+      " Critics are calling it a \"return to form\" for the series after a season some felt was missing that classic emotional punch.",
+      " Did Season 4 lose you before this episode pulled you back in? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+      " A long-running beach airshow in California is facing calls for closure or cancellation.",
+      " Critics warn the noise and low flybys could disturb active nests on the beach.",
+      " It's shaping up as a fight between a \"classic\" local institution and environmental advocates.",
+      " Do you ground a beloved tradition to protect a few nests, or let the birds fend for themselves for one weekend a year?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/24/us-news/huntington-beach-turtle-nests-spark-petition-to-postpone-pacific-airshow/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Exclusive | Chatter around CNN deal says Kara Swisher is quitting over ex Nellie Bowles - Page Six",
+    "angle": "A big-name tech journalist walking away from a major network is newsy on its own, but the whisper that her ex-girlfriend factors in turns this into pure watercooler gossip \u2014 and it's dropping right as CNN's ownership is in upheaval.",
+    "bullets": [
+      " Kara Swisher announced on her \"Pivot\" podcast Tuesday that she's asked her agent to get her out of her CNN contract",
+      " Her deal officially doesn't end until the end of 2026 \u2014 she wants out early",
+      " Page Six is floating a juicier theory: her exit may be tangled up with her ex, Nellie Bowles",
+      " Is this a principled exit over network politics, or a messier personal story dressed up as a business decision? Page Six (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/23/society/chatter-around-cnn-deal-says-kara-swisher-is-quitting-over-ex-nellie-bowles/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Salmon Are Thriving After Klamath River Dam Removals, Study Finds",
+    "angle": "Salmon Are Thriving After Klamath River Dam Removals, Study Finds",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.nytimes.com/2026/09/24/climate/klamath-salmon-recovery-dam-removal.html?smid=re-share",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Just one small serving of ultra-processed food a day linked to higher disease risk, major study finds - foxnews.com",
+    "angle": "This isn't about giving up junk food entirely - it's about how little it takes to move the needle on real disease risk, which makes it an instant guilt-trip conversation starter for anyone who eats processed snacks daily.",
+    "bullets": [
+      " Researchers tracked nearly 8.8 million adults for this analysis.",
+      " Every extra 100 grams of ultra-processed food a day was linked to higher disease risk.",
+      " That's roughly 3\u00bd ounces - basically one small snack or packaged item.",
+      " Study was published Sept. 22 in the journal *Fa[\u2026]* (per Fox News).",
+      " Be honest - how many ultra-processed snacks did you already eat today? Fox News (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.foxnews.com/food-drink/just-one-small-serving-ultra-processed-food-day-linked-higher-disease-risk-major-study-finds",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A former Memphis hotel has been transformed into 110 permanent homes for veterans who experienced homelessness, replacing temporary shelter with stable housing and access to mental health care, recovery services, job training, education and other support.",
+    "angle": "A former Memphis hotel has been transformed into 110 permanent homes for veterans who experienced homelessness, replacing temporary shelter with stable housing and access to mental health care, recovery services, job training, education and other support.",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://hoodline.com/2026/08/former-memphis-hotel-reborn-as-110-permanent-homes-for-homeless-veterans/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Two beavers released in Dorset, England transformed a patch of woodland into a thriving wetland in just one year, building a 115-foot dam that created a pond where otters fish and barn owls hunt. The wetland is still holding water despite the 2026 drought.",
+    "angle": "It's the ultimate 'let nature do its thing' story - two beavers dropped into a random patch of English woodland went full contractor mode and built an entire wetland ecosystem in one year, no permits required.",
+    "bullets": [
+      " Just two beavers were released into woodland in Dorset, England",
+      " They built a 115-foot dam, creating a brand new pond",
+      " Two beavers out-engineered a drought - humble brag for the animal kingdom."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/two-beavers-released-in-dorset-built-a-115-foot-dam-in-a-single-year-and-turned-a-shaded-wood-into-a",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Drilling begins at \u2018real site\u2019 of Noah\u2019s Ark as activists warn \u2018Darwinism will be dismantled\u2019",
+    "angle": "A boat-shaped rock formation in Turkey has believers convinced it's the actual Ark, and now excavation crews are literally drilling into it hoping to knock out Darwin once and for all - it's the kind of headline that sounds fake but isn't.",
+    "bullets": [
+      " Excavation has reportedly begun at the DurupInar site, a formation long claimed by some to be the 'real' Noah's Ark",
+      " Activists behind the dig say the findings could 'dismantle Darwinism'",
+      " Story is trending out of r/nottheonion - the internet's go-to feed for real news that reads like satire",
+      " Is this bold science-vs-faith investigation or just a rock getting way too much funding?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.joe.co.uk/news/noahs-ark-site-turkey-drilling-researchers-evidence-549016",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "China tightens controls on fentanyl-making chemicals shipped to the U.S. just days before Trump and Xi meet at the White House",
+    "angle": "Fentanyl has been the defining U.S. public health crisis for years, and China tightening the chemical supply chain lands just days before Trump and Xi sit down face to face - the timing alone makes this a story.",
+    "bullets": [
+      " China is tightening controls on chemicals used to manufacture fentanyl before they're shipped to the U.S.",
+      " Chinese-sourced precursor chemicals have long been blamed as a major driver of the U.S. fentanyl crisis"
+    ],
+    "debate": "Genuine crackdown or a calculated diplomatic gift timed to the Trump-Xi meeting?",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://fortune.com/2026/09/22/china-xi-trump-fentanyl-precursor-drugs/?utm_source=reddit/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Zelensky Says He Would Visit Moscow \u2018On a Rocket\u2019",
+    "angle": "A one-liner with teeth \u2014 Zelensky cracking jokes about rockets and Moscow is the kind of quote that's blunt, dark, and very on-brand for how he talks to the world right now.",
+    "bullets": [
+      " Zelensky was asked about the idea of visiting Moscow",
+      " His answer: he'd go \"on a rocket\"",
+      " Is this Zelensky being savagely funny, or a line that's a little too dark to laugh at?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.kyivpost.com/post/85331",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Climbers are melting Everest\u2019s glacier with their urine, study warns",
+    "angle": "It sounds like satire, but researchers say the sheer volume of human waste left by climbers on Everest is speeding up glacial melt on the world's most famous mountain \u2014 a perfect blend of gross-out humor and real environmental stakes.",
+    "bullets": [
+      " A new study warns that waste left behind by climbers is contributing to melting on Everest's glacier.",
+      " Everest sees hundreds of climbers a season, each leaving behind waste that's tough to remove at extreme altitude.",
+      " Would knowing your bathroom break is melting a glacier change how you'd act on a bucket-list trip?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 53/90 (45 fit + 12 source + 21 quality - 25 penalty (used within the last 30 days)) -> STRONG",
+    "url": "https://www.the-independent.com/climate-change/news/mount-everest-glacier-melting-human-urine-b3043991.html",
+    "score": "53/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "The AI Build-Out Is Becoming the Biggest Economic Bet in U.S. History",
+    "angle": "Data centers, chips, power grids \u2014 the AI buildout is being called the biggest economic wager in American history, and it's the kind of number so big it's almost hard to picture, which is exactly why it's got everyone talking.",
+    "bullets": [],
+    "debate": "Genius long-term bet or the next dot-com-style bubble waiting to pop?",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wsj.com/economy/the-ai-build-out-is-becoming-the-biggest-economic-bet-in-u-s-history-c60716dd?st=oT6MJ3&reflink=ar",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Former soldier who shot at synagogue was suing military for $1M over vaccination policy",
+    "angle": "A former soldier tied to a synagogue shooting is now suing the Canadian military for $1 million over its COVID vaccine mandate - the kind of head-scratcher headline that makes you read it twice.",
+    "bullets": [
+      " A former Canadian Armed Forces member is reportedly linked to shots fired at a synagogue",
+      " How does someone go from allegedly shooting at a synagogue to suing for a million bucks over a vaccine mandate?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://globalnews.ca/news/12070914/soldier-synagogue-suing-1-million-vaccination/",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-24",
     "slot": "am",
     "category": "THE LIST",
     "title": "What to do when your Waymo holds up a Secret Service motorcade",
