@@ -1,6 +1,558 @@
 [
   {
     "date": "2026-09-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "An HIV positive patient who had waited more than two years for a kidney received an organ in less than a week after joining a new HIV to HIV transplant program at Cedars Sinai. The hospital has now successfully performed its first HIV to HIV kidney and liver transplants",
+    "angle": "A kidney patient who waited over two years got a transplant in under a week thanks to a groundbreaking HIV-to-HIV program \u2014 proof that a diagnosis that used to be a death sentence is now opening doors instead of closing them.",
+    "bullets": [
+      " Patient waited more than two years on the standard transplant list",
+      " Program is run by Cedars-Sinai",
+      " Hospital has now completed its first HIV-to-HIV kidney and liver transplants",
+      " This is the kind of medical progress story that reminds you how far HIV treatment has come in one generation."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cedars-sinai.org/newsroom/surgeons-perform-cedars-sinais-first-hiv-to-hiv-organ-transplants/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "India, Nepal and Indonesia reported zero rhino poaching in 2025, marking a major conservation milestone for some of Asia\u2019s most threatened rhinos. The greater one-horned rhino population reached an estimated 4,075, with numbers continuing to grow in several protected areas.",
+    "angle": "Three countries just posted a goose egg on rhino poaching, a species that's been hunted to the edge for its horn for decades \u2014 it's the kind of rare good-news conservation win that actually restores your faith in humanity for five minutes.",
+    "bullets": [
+      " India, Nepal, and Indonesia all reported zero rhino poaching incidents in 2025.",
+      " Numbers are climbing in several protected reserves across the three countries.",
+      " Callers: what's the last piece of actual good news you saw in your feed this week?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.deccanherald.com/environment/wildlife/rhino-poaching-zero-in-india-nepal-and-indonesia-in-2025-but-habitat-challenge-r",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "White House leaves CNN off upcoming Trump trip on Air Force One",
+    "angle": "The administration is freezing out a major network from the presidential press pool again, and this time it's got First Amendment red flags attached \u2014 a fight over who gets access to power that goes way beyond media-industry inside baseball.",
+    "bullets": [
+      " It's described as the latest in an ongoing dispute between the administration and the network",
+      " Critics say the move raises First Amendment concerns about press access to the president",
+      " Is freezing out a network from the press pool fair game for any White House, or does it cross a line on press freedom?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/white-house-cnn-trump-air-force-one-9.7359541?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Liberal MP says he was demoted for supporting NDP bill targeting arms export controls",
+    "angle": "A sitting government MP publicly accusing his own party of punishing him for a principled vote is exactly the kind of inside-baseball political drama that turns into a bigger story about party discipline versus conscience votes.",
+    "bullets": [
+      " Sean Casey, the Liberal MP for Charlottetown, says he lost his job as parliamentary secretary to the Minister of Veterans Affairs",
+      " He claims the demotion came after he voted against his own government",
+      " Casey is going public with the claim, framing it as retaliation for breaking ranks",
+      " Should MPs get punished for voting their conscience, or is toeing the party line just part of the job?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/casey-removed-israel-arms-bill-9.7359007?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Canadian charged with voting fraud in the U.S. for casting ballot in 3 elections",
+    "angle": "Election integrity is a live-wire topic right now, and a non-citizen allegedly gaming the system for years is exactly the kind of story that fuels the national debate over voter fraud and border security.",
+    "bullets": [
+      " A Canadian citizen is facing charges for voter fraud in the U.S.",
+      " Prosecutors say the person cast a ballot in three separate elections",
+      " Case raises questions about how someone who isn't a U.S. citizen got registered to vote at all",
+      " How does a non-citizen vote three times before anyone catches it - is this a one-off slip or a system-wide gap? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "GNvdUxGZ0ZtVmpEdDl6cC1EQ1hadlQtc3pkSWtKd0YtN1dleUo4S2pBUVUwWWR0eDRZZUNRbWl0MC1qNUFa?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzY5NFUwbFNkbHN1OTN2VGdGR1lqMnlLdklaNG5Db3czTGdBQW44d",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Blue Jays all-star Guerrero Jr. apologizes for comments made in podcast interview",
+    "angle": "A hometown all-star having to publicly apologize to his own fanbase mid-scrum is exactly the kind of awkward, human moment that gets a city talking - especially with the Jays fans invested in how he handles it.",
+    "bullets": [
+      " Vladimir Guerrero Jr. apologized to Blue Jays fans on Friday",
+      " He opened *and* closed the media scrum with the same apology",
+      " Does a quick on-air apology actually fix it, or does bookending the scrum with 'sorry' just make it a bigger story?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/vladimir-guerrero-jr-apology-contract-podcast-veronica-batista-9.7359222?cmp=rss",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "There\u2019s No Good Reason for Carney to Privatize Canada\u2019s Airports - The plan would worsen labour conditions and make flying more expensive.",
+    "angle": "There\u2019s No Good Reason for Carney to Privatize Canada\u2019s Airports - The plan would worsen labour conditions and make flying more expensive.",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thetyee.ca/Opinion/2026/09/22/No-Good-Reason-Carney-Privatize-Canada-Airports/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "AI 'slop' is dominating menus, as some restaurant owners turn to it to save time and money",
+    "angle": "Canadian restaurant owners are leaning on AI to whip up menu descriptions and even dish names to save time and money, but the results are landing as awkward, overly-flowery \"AI slop\" that diners are starting to clock instantly.",
+    "bullets": [
+      " Restaurant owners in Canada are using AI tools to generate menu copy to cut costs and save time",
+      " Discussion is circulating on r/canada as diners start noticing the shift",
+      " Can you actually tell when a menu description was written by AI, or has it gotten that good? ON-AIR BIT BREAKDOWN - Step 1: Read a real menu blurb - 30 seconds -> Host reads a suspiciously over-the-top menu description on air and asks co-host to guess: human or AI? - Step 2: Callers guess the source - 2-3 minutes, phone/text-in -> Play two menu descriptions back to back and have listeners text in which one was AI-written - Step 3: The tell-tale signs - 1 minute wrap-up -> Hosts riff on the buzzwords that give away AI menu copy (\"tantalizing,\" \"symphony of flavors,\" etc.)"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/business/ai-generated-restaurant-images-9.7356958",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Marineland belugas that died in Chicago had chronic inflammatory disease, preliminary necropsy findings show",
+    "angle": "Marineland has been under fire for years over animal welfare, so any update on what actually killed these belugas after they were shipped out of Canada is going to reignite that whole debate.",
+    "bullets": [
+      " Belugas that had been moved from Marineland in Ontario died after arriving in Chicago",
+      " Preliminary necropsy findings point to chronic inflammatory disease as the cause",
+      " Marineland has faced ongoing scrutiny in Canada over the health and treatment of its marine mammals",
+      " Does this let Marineland off the hook, or just confirm these animals were already in trouble before the move?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/marineland-beluga-deaths-preliminary-necropsy-findings-chicago-9.7358828?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "EXCLUSIVE: RCMP arrest four in alleged Pearson drug smuggling bust",
+    "angle": "This is a CTV News exclusive on an RCMP takedown at Canada's busiest airport, so people are going to want to know how something like this happens right under everyone's nose at Pearson.",
+    "bullets": [
+      " RCMP made four arrests tied to an alleged drug smuggling operation.",
+      " CTV News is reporting it as an exclusive, meaning more details are likely still coming out.",
+      " How does an alleged smuggling ring operate out of one of the most heavily monitored airports in the country? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "zbV9KOExGdk9KZHhpUGl6cHg3bExfckUyUEo3SnhjUlZR?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNUtEZlNRTGVsdXR1Y0E1aHhCdFB3dFRHMUNYQmNBVm12d1ktbkFq",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "9 Islamic schools on high alert after email threatening \u2018slaughter\u2019 of Muslims",
+    "angle": "A hate-fueled threat against a religious community is always going to stop people in their tracks, and this one's got real families on edge right now, wondering if their kids are safe walking into school.",
+    "bullets": [
+      " 9 Islamic schools were placed on high alert after receiving a threatening email",
+      " Story reported by CTV News",
+      " This isn't an abstract threat \u2014 it's real families deciding whether it's safe to send their kids to school this week. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "OVnpZdDN5eENZcGdDRTdtcjhtdzVYbWd3d1ZxdjV4Q0tidDBzVnAyQVZWajB2a0txMjNDSHNPWW42d2Vndw?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSDhPZVJiOTVCNGNuSHpXelM0TmpFVzU4N243ZlFvVHBQTWVfX2tCZ0",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Marisa Tomei, 61, Says She Doesn\u2019t Go to the Gym. Her Simple Secret to Looking So Good (Exclusive) - People.com",
+    "angle": "Everyone's obsessed with anti-aging hacks right now, and a 61-year-old Oscar winner saying she skips the gym entirely is the kind of counterintuitive celebrity confession that gets people talking about what actually works.",
+    "bullets": [
+      " Marisa Tomei is 61 years old",
+      " She says she doesn't go to the gym to stay in shape",
+      " She's sharing her \"simple secret\" to looking good in a People exclusive",
+      " What's your no-gym secret to staying in shape \u2014 call in and brag about it. ON-AIR BIT BREAKDOWN - Step 1: Guess Her Secret - 30 seconds before the reveal -> Each host guesses what Marisa Tomei's \"simple secret\" actually is before saying what People reported - Step 2: Trade Your Own Hack - After the reveal -> Hosts share their own no-gym trick for staying fit, then open phones for listeners to do the same People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "3FIU3BzVFExNWtwVXhuQWVPVVNGLW1NakRiaWgxSG9yUVJBdU5PaHdpN1Exdw?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOckZzel81RjVmOXBaNEpDR3A3ZWRfcVZJWjJQdHZuVFdGNTRuYS1ibV",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Ed Sheeran\u2019s upcoming shows at Robert Kraft\u2019s Gillette Stadium have been cancelled due to bad weather",
+    "angle": "Weather just torched a stop on one of the biggest pop tours going right now, leaving a stadium full of fans scrambling for refunds or reschedule dates - always good drama for a slow entertainment day.",
+    "bullets": [
+      " Ed Sheeran's shows at Gillette Stadium were cancelled",
+      " Reason given: bad weather",
+      " Ever had a concert get rained out on you - refund, reschedule, or just bad luck?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/zn9xviz0horh1.jpeg",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Taylor Swift\u2019s \u2018TLOAS: Encore Edition\u2019 Review | \u201cShe no longer has the incentive to take creative risks. No producer or record label boss would dare offer a critical opinion. It\u2019s a crying shame. Modern pop\u2019s greatest voice risks rubbishing her own legacy because she\u2019s scared to take a day off.\u201d",
+    "angle": "A major UK critic is saying what a lot of fans are whispering \u2014 that Taylor's non-stop release schedule is starting to hurt her instead of help her, which is exactly the kind of hot take that splits a fanbase.",
+    "bullets": [
+      " Critic's line: \"No producer or record label boss would dare offer a critical opinion\"",
+      " Calls her \"modern pop's greatest voice\" but says she's \"scared to take a day off\"",
+      " Warns she risks \"rubbishing her own legacy\" by not taking creative risks",
+      " Is Taylor Swift too big to be told no anymore \u2014 and is that actually hurting her music?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1wpw45q",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Taylor Swift dropped 4 new songs. Here's what fans are sleuthing",
+    "angle": "Any new Taylor Swift material sends the internet into instant lyric-decoding overdrive, and this reissue is no different \u2014 it's a guaranteed conversation starter for anyone with a Swiftie in their life.",
+    "bullets": [
+      " Taylor Swift just released The Life of a Showgirl: The Encore, an extended version of her 2025 album.",
+      " Fans immediately went into \"full-blown CSI\" mode, sleuthing the lyrics for hidden meanings and Easter eggs.",
+      " Call in: what's your wildest theory about who these new tracks are actually about? ON-AIR BIT BREAKDOWN - Step 1: Cold Read the Lyrics - 60 seconds, no prep -> Hosts each read a line from one of the new tracks and guess who or what it's about before looking anything up. - Step 2: Compare to the Swiftie Theories - Reveal -> Pull up what fans online are already theorizing and see who was closer, host or internet. - Step 3: Phone Line Verdict - Caller vote -> Ask listeners to call in and settle which theory is most believable."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/taylor-swift-life-of-a-showgirl-encore-deluxe-extended-swifties-9.7358607?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "If \u2018Kamen Rider\u2019 and \u2018Parasyte\u2019 Did a Fusion Dance, It\u2019d Come Out Looking Like \u2018Jagaaan\u2019",
+    "angle": "Before he blew up with soccer anime 'Blue Lock,' this creator wrote a wild body-horror manga that's finally getting an English release - perfect timing for Halloween and a fun 'wait, THAT guy wrote this?' angle for anime fans.",
+    "bullets": [
+      " Muneyuki Kaneshiro, the creator behind mega-hit 'Blue Lock,' wrote this manga before he was famous",
+      " It's getting an official English release timed for Halloween",
+      " Reviewers are calling it 'gleefully unhinged' horror",
+      " You never guess your favorite creator's origin story - ask listeners what pop culture 'before they were famous' surprise blew their mind. gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/jagaaan-manga-review-volume-1-horror-sci-fi-muneyuki-kaneshiro-blue-lock-2000817573",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Hanuman Ansh\u2019 Indian Sleeper Hit\u2019s International Distribution Strategy Unveiled by \u2018K.G.F,\u2019 \u2018Kantara\u2019 Outfit Hombale Films (EXCLUSIVE)",
+    "angle": "Indian cinema keeps quietly conquering the world outside Bollywood, and the same producers behind global hits K.G.F. and Kantara just pulled off another international breakout - proof this isn't a fluke, it's a strategy.",
+    "bullets": [
+      " Hanuman Ansh has pulled in more than $3.5 million outside its home market in India",
+      " It's written and directed by Vishal Chaturvedi, adapted from his own book \"Divine Detour\"",
+      " Hombale is now going public with exactly how it engineered the international run",
+      " Indian films keep out-hustling half of Hollywood overseas - are we finally paying attention to that? variety.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/news/hanuman-ansh-indian-sleeper-hit-hombale-films-strategy-1236876199/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Scarlett Johansson Takes Break From Filming Overseas for \u2018Paper Tiger\u2019 NYFF Premiere After Skipping Cannes: \u2018I\u2019m Hallucinating\u2019",
+    "angle": "She skipped Cannes for this movie, then flew straight off an overseas film set to make the New York Film Festival premiere \u2014 and walked the carpet basically sleepwalking. It's a relatable \"I'm running on fumes\" moment from an A-lister that's easy, fun tape.",
+    "bullets": [
+      " Scarlett Johansson reunited with co-stars Adam Driver and Miles Teller for the NYFF premiere of \"Paper Tiger\"",
+      " She'd just gotten off a long international flight from another film shoot: \"I'm hallucinating,\" she said",
+      " She'd already skipped the Cannes premiere for this same movie",
+      " Callers: what's the most jet-lagged, out-of-body thing you've ever done for work right after a flight? variety.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/festivals/scarlett-johansson-paper-tiger-new-york-film-festival-premiere-adam-driver-1236872284/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Julia Haart\u2019s ex husband facing criminal charges, jail over actions during brutal divorce",
+    "angle": "The 'My Unorthodox Life' star's nasty divorce just got a wild new chapter \u2014 her ex is now facing actual criminal charges, even after they settled the money fight.",
+    "bullets": [
+      " Julia Haart and ex-husband Silvio Scaglia already settled their $90 million divorce split",
+      " Despite the settlement, Scaglia is now facing criminal charges tied to how he handled the divorce",
+      " Reports say he could be looking at jail time over his actions during the split",
+      " A $90 million settlement usually ends the drama \u2014 so what did he do that's serious enough for criminal charges? pagesix.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Why the viral clip of 'multitasking mom' at a baseball game has enraged people online",
+    "angle": "A photo of a mom at a ballgame with a baby strapped on, a diaper bag on her back, and her hands full of snacks turned into an instant Rorschach test for how we talk about motherhood \u2014 some see a superhero, others see a symbol of an unfair load, and the internet can't agree.",
+    "bullets": [
+      " Viral clip shows a mom at a Major League Baseball game with a baby strapped to her chest, a diaper bag on her back, and her arms full of food",
+      " Story is being framed as \"why it's enraged people online\" \u2014 the reaction itself has become the story",
+      " Is this mom a superhero flexing on everyone, or proof moms get zero help at family outings \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/multitasking-mom-broadcast-giants-twins-major-league-baseball-9.7358097?cmp=rss",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Ella Langley goes viral after rejecting fan who asked her out https://t.co/1i8qwk7HcR https://t.co/GbOd8Y3UxJ",
+    "angle": "A country star's blunt reply to a fan's flirty DM-turned-public moment is blowing up online, and it's the exact kind of celebrity-meets-regular-person internet moment that gets everyone talking about how they'd have handled it.",
+    "bullets": [
+      " Ella Langley is going viral after publicly shutting down a fan who asked her out",
+      " Reaction is spreading fast online, with the exchange itself doing the talking",
+      " Was Ella Langley's rejection savage or totally fair \u2014 callers, how would you want to be shot down? X/Twitter @NYPost (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2103647302548160705",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Backlash as Indian oil heir made professor of sustainability by Newcastle University",
+    "angle": "It's got that perfect 'you can't make this up' irony that r/nottheonion lives for - a university handing a green credibility badge to someone whose family fortune comes from oil is exactly the kind of hypocrisy story that gets phones ringing.",
+    "bullets": [
+      " Newcastle University appointed the heir to an Indian oil fortune as a professor of sustainability",
+      " Story is circulating widely on r/nottheonion, a subreddit dedicated to real news that reads like satire",
+      " Does money buy you a green reputation no matter where it came from - discuss."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.aol.co.uk/articles/indian-oil-gas-heir-made-102644000.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Higher overall disgust sensitivity was associated with a greater likelihood of identifying as a Republican and holding a conservative ideology. A person with high disgust sensitivity and low bodily awareness had a 64.1% probability of identifying as a Republican.",
+    "angle": "New psych research ties how easily disgusted you are to your politics \u2014 it's a fun, low-stakes personality-quiz hook that gets people arguing about themselves instead of the news cycle.",
+    "bullets": [
+      " Study found higher overall disgust sensitivity was linked to a greater likelihood of identifying as Republican and holding a conservative ideology.",
+      " People with high disgust sensitivity + low bodily awareness had a 64.1% probability of identifying as Republican.",
+      " Posted to r/science, sparking chatter over whether gut-level reactions (literally) predict political leanings.",
+      " On a scale of 'meh' to 'I might throw up,' how grossed out do you get \u2014 and does it match your politics? ON-AIR BIT BREAKDOWN - Step 1: The Gross-Out Test - Cold open, 60 seconds -> Hosts each rate 1-10 how disgusted they'd be by a few scenarios (moldy leftovers, stepping in gum barefoot, a stranger's cough on your hand). - Step 2: The Reveal - After both scores are in -> Read the study finding out loud and have each host guess where their score would place them politically before saying their actual leaning. - Step 3: Open the Lines - Caller/text segment -> Ask listeners to text their gross-out score (1-10) plus their political lean, no names, and read a few live to see if the pattern holds."
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/disgust-predicts-conservative-views-most-strongly-in-people-with-low-bodily-awareness/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A large study says a higher amount of midlife visceral fat is strongly linked to increased brain inflammation and early biological signs of Alzheimer's disease up to 20 years before memory symptoms appear.",
+    "angle": "This hits home for anyone in midlife - it's not just about how your gut looks, it's a warning sign for Alzheimer's showing up decades before memory loss ever would.",
+    "bullets": [
+      " A large study links higher midlife visceral fat - the deep belly fat around your organs - to increased brain inflammation.",
+      " Researchers found early biological markers of Alzheimer's disease tied to that fat, showing up up to 20 years before memory symptoms hit.",
+      " Would you actually want to know your Alzheimer's risk 20 years early, even if there's not much you can do about it yet?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/midlife-belly-fat-is-linked-to-elevated-alzheimer-s-biomarkers-decades-later/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "For most Americans with private health insurance, hospital prices are not set by government, but by hospitals and insurers who negotiate over how much an insurer will pay. Patients and families are regularly caught in the middle as hospitals and insurers negotiate better deals for themselves.",
+    "angle": "Almost everyone with private insurance has been blindsided by a medical bill, and this gets at why: the price isn't set by law or by your doctor, it's a backroom deal between your hospital and your insurer \u2014 and you're the one stuck holding the tab when they don't agree.",
+    "bullets": [
+      " For most Americans on private insurance, hospital prices are not government-set \u2014 they're negotiated between hospitals and insurers.",
+      " Those negotiations happen out of the patient's view, with each side pushing for the better deal.",
+      " When talks between a hospital and an insurer break down, it's patients and families who end up caught in the middle.",
+      " Ever gotten a hospital bill that made zero sense? Call in \u2014 we want your worst medical billing horror story."
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://sph.brown.edu/news/2026-09-24/public-brinkmanship",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Germany pledges to phase out fossil fuels for first time with target of 2045.",
+    "angle": "Germany is Europe's industrial powerhouse and its biggest polluter, so a real 2045 fossil fuel phase-out target is a genuinely big deal - it's the kind of concrete climate deadline most countries talk about but never commit to on paper.",
+    "bullets": [
+      " It marks a shift from vague climate promises to an actual, dated national commitment",
+      " One of the world's biggest economies just put a hard deadline on quitting fossil fuels - name one other country you think could actually pull that off."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/environment/2026/sep/23/germany-commits-for-first-time-to-phasing-out-fossil-fuels-by-2045",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "BetBolt Says It Paid Bonnie Blue $1.2M to Name Her Baby to Turn Her 'Porn Addict' Fans Into Gambling Addicts",
+    "angle": "This is the kind of headline that sounds fake until you read it twice \u2014 a gambling brand openly admitting it's using an adult creator's fanbase to recruit new bettors, baby name and all.",
+    "bullets": [
+      " Betting company BetBolt says it paid content creator Bonnie Blue $1.2 million for the rights to name her baby.",
+      " Story surfaced on r/nottheonion \u2014 the subreddit for real news too absurd to look real.",
+      " Phone line question: what would YOU let a brand name for a million bucks? ON-AIR BIT BREAKDOWN - Step 1: Name That Price - 60-90 second live bit -> Hosts each name one thing in their life (pet, car, firstborn's middle name) they'd sell naming rights to, and for how much. - Step 2: Take Callers - Open phones -> Ask listeners to call in with their own 'what would you let a brand name' price tag \u2014 funniest/most outrageous answer wins bragging rights."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.medicaldaily.co.uk/betbolt-bonnie-blue-baby-naming-deal-1759168",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Not just a trip: LSD can improve motor skills",
+    "angle": "New research flips the classic 'tripping' stereotype into a real science story, suggesting LSD could sharpen coordination \u2014 the kind of surprising, counterintuitive finding that's easy watercooler fodder.",
+    "bullets": [
+      " New research suggests LSD isn't just about the psychedelic 'trip' - it may also boost motor skills.",
+      " It's part of a growing wave of science taking a serious look at psychedelics for potential medical benefits, not just recreational use.",
+      " If science backs it up, does that change how you personally think about psychedelics?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.swissinfo.ch/eng/various/taking-lsd-isnt-just-about-tripping-it-improves-motor-skills/92117098?utm_source=multiple&utm",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Runa Khan started Friendship in 2002 with one floating hospital to help Bangladesh\u2019s poorest communities. It now has seven hospital ships, serves 7.5 million people a year and has helped create 205,000 jobs. After 25 years, Khan has won Asia\u2019s Ramon Magsaysay Award.",
+    "angle": "A woman who started with a single floating clinic just won one of Asia's biggest humanitarian honors - a feel-good reminder that one person's idea can snowball into something massive over 25 years.",
+    "bullets": [
+      " Runa Khan launched Friendship back in 2002 with just one floating hospital",
+      " That single boat has grown into a fleet of seven hospital ships",
+      " Along the way it's helped create 205,000 jobs - and Khan just won the Ramon Magsaysay Award",
+      " One boat, 25 years, 7.5 million people helped - what's the smallest idea you've seen turn into something huge?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thedailystar.net/news/news/friendships-runa-khan-gets-ramon-magsaysay-award-4260981",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "It\u2019s officially Dolly Parton Day, with parades, pink lights and book drives - September 25, 2026",
+    "angle": "Dolly Parton is basically America's honorary grandma at this point, and now it's official - a whole day built around parades, pink lights, and giving back. It's the kind of pure, feel-good story that's perfect to close the show on.",
+    "bullets": [
+      " September 25 is now officially Dolly Parton Day",
+      " Celebrations reportedly include parades in her honor",
+      " Landmarks are lighting up pink for the occasion",
+      " If you got your own day, what color would the whole town light up for you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/dolly-parton-day-925-1741a56d5a32ed562c465352ee9e2f40",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "ICE accused of using \"burrito\" restraint on immigrants as punishment",
+    "angle": "It's the kind of headline that sounds fake but isn't \u2014 a real allegation about detainee treatment wrapped in the most absurd possible name, which is exactly why it's blowing up on r/nottheonion.",
+    "bullets": [
+      " ICE is facing accusations of using a so-called \"burrito\" restraint \u2014 tightly wrapping detainees in a blanket or sheet \u2014 as a punishment, not a safety measure.",
+      " Somebody in ICE's press office is having a very bad day over this one."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.the-independent.com/news/world/americas/aclu-ice-wrap-restraint-lawsuit-b3056523.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "For months, OpenAI's agent swarms have been attacking online databases to find obscure facts",
+    "angle": "This taps into the growing backlash against AI companies quietly scraping the internet at scale \u2014 it's a real flashpoint for anyone who runs a website or just wonders what's fueling these chatbots behind the scenes.",
+    "bullets": [
+      " Reports say OpenAI's AI \"agent swarms\" have been hitting online databases for months",
+      " Raises the bigger question of who's paying the bandwidth bill when AI bots scrape sites at scale",
+      " If an AI bot is hammering a small website thousands of times a day just to learn trivia, who should be on the hook for that traffic?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
     "slot": "am",
     "category": "THE LIST",
     "title": "New York sues prediction market Polymarket, calling it an unlicensed gambling operation",
