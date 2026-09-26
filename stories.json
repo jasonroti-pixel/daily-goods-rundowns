@@ -1,5 +1,545 @@
 [
   {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "New York sues prediction market Polymarket, calling it an unlicensed gambling operation",
+    "angle": "Polymarket blew up as the go-to place to bet on everything from elections to pop culture moments, and now New York is trying to shut that down by calling it illegal gambling - a legal fight that could decide whether prediction markets survive nationwide.",
+    "bullets": [
+      " New York has filed a lawsuit against Polymarket, arguing the platform is running an unlicensed gambling operation in the state.",
+      " Polymarket lets users bet real money on the outcome of real-world events - everything from elections to pop culture - and has become one of the most talked-about betting platforms around.",
+      " Is betting on 'will this happen' any different from betting on a football game - or is that just semantics?"
+    ],
+    "debate": "with better branding?",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Japanese used bookstores see 5x sales surge as books are being bought by the ton, one 50-ton order sent to the US for AI scanning and destruction \u2014 multitude of suspicious bulk buys thought to end up in foreign AI scan and shred facilities",
+    "angle": "Used bookstores in Japan are getting cleaned out by mystery bulk buyers paying by weight, not by title, and the trail leads to overseas facilities where books get scanned and destroyed - likely to feed AI training data. It's a weird real-world side effect of the AI boom that nobody saw coming, and it's got book lovers spooked.",
+    "bullets": [
+      " Used bookstore sales in Japan have jumped 5x as buyers snap up inventory in bulk.",
+      " Books are reportedly being bought by the ton, not by title or author.",
+      " One single shipment weighing 50 tons was sent to the US.",
+      " Would it creep you out to know your old paperbacks got scanned by a robot and then shredded?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Mamdani's populist style is all over the Toronto election race",
+    "angle": "Mamdani's populist style is all over the Toronto election race",
+    "bullets": [],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/toronto/toronto-mamdani-municipal-election-9.7357207?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Wheelchair user says \u2018discriminatory\u2019 Habs policy forced him to beg for tickets",
+    "angle": "This isn't really a hockey story, it's a discrimination story \u2014 a disabled fan says the Canadiens quietly gutted access to game tickets for people who need accessible seating, and that's a fairness issue that hits way beyond Montreal.",
+    "bullets": [
+      " Joey Racanelli says the Bell Centre changed its policy so wheelchair-accessible seating can't be bought online like every other ticket.",
+      " Fans needing accessible seats must instead call or show up in person to the ticket office.",
+      " Racanelli says the change was made quietly, with no heads-up to fans who rely on it.",
+      " Should accessibility seating ever be harder to book than a regular ticket \u2014 call the show if you or someone you know has hit this same wall."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/montreal/wheelchair-user-says-discriminatory-habs-policy-forced-him-to-beg-for-tickets-9.7357204?",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Video appears to show stalker doctor wiping blood from where model was murdered and stuffed in suitcase",
+    "angle": "Surveillance video appears to show the accused killer cleaning the crime scene minutes after allegedly murdering the woman he'd been stalking \u2014 a real-life true-crime twist with the kind of shock value that stops people mid-scroll.",
+    "bullets": [
+      " Video appears to show a doctor wiping what looks like blood in an apartment hallway in Colombia.",
+      " He's accused of stalking the victim, described as a model, before allegedly killing her.",
+      " Her body was reportedly found stuffed inside a suitcase.",
+      " It's the kind of case that makes you wonder how well you actually know the people fixated on you."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/25/world-news/video-appears-to-show-stalker-doctor-wiping-blood-from-where-model-was-murdered-and",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Northern California to get 25-acre surf resort with bungalows, hotel as plans revealed",
+    "angle": "County planners just approved a massive man-made surf resort \u2014 the kind of wild, aspirational build that instantly becomes a bucket-list target and a \"wait, where is this?\" conversation for anyone who's ever wanted to learn to surf without dealing with the ocean.",
+    "bullets": [
+      " Centerpiece is a giant surf lagoon and wave pool for artificial waves.",
+      " Plans also include a hotel, bungalows, and a skate park on site.",
+      " County planners have officially approved the development.",
+      " Would you book a stay just to surf a man-made wave, or does it need to be the real ocean to count?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/25/lifestyle/california-surf-resort-with-wave-pool-hotel-and-skate-park-targets-2027-groundbreaking/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Blue Jays, Maple Leafs eliminated from playoffs",
+    "angle": "Two of Canada's biggest sports franchises bounced from the postseason - it's the annual gut-punch that gets every Toronto sports bar arguing about what needs to change.",
+    "bullets": [
+      " Toronto Blue Jays are officially eliminated from the playoffs.",
+      " Toronto Maple Leafs are also out of the postseason picture.",
+      " Back-to-back exits reignite the same old question: what's it going to take for a Toronto title?",
+      " Which elimination stings more for Toronto fans right now - the Jays or the Leafs?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thebeaverton.com/2026/09/blue-jays-maple-leafs-eliminated-from-playoffs/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Japan hungry for more Canadian energy, new envoy says",
+    "angle": "Japan's newly posted ambassador is publicly pitching for more Canadian energy exports \u2014 a signal that Canada's LNG ambitions could get a major Asian customer just as the energy debate heats up at home.",
+    "bullets": [
+      " Japan's new envoy to Canada says the country is \"hungry\" for more Canadian energy",
+      " Comes as Asian economies look to diversify energy supply away from other global hot spots",
+      " Puts fresh spotlight on Canada's stalled/slow-moving LNG export projects on the west coast",
+      " Should Canada be racing to build more LNG terminals to cash in on demand like this, or is that a climate promise we'd be breaking?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theglobeandmail.com/politics/article-japan-hungry-for-more-canadian-energy-new-envoy-says/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Ottawa signs preliminary deal with Swedish firm Saab for 6 GlobalEye aircraft",
+    "angle": "Ottawa just inked a preliminary deal for six high-tech surveillance aircraft, and the twist is they'll be built at home with Bombardier \u2014 a defense deal that doubles as a jobs story.",
+    "bullets": [
+      " Federal government announced a preliminary agreement for six GlobalEye detection aircraft",
+      " Built by Swedish defense firm Saab",
+      " In partnership with Canada's own Bombardier",
+      " Deal covers advanced airborne surveillance/detection tech",
+      " Multibillion-dollar defense deals always spark the same fight: is this smart investment in Canadian jobs, or should that money go elsewhere?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/government-signs-preliminary-deal-saab-globaleye-9.7358021?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Would you wear an air-quality sensor on your body?",
+    "angle": "Artists are turning invisible smog into wearable pieces you can actually see on someone's body, which is a wild hook for a bigger conversation about how bad air quality is getting - and it lands next to news about a killer El Ni\u00f1o and a Nunavut town ditching diesel for solar.",
+    "bullets": [
+      " A new wave of wearable art is designed to make air pollution visible on the human body.",
+      " This year's El Ni\u00f1o is being mapped for exactly where and when it's expected to turn deadly.",
+      " A scrapyard in a Nunavut community switched to solar power to cut its reliance on diesel.",
+      " Would you actually strap on a visible pollution sensor - or would you rather not know how bad the air really is?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/climate/what-on-earth-bill-air-quality-art-9.7356388?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "What Canadians should know about cellphone searches at U.S. border",
+    "angle": "Millions of Canadians cross the U.S. border every year for work, shopping, or travel - and most have no idea border agents can dig through their phone without a warrant. It's a privacy story that hits home for anyone with a passport.",
+    "bullets": [
+      " U.S. Customs and Border Protection can search phones, laptops and tablets without a warrant - even for Canadian citizens just visiting.",
+      " Agents don't need to suspect a crime to ask a traveler to unlock a device at the border.",
+      " Refusing to unlock a phone won't get you arrested, but it can mean device seizure or denied entry for non-citizens.",
+      " Experts recommend Canadians know their rights and consider what's on their phone before they even get in line.",
+      " Would you hand over your phone to a border agent, or turn around and go home? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "SkdNTUhwX1RQT3ZGRnBjckY0eXJ1aW9NbWMyTTBaeg?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDFEMjhjYmhnSzYyaV9mbWwtaTREMUR2Nnc1a3J4TTZBNVZoT3FQ",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "A routine house evaluation uncovers rare antique hiding \u2018in plain sight\u2019",
+    "angle": "Everyone's got a weird thing sitting in their house they've never had appraised - this is the story that makes people run to Google their grandma's lamp.",
+    "bullets": [
+      " What's the one item in your house you secretly hope is worth a fortune? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "5sUENHQ2VwTC03UWExc0xZaWphVEEwbXZMOXdMN2p4WFJ0YmZEZjVFa2NOdDRiTHNn?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObFJFSVNabDlwdTZKV0dyZzFPRG1KVmFBNjctVjZyeW8xeGZHTUVwLX",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Tiffani Thiessen gets real about Hollywood work and pay since \u2018Saved by the Bell\u2019",
+    "angle": "A 'Saved by the Bell' icon is back with a new Freeform show, and she's dishing on just how much Hollywood paychecks and on-set life have changed since her teen-star days \u2014 instant nostalgia bait with a real industry gossip hook.",
+    "bullets": [
+      " Tiffani Thiessen stopped by Page Six Radio, chatting with hosts Danny Murphy and Evan Real.",
+      " She's starring in the new Freeform series \"Coven Academy.\"",
+      " She opened up about how pay and working conditions have changed since her \"Saved by the Bell\" days.",
+      " Page Six Radio airs weekdays on SiriusXM.",
+      " Ask listeners: what's the biggest way their own industry has changed pay-wise since the '90s?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://pagesix.com/video/tiffani-thiessen-gets-real-about-hollywood-work-and-pay-since-saved-by-the-bell/",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "What Comes Next for Brazil After \u2018I\u2019m Still Here\u2019 and \u2018The Secret Agent\u2019? International Co-Productions Point Towards a Strong Future",
+    "angle": "Real Housewives royalty Teresa Giudice is reportedly rattled over a mystery airport incident involving her daughter Milania \u2014 vague enough to spark speculation, famous enough to guarantee chatter.",
+    "bullets": [
+      " Walter Salles' \"I'm Still Here\" won Brazil's first-ever Oscar for Best International Film, and the first Portuguese-language film to do it with a Brazilian director",
+      " It beat out the heavily-buzzed \"Emilia P\u00e9rez\" to take the win",
+      " Just weeks later, Kleber Mendon\u00e7a Filho's \"The Secret Agent\" pulled off a rare double win",
+      " Industry watchers are pointing to international co-productions as the reason Brazilian cinema's momentum looks built to last, not a fluke",
+      " Two historic wins back-to-back \u2014 is Brazil quietly becoming the next great film powerhouse, or is this just a hot streak? variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD",
+      " A source close to the family tells Page Six: \"Teresa just doesn't know what to do.\"",
+      " Specific details of what happened at the airport haven't been made public yet",
+      " Zero details, all drama \u2014 what do you think actually happened at that airport? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/25/celebrity-news/teresa-giudice-worried-about-daughter-milania-after-airport-ordeal/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "What Comes Next for Brazil After \u2018I\u2019m Still Here\u2019 and \u2018The Secret Agent\u2019? International Co-Productions Point Towards a Strong Future https:/",
+    "angle": "Brazilian cinema just had its biggest global moment in decades with 'I'm Still Here' and 'The Secret Agent' \u2014 now international co-productions are lining up, meaning more Brazilian stories (and faces) could be hitting screens near you.",
+    "bullets": [
+      " \"I'm Still Here\" and \"The Secret Agent\" are cited as the recent breakout Brazilian films putting the country back on the map",
+      " Industry watchers point to international co-productions as the engine for Brazil's next wave",
+      " Report comes from Variety, tracking the business side of where Brazilian cinema goes from here",
+      " Have you actually seen either of these Brazilian films yet \u2014 or are they still flying under your radar? X/Twitter @Variety (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Variety/status/2103439703869714569",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Reacher\u2019 Season 5's book is so \"disgusting\", author Lee Child isn't sure how Prime Video will make it",
+    "angle": "Reacher is one of Prime Video's biggest action hits, so when the author himself says the next book is too messed up to adapt, that's a built-in hook for fans wondering just how far the show will go.",
+    "bullets": [
+      " Lee Child, creator of the Reacher book series, calls the source material for Season 5 \"disgusting\"",
+      " He says he's genuinely unsure how Prime Video is going to pull it off on screen",
+      " Have you read the Reacher books \u2014 you think streaming TV is actually ready to go this dark?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://collider.com/reacher-season-5-make-me-lee-child-dark-story/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Elizabeth Holmes documentary gets an R rating for graphic nudity",
+    "angle": "Everyone knows Elizabeth Holmes as the Theranos fraudster in the black turtleneck \u2014 so a new documentary about her getting an R rating for graphic nudity is a genuinely weird headline that begs the obvious question: what did we miss?",
+    "bullets": [
+      " A new Elizabeth Holmes documentary has reportedly been given an R rating",
+      " An R rating for nudity in an Elizabeth Holmes documentary \u2014 nobody saw that coming, so what's actually in this thing?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sfgate.com/sf-culture/article/elizabeth-holmes-documentary-trailer-22447482.php",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "The 1990s boy band mall tour is back, and this time it's sponsored by Gap",
+    "angle": "It's peak 90s nostalgia bait - Gap is literally recreating the food-court pop concert era to sell hoodies, and it's a perfect excuse for the hosts to relive their own mall-rat glory days.",
+    "bullets": [
+      " It's a direct throwback to 90s mall culture, when pop acts played live sets next to the food court to hype merch drops",
+      " Callers - what's the most 90s thing you ever did at the mall to see a pop star?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/gap-boy-band-jyt-just-your-type-mall-tour-9.7357421?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Forgotten Island\u2019 Is The Best DreamWorks Animated Movie In a Decade",
+    "angle": "It's the only kid-friendly flick hitting theaters for almost a month, so parents everywhere are about to be very familiar with it \u2014 and critics say it's actually good, not just convenient.",
+    "bullets": [
+      " New York Post calls 'Forgotten Island' the best DreamWorks animated movie in a decade",
+      " It's reportedly the only kid-friendly movie in theaters for the next four weekends or so",
+      " Critics say it's worth catching on the big screen, not just streaming later",
+      " Are you the family dragging the kids to the theater for this one just to survive the next month, or are you actually excited for it?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://decider.com/2026/09/25/forgotten-island-review/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Clip of a woman at the Twins vs. Giants game goes viral after she\u2019s seen carrying her child, a backpack and a handful of food while her presumed husband sits doing absolutely nothing. Commentators proceed to roast the husband on live television.",
+    "angle": "A stadium cam caught a mom juggling a kid, a backpack, and a handful of food while the guy next to her \u2014 presumed husband \u2014 just sits there, and the broadcast commentators roasted him live on air. It's blowing up because everyone's got an opinion on the \"invisible labor\" divide, and the internet loves a good public shaming moment.",
+    "bullets": [
+      " Clip caught at a Twins vs. Giants game showing a woman carrying her child, a backpack, and a handful of food solo",
+      " Broadcast commentators called him out and roasted him live on television",
+      " Clip has taken off online via r/fauxmoi, sparking debate over the moment",
+      " Phone lines: is this an unfair pile-on over one snapshot in time, or a painfully relatable case of \"mental load\" caught on camera?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://v.redd.it/p0jber363lrh1",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Meghan Markle just wore the viral shoe of the moment on low-key UK outing: shop the best pair - Harper's BAZAAR",
+    "angle": "Meghan Markle stepped out in the UK wearing the exact flip-flop style every fashion girl has been hunting down this summer, instantly reigniting chatter about her laid-back \"California cool\" pivot since leaving royal life.",
+    "bullets": [
+      " Meghan Markle is back in the United Kingdom and was spotted in candid new photos",
+      " She's wearing the viral flip-flop style that's had \"stylish girls\" obsessed all season",
+      " Her look leans into a relaxed, California-inspired wardrobe shift",
+      " Is Meghan's laid-back flip-flop era a genius rebrand or just... flip-flops? HarpersBAZAAR.com (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.harpersbazaar.com/uk/fashion/shopping/a73863344/meghan-markle-england-style-wardrobe-flip-flops-photos/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Backlash as Indian oil heir made professor of sustainability by Newcastle University",
+    "angle": "It's the kind of headline that sounds fake but isn't \u2014 a university handing a sustainability post to someone whose family fortune comes from oil is peak internet-irony bait, and it's already lighting up r/nottheonion for the obvious hypocrisy angle.",
+    "bullets": [
+      " Newcastle University reportedly appointed an heir to an Indian oil fortune as a professor of sustainability",
+      " Backlash centers on the optics: oil wealth funding or fronting a sustainability title",
+      " Is this greenwashing with a diploma, or can anyone credibly teach sustainability regardless of where their money comes from?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.aol.co.uk/articles/indian-oil-gas-heir-made-102644000.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "People are ditching their vapes only to pick up another surprising habit - Fox News",
+    "angle": "Vaping was supposed to be the healthy off-ramp from smoking, so it's a real gut-punch that withdrawal is apparently so brutal it's sending people back to actual cigarettes - a perfect \"wait, what?\" story for anyone who's ever tried to quit anything.",
+    "bullets": [
+      " E-cigarettes have long been marketed as a cleaner alternative to traditional smoking",
+      " Experts warn severe vape withdrawal is pushing some former smokers back to cigarettes",
+      " Public health data suggests adults trying to quit vaping are relapsing into smoking instead of quitting nicotine altogether",
+      " Recent data cited comes from Action on Smoking and Health-style research tracking quitting trends",
+      " Have you ever tried to quit a bad habit and ended up swapping it for a worse one - phone lines are open. Fox News (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.foxnews.com/health/people-ditching-vapes-pick-up-surprising-habit",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "A former Memphis hotel has been transformed into 110 permanent homes for veterans who experienced homelessness, replacing temporary shelter with stable housing and access to mental health care, recovery services, job training, education and other support.",
+    "angle": "This is the kind of story that actually restores your faith in stuff getting fixed - an empty Memphis hotel turned into permanent housing for veterans, with wraparound support built right in instead of just a roof and a goodbye.",
+    "bullets": [
+      " A former Memphis hotel was converted into 110 permanent housing units for veterans who experienced homelessness.",
+      " Residents get on-site access to mental health care, recovery services, job training, and education support.",
+      " It's a full pipeline, not a band-aid - housing plus the services meant to help people actually stay housed.",
+      " Would you want an old hotel near you converted into housing like this - yes or NIMBY no?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://hoodline.com/2026/08/former-memphis-hotel-reborn-as-110-permanent-homes-for-homeless-veterans/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Florida is turning roadside land into monarch butterfly habitat, with researchers planting up to 15,000 native milkweeds through 2029. Monarchs are already using some of the new plants, transforming overlooked highway land into feeding and breeding habitat.",
+    "angle": "Monarch butterflies have been in serious decline for years, so a feel-good story about turning boring roadside ditches into a rescue mission is exactly the kind of uplifting, low-stakes chat that gives listeners a break from the heavy news cycle.",
+    "bullets": [
+      " Researchers in Florida are planting up to 15,000 native milkweed plants along roadsides",
+      " Milkweed is the *only* plant monarch caterpillars can eat, so no milkweed means no monarchs",
+      " Monarchs are already showing up and using some of the newly planted areas",
+      " Would you ever plant a little butterfly garden in your own yard, or is that a bridge too far into 'crunchy neighbor' territory?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/florida-roadside-milkweeds-monarch-butterflies/37075/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "CLOSER: WHAT THE FRIDAY",
+    "title": "Phillies\u2019 big trade acquisition Luis Arraez injured in bizarre play \u2014 with playoffs still in doubt",
+    "angle": "The Phillies traded for Luis Arraez to be a difference-maker down the stretch, and now he's hurt from something as freaky as dodging a tag \u2014 with a playoff spot still very much up in the air.",
+    "bullets": [
+      " Luis Arraez sprained his left ankle trying to avoid a tag from Brewers first baseman Jake Bauers",
+      " It happened in the sixth inning of a 5-1 home loss to Milwaukee",
+      " Philadelphia's playoff spot is still in doubt \u2014 this injury lands at the worst possible time",
+      " It's not a slide, not a collision \u2014 just an ankle tweak trying to dodge a tag, and suddenly Phillies fans are sweating their playoff hopes."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 73/90 (40 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/25/sports/phillies-big-trade-acquisition-luis-arraez-injured-with-playoff-spot-still-in-jeopardy/",
+    "score": "73/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Climbers are melting Everest\u2019s glacier with their urine, study warns",
+    "angle": "It sounds like a punchline, but it's a real study \u2014 and it taps into the bigger, more relatable mess of Everest's overcrowding problem, which is prime 'you won't believe this' watercooler material.",
+    "bullets": [
+      " A new study points to climbers' urine as a factor in glacial melt on Mount Everest.",
+      " It's tied to the mountain's chronic overcrowding issue \u2014 thousands of climbers pass through peak season every year.",
+      " Human waste management on Everest has been a long-running controversy, from trash pileups to now this.",
+      " Should climbers be forced to pack out their pee like they already do on some other big peaks?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 53/90 (45 fit + 12 source + 21 quality - 25 penalty (used within the last 30 days)) -> STRONG",
+    "url": "https://www.the-independent.com/climate-change/news/mount-everest-glacier-melting-human-urine-b3043991.html",
+    "score": "53/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Zelensky Says He Would Visit Moscow \u2018On a Rocket\u2019",
+    "angle": "Asked if he'd ever set foot in Moscow, Zelensky didn't dodge \u2014 he cracked a line so dark and blunt it's going viral as pure gallows humor from a guy living the war firsthand.",
+    "bullets": [
+      " Zelensky was asked whether he'd ever visit Moscow",
+      " His response: he'd go 'on a rocket'",
+      " That's either the darkest joke of the year or the most honest answer a world leader's given all week \u2014 which one lands with you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.kyivpost.com/post/85331",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Jean Smart Joins The Family Stone Sequel After Historic Fifth Emmy Win for Hacks",
+    "angle": "Jean Smart Joins The Family Stone Sequel After Historic Fifth Emmy Win for Hacks",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/jean-smart-joins-the-family-stone-sequel-cast-after-her-fifth-emmy-win-12137020?utm_campaign=peoplemagazin",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Man shot during Trump assassination attempt in 2024 dead at 76 https://t.co/7Mz4jY6SG4",
+    "angle": "One of the men wounded in the July 2024 assassination attempt on Trump in Butler, PA has passed away \u2014 a stark reminder of how that day's fallout is still unfolding more than a year later, right as Trump remains in the headlines daily.",
+    "bullets": [
+      " He has now died at age 76.",
+      " It's a jarring reminder that the ripple effects of that day in Butler are still playing out. X/Twitter @CTVNews (Tier 1) | Score: 52/90 (45 fit + 12 source + 5 quality - 10 penalty (Depressing/negative tone)) -> STRONG"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/CTVNews/status/2103311111298682996",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-25",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Today Is Dolly Parton Day \u2013 It\u2019s 9/25",
+    "angle": "Dolly Parton is about as close to a universally beloved icon as pop culture has left \u2014 a day named for her is an easy, feel-good excuse to talk favorite songs, favorite Dolly moments, and why nobody has a bad word to say about her.",
+    "bullets": [
+      " What's your go-to Dolly Parton song or moment \u2014 and has she ever let you down? X/Twitter @Billboard (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2103470157096001838",
+    "score": "",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-24",
     "slot": "pm",
     "category": "THE LIST",
