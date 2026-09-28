@@ -1,5 +1,571 @@
 [
   {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "If AI can hack a government, the time to pull the plug is now",
+    "angle": "A headline warning that AI tools are now capable of breaching government systems taps straight into the biggest anxiety around AI right now - that we're moving faster than we can control it, and this time the target isn't a company, it's a country.",
+    "bullets": [
+      " Do we actually pump the brakes on AI development, or is 'pull the plug' just a headline nobody's really prepared to act on?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.independent.co.uk/voices/open-ai-hack-australia-medicare-government-b3055494.html",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Zoe Salda\u00f1a \u2018can\u2019t imagine\u2019 doing another Taylor Sheridan show despite \u2018Lioness\u2019 success",
+    "angle": "A major star throwing shade at Hollywood's hottest showrunner right after a jaw-dropping season finale is exactly the kind of TV gossip that gets people talking - plus it raises the question of whether her hit show even survives.",
+    "bullets": [
+      " Zoe Salda\u00f1a says she \"can't imagine\" doing another Taylor Sheridan show.",
+      " This comes despite \"Lioness\" being a genuine hit for her.",
+      " She dropped a surprising update on the show's future right after a shocking Season 3 finale.",
+      " Is Zoe Salda\u00f1a closing the door on \"Lioness\" for good, or just playing coy after that finale?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/28/entertainment/zoe-saldana-cant-imagine-doing-another-taylor-sheridan-show-after-lioness/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "After 30 years of work, the Yellowstone to Yukon Conservation Initiative has helped protect roughly 25 million hectares and built more than 200 wildlife crossings, cutting wildlife vehicle collisions by 96% on parts of Banff\u2019s Highway 1. It is now an Earthshot Prize finalist.",
+    "angle": "A three-decade conservation project spanning the US and Canada just landed a spot as an Earthshot Prize finalist, and the results are the kind of stat that actually stops people mid-scroll \u2014 a 96% drop in wildlife-vehicle collisions on one Canadian highway.",
+    "bullets": [
+      " It's helped protect roughly 25 million hectares of land",
+      " On parts of Banff's Highway 1, those crossings cut wildlife-vehicle collisions by 96%",
+      " A 96% drop in animal-vs-car collisions from a few overpasses \u2014 should every highway near wilderness be required to build these?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://y2y.net/blog/y2y-2026-earthshot-prize-finalist/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Families demand Mexico reveal full details of military role in disappearance of 43 students",
+    "angle": "One of Mexico's most notorious unsolved cases is back in the headlines as grieving families publicly demand President Sheinbaum release everything the military knows about its role in the 2014 disappearance \u2014 a case that's haunted the country for over a decade.",
+    "bullets": [
+      " Families are now pressuring the Claudia Sheinbaum government to release all records on the military's role in the case.",
+      " It's widely considered one of Mexico's most infamous unsolved atrocities, and the case has never been fully resolved.",
+      " Why does it take over a decade of public pressure to get a government to just tell families the truth?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/mexico-military-ayotzinapa-students-9.7360406?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Fear, sadness, and anger: Why children in N.S. government care frequently go missing",
+    "angle": "A government finally admits it: kids in the child welfare system are going missing at an alarming rate, and officials are calling it a major concern. It's the kind of story that makes people ask how a system meant to protect kids is losing track of them.",
+    "bullets": [
+      " This is the first time Nova Scotia has ever tracked how many youth in government care go missing.",
+      " Many of those cases were flagged as \"imminent risk\" \u2014 the most serious tier.",
+      " How is a system built to protect kids only NOW figuring out how many of them go missing?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/children-in-care-fun-from-group-homes-9.7352022?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Ceremony on Parliament Hill remembers fallen police officers",
+    "angle": "A solemn ceremony on Parliament Hill remembers police officers killed in the line of duty \u2014 the kind of story that grounds a newscast and opens the door to real conversation about the risks first responders take every day.",
+    "bullets": [
+      " Ceremony held on Parliament Hill to honor fallen police officers",
+      " Annual tradition recognizing officers killed in the line of duty",
+      " Details on this year's specific tribute are still developing",
+      " Take a second today to think about the families behind every badge lost in the line of duty. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "d1ByVTNodzNpQU9OeTFpZE51QkxObGNYUVBuU0pxWXZDT3Fj?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTnU2Z1BrbTIxd0pJLVZtWXgyUEdTZ1hRelkwVF80a24yTjdiOGl2QlNVNn",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Check out the 'crazy' lineup of job seekers hoping to get work at Windsor's new Costco",
+    "angle": "A brand-new Costco opening means brand-new jobs, and apparently half of Windsor showed up to fight for them - it's a fun snapshot of just how badly people want steady retail work right now.",
+    "bullets": [
+      " Would you stand in a massive line for a shot at a Costco job, and what does that say about the job market right now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://financialpost.com/business-news/more-than-1000-job-seekers-line-up-for-gig-at-new-windsor-costco/wcm/07cb1e49-3816-482",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Alcohol is Canada\u2019s biggest drug problem. So why aren\u2019t people getting help?",
+    "angle": "We talk about opioids and fentanyl constantly, but research shows booze actually causes more overall harm in Canada than any other drug \u2014 and doctors say the treatment system isn't built to catch people who need it.",
+    "bullets": [
+      " Research shows alcohol causes more harm overall than any other drug in Canada \u2014 more than opioids, more than any illicit substance.",
+      " Doctors and advocates say people struggling with alcohol aren't being offered treatment options backed by science.",
+      " Why do we treat a bottle of wine differently than a street drug when the data says it's doing more damage?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/radio/thecurrent/alcohol-use-disorder-9.7357272?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Can I get AI face? Plastic surgeons say AI-generated inspiration is more than meets the eye",
+    "angle": "People are walking into plastic surgeons' offices with AI-smoothed selfies asking to look exactly like the filtered version - and doctors say some of those results just aren't physically achievable, which is a wild new wrinkle in the whole filters-vs-reality conversation.",
+    "bullets": [
+      " Plastic surgeons in Canada and beyond say more patients are showing up for consultations with AI-modified photos of themselves",
+      " Patients are requesting procedures aimed at matching those AI-generated \"after\" looks",
+      " Surgeons warn some of these AI-perfected results may not be surgically achievable in real life",
+      " Would you show a surgeon an AI-filtered photo of yourself and ask them to \"make it real\"?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/health/ai-face-plastic-surgery-9.7340688?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Lufthansa flight diverted after passenger\u2019s battery catches fire",
+    "angle": "A passenger device catching fire mid-flight is exactly the kind of travel horror story that makes everyone check their carry-on bag - and it taps into growing airline concern over lithium battery fires on planes.",
+    "bullets": [
+      " Lufthansa flight had to divert after a passenger's battery caught fire onboard.",
+      " Lithium-ion battery fires from phones, laptops, and power banks have become one of airlines' top in-flight safety concerns.",
+      " Be honest - do you actually follow the rules about keeping power banks out of your checked bag, or are you gambling? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "81UDZFRThHU2ZkM0pHRGVkZmJOYmV1QS1SMk9RMkF0YTViMmRn?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeUNTNkZPc3ZNb1R3VTlPcXNXR2pLY3VwVUZpS25HSlBObFVIRVo0U",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "B.C. Conservative leader pledges not to raise or introduce new taxes if elected",
+    "angle": "A provincial leader making a flat no-new-taxes pledge is a classic election-season flashpoint - it's an easy line to sell voters but an easy target for critics asking \"how do you pay for anything?\"",
+    "bullets": [
+      " Would you actually trust a politician who promises \"no new taxes, ever\" - or does that always come with a catch? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "aERlTXIxdFBySWcza2dSTlZSZDB2WEZxX2RBSGszN0xBTnk4ckJoVmpxR1phNWl2Wkt2Vl9uSlphbVZ6d0V3?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU1dOZjgtdGdKWEsza3JZRHVncjVDQ1FzcEtTNkRnVVlsemtfNHg5eVRJ",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Liar, Liar\u2019 child star Justin Cooper recalls disturbing fan mail from prisoners at age 8 - Page Six",
+    "angle": "Justin Cooper played Jim Carrey's son in 'Liar, Liar' as a little kid, and now at 37 he's dishing out the weird side of child stardom - the kind of behind-the-scenes nostalgia bomb that always gets a studio talking.",
+    "bullets": [
+      " Justin Cooper played Jim Carrey's son Max in the 1997 hit comedy 'Liar, Liar' when he was just 8 years old",
+      " Cooper, now 37, opened up on the 'Not So Little' podcast about fan mail he received as a kid",
+      " He says some of the letters disturbingly came from prisoners",
+      " Ask listeners: what's the weirdest thing that happened to YOU as a kid because of something totally out of your control? Page Six (via NewsAPI) (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/26/celebrity-news/liar-liar-star-justin-cooper-reveals-disturbing-fan-mail-from-prisoners-as-a-child/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Robert Pattinson Says It Would Be \u2018Tough\u2019 for His Batman to Exist Within James Gunn\u2019s DCU",
+    "angle": "DC fans have been wondering how 'The Batman' fits with James Gunn's new connected universe, and now Robert Pattinson himself is admitting it might just... not - that's a juicy continuity debate for anyone who's into superhero movies.",
+    "bullets": [
+      " Robert Pattinson says it would be \"tough\" for his version of Batman to exist inside James Gunn's new DCU.",
+      " Should Pattinson's Batman stay in his own lane forever, or does every version eventually need to meet the bigger universe?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/robert-pattinson-batman-superman-james-gunn-1236876674/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Madonna Says Sabrina Carpenter\u2019s Team Ghosted Her for \u20185 Days\u2019 in \u2018Awkward\u2019 VMAs Speech",
+    "angle": "Pop royalty calling out the new It Girl's team is instant celebrity drama - it taps into that 'is the old guard being disrespected by the new generation' storyline that always gets people picking sides.",
+    "bullets": [
+      " Madonna claims Sabrina Carpenter's team went silent on her for '5 days'",
+      " She's calling the resulting moment - an 'awkward' VMAs speech - the fallout from that silence",
+      " Diva move or legit snub - who's actually in the wrong here, Madonna or Sabrina's team?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://parade.com/entertainment/madonna-sabrina-carpenter-ghosted-her-vmas-speech",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "How Taylor Swift honored \u2018ultimate showgirl\u2019 Dolly Parton at MTV VMAs 2026",
+    "angle": "Taylor Swift used the night's biggest award to pay tribute to Dolly Parton, and any Swift-Dolly crossover moment is instant watercooler talk for both fanbases.",
+    "bullets": [
+      " Taylor Swift honored Dolly Parton while accepting Video of the Year at the 2026 MTV VMAs",
+      " Swift called Parton the \"ultimate showgirl\" during her acceptance speech",
+      " What's the Dolly Parton moment or song that hits you hardest right now?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/28/entertainment/how-taylor-swift-honored-ultimate-showgirl-dolly-parton-at-mtv-vmas-2026/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018RHUGT\u2019 recap: Luann calls out Porsha for being 2 hours late, the cast confronts the Countess",
+    "angle": "It's 'Ultimate Girls Trip' drama at its messiest \u2014 a tardiness callout turns into the whole cast turning on the Countess, which is exactly the kind of pot-stirring chaos Bravo fans live for.",
+    "bullets": [
+      " Luann de Lesseps called out Porsha Williams for rolling in two hours late",
+      " Dorinda Medley and Jessel Taank had their own blowup to hash out",
+      " Podcast hosts Danny Murphy and Evan Real break down the episode \u2014 plus an 'iconic' surprise cameo \u2014 on 'Virtual Reali-Tea'",
+      " Which is worse on a girls trip: showing up two hours late, or being too self-absorbed to notice you're the problem?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/video/rhugt-recap-luann-calls-out-porsha-for-being-2-hours-late-the-cast-confronts-the-countess/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Casey Affleck Recalls \u2018Traumatic\u2019 Oscars Night, Praises Christopher Nolan, and Says \u2018Company\u2019 Isn\u2019t Finished Yet: \u2018There Are Things I Want to Change\u2019",
+    "angle": "Casey Affleck's Zurich Film Festival sit-down is loaded with quotable moments - a random phone call to Christopher Nolan to fight about 'Tenet,' a confession that an Oscars night was 'traumatic,' and word that his directing project 'Company' is still getting reworked. Perfect grab-bag for a quick Hollywood-gossip segment.",
+    "bullets": [
+      " Casey Affleck says he actually called Christopher Nolan to argue about 'Tenet' - and admits 'it was probably a mistake.'",
+      " Affleck called one of his own Oscars nights 'traumatic' during the same onstage interview.",
+      " He says his project 'Company' isn't finished yet: 'There are things I want to change.'",
+      " Would you ever cold-call a director to argue about their own movie - and how would you feel if a random guy did that to you? variety.com (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/global/casey-affleck-oscars-christopher-nolan-company-1236877263/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Jalen Brunson Brings the New York Knicks to the \u2018Saturday Night Live\u2019 Season 52 Premiere - The Hollywood Reporter",
+    "angle": "The reigning NBA Finals MVP hosted Saturday Night Live's season premiere, and instead of showing up alone, he packed the front row with his own teammates \u2014 a total crossover moment for basketball and comedy fans that's pure watercooler material.",
+    "bullets": [
+      " Jalen Brunson hosted the season 52 premiere of Saturday Night Live",
+      " He brought his 'starting lineup' to support him: Karl-Anthony Towns, Josh Hart, OG Anunoby, and Mikal Bridges",
+      " Brunson opened his monologue joking about the moment",
+      " This marks Brunson's first-ever hosting stint on the show, fresh off being named NBA Finals MVP",
+      " Which athlete would actually be funny enough to host SNL \u2014 and which one should never be allowed near a live mic? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/tv/tv-news/jalen-brunson-snl-season-52-premiere-knicks-players-1236712688/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Taylor Swift sets new record at MTV VMAs",
+    "angle": "Swift and Beyonc\u00e9 were locked in a moonman tie for years, and Swift just broke it with a brand-new award category built for her - instant pop culture bragging rights and a fun 'who's really the GOAT' debate for the hosts.",
+    "bullets": [
+      " Taylor Swift, 36, was tied with Beyonc\u00e9 for the most VMA Moonman statuettes ever, at 30 apiece.",
+      " Swift broke the tie by winning the brand-new, inaugural Artist Director Honours award.",
+      " That makes her the outright record holder for VMA wins, no more tie at the top.",
+      " Does a brand-new award created seemingly for her count as 'breaking the record,' or is that a bit of a gimme? torontosun.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://torontosun.com/entertainment/music/taylor-swift-sets-new-record-at-mtv-vmas",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Madonna\u2019s chaotic onstage antics at MTV VMAs 2026 go viral as she gets confused about category, calls out A-lister and more",
+    "angle": "The Queen of Pop hadn't touched a VMAs stage in over 20 years, and her comeback moment instantly turned into the most-clipped chaos of the night \u2014 mixed-up categories, a surprise callout, the whole mess. This is pure next-day watercooler material.",
+    "bullets": [
+      " Madonna made her first VMAs performance in more than two decades",
+      " She shared the stage with Sabrina Carpenter and Charli XCX to kick off the show",
+      " She appeared to get confused about the award category live on air",
+      " She called out an A-list star mid-broadcast, sending social media into a frenzy",
+      " Iconic legend having fun, or is it time to admit the Madonna live-TV magic is gone?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/28/entertainment/madonnas-onstage-antics-at-mtv-vmas-2026-go-viral-as-she-gets-confused-calls-out-",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "How much should you actually tip on a 'free' walking tour? - BBC",
+    "angle": "Everyone's done a 'free' walking tour on vacation, but most travelers have no idea guides often pay the company a fee per guest \u2014 meaning your tip isn't a bonus, it's literally the guide's paycheck. It's a universal travel-money awkward moment ripe for hosts to compare notes on.",
+    "bullets": [
+      " Because guides can be paying out of pocket per head, a stingy tip doesn't just shortchange them \u2014 it can mean they lose money on you.",
+      " Be honest: when you take a 'free' tour, are you tipping like it's a real job or tipping like it's a suggestion? BBC News (via NewsAPI) (Tier 1) | Score: 77/90 (45 fit + 12 source + 20 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.bbc.com/travel/article/20260924-how-much-should-you-actually-pay-on-a-free-walking-tour",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "College football week 4 contenders, pretenders: Texas survives, Michigan's karma and coaches are sweating - Fox News",
+    "angle": "College football's playoff picture just got blown up in one Saturday \u2014 a last-second upset and a coach's brutal comments have fans of multiple big-name programs losing their minds, which makes this easy, high-energy sports banter for any audience.",
+    "bullets": [
+      " Iowa knocked off Michigan on a last-second touchdown",
+      " LSU's Lane Kiffin sent Texas A&M fans into panic mode with his comments",
+      " Texas survived a close call to stay in the hunt",
+      " Only four weeks into the season and several top teams are already \"up against the ropes\" heading into October",
+      " Which fanbase panicked harder this weekend \u2014 Michigan or Texas A&M? Fox News (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.foxnews.com/outkick-sports/college-football-week-4-contenders-pretenders-texas-survives-michigans-karma-coaches-s",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "1 in 3 Americans with health insurance have medical debt, survey finds",
+    "angle": "You'd think having insurance means you're covered - a new survey says 1 in 3 insured Americans are carrying medical debt anyway, and that's a gut-check stat for basically anyone listening with a health plan.",
+    "bullets": [
+      " 1 in 3 Americans who currently have health insurance say they're carrying medical debt, per the survey",
+      " Raise your hand if you've got insurance AND a medical bill you're still paying off - because apparently a third of us do."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbsnews.com/news/1-in-3-insured-americans-medical-debt/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Dogs can detect word patterns in human speech, new research finds, demonstrating a language-processing ability once thought to be uniquely human.",
+    "angle": "New research says dogs can pick up on word patterns in human speech \u2014 a skill scientists thought was uniquely human. Every pet owner has wondered how much their dog really understands, so this one's an easy, relatable hook.",
+    "bullets": [
+      " New research finds dogs can detect word patterns in human speech.",
+      " It's a language-processing ability once thought to be uniquely human.",
+      " Does your dog know when you're talking about them? Call in and prove it."
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/dogs-can-pick-out-word-patterns-in-speech-a-trick-once-thought-uniquely-human",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Consuming caffeine before exercise enhances repeated sprint performance, and these benefits persist for at least 3.5 hours thereafter",
+    "angle": "New research on r/science says caffeine before a workout doesn't just wake you up - it actually boosts repeated sprint performance, and the effect sticks around for hours. Easy hook for anyone who gyms, runs, or plays rec sports.",
+    "bullets": [
+      " Study finds caffeine consumed before exercise improves performance on repeated sprints",
+      " Adds to the ongoing 'coffee before the gym' debate - timing your caffeine may matter more than people realize",
+      " Coffee before your workout or after - callers, what's your pre-gym ritual and does it actually work?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tsukuba.ac.jp/en/research-news/20260914140000.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "The black robin, once down to just a single breeding pair, wins NZ bird of the year | New Zealand",
+    "angle": "This is the ultimate comeback story \u2014 a species that once had exactly ONE breeding pair left on Earth just got crowned New Zealand's Bird of the Year, and it's a great excuse to talk conservation wins for once instead of doom and gloom.",
+    "bullets": [
+      " At its lowest point, the species was down to just a single breeding pair",
+      " What's the most jaw-dropping comeback-from-near-extinction story you've ever heard?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/world/2026/sep/21/nz-bird-of-the-year-2026-black-robin-wins-new-zealand",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Man demolishes house with tractor after rival 'urinated on his dad and brother's graves'",
+    "angle": "This is peak 'nottheonion' material \u2014 a guy allegedly disrespected someone's dead father and brother, and the response was to bulldoze his entire house. It's the kind of wildly disproportionate revenge story that writes its own debate.",
+    "bullets": [
+      " A man reportedly drove a tractor straight through a rival's house, demolishing it",
+      " Story surfaced via Reddit's r/nottheonion, so real-world details (location, names, charges) are still thin",
+      " Where's the line between 'he had it coming' and 'that's still a felony' when someone disrespects your family's grave?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.themirror.com/news/us-news/man-demolishes-house-tractor-after-2040163",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Amazon is expanding Prime refunds, with eligible customers able to receive up to $200 automatically.",
+    "angle": "Amazon just widened its FTC settlement payouts over sneaky Prime sign-ups and hard-to-quit cancellations, so way more people now qualify for a check \u2014 and almost everyone half-listening has an Amazon account.",
+    "bullets": [
+      " Anyone who used between 11 and 20 Prime benefits in a one-year span is now eligible for an automatic refund \u2014 no claim form needed.",
+      " Amazon has already paid out $845.2 million in refunds as of September 9, 2026, with more checks going out now.",
+      " Anyone in the studio actually gotten one of these surprise Amazon refund emails yet?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-announces-additional-payments-consumers-stemming-ftcs-amazo",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Proposed Pennsylvania law targets publishers that kill digital games \u2014 publishers must provide offline mode, an independent server patch, or a 25% minimum refund",
+    "angle": "Ever bought a game only to have the servers get shut off and the whole thing just... die? Pennsylvania's trying to make that illegal, and it's the kind of consumer-win story that gets gamers and non-gamers alike fired up.",
+    "bullets": [
+      " Under the proposal, publishers would have to offer at least one of three options: an offline mode, an independent server patch, or a 25% minimum refund.",
+      " It's a Pennsylvania state law proposal, so it wouldn't apply nationwide - but big legislative moves like this tend to pressure publishers everywhere.",
+      " Have you ever paid full price for a game that just... stopped working when the company pulled the plug?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.tomshardware.com/video-games/proposed-pennsylvania-law-targets-publishers-that-kill-digital-games-publishers-must-p",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Tinder Swindler Claims His Scamming Past Makes Him the Perfect Person To Build a 'Safe' Dating App",
+    "angle": "The guy who scammed women out of millions by posing as a jet-setting diamond heir is now pitching himself as a dating-safety expert - the irony alone is a built-in debate for the show.",
+    "bullets": [
+      " His pitch: his history of scamming women out of millions makes him uniquely qualified to make online dating 'safe.'",
+      " Story is making the rounds on r/nottheonion, filed under 'you can't make this up.'",
+      " Would you ever trust a safety feature built by the con man it's supposed to protect you from?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/tinder-swindler-simon-leviev-safe-love-app-blocked-1764581",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "US jury says Apple owes record $5.7 billion in iPhone, Apple Watch haptic technology patent case",
+    "angle": "A US jury says Apple owes a record-setting $5.7 billion over the haptic tech that makes your iPhone and Apple Watch buzz - a number big enough to make even Apple wince, and a great excuse to talk about what patent trolls vs. real inventors even means.",
+    "bullets": [
+      " A US jury ruled Apple owes $5.7 billion in damages",
+      " It's being called a record verdict in this kind of patent dispute",
+      " Does a number like $5.7 billion actually mean anything to a company as loaded as Apple, or is this just a rounding error with good PR optics?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.moneycontrol.com/news/business/us-jury-says-apple-owes-record-5-7-billion-in-iphone-apple-watch-haptic-technology-p",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Fedorov Wants A Humanoid Robot Killing Russians Within Six Months",
+    "angle": "Ukraine's digital minister is pushing to get an autonomous, weaponized humanoid robot into combat against Russian forces within six months \u2014 a real-world sci-fi headline that puts the AI-warfare debate front and center.",
+    "bullets": [
+      " Mykhailo Fedorov, Ukraine's digital transformation minister, is the one pushing the timeline.",
+      " Target window being floated is just six months.",
+      " Ukraine has already leaned hard on drones and tech in this war, so this fits a broader pattern of rapid battlefield innovation.",
+      " Are we comfortable with robots making kill decisions on a battlefield, or does this cross a line even in wartime?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://dronexl.co/2026/09/26/fedorov-army-of-robots-humanoid-ukraine/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Corrections Canada to distribute items for 'safe snorting' in federal prisons",
+    "angle": "Corrections Canada reportedly plans to distribute 'safe snorting' supplies to federal inmates as part of harm-reduction policy - a guaranteed hot-button topic pitting inmate health programs against taxpayer-funded drug use.",
+    "bullets": [
+      " Correctional Service Canada reportedly moving to distribute 'safe snorting' equipment inside federal prisons",
+      " Framed as a harm-reduction measure for inmates who use drugs behind bars",
+      " Sure to reignite the debate over taxpayer dollars funding drug-use supplies vs. inmate health and safety",
+      " Harm reduction or enabling? Should prisons be handing out drug-use supplies on the taxpayer's dime?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nationalpost.com/news/canada/corrections-canada-to-distribute-items-for-safe-snorting-in-federal-prisons",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-27",
     "slot": "pm",
     "category": "THE LIST",
