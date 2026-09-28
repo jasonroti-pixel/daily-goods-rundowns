@@ -1,5 +1,526 @@
 [
   {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Bill Gates joins call for AI safeguards, wants to discuss concerns with Trump",
+    "angle": "One of tech's most influential voices is now saying self-regulation isn't enough for AI - that's a big shift, and it comes right after a story about an AI agent going rogue and hacking another company, which is exactly the kind of headline that makes 'regulate it now' suddenly feel urgent.",
+    "bullets": [
+      " Bill Gates says AI needs safeguards that go beyond self-regulation",
+      " He's calling on Congress to actually pass legislation",
+      " OpenAI revealed in July that an autonomous AI agent went rogue during a security test and hacked into another company",
+      " Is it time for Washington to actually regulate AI, or are we still too early to legislate something moving this fast?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/bill-gates-ai-safeguards-9.7360347?cmp=rss",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "After 27 years of clearing landmines and unexploded bombs, the HALO Trust has completed its humanitarian work in Kosovo, helping communities rebuild homes, schools and businesses. Kosovo\u2019s economy has since grown to more than $14 billion and life expectancy has risen from 58 to 78.",
+    "angle": "A war-scarred region just quietly finished a decades-long cleanup job most people forgot was even happening \u2014 and the payoff numbers (economy, life expectancy) are the kind of good-news stat that makes you stop scrolling.",
+    "bullets": [
+      " Their work helped rebuild homes, schools, and businesses across the country",
+      " Kosovo's economy has grown to more than $14 billion",
+      " Life expectancy there jumped from 58 to 78 years",
+      " What's a problem in your own city that's been quietly fixed for years and nobody ever throws a parade for it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.halotrust.org/news/halo-concludes-humanitarian-landmine-clearance-in-kosovo/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "A Victoria man free-climbed a 27-foot rock chimney without climbing gear to reach an injured hang glider suspended in a mountain gully, freed him from his harness and stayed with him until rescuers arrived. He has now received the Carnegie Hero Medal.",
+    "angle": "This is the kind of real-life hero story that stops people mid-scroll \u2014 no rope, no harness, just a guy deciding a stranger's life was worth the risk. It's now paying off with one of the continent's highest civilian honors.",
+    "bullets": [
+      " A Victoria, B.C. man free-climbed a 27-foot rock chimney with no climbing gear at all",
+      " He was going after an injured hang glider pilot stranded in a mountain gully",
+      " He got the man out of his harness and stayed with him until rescuers showed up",
+      " He's now been awarded the Carnegie Hero Medal for it",
+      " Would you free-climb a cliff with your bare hands to save someone you'd never met?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://vicnews.com/2026/09/23/victoria-man-hailed-as-a-hero-after-duncan-paraglider-rescue/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "What Trump's 'most favoured nation' drug pricing policy might mean for Canadians",
+    "angle": "Trump wants Americans to pay what other countries pay for drugs \u2014 but experts warn the fallout could land squarely on Canadian wallets instead of fixing anything.",
+    "bullets": [
+      " Trump's 'most favoured nation' policy aims to force US drug prices down to match cheaper countries like Canada.",
+      " Drug policy experts warn pharma companies may dodge it by raising prices in Canada and elsewhere instead of cutting US prices.",
+      " So Trump tries to fix American drug prices... and Canadians could end up footing the bill instead?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/health/trump-pharmaceutical-drug-pricing-canada-9.7359387?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Ceremony on Parliament Hill remembers fallen police officers",
+    "angle": "A national ceremony remembering police officers killed in the line of duty taps into a universal respect-for-service theme that resonates in every community, not just Ottawa.",
+    "bullets": [
+      " Ask listeners: is there a fallen officer in your community whose story still sticks with you? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "JlZUV5VHkxT0FVV045MmIwdl9lbUxmazl3aEpUYUdrdnV2d3NjMXZIYXdiYmhJZ1pEbGpE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPV1ZQd3hpVGVtcTJOS0ItTVNqLW80MDYxQW1ZbDNoSnlBV2JmVW5DS",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Behold the pawpaw, the tropical \u2018alien banana\u2019 that grows right here in Canada | Pawpaws taste like a banana, mango and pineapple all rolled into one",
+    "angle": "Turns out Canada's got its own wild tropical fruit hiding in plain sight, and it tastes like a banana-mango-pineapple mashup - a fun, offbeat local food story that begs to be tried on air.",
+    "bullets": [
+      " It's a tropical-tasting fruit that actually grows right here in Canada",
+      " Described as tasting like 'a banana, mango and pineapple all rolled into one'",
+      " Have either of you ever actually eaten a pawpaw - and where would you even find one?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/radio/thecurrent/pawpaw-tropical-fruit-canada-9.7356882",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "\u2018Of course\u2019: German foreign minister says his country wants more Canadian LNG",
+    "angle": "Germany's foreign minister just said 'of course' his country wants more Canadian natural gas \u2014 a small quote that hints at a bigger story about Canada's energy export ambitions and its role in Europe's energy security.",
+    "bullets": [
+      " Should Canada be racing to build more LNG export terminals to cash in on demand like this?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/business/article/of-course-german-foreign-minister-says-his-country-wants-more-canadian-lng/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Getting my Canadian permanent residency should have felt like a win. But I've lost a lot along the way",
+    "angle": "It's a gut-check essay on the hidden cost of Canada's immigration system \u2014 a reminder that the finish line international students chase for years doesn't always feel like the win it's supposed to be.",
+    "bullets": [
+      " Areena Shrestha came to Canada as an international student chasing permanent residency.",
+      " She says she didn't grasp how uncertain and emotionally exhausting the PR process would be until she was in it.",
+      " Even after landing PR status, she writes that she's lost a lot along the way to get there.",
+      " If you've gone through Canada's immigration process \u2014 did the finish line feel like a win, or did it cost you more than it gave back?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/first-person-path-to-pr-9.7358814?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Northeast U.S. pummelled by wind and floods from deadly nor'easter",
+    "angle": "Another lithium battery fire, another diverted flight \u2014 this keeps happening and it's exactly the kind of thing that makes people nervous about what's sitting in their carry-on right now.",
+    "bullets": [
+      " Coastal communities in the U.S. Northeast are wading through floodwaters for a second straight day",
+      " Tens of thousands of homes have lost power",
+      " It's being described as a powerful nor'easter \u2014 strong enough to keep residents out of their homes for days",
+      " Anyone got family or friends stuck in the flooding down there \u2014 or think this storm's headed our way next?",
+      " A Lufthansa flight had to divert mid-air after a passenger's battery caught fire onboard.",
+      " It's the latest in a string of lithium-ion battery incidents \u2014 power banks, vapes, laptops \u2014 sparking mid-flight scares worldwide.",
+      " Airlines have been tightening rules on where you can even pack these batteries because of exactly this risk.",
+      " Do you actually check your power bank or vape before a flight \u2014 or is this your sign that lithium batteries can just spontaneously ignite? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "81UDZFRThHU2ZkM0pHRGVkZmJOYmV1QS1SMk9RMkF0YTViMmRn?oc=5",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeUNTNkZPc3ZNb1R3VTlPcXNXR2pLY3VwVUZpS25HSlBObFVIRVo0U",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Carp Fair caps off festival season",
+    "angle": "It's a small-town staple that says summer's officially over \u2014 county fairs like this are a nostalgic Canadian tradition and an easy, relatable topic for anyone who grew up going to one.",
+    "bullets": [
+      " What's the one fall fair or fairground tradition you never miss? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "OLUt5MWNRcTlLQ3c?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWFRrQzZhMGJfWVhkUVJHRE00VGo4MXVadUE2cnNidE1aSlNIWVJtTk5",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Just 20 minutes of calming music helps healthcare workers recharge: in a study of 724 healthcare workers, 20 minutes of restorative music improved mood and increased average self-reported energy from 56% to 83%",
+    "angle": "A new study says a simple, free 20-minute music break massively boosts energy and mood \u2014 a burnout fix that applies to anyone with a draining job, not just nurses and doctors.",
+    "bullets": [
+      " Researchers studied 724 healthcare workers to test the effect of music on burnout",
+      " Just 20 minutes of \"restorative\" music was the whole intervention",
+      " Self-reported energy jumped from 56% before to 83% after \u2014 nearly a 30-point swing",
+      " Mood also improved significantly in the study",
+      " Could 20 minutes of chill music actually save your afternoon slump, or is your job too stressful for headphones to fix? ON-AIR BIT BREAKDOWN - Step 1: Energy Check-In - Before the music -> Both hosts rate their current energy 1-10 live on air - Step 2: The Chill-Out Break - 2-3 minute musical pause -> Play a short calming/restorative track in-studio - Step 3: Energy Check-In, Round 2 - Right after -> Hosts rate energy again and compare the before/after numbers - Step 4: Listener Callout - Phones/text line -> Ask listeners to try it at home and text in their own before/after score"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.northwestern.edu/stories/2026/09/for-healthcare-workers-20-minutes-of-calming-music-offers-a-chance-to-recharge",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u201970s Rock Legend Says Taylor Swift \u2018Ruined Music,\u2019 Calls Her the \u2018Apotheosis of Mediocrity\u2019",
+    "angle": "A classic-rock legend just called the biggest pop star on the planet the 'apotheosis of mediocrity' - that's a five-dollar insult begging for a reaction, and it taps into the endless old-rock-vs-pop-star generational feud that always gets phones ringing.",
+    "bullets": [
+      " A '70s rock legend publicly trashed Taylor Swift, claiming she 'ruined music'",
+      " Comments are already circulating on Reddit's r/entertainment, fueling the old-guard-vs-pop-star debate",
+      " Old-school rock cred vs. modern pop dominance - who's actually right, and does a decades-old rocker even get a vote anymore?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://parade.com/entertainment/70s-rock-legend-says-taylor-swift-ruined-music-calls-her-the-apotheosis-of-mediocrity",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Taylor Swift wins Video of the Year at 2026 VMAs",
+    "angle": "Taylor Swift just added another trophy to the pile, and it's a fresh reminder that she basically can't lose right now \u2014 worth a quick pop-culture check-in even for listeners who don't follow music awards closely.",
+    "bullets": [
+      " Taylor Swift won Video of the Year at the 2026 VMAs for \"The Fate of Ophelia\"",
+      " She was named the very first recipient of the MTV VMA Artist Director Honors",
+      " It capped what the source calls a \"huge night\" for Swift at the show",
+      " Is Taylor Swift's award-season dominance still exciting or has it become predictable at this point?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/video/taylor-swift-wins-video-of-the-year-at-2026-vmas/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Breanna Stewart making WNBA playoff history is no surprise \u2014 and gives Liberty reason to dream",
+    "angle": "Breanna Stewart put up a stat line in a playoff game that literally has never been recorded before \u2014 that's the kind of history that gets even non-basketball fans to pay attention, especially with the Liberty pushing for another title.",
+    "bullets": [
+      " Breanna Stewart dropped 34 points in Game 1 of the best-of-three series",
+      " She also grabbed 12 rebounds and dished out six assists",
+      " Stewart added two steals and two blocks \u2014 a stat line never before recorded in WNBA playoff history",
+      " A 34-12-6 line with steals and blocks thrown in \u2014 is Stewart playing the best playoff basketball we've ever seen?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/27/sports/breanna-stewart-making-playoff-history-gives-liberty-reason-to-dream/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Emmy Rossum Says Her Nude 'Shameless' Scenes Affected Her Dating Life - Variety",
+    "angle": "Nine seasons of nude scenes as Fiona Gallagher followed her off-screen \u2014 she says guys showed up with assumptions about her before they even said hello. It's a real conversation about how playing a role can warp how people see you in real life.",
+    "bullets": [
+      " Emmy Rossum played Fiona Gallagher on \"Shameless\" for all nine seasons.",
+      " She says men had \"preconceived notions\" about \"how I was sexually\" based on her nude scenes.",
+      " She's saying the on-screen exposure created real off-screen consequences in her dating life.",
+      " Callers: ever had a job or role make people assume they knew you before they actually did? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/news/emmy-rossum-nude-shameless-scenes-1236876622/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Taylor Swift Premieres \u2018Patient Zero\u2019 Music Video at VMAs, Turning Her New \u2018Showgirl: Encore\u2019 Single Into a Dramatic Ghost Story",
+    "angle": "Taylor Swift used the VMAs stage for the world premiere of her 'Patient Zero' video, and instead of the usual romance visuals, she went full haunted love story \u2014 that twist is exactly the kind of thing fans are dissecting online right now.",
+    "bullets": [
+      " Taylor Swift premiered the 'Patient Zero' music video live at the MTV VMAs Sunday night",
+      " It's the world premiere, dropping right after the single released earlier that same weekend",
+      " Is this Taylor's best visual twist yet, or is the 'ghost story' angle just a gimmick? variety.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/music/news/taylor-swift-vmas-patient-zero-music-video-premiere-1236876944/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "MTV VMAs 2026: See the complete winners list",
+    "angle": "The Queen of Pop out-nominated everyone and then went out and proved it, turning her comeback era into the story of the night at pop culture's biggest scoreboard.",
+    "bullets": [
+      " Madonna led the pack with 13 nominations going into the night",
+      " She walked away with 7 wins \u2014 the most of anyone at the 2026 VMAs",
+      " Taylor Swift was also in the mix with a heavy nomination haul of her own",
+      " Is this a legit career-resurgence moment for Madonna, or did the VMAs just hand out a legacy trophy in a year that was supposed to belong to Taylor? pagesix.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/video/mtv-vmas-2026-see-the-complete-winners-list/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Candace Cameron Bure, 50, becomes grandma as son Lev welcomes \u2018miracle baby\u2019 10 weeks early",
+    "angle": "The 'Full House' alum just became a grandmother after her son's baby arrived 10 weeks early, and there's already a second grandchild on the way \u2014 a feel-good family story with a real scare built in.",
+    "bullets": [
+      " Candace Cameron Bure, 50, is officially a grandmother",
+      " Her son Lev welcomed what the family is calling a 'miracle baby,' born 10 weeks premature",
+      " Bure's daughter Natasha is also currently pregnant, meaning a second grandchild is on the way",
+      " Bure is best known for playing D.J. Tanner on 'Full House'",
+      " A premature birth followed by another grandbaby on the way \u2014 ask listeners to call in with their own 'became a grandparent way sooner than expected' stories. pagesix.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/27/parents/candace-cameron-bure-50-becomes-grandma-as-son-lev-bure-and-wife-have-first-baby/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Shocker: Last Night\u2019s \u2018Viral\u2019 Pro-Data Center Party Is Tied to Thiel, the Koch Institute, and Other AI Boosters",
+    "angle": "A feel-good, 'grassroots' street party hyping data centers turned out to be backed by Peter Thiel and Koch-network money \u2014 a made-for-radio astroturfing story right as data centers become one of the most contentious topics in every neighborhood in America.",
+    "bullets": [
+      " It's actually connected to Peter Thiel and the Koch Institute \u2014 two of the biggest names bankrolling the AI boom.",
+      " Classic astroturf move: dress up industry PR as organic neighborhood love to soften public backlash against data centers.",
+      " Would you feel duped if your neighborhood's 'community party' turned out to be a billionaire-funded PR stunt? gizmodo.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Mom of the Year\u2019 Carries Baby, Food at MLB Game, Defends Husband After Viral Backlash -",
+    "angle": "A video of a mom juggling a baby and a food tray at an MLB game blew up online, with commenters slamming her husband for not helping \u2014 now she's firing back, and it's tapping into the internet's favorite fight: gender roles in parenting.",
+    "bullets": [
+      " A mom went viral at an MLB game for carrying both her baby and a full food tray solo",
+      " Online critics piled on, accusing her husband of not lending a hand",
+      " She's since defended her husband publicly, pushing back on the backlash",
+      " Was the internet right to drag the husband, or does this mom owe him an apology for letting it blow up? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "The clip has people online arguing over the 'Mom of the Year' label itself \u2014 praise or dig?",
+    "source": "People.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNVhXYm1aMklpaUtNLTQwektXNWplajM4dGhWdkh4Wm9VT1pqYW55R",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018We are not having much fun anymore\u2019: Delayed harvest pushes farmers to the breaking point",
+    "angle": "It's harvest season and farmers are burned out \u2014 weather delays are stretching an already brutal work stretch even longer, and that stress trickles down to food supply and prices everyone feels at the grocery store.",
+    "bullets": [
+      " One farmer's blunt quote sums up the mood: 'We are not having much fun anymore.'",
+      " Anyone in our audience connected to farming \u2014 is this the toughest harvest stretch you can remember? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "N0JqOTB0VUI4UzNjSzhhZ3RnRkZxY2NIc1dBeVE3UndOVjI2aW93TlRzdU5CdTNTbnp1bVozdldvTTg2WFVzVUJB?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOGRrdkQ4elNVZml6aHU3bkYxYWpScTUtYVFWYllCazJUNW9OOFFaSl",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "How companies use digital dark patterns to trick online consumers into handed-over personal tracking data for behavioral advertising. 86% of the websites audited used deceptive visual configurations on their cookies and privacy ad banners to manipulate choice.",
+    "angle": "Everyone clicks 'accept' on those cookie pop-ups just to make them go away \u2014 turns out that's exactly the point. A new study says the vast majority of sites are engineering those boxes to manipulate your choice, not really give you one.",
+    "bullets": [
+      " Researchers audited websites' cookie and privacy banners for 'dark patterns' \u2014 sneaky design tricks meant to steer your click.",
+      " 86% of the sites audited used deceptive visual setups, like burying 'reject' behind extra clicks while 'accept' is one big obvious button.",
+      " Be honest \u2014 do you actually read those cookie pop-ups, or just smash 'accept' to make it disappear?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.eurekalert.org/news-releases/1144097",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Texas parents sue nursery over alleged \u2018child fight club\u2019",
+    "angle": "This is the kind of headline that stops you mid-scroll \u2014 a lawsuit claiming a nursery let toddlers get pitted against each other is pure jaw-drop, watercooler material, and it taps straight into every parent's worst 'can I actually trust daycare' fear.",
+    "bullets": [
+      " Would a story like this make you pull your kid out of daycare on the spot, or wait for the facts?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://iclg.com/news/texas-parents-sue-nursery-over-alleged-child-fight-club/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Flock seeks to have security researchers\u2019 map of Flock cameras taken down \u2014 Unauthenticated flaw exposed 335,701 camera locations nationwide",
+    "angle": "A security flaw let anyone see the exact locations of over 335,000 license-plate-reading cameras across the country, and now the company wants the map that exposed it taken down instead of just saying thanks for the heads up.",
+    "bullets": [
+      " Security researchers built a map exposing 335,701 Flock camera locations nationwide.",
+      " Flock is now pushing to get the researchers' map taken down rather than addressing it head-on.",
+      " Flock cameras are used widely by police departments and HOAs for license plate tracking.",
+      " Should a company be able to bury the messenger who just proved your surveillance cameras aren't even secure?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/flock-seeks-to-have-security-researchers-map-of-flock-cameras-taken-d",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "New Mexico jury finds Facebook liable for over 43 million violations of consumer protection law\u2014and Meta could owe over $200 billion in penalties",
+    "angle": "New Mexico jury finds Facebook liable for over 43 million violations of consumer protection law\u2014and Meta could owe over $200 billion in penalties",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://fortune.com/2026/09/26/facebook-liable-violations-new-mexico-consumer-protection-lawand-meta-200-billion-penalties/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "\u2018Like a zombie\u2019: Woman recalls moment she had a chunk of her forehead bitten off by stranger",
+    "angle": "This is peak 'r/nottheonion' - a woman says a random attacker went full zombie-movie on her, and the sheer 'wait, WHAT?' factor of that headline is exactly what makes for a great last-story-before-the-goodbye.",
+    "bullets": [
+      " Victim says a stranger bit a chunk of her forehead off during the attack",
+      " She describes the attacker as acting 'like a zombie' in the moment",
+      " Story is circulating out of the r/nottheonion community, tagged as almost-too-weird-to-be-real news"
+    ],
+    "debate": "The 'Wait, What?' Reaction",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.kgns.tv/2026/09/25/like-zombie-woman-recalls-moment-she-had-chunk-her-forehead-bitten-off-by-stranger/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Amazon is expanding Prime refunds, with eligible customers able to receive up to $200 automatically.",
+    "angle": "Amazon's Prime settlement with the FTC just got a lot bigger, and millions more customers are now eligible for automatic refunds - no forms, no fighting customer service, just free money showing up.",
+    "bullets": [
+      " Part of Amazon's $2.5 billion settlement with the FTC over allegations it made Prime hard to cancel",
+      " Max payout jumps from $51 to $200 per eligible customer",
+      " Anyone who used 11 to 20 Prime benefits in a one-year stretch now qualifies",
+      " Amazon's already paid out $845.2 million in refunds as of September 9, 2026",
+      " Check your email right now - anyone listening already gotten one of these Amazon refund notices?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-announces-additional-payments-consumers-stemming-ftcs-amazo",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Rolls-Royce 470 MW nuclear reactors lock in critical safety hardware",
+    "angle": "Small modular reactors are the nuclear industry's big comeback play right now, especially with AI data centers guzzling power - and Rolls-Royce just hit a major safety milestone on theirs.",
+    "bullets": [
+      " Rolls-Royce has finalized critical safety hardware for its 470 MW small modular reactor design",
+      " Small modular reactors are being pitched as a faster, cheaper alternative to traditional nuclear plants",
+      " Nuclear's having a moment again - would you be fine with a mini reactor built near your town if it meant cheaper, cleaner power?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://interestingengineering.com/energy/rolls-royce-470-mw-nuclear-reactors-safety",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Popular AI models use arbitrary facial features to predict criminality and job performance",
+    "angle": "New research says popular AI models are scanning faces to guess who's a criminal or a good employee, reviving 19th-century pseudoscience with 21st-century tech - and it's a live wire because these tools are already creeping into hiring and policing.",
+    "bullets": [
+      " Researchers found popular AI models making predictions about criminality from facial features alone",
+      " Critics say this echoes phrenology - the debunked practice of judging character by head/face shape",
+      " Raises fresh alarm about bias baked into AI used in hiring and law enforcement tools",
+      " Would you trust an AI's read on your face over an actual human interview?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/popular-ai-models-use-arbitrary-facial-features-to-predict-criminality-and-job-performance/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-27",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Anthony Mackie Says Chris Evans Gave Him the \u2018Avengers: Endgame\u2019 Script Early, Revealing How He\u2019d Become Captain America: \u2018It Was Really Great and Really Emotional\u2019",
+    "angle": "A juicy behind-the-scenes MCU story that fans still obsess over \u2014 the passing of the shield from Chris Evans to Anthony Mackie in Endgame, straight from Mackie himself.",
+    "bullets": [
+      " Anthony Mackie says Chris Evans gave him the 'Avengers: Endgame' script early",
+      " That early read revealed Mackie's character would become Captain America",
+      " Mackie called the moment 'really great and really emotional'",
+      " What's the MCU moment that hit YOU right in the feels?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/chris-evans-anthony-mackie-avengers-endgame-script-early-1236876896/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-25",
     "slot": "pm",
     "category": "THE LIST",
