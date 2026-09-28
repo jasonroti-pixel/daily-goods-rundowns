@@ -385,6 +385,27 @@ a:hover{text-decoration:underline}
 .story-source{font-size:0.7rem;color:var(--text-dim)}
 .story-link{font-size:0.7rem;color:var(--cyan);opacity:0.7}
 .story-link:hover{opacity:1}
+.story-expand{font-family:'Press Start 2P',monospace;font-size:0.3rem;color:var(--purple);border:2px solid var(--purple);background:transparent;padding:6px 10px;white-space:nowrap;cursor:pointer;line-height:1}
+.story-expand:hover{background:rgba(180,74,255,0.14)}
+.story-expand:active{transform:scale(0.96)}
+.story-detail-overlay{position:fixed;top:0;right:0;bottom:0;left:0;z-index:700;background:var(--overlay-bg);display:flex;align-items:center;justify-content:center;padding:20px;transition:opacity 0.3s,visibility 0.3s}
+.story-detail-overlay.hidden{opacity:0;visibility:hidden;pointer-events:none}
+.story-detail-box{background:var(--surface);border:3px solid var(--purple);max-width:640px;width:100%;max-height:88vh;overflow-y:auto;padding:24px 26px;position:relative;box-shadow:0 0 30px rgba(180,74,255,0.25)}
+.story-detail-close{position:absolute;top:12px;right:12px;font-family:'Press Start 2P',monospace;font-size:0.42rem;background:none;border:none;color:var(--pink);cursor:pointer;padding:4px;line-height:1}
+.story-detail-close:hover{text-shadow:0 0 6px var(--pink)}
+.story-detail-cat{font-family:'Press Start 2P',monospace;font-size:0.34rem;color:var(--purple);margin-bottom:14px;padding-right:30px}
+.story-detail-title{font-weight:600;font-size:1.2rem;color:var(--text-bright);line-height:1.35;margin-bottom:14px}
+.story-detail-angle{font-size:0.95rem;color:var(--text);line-height:1.6;margin-bottom:16px}
+.story-detail-section-label{font-family:'Press Start 2P',monospace;font-size:0.3rem;color:var(--cyan);margin:16px 0 8px;display:block}
+.story-detail-bullets{list-style:none;padding:0;margin:0}
+.story-detail-bullets li{font-size:0.9rem;color:var(--text);padding:5px 0 5px 18px;position:relative;line-height:1.5}
+.story-detail-bullets li::before{content:'\25B8';position:absolute;left:0;color:var(--cyan)}
+.story-detail-debate{font-size:0.95rem;color:var(--yellow);font-style:italic;line-height:1.5;padding:10px 0;border-top:1px solid var(--border);border-bottom:1px solid var(--border);margin:14px 0}
+.story-detail-meta{font-size:0.8rem;color:var(--text-dim);margin-top:14px}
+.story-detail-source-link{display:inline-block;margin-top:10px;font-family:'Press Start 2P',monospace;font-size:0.34rem;color:var(--cyan);border:2px solid var(--cyan);padding:8px 12px;text-decoration:none}
+.story-detail-source-link:hover{background:rgba(0,229,255,0.12);text-decoration:none}
+.story-detail-add{font-family:'Press Start 2P',monospace;font-size:0.36rem;padding:10px 16px;border:2px solid var(--green);background:transparent;color:var(--green);cursor:pointer;margin-top:16px}
+.story-detail-add:hover{background:rgba(57,255,20,0.1)}
 .story-debate{font-size:0.82rem;color:var(--yellow);font-style:italic;margin-top:8px;padding:6px 0 0;border-top:1px solid var(--border);line-height:1.4}
 
 /* ═══ PREP PANEL ═══ */
@@ -643,6 +664,14 @@ a:hover{text-decoration:underline}
 </div>
 
 <div class="toast" id="toast"></div>
+
+<!-- ═══ STORY DETAIL (EXPANDED VIEW) ═══ -->
+<div class="story-detail-overlay hidden" id="storyDetailOverlay" onclick="if(event.target===this)closeStoryDetail()">
+  <div class="story-detail-box">
+    <button class="story-detail-close" onclick="closeStoryDetail()" title="Close">X</button>
+    <div class="story-detail-body" id="storyDetailBody"></div>
+  </div>
+</div>
 
 <!-- ═══ ADD STORY FORM ═══ -->
 <div class="add-form-overlay hidden" id="addStoryOverlay">
@@ -1085,6 +1114,7 @@ function renderStoryCard(story) {
   h+='<div class="story-meta">';
   if(story.score&&options.showScores)h+='<span class="story-score">'+escHtml(story.score)+'</span>';
   if(story.source){h+='<span class="story-source">'+escHtml(story.source.split('|')[0].trim())+'</span>'}
+  h+='<button class="story-expand" onclick="event.stopPropagation();openStoryDetail(this.closest(\'.story-card\').getAttribute(\'data-id\'))">EXPAND</button>';
   if(story.url)h+='<a class="story-link" href="'+escAttr(story.url)+'" target="_blank" rel="noopener" onclick="event.stopPropagation()">SOURCE</a>';
   if(story._custom)h+='<button class="custom-delete" data-custom-id="'+escAttr(story._id)+'" onclick="event.stopPropagation();deleteCustomStory(this.getAttribute(\'data-custom-id\'))">DELETE</button>';
   h+='</div></div>';
@@ -1107,6 +1137,25 @@ function renderStories() {
   el.innerHTML=h;
 }
 
+function findStoryById(id){return allStories.find(s=>storyId(s)===id)}
+function openStoryDetail(id){
+  const s=findStoryById(id);if(!s)return;
+  const sel=selectedIds.has(id);
+  let h='<div class="story-detail-cat">'+(s._custom?'<span style="color:var(--yellow)">CUSTOM · </span>':'')+escHtml(s.category||'')+(s.slot?' · '+slotLabel(s.slot):'')+(s.date?' · '+escHtml(s.date):'')+'</div>';
+  h+='<div class="story-detail-title">'+escHtml(s.title||'')+'</div>';
+  if(s.angle)h+='<div class="story-detail-angle">'+escHtml(s.angle)+'</div>';
+  if(s.bullets&&s.bullets.length){h+='<span class="story-detail-section-label">TALKING POINTS</span><ul class="story-detail-bullets">';s.bullets.forEach(b=>{h+='<li>'+escHtml(b.trim())+'</li>'});h+='</ul>'}
+  if(s.debate)h+='<div class="story-detail-debate">'+escHtml(s.debate)+'</div>';
+  h+='<div class="story-detail-meta">';
+  if(s.source)h+='Source: '+escHtml(s.source.split('|')[0].trim());
+  if(s.score&&options.showScores)h+=' · Score: '+escHtml(s.score);
+  h+='</div>';
+  if(s.url)h+='<a class="story-detail-source-link" href="'+escAttr(s.url)+'" target="_blank" rel="noopener">OPEN ARTICLE ↗</a>';
+  h+='<div><button class="story-detail-add" onclick="toggleStory(this.getAttribute(\'data-id\'));closeStoryDetail()" data-id="'+escAttr(id)+'">'+(sel?'REMOVE FROM LOADOUT':'ADD TO LOADOUT')+'</button></div>';
+  document.getElementById('storyDetailBody').innerHTML=h;
+  document.getElementById('storyDetailOverlay').classList.remove('hidden');
+}
+function closeStoryDetail(){document.getElementById('storyDetailOverlay').classList.add('hidden')}
 function toggleStory(id){
   if(selectedIds.has(id)){selectedIds.delete(id);showToast('REMOVED FROM LOADOUT')}
   else{selectedIds.add(id);showToast('ADDED TO LOADOUT')}
