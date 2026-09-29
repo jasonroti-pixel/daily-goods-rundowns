@@ -1,6 +1,607 @@
 [
   {
     "date": "2026-09-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Woman, 82, Who Once Couldn\u2019t Lift a Cup of Tea Regains Her Strength with Exercise: \u2018I Thought I\u2019d Be Disabled for Life\u2019",
+    "angle": "It's the ultimate comeback story: a woman told she'd be disabled for life rebuilt her strength from scratch at 82 \u2014 a feel-good, relatable jolt of hope for anyone who thinks it's 'too late' to get moving.",
+    "bullets": [
+      " Subject is 82 years old",
+      " She once couldn't even lift a cup of tea due to weakness",
+      " Quote: \"I thought I'd be disabled for life\"",
+      " She rebuilt her strength through consistent exercise",
+      " Callers \u2014 what's the moment you decided 'I'm not too old for this'?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/woman-82-couldn-t-lift-a-cup-of-tea-now-she-exercises-4-days-a-week-at-the-gym-12134411",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Data center developer offers $10,000 checks to 4,500 households if the 1,300-acre facility is approved - locals push back over noise and 'bribe' concerns",
+    "angle": "This taps into the national backlash over the AI data center boom \u2014 companies are now literally cutting checks to neighbors to make controversial mega-projects go away, and 'is that a bribe or fair compensation?' is a debate playing out in towns everywhere.",
+    "bullets": [
+      " Developer is offering $10,000 checks to 4,500 nearby households",
+      " Some locals are calling it a 'bribe' dressed up as a community goodwill gesture",
+      " Opposition is centered on fears over noise from the sprawling facility",
+      " Would $10,000 be enough to get a giant data center built next to your house, or is that just a payoff?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/data-center-developer-offers-usd10-000-checks-to-4-500-households-if-th",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Did Donald Trump get what he wanted in Greenland? | About That",
+    "angle": "After months of tariff threats and even talk of military force, Trump just signed a deal with Denmark and Greenland \u2014 but it's an updated defense pact, not the takeover he was pushing for, so the question is whether burning that much goodwill was worth it.",
+    "bullets": [
+      " Trump spent months threatening tariffs and even floated military action to acquire Greenland",
+      " He ultimately signed an Arctic security pact with the leaders of Denmark and Greenland",
+      " Experts are questioning whether the diplomatic fallout was worth the final result",
+      " Did Trump actually win here, or did he torch a decades-old alliance for an upgrade he could've gotten by asking nicely?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/player/play/9.7361670?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "FBI offers $1M reward for tips leading to arrest of alleged gang leader tied to killing of B.C. activist",
+    "angle": "This isn't just a local B.C. crime story \u2014 it's a case that's already strained US-Canada-India relations, and now the FBI is putting real money on the table to crack it.",
+    "bullets": [
+      " He's accused of orchestrating the June 2023 assassination of Sikh activist Hardeep Singh Nijjar.",
+      " A US agency chasing a Canadian assassination tied to an alleged gang network abroad \u2014 does a $1M reward actually move the needle on a case this tangled?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/goldy-brar-bishnoi-gang-most-wanted-9.7361302?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Jayden Daniels traveling to London for return to practice in Commanders injury twist",
+    "angle": "The Commanders' breakout young QB has been sidelined with an elbow injury, and now he's flying across the pond and practicing again right as Washington gears up for a Week 4 showdown with the Colts \u2014 total cliffhanger for fantasy owners and Commanders fans alike.",
+    "bullets": [
+      " Jayden Daniels is traveling with the Commanders to London ahead of their Week 4 game",
+      " He's been dealing with an elbow injury",
+      " Daniels is set to practice this week as part of his return",
+      " Do you trust a quarterback coming off an injury to go play a full game overseas, jet lag and all?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/28/sports/jayden-daniels-returning-to-practice-in-commanders-injury-twist/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Hannah-Jones\u2019 ignorant Times essay: Letters to the Editor \u2014 Sept. 29, 2026",
+    "angle": "The reporter behind the 1619 Project built her career on public education equity \u2014 now readers are calling out the gap between her politics and where she actually sends her own daughter.",
+    "bullets": [
+      " Nikole Hannah-Jones, the New York Times writer known for the 1619 Project, is accused of enrolling her daughter in a school widely labeled 'failing.'",
+      " New York Post readers piled on in the paper's Letters to the Editor section, calling out what they see as political motives behind the choice.",
+      " Would you send your own kid to a school you publicly call 'failing' just to prove a political point?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/28/opinion/hannah-jones-ignorant-times-essay-letters/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "FBI offer US$1M reward for information leading to arrest in Nijjar killing",
+    "angle": "The FBI just put a million-dollar price tag on catching whoever killed Sikh activist Hardeep Singh Nijjar \u2014 a case that already blew up into a full-on diplomatic firestorm between Canada, the US, and India.",
+    "bullets": [
+      " Victim: Sikh activist Hardeep Singh Nijjar, whose death sparked a major international incident.",
+      " A million-dollar FBI reward on a case with this much international baggage \u2014 does that number tell you how serious this got, or how stuck the investigation still is? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "KN2hvNThyTmZLbFQ2dnRUWUdNR3dyTXFOaDVoRS15WjJST1ltS2dpSjJ5ZElQSnFXV202Sk56cVFR?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNVp5Q1dHT0xxQ01BWHhKLWV4N1JmcmJoamF2dGdEekZPYmFZVWJ",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Trump administration muses about hitting Canada with EU-style tariffs over Carney\u2019s EU pivot",
+    "angle": "A fresh round of US-Canada trade tension is brewing, reportedly sparked by Carney cozying up to the EU - and tariffs always hit home fast for Canadian wallets and jobs, so this is one Canadians will want to watch closely.",
+    "bullets": [
+      " Trump administration is reportedly considering EU-style tariffs on Canada",
+      " Signals another possible flare-up in US-Canada trade relations",
+      " If Washington slaps EU-style tariffs on us over a European trade pivot, who should Canada actually be cozying up to - the US or the EU?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nationalpost.com/news/trump-administration-muses-about-hitting-canada-with-eu-style-tariffs-over-carneys-eu-pivot",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Alberta Separatists unveil development slogan \u201cCome Invest in our unstable breakaway republic!\u201d",
+    "angle": "Alberta's separatist chatter has been simmering for a while, but this joke slogan making the rounds on r/canada \u2014 basically admitting the whole 'breakaway republic' idea is a hard sell \u2014 is the kind of self-own that writes its own punchline for hosts.",
+    "bullets": [
+      " It's spreading out of r/canada, aimed squarely at the Alberta sovereignty/separatist movement",
+      " Would YOU invest a dollar in an independent Alberta - be honest? ON-AIR BIT BREAKDOWN - Step 1: Read the slogan cold - Kick things off -> Hosts read the slogan deadpan like an actual tourism ad voiceover before revealing it's satire - Step 2: Worse-slogan game - 60 seconds, back and forth -> Each host has to invent an even worse tagline for an independent Alberta (or any breakaway province) live on air - Step 3: Phone-in gut check - Open the lines -> Ask listeners: would you actually put money into a separatist Alberta, and why or why not"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "B.C. politicians, leaders condemn white nationalist gathering on First Nation reserve",
+    "angle": "A white nationalist gathering held on First Nation land in B.C. is drawing swift, unified condemnation from politicians \u2014 a flashpoint story about hate groups targeting Indigenous communities that's guaranteed to spark strong reaction.",
+    "bullets": [
+      " A white nationalist gathering reportedly took place on a First Nation reserve in B.C.",
+      " B.C. politicians and community leaders have publicly condemned the event",
+      " Details on the specific group, location, and turnout are still limited in early reporting",
+      " Should authorities be doing more to stop hate groups from targeting Indigenous communities like this?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/bc-candidates-against-white-nationalist-gathering-9.7360498?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "This Ontario city had its 'worst' problems with homecoming parties, even filling a hospital ER",
+    "angle": "A university party weekend turned into an actual public-health strain in Guelph, with the mayor calling it one of the worst years yet \u2014 it's a snapshot of a bigger back-to-school problem playing out across Ontario campus towns.",
+    "bullets": [
+      " Other Ontario cities have dealt with similar grief over unsanctioned student parties",
+      " Is this just kids being kids, or is it time for university towns to crack down hard on off-campus parties?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/guelph-homecoming-parties-police-mayor-9.7360771?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Stelco to lay off 350 steelworkers at Hamilton plant, union says",
+    "angle": "Stelco cutting 350 jobs at its Hamilton plant is a gut-punch to a city whose identity is built on steel - the kind of story that ripples through families and local economies far beyond one factory floor.",
+    "bullets": [
+      " Stelco is laying off 350 steelworkers at its Hamilton plant",
+      " 350 families in Hamilton just got hit - what happens to a steel town when the mill starts shrinking? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "I3UklHaWRTMjVXVHdIekhqXzl3dVBZVzVteTdYX2ZlZHVBTWpxbU1xWDN4VHc4aW1oY0lpZWRtaTVvT1FaMFE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcUkzV3JqTXZmMGRtRGVRaW9qSnNrb3FRSlo5UWFwb3h0c3oyQW1Ve",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "RCMP investigating apparent white nationalist demonstration on Indigenous land near Kamloops",
+    "angle": "The RCMP is now investigating after what's being described as a white nationalist demonstration on Indigenous land near Kamloops \u2014 a city already carrying enormous weight in Canada's reconciliation conversation since the 2021 unmarked graves discovery there.",
+    "bullets": [
+      " RCMP confirms it is investigating the incident",
+      " Demonstration reportedly took place on Indigenous land near Kamloops, B.C.",
+      " Described as an apparent white nationalist gathering \u2014 details still emerging",
+      " Why does this keep happening in the same places tied to Canada's reconciliation reckoning \u2014 and what should actually happen to the people involved? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "OEpidG9CcnNFVkk?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU3pZRzZNd0V6UmJmYmFnTTVsOWZ3TGpaREgwdV9qNlZ1V0VIenlW",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Barbara Palvin gives birth, welcomes first baby with Dylan Sprouse",
+    "angle": "A Victoria's Secret Angel and a former Disney Channel heartthrob just welcomed their first kid together - it's the kind of only-in-Hollywood pairing that gets fans invested, and baby news always brings the good vibes to entertainment segments.",
+    "bullets": [
+      " Barbara Palvin and Dylan Sprouse have welcomed their first baby together.",
+      " Palvin is a Victoria's Secret Angel; Sprouse rose to fame as a Disney Channel star.",
+      " Which unexpected celeb pairing do you still think about the most? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/28/parents/barbara-palvin-gives-birth-welcomes-first-baby-with-dylan-sprouse/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Anne Hathaway Blocked from \u2018Hot Ones\u2019 on \u2018Verity\u2019 Press Tour After Doctor Warns It Could Disrupt Pregnancy: \u2018I Might Go Into Early Labor\u2019",
+    "angle": "A very pregnant Anne Hathaway reportedly got doctor's orders to skip the spicy wing gauntlet on her 'Verity' press tour, worried the hot sauce could trigger early labor - a wild, relatable collision of celebrity press duty and pregnancy reality.",
+    "bullets": [
+      " Doctor allegedly warned Hathaway the spicy wings \"could disrupt pregnancy\"",
+      " Hathaway reportedly said \"I might go into early labor\"",
+      " She was pulled from a planned 'Hot Ones' appearance on the 'Verity' press tour",
+      " Would you risk the ghost pepper wings while pregnant, or is skipping Hot Ones the only smart move here?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/anne-hathaway-banned-hot-ones-verity-press-tour-pregnancy-1236877379/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hayden Panettiere\u2019s Ex-Fianc\u00e9 Wladimir Klitschko Files for Temporary Guardianship of Her Estate on Behalf of Their Daughter Kaya",
+    "angle": "Hayden Panettiere's rocky personal history has been tabloid fodder for years, and now her ex Wladimir Klitschko making a legal move to protect their daughter's interests is the kind of real-life family drama that gets people talking.",
+    "bullets": [
+      " Wladimir Klitschko, Hayden Panettiere's ex-fianc\u00e9, has filed for temporary guardianship of her estate",
+      " Klitschko and Panettiere share custody history dating back to their years-long relationship",
+      " Is this a co-parent stepping up to protect their kid, or a sign something bigger is going on with Hayden?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/hayden-panettiere-ex-wladimir-klitschko-files-guardianship-petition-daughter-kaya-12146315",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Moment California surfer smashed onto rocks by hurricane-powered wave before celebrity publicist\u2019s daring rescue",
+    "angle": "It's a real-life action movie moment caught on video - a hurricane swell drives a surfer straight into the rocks, and the person who saves him isn't a lifeguard, it's a celebrity publicist. That twist is exactly the kind of jaw-dropping clip that blows up online.",
+    "bullets": [
+      " A hurricane-powered wave slammed a California surfer directly into the rocks.",
+      " Benita Karo, a celebrity publicist, immediately sprinted toward the water to help.",
+      " She watched anxiously to see whether the surfer would resurface after the impact.",
+      " Would you have run toward the water or called for help - and does anyone actually know what to do in that split second?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/28/us-news/celebrity-publicist-rescues-unconscious-la-surfer-from-rough-surf/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Digger\u2019 LA premiere red carpet: Tom Cruise, Jessica Alba, Kirsten Dunst and more",
+    "angle": "A stacked celebrity turnout always gets people clicking through the photos, and this one's got A-list staying power plus a surprise pairing that'll get people talking about who wore what.",
+    "bullets": [
+      " Tom Cruise walked the red carpet at the LA premiere of 'Digger'",
+      " Jessica Alba and Kirsten Dunst were also among the stars in attendance",
+      " Red carpet fashion was the focus, with outlets rounding up all the looks from the night",
+      " Who do you think won the red carpet that night - text us your pick."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/09/28/photos/digger-la-premiere-red-carpet-tom-cruise-jessica-alba-kirsten-dunst-and-more/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Todd Rundgren Slams Taylor Swift, Says She \u2018Ruined Music\u2019 and Is \u2018the Apotheosis of Mediocrity\u2019",
+    "angle": "A 70s rock icon just torched the biggest pop star on the planet \u2014 that's an instant generational grudge match, and Swifties are already loading up the replies.",
+    "bullets": [
+      " Todd Rundgren \u2014 the singer-songwriter/producer behind \"Hello It's Me\" and \"I Saw the Light\" \u2014 went off on Taylor Swift in a new interview.",
+      " His exact line: \"Taylor Swift is the apotheosis of mediocrity.\"",
+      " He also claims she \"ruined music.\"",
+      " Cranky old rocker out of touch, or does he actually have a point about pop's biggest star? ON-AIR BIT BREAKDOWN - Step 1: Read The Quote Cold - Kick things off -> One host reads Rundgren's 'apotheosis of mediocrity' line dead serious, no context, and gauges the other host's gut reaction. - Step 2: Pick A Side - 60-second debate -> Hosts split up \u2014 one defends Swift's catalog, one channels Rundgren's rock-purist gripe \u2014 and argue it out fast. - Step 3: Phone Lines Open - Listener callout -> Ask listeners to call/text: which artist from their generation gets unfairly torched by the older guard? variety.com (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/music/news/todd-rundgren-slams-taylor-swift-1236877824/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "MTV Video Music Awards: Taylor Swift Wins Video of the Year - The Hollywood Reporter",
+    "angle": "The VMAs handed their top prize, Video of the Year, to Taylor Swift, while Madonna walked away with three trophies of her own - it's a guaranteed pop-culture water-cooler moment with two of music's biggest names sharing the spotlight.",
+    "bullets": [
+      " Taylor Swift won Video of the Year at the 2026 MTV VMAs.",
+      " Madonna took home three awards during the broadcast.",
+      " Snoop Dogg hosted this year's ceremony.",
+      " Swift also received the brand-new MTV VMA Artist Director Honors, presented to her by Dakota Johnson.",
+      " Biggest night: is this Taylor's VMAs or Madonna's - who actually 'won' the show? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/lists/mtv-vmas-2026-winners-list/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'Avengers: Doomsday' Director Explains It's 'Difficult' to Evolve MCU Characters - Variety",
+    "angle": "Marvel's biggest crossover in years is coming, and the director just admitted the tightrope act of changing characters fans have loved for over a decade without breaking them.",
+    "bullets": [
+      " Co-director Anthony Russo is opening up about the pressure of evolving the MCU's most iconic heroes",
+      " He says finding the balance in moving characters forward is genuinely \"difficult\"",
+      " Comes as anticipation builds for 'Avengers: Doomsday', one of the studio's most-watched upcoming releases",
+      " Which superhero do you NOT want them to mess with - call in and defend your favorite. Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/news/avengers-doomsday-director-very-difficult-mcu-characters-1236876967/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "The Internet Marked Flock Safety CEO\u2019s Home As A Public Toilet Online",
+    "angle": "Flock Safety's facial-recognition and license-plate cameras have made it one of the most controversial surveillance companies in the country, and now internet backlash is getting personal \u2014 someone found the CEO's home address and flooded map apps with fake public-restroom listings. It's the kind of petty, creative internet revenge that always gets people talking.",
+    "bullets": [
+      " Flock Safety \u2014 the surveillance-camera company behind license-plate readers used by police nationwide \u2014 is the target here",
+      " Online users reportedly tagged the CEO's home address as a public restroom on map/navigation apps",
+      " Is doxxing-style 'map trolling' fair pushback on surveillance tech, or has the internet crossed a line into harassment?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gadgetreview.com/the-internet-marked-flock-safety-ceos-home-as-a-public-toilet-online",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "TikTok, X reportedly barring ads for documentary about Elon Musk",
+    "angle": "A documentary about Elon Musk is reportedly getting shut out of ad space on the two platforms most tied to him \u2014 TikTok and his own X \u2014 while YouTube and Meta let it run. That's a juicy little irony that practically begs for a debate about bias, control, and who gets to decide what ads you see.",
+    "bullets": [
+      " Ads for a documentary about Elon Musk were reportedly banned on both TikTok and X",
+      " X is, notably, owned by Musk himself \u2014 the subject of the film",
+      " Is it a coincidence Musk's own platform won't run ads for a documentary about him \u2014 or exactly what you'd expect?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/musk-documentary-ads-blocked-youtube-meta-tiktok-9.7361211?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Tom Brady Gave Ex Gisele B\u00fcndchen a \u2018Middle Finger\u2019 Through Social Media After Divorce, New Book Says - People.com",
+    "angle": "Tom Brady and Gisele B\u00fcndchen are two of the most-watched exes in the world, and a new tell-all claiming he threw shade at her online post-divorce is exactly the kind of celebrity petty-drama moment that gets everyone talking.",
+    "bullets": [
+      " A new book claims Tom Brady gave ex-wife Gisele B\u00fcndchen a symbolic \"middle finger\" through social media.",
+      " Details are surfacing via People.com, tied to the book's release.",
+      " What's the most petty thing you've seen an ex do online after a breakup? People (via Google News) (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "tzNVA3a3p0WUdwV3M1Yjg4b3pKb183RkdxSVRtaXpBQXEtMllkVXNkVmw3S3k3dTJCOXBvbFBCSVRnNHRjSkhBZ2w3RVE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOelZ5NXJUTktsQUdaX0tFMDRXS2lXeWNGckZuNS1sWFlTWGlzdjNTeHR",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A camera system at a Wyoming wind farm is helping protect eagles by automatically slowing turbines when birds approach. A study estimated the system reduced eagle fatalities by 82% at the 110 turbine site, showing how technology can make wind power safer for wildlife.",
+    "angle": "It's the classic 'can we have clean energy without killing wildlife' debate, but with an actual win \u2014 smart cameras are slashing eagle deaths at a Wyoming wind farm, and the numbers are wild.",
+    "bullets": [
+      " A camera system at a Wyoming wind farm automatically slows down turbines when eagles get close",
+      " A study found it cut eagle deaths by 82% at the site",
+      " It's being framed as proof tech can make wind power coexist with wildlife",
+      " Would you have guessed a camera system could cut eagle deaths by over 80% \u2014 and should every wind farm be required to install one?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/wyoming-wind-farm-ai-cameras-eagles/37136/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Tinder Swindler Claims His Scamming Past Makes Him the Perfect Person To Build a 'Safe' Dating App",
+    "angle": "This is peak 'you can't make this up' energy \u2014 a guy famous for scamming women out of millions is now pitching himself as the dating world's safety expert, which is exactly the kind of absurd, internet-baiting headline that gets two hosts talking.",
+    "bullets": [
+      " His logic, apparently: who better to catch a con than the guy who used to run one?",
+      " Would you ever trust a 'safe dating app' built by the guy who scammed people on the last one?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/tinder-swindler-simon-leviev-safe-love-app-blocked-1764581",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Tylenol during pregnancy not linked to autism, ADHD, major review finds",
+    "angle": "This is one of the most googled pregnancy health scares out there, and a major review just pushed back hard against the panic \u2014 perfect for parents (and worried grandparents) listening right now.",
+    "bullets": [
+      " A major scientific review found no link between taking Tylenol (acetaminophen) during pregnancy and a child later being diagnosed with autism or ADHD.",
+      " If you took Tylenol while pregnant and spiraled about it afterward \u2014 call in, because science just told you to relax."
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cidrap.umn.edu/anti-science/tylenol-during-pregnancy-not-linked-autism-adhd-major-review-finds",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Which way, ladies?",
+    "angle": "It's a viral 'which fork in the road' meme template, but the punchline about running low on eggs turns it into a sneaky joke about grocery prices and life priorities - the kind of post that gets forwarded with a laughing-crying emoji.",
+    "bullets": [
+      " Posted by @WomenBeingAwful, a meme/humor account",
+      " Punchline: priorities apparently shift \"the less and less eggs\" you have left",
+      " Read the tweet cold on air and have each host guess the punchline before you reveal it. X/Twitter @WomenBeingAwful (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/WomenBeingAwful/status/2104695559684522425",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Driver accused of driving SUV into a Kroger because he needed to use the bathroom",
+    "angle": "It's the perfect so-dumb-it's-real headline for the end of the show \u2014 a bathroom emergency escalating into property damage is exactly the kind of story that gets people laughing and sharing before their coffee break.",
+    "bullets": [
+      " A driver allegedly drove an SUV straight into a Kroger grocery store",
+      " His reported excuse: he desperately needed to use the bathroom",
+      " Call in: what's the craziest thing you've ever done because you REALLY had to go?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.click2houston.com/news/local/2026/09/28/driver-accused-of-ramming-through-rosenberg-grocery-store-upset-because-h",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Crows are being given naloxone after suspected drug overdoses in Prince George",
+    "angle": "A Prince George neighborhood claims crows are keeling over from suspected drug exposure and residents are stepping in with naloxone - it's the kind of wonderfully weird local headline that spreads nationwide because nobody can quite believe it's real.",
+    "bullets": [
+      " Reports out of Prince George, B.C. describe crows suspected of overdosing on drugs in the area",
+      " Locals have reportedly used naloxone (Narcan) to revive the birds",
+      " Story is making the rounds via r/nottheonion, the internet's home for real news that reads like satire",
+      " Somewhere in Prince George there's a person who now carries Narcan for birds - and honestly, respect."
+    ],
+    "debate": "The 'Wait, What?' Moment",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/crows-overdose-prince-george-naloxone-9.7358727",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "$745K returned to donors after GoFundMe says elderly couple's daughter made up neighbor's identity",
+    "angle": "It's got everything a kicker needs \u2014 a heartwarming charity campaign, a wild twist, and a six-figure gut-punch, all wrapped up in a real-life 'wait, WHAT' headline that practically writes its own segment.",
+    "bullets": [
+      " Investigators say the couple's own daughter allegedly invented a fake neighbor's identity to run it.",
+      " Your own kid fakes a total stranger's identity to raise money 'for you' online \u2014 is that a twisted act of love or just straight-up fraud?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://fox4news.com/news/745k-returned-donors-after-gofundme-says-elderly-couples-daughter-made-up-neighbors-identity",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Book Award Winner Complains About White Paint Because of Its \u201cPurity\u201d and \u201cCleanliness\u201d",
+    "angle": "A total 'wait, what?' headline straight out of r/nottheonion \u2014 a celebrated author is apparently calling out white paint shades for leaning on words like 'purity' and 'cleanliness,' and that's exactly the kind of oddball culture-war-meets-home-decor story that makes for a great kicker.",
+    "bullets": [
+      " Ask listeners: is this a fair point about loaded language, or are we officially out of things to be offended by?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thenewamerican.com/us/culture/book-award-winner-complains-about-white-paint-because-of-its-purity-and-cleanliness/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "The Mighty Sparrow, Trinidadian Titan of Calypso, Is Dead at 91",
+    "angle": "The man widely crowned the 'Calypso King of the World' has passed away, closing out a career that helped carry Trinidadian music onto the global stage \u2014 a genuine moment for an on-air tribute and a chance to spotlight a genre listeners may not know much about.",
+    "bullets": [
+      " Widely regarded as one of the towering figures \u2014 a 'titan' \u2014 of calypso music",
+      " Callers: what's the first calypso or steelpan song that ever hooked you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.nytimes.com/2026/09/27/arts/music/the-mighty-sparrow-dead.html",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Matthew Stafford, wife Kelly make surprise cameo in Taylor Swift's 'Patient Zero' video https://t.co/I5NSe0UfXf https://t.co/ABIeiI6b8B",
+    "angle": "Taylor Swift dropping surprise celebrity cameos always sends the internet into detective mode, and this time it's an NFL quarterback and his wife popping up in the 'Patient Zero' video - pure pop culture crossover bait.",
+    "bullets": [
+      " Matthew Stafford and wife Kelly Stafford show up in a surprise cameo",
+      " Pairing an NFL star with Swift's rollout taps both sports and pop fanbases at once",
+      " Which other athlete would you love to see randomly pop up in a Taylor Swift video? X/Twitter @NYPost (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2104746017392390236",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Trans NYT exec threatened to kill wife, scared their kids with chilling book before his in-laws shot him dead: docs https://t.co/JXriJtqyaw",
+    "angle": "A senior New York Times executive is dead after allegedly threatening to kill his wife and terrifying his own kids \u2014 and it was his in-laws who pulled the trigger. It's the kind of jaw-dropping true-crime-meets-media-world story that makes for can't-look-away chat.",
+    "bullets": [
+      " Court docs allege he threatened to kill his wife",
+      " He reportedly used a \"chilling\" book to scare their kids",
+      " He was ultimately shot dead by his in-laws, according to the documents",
+      " When does protecting your family cross the line from self-defense into vigilante justice? X/Twitter @NYPost (Tier 1) | Score: 52/90 (45 fit + 12 source + 5 quality - 10 penalty (Depressing/negative tone)) -> STRONG"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2104770347417346246",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-28",
     "slot": "am",
     "category": "THE LIST",
     "title": "If AI can hack a government, the time to pull the plug is now",
