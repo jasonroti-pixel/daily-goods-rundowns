@@ -1,5 +1,572 @@
 [
   {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Chuck Grassley, oldest sitting US senator, laments dying in office under a Democratic governor",
+    "angle": "Chuck Grassley is the oldest sitting U.S. Senator, and he's now on record saying he'd rather not die in office if it means a Democratic governor gets to pick his replacement - a wild, out-loud admission of exactly how the political sausage gets made.",
+    "bullets": [
+      " Chuck Grassley is currently the oldest sitting U.S. Senator",
+      " He's reportedly said he'd prefer not to pass away in office under a Democratic governor",
+      " Reason it matters: in most states, the governor appoints a Senate replacement if a senator dies in office",
+      " Should there be an age limit for serving in Congress - and does this comment prove why?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://abcnews.com/Politics/chuck-grassley-oldest-sitting-us-senator-laments-dying/story?id=136832758",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Police investigate after toddler pulls out loaded gun at Michigan daycare",
+    "angle": "A daycare full of toddlers had a live, loaded gun in it \u2014 and the twist is the parent now in custody is a police officer, the person you'd expect to know better about gun storage. It's a gun-safety story with a built-in irony that'll get parents and gun owners both talking.",
+    "bullets": [
+      " A toddler pulled out a loaded pistol at a daycare in southeast Michigan on Monday.",
+      " One of the child's parents \u2014 a police officer \u2014 has been taken into custody.",
+      " Officials say the investigation is ongoing, no further details released yet.",
+      " If a cop's kid can bring a loaded gun to daycare, how confident are you your own gun storage is actually toddler-proof?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://abcnews.com/US/wireStory/police-investigate-after-toddler-pulls-loaded-gun-michigan-136843186",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "ShinyHunters hackers say they won't leak sensitive FBI data",
+    "angle": "A hacking crew just admitted to breaching the FBI itself and is now playing PR \u2014 promising not to publish the data while admitting they already handed some of it to reporters. It's a wild trust-us moment from a group that just proved you can't trust them.",
+    "bullets": [
+      " They say they will not publish the FBI data they obtained",
+      " They admit they can't guarantee what happens to data already shared with journalists",
+      " Do you believe a hacking group's promise not to leak stolen federal data, or is 'trust us' the least trustworthy sentence in tech?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/shinyhunters-say-they-wont-release-fbi-data-9.7361716?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Canada led a 2022 deal to protect the world's nature. Has there been progress since then?",
+    "angle": "Canada helped broker a major global pact back in 2022 to protect the planet's nature, and a fresh report card is now out checking whether countries actually kept their word \u2014 classic promises-vs-action fodder for a talk segment.",
+    "bullets": [
+      " Canada helped lead a landmark 2022 global agreement aimed at protecting nature worldwide.",
+      " A new assessment has just been released measuring how much real progress has been made since that deal was signed.",
+      " Four years after the big promise \u2014 is the planet actually better off, or was it just a photo-op?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/science/canada-nature-protected-deal-progress-9.7358840?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "\u2018Backrooms,\u2019 \u2018The Shining\u2019 and Beyond: The Creepiest Liminal Spaces in Movies",
+    "angle": "The horror hit Backrooms turned an internet creepypasta into a box office smash, and it's reviving the whole 'liminal space' horror trope - those eerie, empty, fluorescent-lit places that feel wrong for no clear reason.",
+    "bullets": [
+      " Backrooms started as an internet creepypasta before becoming a smash horror hit in theaters.",
+      " What's the creepiest 'empty room' movie or real-life spot that's ever given you the chills?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://decider.com/2026/09/29/scary-movies-like-backrooms/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "If You Use Money to Buy Things, You Should Read This Book",
+    "angle": "Surveillance pricing means companies can charge YOU a different price than the person next to you based on your data - and a new book says the popular theory that this actually helps poor shoppers is total nonsense.",
+    "bullets": [
+      " Lindsay Owens just wrote a new book called \"Gouged\" breaking down how companies price-gouge using your own data",
+      " She's debunking the \"Robin Hood theory\" - the idea that surveillance pricing takes from rich shoppers to give discounts to poor ones",
+      " Her argument: that theory is a myth - it's not quietly helping anyone, it's just extracting more money",
+      " Have you ever compared prices with a friend on the same app and found out you were charged more? gizmodo.com (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/if-you-use-money-to-buy-things-you-should-read-this-book-2000816346",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "U.S. Pressure Is Awakening an Energy Giant in Canada",
+    "angle": "Canada's energy sector has been sitting on the sidelines for years, but mounting U.S. pressure over trade and tariffs may be forcing a major player back into action - a story about how Washington keeps shaping decisions north of the border.",
+    "bullets": [
+      " Should Canada be leaning harder into its own energy independence instead of reacting every time the U.S. applies pressure?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wsj.com/business/energy-oil/u-s-pressure-is-awakening-an-energy-giant-in-canada-162bd958?st=5TxToM",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Hamilton steel plant to lay off 500 workers as U.S. tariffs prompt \u2018survival\u2019 move",
+    "angle": "Half a thousand Hamilton families just got hit with layoff notices, and the company's blunt reason \u2014 U.S. tariffs \u2014 makes this a real gut-check on how trade fights south of the border are landing on Canadian paycheques.",
+    "bullets": [
+      " A Hamilton steel plant is cutting 500 jobs.",
+      " Management is framing the move as a 'survival' measure, not just a cost-cutting choice.",
+      " 500 jobs gone in Hamilton over U.S. tariffs \u2014 is this the first real sign Canadian workers are paying the price for the trade war?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/hamilton/stelco-tariffs-trump-9.7361216",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Grave of boy who vanished at residential school found decades later, First Nation looks for others like him",
+    "angle": "This taps into one of the most painful, still-unresolved threads in Canadian history \u2014 a First Nation community finally locating the grave of a child who disappeared decades ago at a residential school, and now searching for others who met the same fate.",
+    "bullets": [
+      " A First Nation community has located the grave of a boy who went missing at a residential school decades ago.",
+      " Stories like this are a reminder that the reckoning with Canada's residential school system is still actively unfolding, not history that's been closed."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/indigenous/sturgeon-lake-cree-nation-residential-school-search-9.7359102?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "LNG Canada to move forward with Phase 2 expansion project in Kitimat, B.C.",
+    "angle": "LNG Canada is greenlighting Phase 2 of its massive Kitimat export terminal, basically doubling down on Canada's bet that liquefied natural gas is the next big energy export - huge for jobs and the economy out west, but it's also reigniting the climate-vs-economy fight.",
+    "bullets": [
+      " LNG Canada is moving ahead with Phase 2 of its export terminal in Kitimat, B.C.",
+      " Phase 2 would roughly double the facility's existing export capacity",
+      " Big energy jobs for B.C. vs. Canada's climate goals - which one wins the argument for you?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/carney-lng-canada-announcement-9.7361817?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Stelco to lay off 350 steelworkers at Hamilton plant, union says",
+    "angle": "Hundreds of steelworker families in Hamilton are about to feel this - a major layoff at one of Canada's iconic industrial employers always ripples beyond just the plant floor.",
+    "bullets": [
+      " Stelco is laying off 350 steelworkers at its Hamilton plant",
+      " News surfaced through the union, not a company announcement",
+      " Hamilton has long been synonymous with Stelco and Canadian steel manufacturing",
+      " Anyone in our listening area got family or friends who work the line at Stelco - what are you hearing? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "I3UklHaWRTMjVXVHdIekhqXzl3dVBZVzVteTdYX2ZlZHVBTWpxbU1xWDN4VHc4aW1oY0lpZWRtaTVvT1FaMFE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcUkzV3JqTXZmMGRtRGVRaW9qSnNrb3FRSlo5UWFwb3h0c3oyQW1Ve",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Two Starbucks locations in Ottawa closed as part of company restructuring",
+    "angle": "Starbucks trimming stores in the capital is a local gut-check on how the coffee giant's broader corporate shake-up is hitting Canadian streets - and a reminder for regulars to double check before their next drive-by order.",
+    "bullets": [
+      " Which Ottawa Starbucks run did you just lose, and are you loyal to the brand or ready to jump ship to a local coffee spot? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "LVmVveUwwNktBUjVDQVB0alJyQ1JrUmlaczVzWnpPWTNOY21fME9YUzk4UWZuVm5nSWZ3?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2F2YzFvc0RsbkdEZ2VjVWRHV3d1a1I1bW55YjJra2FnMGRwdnFxZUpI",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "KATSEYE, Megan Thee Stallion, Tate McRae &amp; Megan Moroney to Perform at 2026 Victoria\u2019s Secret Fashion Show",
+    "angle": "The VS Fashion Show is back and swinging for every demo at once \u2014 pop, hip-hop, country, all on one runway. That genre mashup alone is worth a segment: who's actually watching for who?",
+    "bullets": [
+      " KATSEYE is on the bill, riding their breakout year as a global pop girl group.",
+      " Megan Thee Stallion joins the lineup, bringing hip-hop star power to the runway.",
+      " Tate McRae adds pure pop-choreography energy to the show.",
+      " Megan Moroney rounds it out, giving the lineup a country crossover moment.",
+      " Out of KATSEYE, Megan Thee Stallion, Tate McRae, and Megan Moroney \u2014 who are you actually tuning in for? X/Twitter @Billboard (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2104904262627033273",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "KATSEYE, Megan Thee Stallion, Tate McRae and Megan Moroney are all set to perform at the 2026 Victoria\u2019s Secret Fashion Show.",
+    "angle": "The Victoria's Secret Fashion Show is back as a pop-culture moment, and this lineup mixes a K-pop-adjacent girl group with a country crossover star and two of pop's biggest names right now \u2014 that's a real genre clash worth unpacking.",
+    "bullets": [
+      " KATSEYE is confirmed to perform at the 2026 Victoria's Secret Fashion Show",
+      " Megan Thee Stallion joins the performer lineup",
+      " Tate McRae is set to hit the runway stage as a performer",
+      " Megan Moroney rounds out the lineup, bringing a country presence to the show",
+      " Out of KATSEYE, Megan Thee Stallion, Tate McRae and Megan Moroney \u2014 who's the one you're actually tuning in to see? X/Twitter @Billboard (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2104904056732795068",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "The college dean scene in Promising Young Woman (2020): \"We get accusations like that all the time, one or two a week... What would you have me do? Ruin a young man's life every time we get an accusation like this? I have to give them the benefit of the doubt.\"",
+    "angle": "This five-year-old moment from the Oscar-winning film is making the rounds again on Reddit because the dean's excuse-making still sounds ripped from real headlines - it's a quick, quotable way to get into how institutions handle accusations.",
+    "bullets": [
+      " His justification: 'What would you have me do? Ruin a young man's life every time we get an accusation like this?'",
+      " It's resurfacing on r/fauxmoi as one of *Promising Young Woman's* most-quoted, most uncomfortable moments.",
+      " Ask listeners: does this scene hit harder now than when the movie came out in 2020?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/kbit1ml1dcsh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Coyote vs. Acme\u2019 comes to streaming \u2014 Where to watch the new movie at home",
+    "angle": "This is the Looney Tunes movie that famously got shelved and nearly buried entirely \u2014 now it's finally landing on-demand, which is exactly the kind of underdog Hollywood story that gets people curious to watch just to see what almost never happened.",
+    "bullets": [
+      " Coyote vs. Acme is now available to watch at home on-demand.",
+      " Are you actually renting this one, or just relieved it exists at all?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/29/entertainment/coyote-vs-acme-is-now-streaming-where-to-watch-at-home/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Yankees-Red Sox Preview + David Stearns Press Conference Takeaways | The Show Ep. 220",
+    "angle": "It's Yankees-Red Sox in the postseason, the rivalry that never needs an excuse to matter, and it's paired with the Mets' offseason mystery kicking off after Stearns' year-end presser.",
+    "bullets": [
+      " Joel Sherman and Jon Heyman break down the Yankees-Red Sox Wild Card Series matchup",
+      " They also react to David Stearns' end-of-season press conference",
+      " Discussion turns to what the Mets need heading into the offseason",
+      " Yankees or Red Sox \u2014 who's walking out of this Wild Card series, and why?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/video/yankees-red-sox-preview-david-stearns-press-conference-takeaways-the-show-ep-220/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018SNL U.K.\u2019 Sets Cynthia Erivo, Danny Dyer and James Norton as Next Hosts",
+    "angle": "SNL U.K. just locked in its Season 2 host lineup, and it's stacked \u2014 Cynthia Erivo, fresh off her Wicked run, headlines alongside Rivals' Danny Dyer and House of the Dragon's James Norton. It's a fun \"who ya got\" moment for anyone who's watched the flagship U.S. version try out different hosts for years.",
+    "bullets": [
+      " Danny Dyer ('Rivals') kicks things off Oct. 10 with musical guest Sasha Keable",
+      " James Norton ('House of the Dragon') hosts Oct. 17, with the Streets performing",
+      " Cynthia Erivo closes out the run on Oct. 24 alongside musical guest Blossoms",
+      " This marks Season 2 of the U.K. spinoff of the iconic sketch show",
+      " Out of the three, who do you think nails the hosting gig \u2014 Erivo, Dyer, or Norton? variety.com (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/global/snl-uk-cynthia-erivo-danny-dyer-james-norton-host-1236870930/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Surprise Adam Lambert Performance Caps Hit-Filled George Michael Tribute at 2026 VMAs -",
+    "angle": "The VMAs went all-in on nostalgia, stacking a George Michael tribute with three buzzy young voices and then dropping in a surprise Adam Lambert cameo \u2014 perfect fodder for who-nailed-it-best chatter.",
+    "bullets": [
+      " Raye, Sombr and Teddy Swims each covered George Michael classics during the set",
+      " Adam Lambert popped up for a surprise performance to close out the segment",
+      " It comes ahead of a live Faith tour album and a feature-length project tied to the late singer, who died in 2016",
+      " Ask listeners: which cover stole the night, and who do you trust with a George Michael song? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/music/music-news/adam-lambert-george-michael-tribute-2026-mtv-vmas-1236713332/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Taylor Swift Premieres Star-Filled 'Patient Zero' Music Video at VMAs - Variety",
+    "angle": "Taylor Swift used the VMAs stage for the world premiere of her \"Patient Zero\" video, and she didn't just bring a music video \u2014 she brought Colin Farrell and Dakota Johnson along for what she's calling a ghost story, not a love story.",
+    "bullets": [
+      " Taylor Swift gave \"Patient Zero\" its official world premiere at the MTV VMAs Sunday night.",
+      " Swift herself is pitching it as a twist: \"It's a love story? Hardly \u2014 it's a ghost story.\"",
+      " Colin Farrell AND Dakota Johnson in one Taylor video \u2014 who do you think steals the scene? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/music/news/taylor-swift-vmas-patient-zero-music-video-premiere-1236876944/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "The new research found that using social media, especially within 30 minutes of waking, was associated with more than twice the odds of depression among U.S. adults.",
+    "angle": "Almost everyone reaches for their phone first thing in the morning \u2014 this is basically a universal habit, and new research links that exact 30-minute window to more than double the odds of depression, which makes it a story every listener can immediately measure themselves against.",
+    "bullets": [
+      " Study found scrolling social media within 30 minutes of waking was linked to more than double the odds of depression among U.S. adults.",
+      " Be honest \u2014 is your phone the first thing you touch when you wake up, and does this number make you want to change that? ON-AIR BIT BREAKDOWN - Step 1: The Morning Confession - 60 seconds, kick off the segment -> Both hosts admit on air exactly how many minutes after waking they check their phone \u2014 no rounding down. - Step 2: Phone Lines Open - Live caller bit -> Ask listeners to call in and share their real 'first phone touch' time, then react live to how close it is to that 30-minute danger zone."
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.oregonstate.edu/news/social-media-offers-little-substitute-real-life-emotional-support-research-suggests",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "The Apple Next Vision Pro Is Reportedly on \u2018Life Support\u2019 - Gizmodo",
+    "angle": "Apple's $3,500 VR headset never took off, and now Bloomberg's Mark Gurman says the sequel is quietly getting starved of resources inside the company - a real signal Apple may be admitting the whole bulky-headset bet was wrong.",
+    "bullets": [
+      " Bloomberg's Mark Gurman reports the next-generation Vision Pro is on 'life support' internally at Apple",
+      " Apple could technically still ship another headset down the road, but it's reportedly not a priority right now",
+      " Word is Apple is instead leaning into a 'much less awkward' alternative - widely read as a hint toward smart glasses over another bulky headset",
+      " Did Vision Pro fail because it was ahead of its time, or because nobody actually wants to wear a $3,500 ski mask?"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/the-apple-next-vision-pro-is-reportedly-on-life-support-2000817916",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Tom Brady Gave Ex Gisele B\u00fcndchen a \u2018Middle Finger\u2019 Through Social Media After Divorce, New Book Says - People.com",
+    "angle": "Brady and B\u00fcndchen's split has been tabloid gold for years, and a new book claiming he threw social-media shade at her post-divorce is exactly the kind of petty-celebrity-drama tea that gets everyone talking.",
+    "bullets": [
+      " A new book claims Tom Brady gave ex-wife Gisele B\u00fcndchen a symbolic \"middle finger\" via social media after their divorce.",
+      " Be honest - who here has fired off a petty post-breakup social media move of their own? ON-AIR BIT BREAKDOWN - Step 1: Confess Your Pettiest Post-Breakup Move - Quick phone-in or social callout -> Ask listeners to text or call in with the pettiest thing they've done on social media after a breakup - hosts share their own first to break the ice. - Step 2: Rank the Petty Scale - 30-second host banter -> Hosts debate where Brady's alleged move ranks compared to classic breakup petty moves (posting with someone new, cryptic captions, unfollowing) - build a quick 'petty scale' from 1-10. People (via Google News) (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "tzNVA3a3p0WUdwV3M1Yjg4b3pKb183RkdxSVRtaXpBQXEtMllkVXNkVmw3S3k3dTJCOXBvbFBCSVRnNHRjSkhBZ2w3RVE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOelZ5NXJUTktsQUdaX0tFMDRXS2lXeWNGckZuNS1sWFlTWGlzdjNTeHR",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+    "angle": "This flips the usual cancer conversation from lifestyle and genetics to something a lot more preventable \u2014 infections \u2014 which means vaccines and screenings could be bigger cancer-fighting tools than people realize.",
+    "bullets": [
+      " New global study finds 1 in 8 cancer cases worldwide are linked to infections, not lifestyle or genetics.",
+      " Puts the spotlight on preventable culprits \u2014 the kind of thing a vaccine or early screening could catch.",
+      " Reframes cancer prevention as partly an infection-control issue, not just diet and habits.",
+      " Does knowing an infection could cause cancer make you more likely to get screened or vaccinated?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/health/cancer-infections-9.7361622?cmp=rss",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Tylenol during pregnancy not linked to autism, ADHD, major review finds",
+    "angle": "New research suggests the more diehard a Taylor Swift fan you are, the more likely you are to shrug off her private jet pollution - and even care less about your own climate footprint afterward. It's a fun mirror for how far any of us bend our values to protect a fave.",
+    "bullets": [
+      " A major review of the research found no link between taking Tylenol (acetaminophen) during pregnancy and kids later being diagnosed with autism or ADHD.",
+      " Did you take Tylenol while pregnant and spiral a little when the autism headlines hit \u2014 does this review actually put your mind at ease?",
+      " New study finds hardcore Taylor Swift fans downplay climate concerns when confronted with her private jet pollution.",
+      " Researchers say \"highly identified\" fans rationalize the behavior instead of criticizing it.",
+      " Those same fans reported *lower* personal intent to take climate-friendly action afterward.",
+      " Findings surfaced via r/science, reigniting the celebrity-carbon-footprint debate.",
+      " Would you make excuses for your favorite star's carbon footprint - or hold them accountable?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/taylor-swift-fans-lower-climate-concerns-to-justify-star-s-carbon-footprint/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "UK: councils to be given powers to take control of empty homes after six months",
+    "angle": "Three hundred thousand empty homes sitting in England while people can't find a place to live \u2014 this is the kind of \"finally, someone did something\" story that gets people fired up on both sides.",
+    "bullets": [
+      " Housing Secretary Angela Rayner unveiled the plan on day one of Labour's party conference in Liverpool",
+      " An estimated 300,000 homes across England currently sit empty",
+      " Local councils would get expanded power to seize derelict/empty homes and put them back into use",
+      " Reform targets the existing Empty Dwelling Management rules",
+      " Smart fix for a housing crisis, or government overreach on private property \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.lbc.co.uk/article/councils-to-get-new-powers-to-bring-empty-homes-back-into-use-5Hjdj7p_2/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Driver accused of driving SUV into a Kroger because he needed to use the bathroom",
+    "angle": "It's a classic 'not the onion' gut-punch \u2014 a property-damage crime story so absurd it basically writes its own punchline, perfect for a quick laugh before the goodbye.",
+    "bullets": [
+      " A driver allegedly plowed an SUV straight into a Kroger grocery store",
+      " His stated reason: he needed to use the bathroom",
+      " No further details on the SUV, the store location, or the damage were included in the source",
+      " What's the worst excuse you've ever heard for property damage \u2014 rate this one out of 10. ON-AIR BIT BREAKDOWN - Step 1: Set the scene - 10 seconds -> Host reads the headline dead serious, then pauses for the reaction beat. - Step 2: Rate the excuse - 30 seconds -> Hosts each give the 'gotta pee' excuse a score out of 10 for believability. - Step 3: Phone-in / text-in - Open lines -> Ask listeners to text in their own worst 'I panicked and did something dumb' excuse. - Step 4: Read a few live - 1-2 minutes -> Hosts pick 2-3 funniest listener excuses to read before tossing to goodbyes."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.click2houston.com/news/local/2026/09/28/driver-accused-of-ramming-through-rosenberg-grocery-store-upset-because-h",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "An 11-year-old from Harrow has become the youngest woman grandmaster in chess history",
+    "angle": "An 11-year-old from Harrow has become the youngest woman grandmaster in chess history",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://sheets.works/story/keep-making-history?r=stories",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Crows are being given naloxone after suspected drug overdoses in Prince George",
+    "angle": "A wildly bizarre headline that fuses the real opioid crisis with straight-up absurdist local news - the kind of 'wait, what?' story that's tailor-made for the goodbye segment.",
+    "bullets": [
+      " Story out of Prince George, British Columbia - crows reportedly showing signs of suspected drug overdoses.",
+      " Wildlife responders have been giving the birds naloxone, the same overdose-reversal drug (Narcan) used on humans.",
+      " Nature's weirdest sign of the opioid crisis yet, or the most 'only in 2026' headline you'll read all week?"
+    ],
+    "debate": "overdoses is a genuinely bizarre, never-seen-before angle on the opioid crisis that hits the 'wait, what?'",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/crows-overdose-prince-george-naloxone-9.7358727",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "A TV journalist is set to be crowned as king of a traditional monarchy in Uganda",
+    "angle": "A working TV journalist is about to trade the anchor desk for an actual throne in a traditional Ugandan kingdom \u2014 it's the kind of real-life plot twist that sounds made up but isn't, and it's tailor-made for a quick \"wait, what?\" moment on air.",
+    "bullets": [
+      " If you found out your co-anchor was secretly royalty, would you still let them get you coffee?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/uganda-tooro-kingdom-journalist-coronation-d0e9d2c065641a876c27faf7df2a2425",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Book Award Winner Complains About White Paint Because of Its \u201cPurity\u201d and \u201cCleanliness\u201d",
+    "angle": "A celebrated author is calling out a paint brand for marketing white as \"pure\" and \"clean\" \u2014 a classic case of someone finding hidden meaning in the most boring color on the shelf, and it's tailor-up for a quick did-they-have-a-point debate.",
+    "bullets": [
+      " A book award winner is publicly objecting to a white paint product",
+      " Story's blowing up on r/nottheonion for how out-there it sounds at first glance"
+    ],
+    "debate": "Genuine critique of loaded language, or reaching way too hard over a paint can?",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thenewamerican.com/us/culture/book-award-winner-complains-about-white-paint-because-of-its-purity-and-cleanliness/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "NYC man killed in freak accident after backpack got caught in subway doors https://t.co/uJeTRvOIXu https://t.co/wTUsKgRJCt",
+    "angle": "A bizarre, almost unbelievable freak accident in the NYC subway that instantly becomes a nightmare-scenario story every straphanger can picture themselves in.",
+    "bullets": [
+      " A man in New York City was killed after his backpack got caught in subway doors, according to the New York Post.",
+      " Officials are calling it a freak accident \u2014 details on exactly how it unfolded are still limited.",
+      " Be honest \u2014 how many of you have had a bag or coat sleeve catch in closing subway or train doors and had that split-second panic? X/Twitter @NYPost (Tier 1) | Score: 52/90 (45 fit + 12 source + 5 quality - 10 penalty (Depressing/negative tone)) -> STRONG"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2104915909827494360",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "\u2018Betrayed\u2019 Prince William tangled in another royal feud after family member opens up \u2018traumatic\u2019 chapter https://t.co/KXbVRdiu15 https://t.c",
+    "angle": "Another royal family member is going public with a 'traumatic' chapter and calling out Prince William directly \u2014 royal drama is always a ratings magnet, and 'betrayed' is a strong word for a royal to use on the record.",
+    "bullets": [
+      " A royal family member is opening up about a chapter they call 'traumatic'",
+      " Prince William is described as feeling 'betrayed' by the fallout",
+      " Marks the latest in an ongoing string of royal family feuds",
+      " Is the royal family ever going to catch a break, or is the drama just part of the brand at this point? X/Twitter @NYPost (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2104891093556867489",
+    "score": "",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-28",
     "slot": "pm",
     "category": "THE LIST",
