@@ -1,6 +1,429 @@
 [
   {
     "date": "2026-09-29",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "The Ocean Cleanup stopped 463,000 pounds of trash from reaching the Gulf of Honduras in a single catch, using a river barrier in Guatemala to intercept waste before it reaches the Caribbean Sea.",
+    "angle": "A nonprofit just intercepted nearly a quarter-million kilos of garbage in one haul before it could pour into the Caribbean Sea - a rare good-news environmental win with a wild number attached that people love sharing.",
+    "bullets": [
+      " Try to picture 463,000 pounds of garbage - that's roughly 30 school buses' worth of trash that never made it to the ocean."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.yahoo.com/news/science/articles/ocean-cleanup-stops-463-000-165700715.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+    "angle": "Prediction markets have exploded as the hot new way to bet on everything from elections to sports, and courts keep saying the same thing: this is gambling, and it has to follow gambling law. It's a real threat to a booming industry millions of people have started using.",
+    "bullets": [
+      " Kalshi has now lost another court ruling on this exact issue.",
+      " Judges determined prediction markets don't get to skip state gambling laws just because they're dressed up as financial exchanges.",
+      " It's part of a growing legal pattern chipping away at the industry's argument that these are trading platforms, not betting apps.",
+      " Is trading on 'will this happen' apps actually just gambling with extra steps?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Sask. drone company says no 'special rights' attached to $10M US investment linked to Trump Jr.",
+    "angle": "Sask. drone company says no 'special rights' attached to $10M US investment linked to Trump Jr.",
+    "bullets": [],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/draganfly-no-special-rights-10m-investment-linked-trump-jr-9.7363003?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump says top tech firms have signed accord to 'self-police' AI development",
+    "angle": "The President is touting a voluntary deal where top AI companies promise to police themselves instead of facing hard regulation \u2014 critics will instantly ask if that's oversight or just a photo-op.",
+    "bullets": [
+      " President Trump says he's signed a voluntary accord with top AI companies",
+      " No binding government regulation attached \u2014 it's a pact, not a law",
+      " Should we trust AI giants to regulate themselves, or is that like letting the fox guard the henhouse?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/ai-trump-agreement-9.7363125?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Roman Anthony leaves Game 1 against Yankees in possible injury scare: \u2018Not a good sign\u2019",
+    "angle": "Roman Anthony leaves Game 1 against Yankees in possible injury scare: \u2018Not a good sign\u2019",
+    "bullets": [],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/29/sports/roman-anthony-leaves-game-1-of-wild-card-series-against-yankees-with-apparent-injury/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "\u2018Sir, we are sorry:\u2019 Trump expects Canada to cave as import ban takes effect. Follow for live updates.",
+    "angle": "\u2018Sir, we are sorry:\u2019 Trump expects Canada to cave as import ban takes effect. Follow for live updates. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "bullets": [],
+    "debate": "xWHhGaDJTb194ekVJVkxoR1BJWXltTjlqMjVfZUN2YzE0Z3lPdjBqczJxYllrYUZWelBLQQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNVZvYmxMSmRhdkU1cmZ3NV9Nam1ucjVXdl9FTldnYjgzUDJlTHhMSmJ",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Carney suggests immigration increase is on the horizon in New York Times interview",
+    "angle": "After years of Ottawa slamming the brakes on immigration numbers, the PM just told the New York Times more people could be on the way in - a total 180 that's going to reignite the whole housing-and-jobs debate.",
+    "bullets": [
+      " Mark Carney floated the idea of raising immigration levels in a sit-down with The New York Times",
+      " Comes after his government spent the last stretch dialing immigration targets *down*, not up",
+      " No hard numbers or timeline confirmed yet - just Carney signaling a shift in direction",
+      " Is Canada ready to reverse course on immigration, or did the last round of cuts happen for a reason?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/politics/article/carney-suggests-immigration-increase-is-on-the-horizon-in-new-york-times-interview/",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "In New York Times interview, PM Carney suggests immigration increase is on the horizon",
+    "angle": "In New York Times interview, PM Carney suggests immigration increase is on the horizon CTV News (via Google News) (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "bullets": [],
+    "debate": "m8wREo3UmlGckNwNm51WE5NRF80VWtnZDZxT2hSNnB1ZU1CZnpmYmF3SFhrRy0ycDFBMklfWUJzdENlbHF4dTJ1Tk1SSUc?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM05EaVRXdl9DRW1XOE1UZXF4YXppd2tyYmxJVE12T0Z2cjNGSnJMY",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Netanyahu meets Emirati leader in a secret weekend trip to Abu Dhabi, and other Mideast developments - AP News",
+    "angle": "Netanyahu meets Emirati leader in a secret weekend trip to Abu Dhabi, and other Mideast developments - AP News Associated Press (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "https://apnews.com/article/israel-iran-uae-netayahu-yemen-september-28-2026-854377716258982535c7b2cd3a7d0fe0",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Struggling Tim Hortons franchisee cites limits to foreign workers: report",
+    "angle": "It's the classic double-double debate \u2014 a franchisee going public on limits to hiring foreign workers taps right into the national conversation about labor shortages, immigration policy, and whether small business owners are getting squeezed.",
+    "bullets": [
+      " Should Ottawa loosen foreign worker caps for struggling small businesses, or is that a band-aid on a bigger wage problem?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://torontosun.com/news/national/struggling-tim-hortons-franchisee-foreign-workers",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Conservative MP Scott Aitchison expected to resign this fall: sources",
+    "angle": "Conservative MP Scott Aitchison expected to resign this fall: sources",
+    "bullets": [],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/scott-aitchison-expected-to-resign-9.7363151?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Polo makes 2nd landfall on Mexico's Pacific coast",
+    "angle": "A hurricane making a rare second landfall is the kind of freak-weather story that grabs attention, especially with Baja California already soaked before round two hit the mainland coast.",
+    "bullets": [
+      " Hurricane Polo made its second landfall on Mexico's northwestern Pacific coast on Tuesday",
+      " It had already drenched the southern Baja California peninsula before this latest hit",
+      " Two landfalls from one storm - anyone got Baja travel plans they're now nervously refreshing the forecast for?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/hurricane-polo-second-landfall-mexico-9.7362838?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Dancing With the Stars\u2019 sends another couple home in shocking \u2018Yacht Rock Night\u2019 elimination",
+    "angle": "It's the season's latest gut-punch elimination, and Yacht Rock Night's cheesy-fun theme made the surprise boot hit even harder \u2014 perfect fodder for hosts to debate whether America's voting got it wrong again.",
+    "bullets": [
+      " Another celebrity and their pro partner were eliminated Tuesday night",
+      " Fans and the hosts are calling it a 'shocking' result",
+      " Was this the right couple to send home, or did America's votes get it wrong again? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/29/entertainment/taylor-hanson-eliminated-from-dancing-with-the-stars-during-yacht-rock-night/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Deeply embarrassing sequence. Eric Schmitt accuses Jack Smith of traveling to Atlanta to attend an Atlanta Hawks game and collude with Fani Willis, only to get the basic facts completely wrong. Smith was actually in Maryland attending a Hawkeyes game and never met Willis",
+    "angle": "A senator tried to drop a bombshell accusation and instead delivered a masterclass in not fact-checking yourself \u2014 mixing up an NBA team with a college football team in the process. It's the kind of self-own that writes its own punchline.",
+    "bullets": [
+      " Sen. Eric Schmitt accused Jack Smith of flying to Atlanta to catch a Hawks game as cover to secretly meet Fani Willis",
+      " Only problem: Smith was actually in Maryland watching the Hawkeyes \u2014 as in Iowa's college team, not Atlanta's NBA team",
+      " No evidence Smith and Willis ever met at all",
+      " Nothing sinks a scandal claim faster than not knowing the difference between an NBA team and a Big Ten team."
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/rceuob3zbish1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Tom Cruise is fantastic in Digger. You might hate it",
+    "angle": "A new Alejandro G. I\u00f1\u00e1rritu climate drama has critics split: Tom Cruise is getting raves for the performance, but reviewers are calling out the film itself for lecturing audiences on climate doom while cashing in on that same doom for entertainment.",
+    "bullets": [
+      " Tom Cruise stars in \"Digger,\" directed by Alejandro G. I\u00f1\u00e1rritu",
+      " CBC calls it a \"climate morality tale\" \u2014 but not necessarily a compliment",
+      " Reviewer's verdict on Cruise: fantastic performance \u2014 but \"you might hate it\"",
+      " Can a movie preach about the climate crisis while entertaining you with it \u2014 or is that exactly the problem?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/digger-review-9.7362251?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "American taps small Sask. business to solve international photo mystery",
+    "angle": "American taps small Sask. business to solve international photo mystery",
+    "bullets": [],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/american-photographer-saskatchewan-company-solve-mystery-9.7361414?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hereos, zeros from Yankees\u2019 Game 1 rout of Red Sox: Austin Wells did it all",
+    "angle": "A 9-0 wild-card blowout with a breakout performance is easy, fun sports talk for a rivalry that always gets people fired up.",
+    "bullets": [
+      " Yankees demolished the Red Sox 9-0 in Game 1 of the wild-card series",
+      " Catcher Austin Wells was the story of the night, described as a guy who \"did it all\"",
+      " Classic Yankees-Red Sox playoff rivalry adds extra juice to a lopsided win",
+      " Is this Red Sox team already cooked, or is one bad night not worth panicking over?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/29/sports/hereos-zeros-from-yankees-game-1-rout-of-red-sox-austin-wells-did-it-all/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Cam Schlittler & Ben Rice Dominate the Red Sox 9-0 Game 1 Postgame LIVE | Pinstripe Post",
+    "angle": "Yankees-Red Sox in a winner-take-all-style playoff series is appointment viewing for the whole Northeast, and a 9-0 Game 1 blowout instantly changes the temperature heading into Game 2.",
+    "bullets": [
+      " Yankees thumped the Red Sox 9-0 in Game 1 of the AL Wild Card series",
+      " Cam Schlittler and Ben Rice were the standout performers driving the win",
+      " It's being billed as a historic Yankees-Red Sox Wild Card matchup",
+      " Red Sox fans, be honest - after a 9-0 Game 1, is this series already over?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/video/cam-schlittler-ben-rice-dominate-the-red-sox-9-0-game-1-postgame-live-pinstripe-post/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Why \u2018Lioness\u2019 Star Zoe Salda\u00f1a \u201cCan\u2019t Imagine\u201d Joining Another Taylor Sheridan Show -",
+    "angle": "Why \u2018Lioness\u2019 Star Zoe Salda\u00f1a \u201cCan\u2019t Imagine\u201d Joining Another Taylor Sheridan Show - The Hollywood Reporter Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/tv/tv-news/lioness-zoe-saldana-cant-join-another-taylor-sheridan-show-1236714032/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Alix Earle makes shocking revelation that she\u2019s \u2018never read a book\u2019: \u2018Maybe Dr. Seuss?\u2019",
+    "angle": "The internet's favorite influencer just casually confessed she's never finished a book in her life, and the backlash online is instant - it's the kind of confession that splits a room right down the middle between 'who cares' and 'come on.'",
+    "bullets": [
+      " Alix Earle revealed she's 'never read a book'",
+      " When pressed for an example, her best guess was 'Maybe Dr. Seuss?'",
+      " Be honest - what's the last book YOU actually finished cover to cover? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/29/celebrity-news/alix-earle-makes-shocking-revelation-that-shes-never-read-a-book/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "White Sox get blessing from Pope Leo before MLB playoffs \u2014 then go dominate Astros",
+    "angle": "Pope Leo XIV, a Chicago guy himself, sent the White Sox a good-luck letter right before their playoff game against Houston \u2014 and they went out and won. It's the kind of sports-meets-faith coincidence that's tailor-made for a fun morning-show tangent.",
+    "bullets": [
+      " Pope Leo XIV sent a letter of support to the White Sox ahead of their playoff matchup.",
+      " Chicago beat the Astros 6-3 at Daikin Park on Tuesday.",
+      " Pope Leo XIV is widely known as a lifelong White Sox fan from the Chicago area.",
+      " Divine intervention or just a good lineup \u2014 does a papal blessing actually juice a team's mojo?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/09/29/sports/white-sox-get-blessing-from-pope-leo-before-mlb-playoffs-then-go-dominate-astros/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Spider-Man: Brand New Day\u2019 Re-Release in the Works With New Footage - Variety",
+    "angle": "A new 'Spider-Man' movie getting a mystery re-release before it's even out is the kind of hype move that gets fans (and non-fans) speculating online for weeks.",
+    "bullets": [
+      " Variety confirms 'Spider-Man: Brand New Day' is getting a re-release featuring new footage",
+      " Studio is keeping details on the new scenes under wraps",
+      " No release date has been announced yet for the re-release",
+      " What do you think they're hiding in that new footage - a twist, a cameo, or just a marketing tease? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/news/spider-man-brand-new-day-re-release-new-footage-tom-holland-1236877741/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Creatine alone boosted lean muscle and strength, study finds",
+    "angle": "Creatine alone boosted lean muscle and strength, study finds",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.newsnationnow.com/health/creatine-alone-boosted-muscle-strength/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Victoria\u2019s Secret Announces Lineup of All-Women Musical Performers for 2026 Fashion Show - People.com",
+    "angle": "The Victoria's Secret runway show is one of the year's biggest fashion-meets-pop-culture events, and going all-women for the performers is the kind of lineup choice that gets fans immediately speculating who's on the bill.",
+    "bullets": [
+      " Victoria's Secret has confirmed its 2026 Fashion Show will feature an all-women musical lineup",
+      " Full performer names haven't been detailed yet in what we've got - watch for the reveal",
+      " Who's your dream pick to perform at the VS show - callers, drop your bets now before the names drop. People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jeHNYaU1LTTllNlEtc1duV01GckItQkZOV2JzTkFpVXJFcmpESUhoMkJ3TnlY",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Your car\u2019s data privacy problems are worse than you think / A team of researchers tested 21 vehicles and found that all of them transmitted data to a third-party domain. And over half were pinging advertising companies.",
+    "angle": "Your car\u2019s data privacy problems are worse than you think / A team of researchers tested 21 vehicles and found that all of them transmitted data to a third-party domain. And over half were pinging advertising companies.",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "After 6,000 years, European bison are back in Britain. A new herd is being reintroduced to 5,000 acres of protected land, where the giant mammals will help restore natural habitats and create new homes for other wildlife.",
+    "angle": "Europe's biggest land mammal is making a comeback on British soil for the first time since the Bronze Age - it's the kind of pure, feel-good nature story that's perfect to send the audience off on.",
+    "bullets": [
+      " European bison are being reintroduced to Britain for the first time in 6,000 years",
+      " Sometimes the biggest news is just something ancient getting a second chance."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nz.news.yahoo.com/bison-back-britain-6-000-231449746.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-29",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "At least 20 planned school shootings have been stopped since 2018 after warning signs were reported through Sandy Hook Promise prevention programs. The latest was in Arkansas, where an anonymous tip led to an intervention before anyone was hurt",
+    "angle": "This is the good-news flip side of a topic that usually terrifies parents - a tip line actually works, and the most recent save just happened in Arkansas with zero people hurt.",
+    "bullets": [
+      " Sandy Hook Promise's prevention programs have helped stop at least 20 planned school shootings since 2018",
+      " It started with an anonymous tip flagging warning signs before anyone was harmed",
+      " No injuries, no headlines that day - just a threat caught and handled quietly",
+      " One anonymous tip in Arkansas is the reason today's kicker isn't a tragedy - that's the story worth sending listeners home with."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sandyhookpromise.org/news/press-releases/prevention-programs-have-helped-stop-20-school-shootings-since-2018/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-29",
     "slot": "am",
     "category": "THE LIST",
     "title": "Chuck Grassley, oldest sitting US senator, laments dying in office under a Democratic governor",
