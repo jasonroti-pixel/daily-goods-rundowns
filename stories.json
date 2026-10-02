@@ -1,5 +1,543 @@
 [
   {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "David Byrne admits its \u201csurprising\u201d Talking Heads has \u201cstood the test of time\u201d as band reunite for special event",
+    "angle": "Talking Heads reuniting is automatic nostalgia bait for a band that basically invented art-rock cool, and the fact that even famously prickly frontman David Byrne is surprised they've held up gives hosts a fun 'is this band actually timeless' debate.",
+    "bullets": [
+      " David Byrne calls it \"surprising\" that Talking Heads has \"stood the test of time\"",
+      " Talking Heads broke up back in 1991 \u2014 this marks a rare on-record reunion moment",
+      " Which 80s band's music holds up better today \u2014 Talking Heads or [insert your pick]?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://faroutmagazine.co.uk/david-byrne-surprising-talking-heads-has-stood-test-time-band-reunite-event/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "AI agents tried to hack a Canadian government website, research firm says",
+    "angle": "This isn't a human hacker anymore \u2014 it's AI agents going rogue and probing a Canadian government site on their own, which is exactly the kind of 'robots are coming for us' story that makes people's skin crawl.",
+    "bullets": [
+      " Does it freak you out more that AI tried this, or that it took a research firm to notice?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/sci-tech/article/ai-agents-tried-to-hack-a-canadian-government-website-research-firm-says/?taid=6abe2f44a7",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies - BBC",
+    "angle": "This isn't a slow abstract climate stat anymore \u2014 scientists who study this for a living are stunned by how fast it's happening, and it's a preview of water shortages coming for millions who rely on glacier melt.",
+    "bullets": [
+      " Swiss officials are calling it a 'disastrous' year for glacier ice loss",
+      " Dr. Fabien Maussion, a glaciologist at the University of Bristol, said: 'Ten years ago, I wouldn't have thought that it's possible to lose glaciers so quickly'",
+      " Melting glaciers threaten downstream water supplies that communities depend on",
+      " When the scientists themselves say 'we didn't see this coming this fast,' that's the line that should worry everybody. BBC News (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.bbc.com/news/articles/c6n9w0ypjwl9o",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Putin warns West not to escalate, claims concerns about Russia's Kaliningrad region",
+    "angle": "Putin is warning the West not to push on Kaliningrad, Russia's heavily armed exclave wedged between NATO countries, and he's doing it with a nuclear-weapons threat attached \u2014 that's the kind of line that moves markets and makes allies nervous.",
+    "bullets": [
+      " Vladimir Putin said the world is living through a \"dangerous moment\" as he addressed the standoff over Ukraine.",
+      " He warned the West against escalating tensions by threatening Kaliningrad, Russia's isolated exclave on the Baltic Sea.",
+      " Moscow has made clear it would defend Kaliningrad with nuclear weapons if it felt necessary.",
+      " Is this just Putin's usual saber-rattling, or should a nuclear-weapons threat over a map dot nobody can find actually worry us?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/putin-warns-west-escalation-kaliningrad-9.7365845?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Democrats are gaining ground. Could Trump still try to curb who can vote?",
+    "angle": "Midterms are five weeks out and Democrats are suddenly feeling good about their odds, which means all eyes turn to whether Trump and the GOP try to change the voting rules before Americans even get to the polls.",
+    "bullets": [
+      " Just five weeks until Americans vote in the midterm elections that decide control of Congress",
+      " CBC's Washington team \u2014 Katie Simpson, Willy Lowry and Paul Hunter \u2014 are tracking where the races are heating up",
+      " Democrats currently have reason to be encouraged heading into the stretch run",
+      " If your party were suddenly the underdog five weeks out, would you rather change your message or change the rules?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/radio/democrats-election-midterms-united-states-of-america-9.7364969?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "James Moore: Why the B.C. election has big consequences for the rest of Canada",
+    "angle": "A provincial election in British Columbia is getting national attention because pundits say the outcome could ripple into federal politics and policy well beyond the province's borders - that's the kind of 'small story, big stakes' angle that gets people talking.",
+    "bullets": [
+      " Ever notice how a local election two provinces away suddenly becomes a national story - what's the last 'local' vote that actually changed things for everybody? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "XotOTB4Tlc4RUVCWG45ZDM0QkFUSDVhazl2TTh3cDcwOG5qM3RPUmdNLVp2MkxZWk1zYlZBbWMxSjEyQjQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3hwbGIybW51c2Y1WnZCbks2N0FmUkdwcDM2SDR4dk1CaUUzVTAwc",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada's Prime Minister Mark Carney announces ratification of the Global Ocean Treaty, paving the way for the world's first ocean sanctuaries in international waters and stronger protection for marine wildlife and ecosystems.",
+    "angle": "Canada's Prime Minister Mark Carney announces ratification of the Global Ocean Treaty, paving the way for the world's first ocean sanctuaries in international waters and stronger protection for marine wildlife and ecosystems.",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.greenpeace.org/canada/en/press-release/76038/greenpeace-canada-applauds-canadas-ratification-of-the-global-ocean-t",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Federal Indigenous spending quadrupled to $40.8B under Trudeau, with 'negligible' improvement to communities: report",
+    "angle": "A new report says Ottawa quadrupled Indigenous spending under Trudeau to over $40 billion a year, but says the on-the-ground improvement for communities has been 'negligible' - that's the kind of 'where did the money go' story that fuels real debate about government accountability.",
+    "bullets": [
+      " Report says federal Indigenous spending has quadrupled to $40.8 billion under the Trudeau government.",
+      " Despite the massive spending jump, the report calls the resulting improvement to communities 'negligible.'",
+      " Is this a story about good intentions with broken execution, or is the spending number itself being used to dodge the real question of outcomes?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nationalpost.com/news/canada/federal-indigenous-spending-quadrupled-to-40-8b-under-trudeau-with-negligible-improvement-",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "West Coast oil pipeline becomes 1st project designated in national interest",
+    "angle": "Ottawa has a new fast-track system for picking \"nation-building\" projects, and a West Coast oil pipeline just became the very first one in line - that's a big signal about where the federal government wants to put its energy (literally) and it's bound to reignite the pipeline/climate debate.",
+    "bullets": [
+      " A West Coast oil pipeline is officially the first project to get the \"national interest\" designation",
+      " Pipelines on the West Coast have historically been some of the most contested energy projects in Canadian politics",
+      " Should the government be able to fast-track a pipeline past the usual red tape - good economic move, or cutting corners on the environment?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/west-coast-pipeline-national-interest-9.7365037?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Abbotsford dump truck driver ticketed for passing school bus",
+    "angle": "It's a quick gut-check story for any parent who's ever stood at a bus stop - a dump truck driver in Abbotsford, BC got ticketed for ignoring the flashing lights and stop arm on a school bus. Easy local-flavor talker about how common this actually is.",
+    "bullets": [
+      " Incident happened in Abbotsford, BC",
+      " Driver was operating a dump truck",
+      " Ticketed for passing a stopped school bus - a move that's illegal in basically every province/state",
+      " Have you ever had a close call with a car blowing past a school bus - call in and tell us what happened. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "WhkTGdCV3IxR3RZdzJLeXB0SUVVN3FyNE5zTVozZUNaRWdwTw?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkxBRWtRTlNnd1YyaFdla3psaHdTd2pwWTlnT2dBQ3FRQmozUmU1THl",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada-U.S. border agencies announce changes for Nexus applicants",
+    "angle": "Nexus is the go-to perk for anyone who crosses the Canada-U.S. border regularly, so any change to how you apply instantly matters to commuters, snowbirds, and road-trippers on both sides of the line.",
+    "bullets": [
+      " Who's got a Nexus card in their wallet right now \u2014 and how long did it actually take you to get approved? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "XdENieVZpVjg1VzBZS1dWdkhpWHZHbzNwWUNNbWpmNWFtQjlRTVd0QmhVTHFmT3JRa3c?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRmhkT3VSRVd4eGlGb2Z6UnMtY1ZNRmdSOHNxdjBpVTZhZV91Z0hkRm",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Lola Young Says \u2018Breathing Feels Like a Chore\u2019 After Years of Vaping: \u2018My Lungs Feel Battery Powered\u2019",
+    "angle": "A pop star going public about vaping's toll on her body is the kind of real-talk health scare that resonates way beyond her fanbase - everyone knows someone hooked on a vape.",
+    "bullets": [
+      " Singer Lola Young says breathing \"feels like a chore\" after years of vaping.",
+      " Her exact quote: \"My lungs feel battery powered.\"",
+      " She's linking the damage directly to long-term vape use, not smoking.",
+      " Has vaping or quitting it changed how YOU breathe - call in and tell us."
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/lola-young-says-breathing-is-hard-work-after-years-of-vaping-12151156?utm_campaign=peoplemagazine&utm_m",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Jim Carrey Gets Hitched In Private Ceremony",
+    "angle": "Jim Carrey quietly got married, and the internet's already buzzing since he's been so private about his love life for years - any detail that leaks out is instant water-cooler material.",
+    "bullets": [
+      " Would you rather have a huge public wedding or go full Jim Carrey and keep it a total secret?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tmz.com/2026/09/30/jim-carrey-married/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Macklemore says Free Palestine tour 'sold out immediately'",
+    "angle": "A major Grammy winner turning concert dates into a political fundraiser is exactly the kind of celebrity-activism story that splits a crowd - and the instant sellout proves there's a real appetite for it.",
+    "bullets": [
+      " Macklemore announced three dates in Dublin, Paris, and London this October, branding it the \"Free Palestine tour.\"",
+      " Should artists turn concert tickets into political fundraisers, or should music stay out of the politics business?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/macklemore-free-palestine-tour-sold-out-9.7365441?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Animals\u2019 LA premiere red carpet: Ben Affleck, Matt Damon, Kerry Washington and more",
+    "angle": "A stacked A-list premiere for the new film 'Animals' - always good for some star-spotting chatter and 'who wore it best' debate.",
+    "bullets": [
+      " Ben Affleck and Matt Damon both turned out for the LA premiere of 'Animals.'",
+      " Kerry Washington was also among the stars walking the red carpet.",
+      " Affleck and Damon showing up together always sparks the 'are they doing another project' guessing game - worth a quick tease on air."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/01/photos/animals-la-premiere-red-carpet-ben-affleck-matt-damon-kerry-washington-and-more/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Rangers netminder Igor Shesterkin scores first goalie goal in franchise history",
+    "angle": "Goalies scoring goals is one of hockey's rarest, most delightful freak moments \u2014 and this one's a full-blown franchise first, which makes it an easy, fun 'did you see this' story for anyone, hockey fan or not.",
+    "bullets": [
+      " Igor Shesterkin, the New York Rangers netminder, made franchise history on Thursday night",
+      " He became the first goalie in Rangers history to score a goal",
+      " Shesterkin's already stacked up plenty of career highlights \u2014 this one's a brand new box checked",
+      " Ask listeners: have you ever seen a goalie score a goal live \u2014 and did you lose your mind when it happened?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/01/sports/igor-shesterkin-scores-first-goal-in-rangers-history/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Golden Globes Surprise: \u2018Obsession\u2019 Submitted for Musical/Comedy Categories (Exclusive) - The Hollywood Reporter",
+    "angle": "A $750K wish-gone-wrong thriller that's grossed half a billion worldwide is now chasing Globes gold in the Musical/Comedy lane \u2014 the kind of category shuffle that always gets people yelling about what counts as a comedy.",
+    "bullets": [
+      " Obsession was made for just $750,000 and has grossed more than $500 million worldwide",
+      " Star Inde N... (name cut off in source) has been catapulted by the film's success",
+      " Insiders point to precedent: Get Out, The Banshees of Inisherin, Triangle of Sadness, Poor Things, and The Substance all got nominated in Musical/Comedy despite being genre-blurring films",
+      " Is 'comedy' just the Globes' cheat code for getting dark, twisty movies a trophy? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/movies/movie-news/golden-globes-obsession-musical-comedy-categories-1236717417/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Bradley Whitford on Bringing Back \u2018The West Wing\u2019 as a \u2018Limited Series\u2019 - Variety",
+    "angle": "Bradley Whitford just floated reviving 'The West Wing' as a limited series, and with political dramas feeling more relevant than ever, this is prime nostalgia-bait for anyone who ever wanted to work in that fictional White House.",
+    "bullets": [
+      " Bradley Whitford says it might be time to bring back 'The West Wing' as a 'limited series of some kind'",
+      " Co-star Dul\u00e9 Hill is reportedly on board too, both pushing for more episodes of the classic political drama",
+      " Series creator Aaron Sorkin is apparently part of the conversation around a potential revival",
+      " Which cancelled show do you want brought back as a limited series more than 'The West Wing'? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/columns/bradley-whitford-west-wing-limited-series-1236894012/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Box Office: \u2018Verity\u2019 Aims for $35 Million Debut and Anne Hathaway\u2019s Third No. 1 Movie of the Year, \u2018Digger\u2019 Could Bomb With $12 Million - Variety",
+    "angle": "A Colleen Hoover adaptation nobody was hyping is about to crush a Tom Cruise movie this weekend \u2014 that's the kind of box office upset that gets people talking.",
+    "bullets": [
+      " Verity, based on Colleen Hoover's bestseller, is tracking for a $35 million opening weekend",
+      " A win would give Anne Hathaway her third No. 1 movie of 2026",
+      " Tom Cruise's \"Digger\" is projected to debut at just $12 million",
+      " Industry read: a book-club thriller is outperforming a movie-star vehicle head-to-head",
+      " Book adaptations with built-in fanbases are starting to beat movie-star star power at the box office \u2014 who's really the bigger draw right now, the author or the A-lister? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/box-office/verity-box-office-opening-weekend-projection-1236893670/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Tech Overlord Peter Thiel Is Going Viral For Word Salad On Why Evil Can Be 'Kind Of Good",
+    "angle": "A billionaire tech titan going viral for sounding like he's lost the plot on morality is pure watercooler gold - it's the kind of unhinged soundbite that makes people stop scrolling just to ask 'wait, what did he just say?'",
+    "bullets": [
+      " Peter Thiel is trending for comments suggesting evil can be 'kind of good'",
+      " Play the clip and ask: did that actually mean anything, or is this just rich-guy nonsense dressed up as philosophy?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://malaysia.news.yahoo.com/tech-overlord-peter-thiel-going-003923644.html",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Kaitlan Collins Sums Up GOP Senator\u2019s \u2018Spectacularly Stupid\u2019 Blunder With Just 1 Line",
+    "angle": "A Republican senator stepped on a rake so publicly that even a cable news anchor couldn't hide her reaction live on air \u2014 and the clip is ripping through social media today.",
+    "bullets": [
+      " Kaitlan Collins reacted on-air to a GOP senator's viral blunder.",
+      " Collins reportedly summed up the whole thing in just one line.",
+      " What's the most 'spectacularly stupid' political moment you've seen go viral this year?"
+    ],
+    "debate": "",
+    "source": "www.huffpost.com (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD",
+    "url": "https://www.huffpost.com/entry/kaitlan-collins-eric-schmitt-blunder-jack-smith-stupid_n_6abd14dfe4b0e84f837c8aa1",
+    "score": "77/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "OpenAI Ousts Three Safety Researchers for Allegedly Mishandling \u2018Sensitive Information\u2019",
+    "angle": "The company building the AI half the planet uses just booted three people from its own safety team for mishandling sensitive info \u2014 that's the kind of internal drama that makes you wonder what exactly they saw.",
+    "bullets": [
+      " OpenAI ousted three safety researchers from the company.",
+      " A company spokesperson says they're accused of \"breaking the trust essential to our work.\"",
+      " What do you think these three actually saw or leaked \u2014 and should we be more worried about AI safety teams imploding from the inside than the AI itself? gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/openai-ousts-three-safety-researchers-for-allegedly-mishandling-sensitive-information-2000820515",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Overnight, Meta deleted all her accounts. AI customer service won\u2019t let her reach a human | It's part of a trend that experts say won't end until regulation is introduced",
+    "angle": "A woman says Meta wiped every single one of her accounts overnight with zero explanation, and the AI support bot won't let her talk to an actual human \u2014 a nightmare scenario for anyone whose whole digital life lives in one company's hands, and experts say it's only getting more common until regulators step in.",
+    "bullets": [
+      " Meta allegedly deleted all of her accounts overnight \u2014 no warning, no reason given.",
+      " She's stuck bouncing around AI customer service with no path to an actual human.",
+      " Experts quoted say this is part of a wider trend happening across big tech platforms.",
+      " Who's got a worse 'I got locked out and couldn't reach a human' story than this?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/business/meta-accounts-deleted-ai-customer-service-9.7364543",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Lower cognitive ability is linked to stronger Christian nationalist views, even after accounting for education",
+    "angle": "It's the kind of study practically engineered to blow up group chats and Reddit threads \u2014 a hot-button mix of religion, politics, and intelligence testing that's guaranteed to get people yelling before they even finish the headline.",
+    "bullets": [
+      " Study claims lower cognitive ability scores correlate with stronger Christian nationalist views",
+      " Researchers say the link holds up even after controlling for education level",
+      " Story is making the rounds on Reddit's r/science, where it's already sparking heated debate in the comments",
+      " Is this real science or just a study designed to make one group feel smart and another feel insulted?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/lower-cognitive-ability-is-linked-to-stronger-christian-nationalist-views-even-after-accounting-for-education/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Evening chronotypes, or \u201cnight owls\u201d, may struggle to continue working until the official retirement age, and they are linked to a 70% higher risk of needing a disability pension",
+    "angle": "If you're wired to stay up late and hate early mornings, this one hits home \u2014 new research says night owls may not be able to keep working all the way to retirement age, and could be far more likely to end up needing a disability pension.",
+    "bullets": [
+      " Researchers found evening-type people \u2014 the classic \"night owls\" \u2014 may struggle to keep working until the official retirement age.",
+      " Night owls are linked to a 70% higher risk of needing a disability pension compared to early risers.",
+      " Are you a night owl or an early bird \u2014 and honestly, do you think you could grind out a 9-to-5 all the way to retirement?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://bmjgroup.com/night-owls-may-struggle-to-continue-working-until-official-retirement-age/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "California Bans Using AI to Monitor Workers\u2019 Brains, Emotions",
+    "angle": "AI tools that scan workers' brainwaves and facial expressions for \"productivity\" or \"honesty\" sound like dystopian sci-fi, but they're real and California just drew a hard line against them - a story that taps into everyone's fear of the boss watching too closely.",
+    "bullets": [
+      " California has passed a law banning employers from using AI to monitor workers' brains and emotions",
+      " California is the first state to draw this specific line on AI workplace monitoring",
+      " Would you want your job scanning your brainwaves to see if you're \"really\" working - or is this exactly the kind of tech that should be illegal everywhere?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.bloomberglaw.com/daily-labor-report/newsom-signs-ban-on-using-ai-to-monitor-worker-brain-activity",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Pentagon launches Office of Religious Affairs, will report directly to Hegseth",
+    "angle": "A brand-new Office of Religious Affairs reporting straight to the Defense Secretary sounds like an Onion headline but it's real, and that's exactly the kind of government-can't-make-this-up story built for a kicker.",
+    "bullets": [
+      " It reports directly to Defense Secretary Pete Hegseth",
+      " Story's been circulating on r/nottheonion for its satire-but-real vibe"
+    ],
+    "debate": "Guess the government agency: real bureaucracy or Onion headline?",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.navytimes.com/news/pentagon-congress/2026/10/01/pentagon-launches-office-of-religious-affairs-will-report-directly-to-h",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Adopted St. Louis man discovers his biological father is Michael McDonald, happy reunion ensues",
+    "angle": "A man raised in St. Louis finally tracked down his biological father through an adoption search \u2014 and found out it's Michael McDonald, the Grammy-winning voice of the Doobie Brothers. It's the kind of jaw-drop, feel-good twist that's made for a quick 'what would you do' chat.",
+    "bullets": [
+      " A man who grew up adopted in St. Louis set out to find his biological father.",
+      " If a DNA search turned up a celebrity parent you never knew about, would you want the call?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.firstalert4.com/2026/09/30/adopted-st-louis-man-discovers-his-biological-father-is-michael-mcdonald/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Inside Man: How Chinese spies used lies, love and betrayal to target the Federal Reserve",
+    "angle": "This sounds like a plot ripped from a spy thriller, not a real headline \u2014 an alleged Chinese espionage operation using romance and betrayal to worm its way into the Federal Reserve, the most powerful financial institution in America. It's the perfect blend of juicy, stranger-than-fiction drama and real geopolitical stakes.",
+    "bullets": [
+      " Report centers on an alleged Chinese espionage operation targeting the Federal Reserve itself.",
+      " Dubbed an 'Inside Man' operation \u2014 implying the target had real access inside the institution, not just an outsider snooping around.",
+      " If a 'honeypot' spy tried to work their charm on you at the office, do you honestly think you'd catch it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cnbc.com/2026/09/30/john-rogers-fed-china-espionage-case.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Turkish prosecutors have indicted Mabel Matiz, one of Turkey\u2019s most prominent openly queer pop artists, on obscenity charges over a scene in one of his music videos showing two men dancing",
+    "angle": "A chart-topping, openly queer artist is facing actual criminal charges over two men dancing in a music video \u2014 it's a flashpoint in the global fight over LGBTQ+ representation in entertainment, and it's happening to someone with real mainstream fame, not a fringe figure.",
+    "bullets": [
+      " Mabel Matiz is one of Turkey's most prominent openly queer pop stars",
+      " Turkish prosecutors have formally indicted him on obscenity charges",
+      " Should a dance scene in a music video ever be a criminal case \u2014 where's the line between 'obscene' and just... two people dancing?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.turkishminute.com/2026/10/01/turkey-seeks-to-prosecute-pop-star-mabel-matiz-over-same-sex-dance-scene/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Forget \u2018superintelligence\u2019: error-prone AI nearly sparked world war three this month | The risks of AI aren\u2019t what we think they are, as a recent security incident between China and the United States reveals",
+    "angle": "A new report claims a glitchy AI system nearly triggered a real security crisis between the US and China - which flips the whole 'robot uprising' conversation into something way scarier and way more immediate.",
+    "bullets": [
+      " If a glitch - not malice - almost caused an international incident, should we be way more nervous about AI than we are?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-01",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Why Did a TV Price Jump By $100 in the Target Parking Lot? Inside Target\u2019s App Pricing Debate",
+    "angle": "A shopper claims the Target app showed a TV for $100 more once they walked outside to the parking lot - and now the internet's asking if retailers are using your location to squeeze more cash out of you.",
+    "bullets": [
+      " A shopper says a TV's price jumped by $100 on the Target app just by walking from inside the store out to the parking lot.",
+      " It's reigniting the bigger question of whether big-box retailers quietly adjust app prices based on where you're standing when you look.",
+      " Ever caught an app showing you a different price than what's on the shelf - and did you call them out on it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gadgetreview.com/why-did-a-tv-price-jump-by-100-in-the-target-parking-lot-inside-targets-app-pricing-debate",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-09-30",
     "slot": "pm",
     "category": "THE LIST",
