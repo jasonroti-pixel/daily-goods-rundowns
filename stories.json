@@ -1,5 +1,443 @@
 [
   {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Bill Gates says companies that replace human labor with robots should have to pay the same FICA taxes",
+    "angle": "Bill Gates says companies that replace human labor with robots should have to pay the same FICA taxes",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.businessinsider.com/bill-gates-fica-taxes-should-apply-to-robot-workers-2026-9",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Japan considers replacing military troops with humanoid robots",
+    "angle": "Japan considers replacing military troops with humanoid robots",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.yahoo.com/news/world/articles/japan-considers-replacing-military-troops-220024373.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "The NHL final is no longer free to watch. This group wants to pass a law to change that",
+    "angle": "The NHL final is no longer free to watch. This group wants to pass a law to change that",
+    "bullets": [],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/radio/asithappens/nhl-anti-siphoning-9.7364328?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Mark Carney's stand against Trump leads to Nobel Peace Prize and Time Person of the Year buzz - ctvnews.ca",
+    "angle": "Canada's PM taking on Trump is suddenly generating serious buzz - Nobel Peace Prize chatter AND Time's Person of the Year speculation in the same breath, which is a wild combo for a sitting Canadian leader.",
+    "bullets": [
+      " Mark Carney's pushback against Trump is driving the conversation",
+      " He's being floated as a contender for the Nobel Peace Prize",
+      " Also generating buzz for Time's Person of the Year",
+      " Does standing up to Trump actually make you Nobel Peace Prize material, or is this buzz getting ahead of itself? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "hCYmJwN3duZw?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSW9DeXotYlZSNG01WEVVRHRQVFFONktwX0pldFptVmtackNSbjBrSUx",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Zoe Salda\u00f1a, Rosie Huntington-Whiteley and more stars shock in sheer lace at Saint Laurent fashion show - Page Six",
+    "angle": "Paris Fashion Week just delivered its most talked-about red carpet moment of the season, with A-listers ditching coverage entirely for see-through lace \u2014 it's the kind of bold, buzzy fashion flex that gets people screenshotting and arguing in group chats.",
+    "bullets": [
+      " Zoe Salda\u00f1a and Rosie Huntington-Whiteley led a pack of A-listers at the Saint Laurent spring/summer 2027 show during Paris Fashion Week",
+      " Bold fashion statement or just shock-value dressing \u2014 where do the hosts land on the sheer trend? Page Six (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/29/style/zoe-saldana-rosie-huntington-whiteley-and-more-stars-shock-in-sheer-lace-at-saint-laurent-fash",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Speed limit increased to 110 km/h on more Ontario freeways",
+    "angle": "Nearly 9 out of 10 freeway kilometers in Ontario are now posted at 110 km/h \u2014 a province-wide shift that's got drivers debating whether it's a win for commute times or a recipe for more crashes.",
+    "bullets": [
+      " This marks an expansion of the faster limit across more stretches of highway, not just a handful of pilot routes.",
+      " Does 110 just match how fast everyone already drives, or is this the government catching up to bad habits? torontosun.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://torontosun.com/news/provincial/speed-limit-increased-more-ontario-freeways",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "AI Agents Targeted Canadian Government in \u2018Rudimentary Hacking Attempts\u2019",
+    "angle": "AI Agents Targeted Canadian Government in \u2018Rudimentary Hacking Attempts\u2019 gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/ai-agents-targeted-canadian-government-in-rudimentary-hacking-attempts-2000819992",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Ontario ministers defend secret payout to Elon Musk's SpaceX over nixed Starlink deal - ctvnews.ca",
+    "angle": "A Canadian government quietly cutting a check to the world's richest man after killing a tech deal is exactly the kind of taxpayer-money-meets-billionaire story that writes its own outrage - and Elon Musk's name guarantees people click.",
+    "bullets": [
+      " Ontario ministers are now publicly defending a payout tied to SpaceX",
+      " Details of the payout were reportedly kept secret before being defended publicly",
+      " Should Ontario taxpayers have to foot a secret bill every time a government deal with a billionaire falls through? CTV News (via Google News) (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD"
+    ],
+    "debate": "LV2tuM2tTU21wS3BiaWc?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS25zd2xmYUdOY2p6cmpqeFY4MkkxMFlfQlp5T25VbVJfSmlfMWwzZzBfS",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "EU and Canada to announce sweeping new partnership pact",
+    "angle": "A fresh economic alliance between Canada and Europe could be a bigger deal for jobs, prices, and trade than it sounds on paper, especially while Canada's been publicly working to diversify away from relying so heavily on the U.S.",
+    "bullets": [
+      " Does a bigger Europe partnership actually change anything for everyday Canadians, or is this just politicians shaking hands for the cameras?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.politico.eu/article/eu-and-canada-to-announce-sweeping-new-partnership-pact/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Poilievre about to lose his 8th MP in a year",
+    "angle": "Poilievre about to lose his 8th MP in a year",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://globalnews.ca/news/12081317/poilievre-to-lose-conservative-mp/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Saskatchewan mayor stepping down now that 'Queen of Canada' cult is gone",
+    "angle": "A small-town mayor spent three years dealing with a self-proclaimed 'Queen of Canada' cult overrunning his village of a few hundred people - now that they're gone, he's stepping down too. It's a bizarre, almost unbelievable local story with national appeal.",
+    "bullets": [
+      " Brad Miller is the mayor of Richmound, Sask., a tiny village that got taken over by a cult",
+      " He says he never imagined the job would involve dealing with a cult when he signed up",
+      " Miller is officially resigning as mayor on Oct. 15",
+      " What's the wildest thing that's ever rolled into your small town and turned it upside down?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/richmound-mayor-stepping-down-miller-9.7364486?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canadian websites take down articles written by suspected fake, AI-generated persona",
+    "angle": "A byline named Daniel Robson got published across multiple Canadian outlets before anyone realized the writer might not actually exist \u2014 likely an AI-generated persona slipping past editors. It's a live wire into the bigger fear everyone in media has right now: can you even tell anymore?",
+    "bullets": [
+      " Several Canadian websites have pulled articles credited to a writer named Daniel Robson",
+      " Outlets say the writer's identity cannot be verified",
+      " Could you tell if the byline on a story you read today wasn't a real person?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/daniel-robson-suspected-fake-ai-persona-9.7363967?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "South Africa summons U.S. ambassador again over \u2018undiplomatic conduct,\u2019 official says - ctvnews.ca",
+    "angle": "South Africa summons U.S. ambassador again over \u2018undiplomatic conduct,\u2019 official says - ctvnews.ca CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "bullets": [],
+    "debate": "TFR1T18wVnUxYlNQTW1xWEVJaWFsQ1pWQkpNb3FoaFlabGd2cWJyZk1ZMWNibWNJRVFYXzBadVh6S18zNDY2SFE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeHNEeTNXalFDVXAxNTlLdnYyQjliazRYMHloVE02bDUwNkhOVEF1TUV",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\"Verity,\" starring Dakota Johnson and Anne Hathaway, is a listless Colleen Hoover adaptation.",
+    "angle": "\"Verity,\" starring Dakota Johnson and Anne Hathaway, is a listless Colleen Hoover adaptation. X/Twitter @Variety (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Variety/status/2105490384100929907",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Nicolas Cage Says the Marvel Cinematic Universe \u2018Is Becoming a Well-Funded and Glorified WWE\u2019 With 50-Plus Year Olds in \u2018Ridiculous Outfits\u2019",
+    "angle": "Nicolas Cage Says the Marvel Cinematic Universe \u2018Is Becoming a Well-Funded and Glorified WWE\u2019 With 50-Plus Year Olds in \u2018Ridiculous Outfits\u2019",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/nicolas-cage-marvel-cinematic-universe-wwe-1236893541/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Guillermo del Toro Says There Is \u2018Absolutely No Goddamn AI\u2019 in \u2018Pan\u2019s Labyrinth\u2019 3D Re-Release: \u2018We\u2019re Protecting a Lineage of Art\u2019",
+    "angle": "Guillermo del Toro is drawing a hard line on AI in filmmaking as his beloved horror-fantasy classic gets a 3D re-release, feeding right into Hollywood's biggest current fight over art vs. automation.",
+    "bullets": [
+      " He frames the project as \"protecting a lineage of art,\" positioning the re-release as a stand against AI creeping into film restoration/remastering.",
+      " Pan's Labyrinth originally released in 2006 and remains one of del Toro's most acclaimed, award-winning films.",
+      " Should every filmmaker be required to disclose if AI touched their movie, the way we now expect nutrition labels on food?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/guillermo-del-toro-no-ai-pans-labyrinth-rerelease-1236815109/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Dancing With the Stars\u2019 Cruises Into Yacht Rock Night: See the Scores, Who Went Home (Updating Live) - The Hollywood Reporter",
+    "angle": "\u2018Dancing With the Stars\u2019 Cruises Into Yacht Rock Night: See the Scores, Who Went Home (Updating Live) - The Hollywood Reporter Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-yacht-rock-week-3-recap-scores-elimination-1236714613/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Jennifer Lawrence to Star in Zach Cregger\u2019s \u2018The Flood\u2019 - Variety",
+    "angle": "Jennifer Lawrence to Star in Zach Cregger\u2019s \u2018The Flood\u2019 - Variety Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/news/jennifer-lawrence-zach-creggers-the-flood-1236878570/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018South Park\u2019 and Butters Take on AI Data Centers in Latest Episode - The Hollywood Reporter",
+    "angle": "South Park has made a habit this season of torching whatever tech headline is dominating the news cycle, and now it's turning Butters loose on the AI data center boom everyone's been arguing about.",
+    "bullets": [
+      " Season 29 is still running under the show's rebrand, 'South America,' for Comedy Central.",
+      " This week's episode logline points to a tech-world takedown centered on AI data centers.",
+      " Butters is the one wading into the controversy this time around.",
+      " South Park's basically doing the AI data center debate for us - do you side with the tech boom or the backlash? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/tv/tv-news/south-park-ai-data-centers-logline-1236714680/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Cara Delevingne makes a statement in a plunging purple suit while catwalk queen Kate Moss and dazzling Shakira wow in glamorous looks at Tom Ford's Paris Fashion Week show",
+    "angle": "Cara Delevingne makes a statement in a plunging purple suit while catwalk queen Kate Moss and dazzling Shakira wow in glamorous looks at Tom Ford's Paris Fashion Week show",
+    "bullets": [],
+    "debate": "",
+    "source": "www.dailymail.co.uk (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16173633/Celebrities-Tom-Ford-Paris-Fashion-Week-show.html?ns_mchannel=rss&ns_",
+    "score": "77/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018DWTS\u2019 cast reacts to Taylor Hanson and Britt Stewart\u2019s shocking elimination",
+    "angle": "\u2018DWTS\u2019 cast reacts to Taylor Hanson and Britt Stewart\u2019s shocking elimination Entertainment Weekly (via Google News) (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD",
+    "bullets": [],
+    "debate": "sc2tXOUNOLVhWZUpIUjJxSVVSZHRkNjFBcTQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX2puSFFSSUYtVFVnemE1b09DZVNURGMtRWx5WTBQal9WSm50aGd",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Meghan Markle's former agent makes eyebrow-raising comment about duchess' career after parting ways in 2025 - Page Six",
+    "angle": "Meghan Markle's former agent makes eyebrow-raising comment about duchess' career after parting ways in 2025 - Page Six Page Six (via NewsAPI) (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/09/29/royal-family/meghan-markles-former-agent-makes-eyebrow-raising-comment-about-duchess-career-",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "California bans public officials from issuing meme coins",
+    "angle": "This lands right after a wave of politicians and public figures cashing in on meme coins sparked conflict-of-interest outrage nationwide - California just became the first to make it flat-out illegal for officials to do it.",
+    "bullets": [
+      " California has passed a law banning sitting public officials from issuing or promoting their own meme coins.",
+      " It's being framed as a direct response to the trend of politicians launching crypto tokens tied to their own name or brand.",
+      " Makes California the first state to draw a hard legal line between elected office and meme coin grift.",
+      " Should every state ban politicians from cashing in on meme coins, or is this just California being California?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://dig.watch/updates/california-bans-public-officials-from-meme-coins",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Lil Wayne, 44, hit with backlash as he announces engagement to 23-year-old",
+    "angle": "A 21-year age gap engagement from a hip-hop legend is tailor-made for a reaction segment \u2014 it's blowing up timelines with equal parts congrats and side-eye.",
+    "bullets": [
+      " Lil Wayne, 44, announced his engagement",
+      " His fianc\u00e9e is reportedly 23 years old",
+      " Is it anyone's business who a grown adult marries, or is a 21-year age gap fair game for public side-eye?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.irishstar.com/culture/entertainment/lil-wayne-engagement-age-gap-37720868",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Robert E. Kelly of the viral kids-gatecrashing-BBC interview shares an update on his children: \"It\u2019s been awhile: My birthday; James and I hiking; Marion looking very grown-up; BBC Mom and I at a street festival. James is now 10; Marion is 13.\"",
+    "angle": "Robert E. Kelly of the viral kids-gatecrashing-BBC interview shares an update on his children: \"It\u2019s been awhile: My birthday; James and I hiking; Marion looking very grown-up; BBC Mom and I at a street festival. James is now 10; Marion is 13.\"",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 90/90 (45 fit + 12 source + 33 quality) -> LEAD",
+    "url": "https://v.redd.it/9wurkazdwmsh1",
+    "score": "90/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Sharon Stone: \u201cWe don\u2019t want to give women OBGYN care and we want to prosecute women for having a miscarriage? What kind of arcane bullshit is this? If men got pregnant you could get an abortion from a vending machine\u201d",
+    "angle": "Sharon Stone went full unfiltered on reproductive rights, and her \"vending machine\" line is the kind of quotable gut-punch that's built for a reaction segment - it's blunt, it's funny-angry, and it taps straight into one of the most divisive debates in the country.",
+    "bullets": [
+      " Sharon Stone didn't hold back: \"We don't want to give women OBGYN care and we want to prosecute women for having a miscarriage?\"",
+      " Her verdict on the state of reproductive law: \"What kind of arcane bullshit is this?\"",
+      " Does a celebrity dropping a line like this actually move the needle on the abortion debate, or just rally the people who already agree with her?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/d9o9vqgxzosh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Katherine Ryan says her daughter Violet, 17, treats her like 'garbage' as she jokes it's best to have 'one and done' in hilarious parenting chat",
+    "angle": "Katherine Ryan's brutally honest 'motherhood is a scam' bit is going viral because every parent of a teenager has lived this exact moment - it's relatable chaos, not a scandal.",
+    "bullets": [
+      " Katherine Ryan called motherhood a 'scam' in her latest comedy bit",
+      " Her daughter Violet, 17, allegedly treats her like 'garbage'",
+      " Ryan joked the smart move is to be 'one and done' with kids",
+      " Call in: does your teenager treat you like garbage too - and is one kid really the smarter play?"
+    ],
+    "debate": "",
+    "source": "www.dailymail.co.uk (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16173569/Katherine-Ryan-daughter-Violet-garbage-hilarious-parenting-chat.html?ns_mc",
+    "score": "77/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "TSA officers now not allowed to sit down while checking boarding passes and IDs",
+    "angle": "It's the kind of petty-bureaucracy headline that writes itself \u2014 a new rule banning airport screeners from sitting while they eyeball your boarding pass, straight out of r/nottheonion.",
+    "bullets": [
+      " TSA officers are reportedly no longer allowed to sit down while checking boarding passes and IDs",
+      " Story surfaced via r/nottheonion, a subreddit for real headlines that read like satire",
+      " Is this basic ergonomics, security theater, or just the government micromanaging people standing around an airport?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://abc7.com/story/tsa-officers-now-not-allowed-sit-down-checking-boarding-passes-ids/19889569/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-09-30",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "TSA Reminds Travelers Peanut Butter Counts as a Liquid at Airport Security",
+    "angle": "It's the kind of bone-headed bureaucratic rule that makes travelers lose their minds at security - a sandwich staple getting treated like shampoo is pure r/nottheonion gold for a goodbye segment.",
+    "bullets": [
+      " TSA officially classifies peanut butter as a liquid/gel for screening purposes",
+      " That means it falls under the 3.4 oz (100ml) carry-on limit, same as toothpaste or shampoo",
+      " What's the dumbest thing TSA has ever confiscated from you at the airport?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ntd.com/tsa-reminds-travelers-peanut-butter-counts-as-a-liquid-at-airport-security_1171995.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
     "date": "2026-09-29",
     "slot": "pm",
     "category": "THE LIST",
