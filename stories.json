@@ -1,6 +1,451 @@
 [
   {
     "date": "2026-10-02",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Dodgers reveal surprising mindset behind World Series three-peat quest",
+    "angle": "No team has won three straight World Series since the late-90s Yankees dynasty, and the Dodgers think the key to history is staying almost weirdly low-key about it \u2014 a great 'can a chip-on-the-shoulder team stay humble' debate for the hosts.",
+    "bullets": [
+      " Per the report, the club's approach heading into the quest is described as 'surprisingly simple'.",
+      " A three-peat would put this Dodgers core in rare company among modern dynasties.",
+      " Does a 'keep it simple' mindset actually win championships, or is that just what winners say after the fact?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/02/sports/dodgers-reveal-surprising-mindset-behind-world-series-three-peat-quest/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "New Cornell study: Trump has taken more control of federal spending than any president in modern history by freezing funds Congress approved and imposing tariffs on his own, yet Congress whose job it is to control the money, has done almost nothing to stop it, even though most Americans oppose this.",
+    "angle": "New Cornell study: Trump has taken more control of federal spending than any president in modern history by freezing funds Congress approved and imposing tariffs on his own, yet Congress whose job it is to control the money, has done almost nothing to stop it, even though most Americans oppose this.",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/not-with-a-bang-but-a-whimper-congressional-sil",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump becomes only object on Earth exempt from Canadian urge to apologize",
+    "angle": "It's the ultimate Canadian stereotype turned inside out \u2014 the most famously polite people on Earth, who'll say sorry for bumping into a parked car, suddenly draw a hard line when it comes to Trump. It's a fun proxy for how fed up Canadians are with him right now.",
+    "bullets": [
+      " r/Canada is running with the joke that Trump is the one exception to the national habit of over-apologizing",
+      " It's landing amid ongoing US-Canada friction that's made Trump a lightning rod north of the border",
+      " What's the one thing you refuse to apologize for, no matter how Canadian you are?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thebeaverton.com/2026/10/trump-becomes-only-object-on-earth-exempt-from-canadian-urge-to-apologize/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Woman in fake nurse case once again avoids sentencing after 6th postponement",
+    "angle": "Woman in fake nurse case once again avoids sentencing after 6th postponement",
+    "bullets": [],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/lisa-driscoll-strickland-fake-nurse-9.7366837?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Northwestern routs Penn State in first game at Wildcats\u2019 new stadium",
+    "angle": "Northwestern routs Penn State in first game at Wildcats\u2019 new stadium",
+    "bullets": [],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/03/sports/penn-state-routed-by-northwestern-in-first-game-at-wildcats-new-stadium/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Michael J. Fox promoted to companion level of Order of Canada",
+    "angle": "Michael J. Fox promoted to companion level of Order of Canada",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://toronto.citynews.ca/2026/10/02/michael-j-fox-to-be-promoted-within-order-of-canada-at-rideau-hall-today/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Stephen Harper warns Alberta separatism will bring 'no benefit'",
+    "angle": "Alberta separatist talk has been bubbling up again, and now a former Prime Minister is wading in directly to shut it down - that's a big name lending weight to a fight that's usually dismissed as fringe noise.",
+    "bullets": [
+      " Former PM Stephen Harper is publicly warning that Alberta separatism would bring \"no benefit\" to the province",
+      " Is \"Wexit\" ever a real threat, or is this just Alberta venting at Ottawa again?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/calgary/stephen-harper-alberta-separatism-9.7367419",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Christa Pike on ventilator after surviving Tennessee execution attempt, lawyer says",
+    "angle": "A botched lethal injection is about as rare and unsettling as death penalty news gets, and it's reigniting the debate over capital punishment right as Canada's total ban makes for an easy contrast on air.",
+    "bullets": [
+      " Christa Pike was convicted of killing a classmate back in 1995, when she was just 18.",
+      " Tennessee tried to execute her by lethal injection earlier this week \u2014 and the attempt failed.",
+      " Her attorneys say she's now on a ventilator, receiving breathing assistance.",
+      " Pike has been on death row for roughly three decades since her conviction.",
+      " Does a failed execution change how people feel about the death penalty \u2014 or does it just make a bad system look worse?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/christa-pike-ventilator-tennessee-execution-9.7367500?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "G7 nations agree to release 100 million barrels of oil, including diesel, amid energy crunch",
+    "angle": "Gas and diesel prices hit everyone's wallet, and the G7's coordinated release signals just how tight the energy crunch has gotten heading into colder months.",
+    "bullets": [
+      " Move comes amid a broader energy crunch squeezing supply",
+      " Have you noticed gas or heating costs creeping up this fall - is this actually going to move the needle for you?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/business/g7-trump-diesel-reserve-release-9.7366871?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Backstreet Boys coming to Toronto for four shows at Rogers Centre in February",
+    "angle": "A 90s/2000s boy band legend is landing a multi-night Toronto residency, and that kind of nostalgia tour always gets the group chats and phone lines lit up.",
+    "bullets": [
+      " Backstreet Boys are booked for four shows at Rogers Centre in Toronto",
+      " Multiple back-to-back dates at a stadium-sized venue signals serious demand for the reunion/nostalgia tour circuit",
+      " Which boy band from your teenage years would you still pay full price to see live? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "pHb2VJbU5DS3BFeGJucUUxOWloZC1EaWpNcS1CMEFHVnFJRGs2VW5TSG1KS2dQTDBnbWFHOU1HTTRf?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb1d3V2N6SzVEa3d3TngzNjZpU3VwTmxlQlZyX1pZZGVOLVlqbmhzVWV",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "His bank says he opened a $35K line of credit and was issued a card at a Milton branch. But he\u2019s never been there.",
+    "angle": "This is the kind of identity-fraud story that makes everyone nervously check their own bank app - a stranger's walking around with a card and $35,000 of credit tied to this guy's name, and the bank somehow didn't catch it.",
+    "bullets": [
+      " A $35,000 line of credit was opened under his name without his knowledge.",
+      " Both the credit line and card trace back to a Milton, Ontario branch he says he's never visited.",
+      " He's now left trying to get his own bank to explain how this slipped through.",
+      " Have you ever caught fraud on your account before the bank did - call in and tell us how you found out. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "hck4tc3ctdm04RkhWNTlJSGp0TmJ5b1E4T2Q5d2dfNThFUkF1dW9IcFMxWWtPMTZTbQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMnBJWkJEZXV3XzI5MDlEWUZqVURkMEl3cU5lczJkWE1xaXMzSy1UQW",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Michael Douglas finally admits secret relationship with \u2018Romancing the Stone\u2019 co-star Kathleen Turner \u2014 after 40-year denial",
+    "angle": "Two Hollywood legends just blew up a 40-year denial \u2014 if two co-stars can keep a secret THAT long, the question is why, and what else is out there we don't know about.",
+    "bullets": [
+      " Michael Douglas has reportedly admitted to a secret relationship with Kathleen Turner, his co-star from Romancing the Stone.",
+      " Romancing the Stone (1984) is the film that made them a legendary on-screen duo.",
+      " Forty years of denying it \u2014 would you ever believe a celebrity's 'we're just friends' again?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/02/entertainment/michael-douglas-finally-comes-clean-about-secret-relationship-with-kathleen-turner/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Christian Brothers Auto wins Jewish franchise discrimination case",
+    "angle": "The irony write itself: a chain literally named 'Christian Brothers' was accused of religious discrimination against a Jewish franchisee - and won. Classic too-good-to-be-true headline that's tailor-made for a quick laugh on air.",
+    "bullets": [
+      " Christian Brothers Automotive, the national auto repair franchise, was hit with a discrimination claim from a Jewish franchisee.",
+      " Be honest - did the name alone make you assume how this one would go?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.chron.com/news/houston-texas/article/christian-brothers-auto-jewish-franchise-22459588.php",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Digger is poised to be one of the biggest box-office flops of the year",
+    "angle": "A major star's dramatic comeback plus an Oscar-winning director couldn't save this one from bombing \u2014 and when a movie gets \"moon landing\" levels of hype and still craters, that's a juicy Hollywood trainwreck listeners love to dissect.",
+    "bullets": [
+      " Film stars a major actor making a return to dramatic acting",
+      " Directed by a two-time Best Director Oscar winner",
+      " On track to be one of the biggest box-office flops of the year",
+      " What's the last movie you saw hyped to the moon that completely bombed?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/digger-flop-9.7367864?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Zach Bryan wears \u2018Free Palestine\u2019 shirt during concert at Robert Kraft\u2019s Gillette Stadium \u2014 after Macklemore controversy",
+    "angle": "This lands exactly one month after Robert Kraft banned Macklemore from Gillette for an anti-Israel rant \u2014 so Bryan pulling this move on Kraft's own turf feels like a direct dare, and it's reopening the whole 'should musicians get political on stage' fight.",
+    "bullets": [
+      " Zach Bryan wore a \"Free Palestine\" shirt during his Friday night concert at Gillette Stadium.",
+      " Just one month earlier, Kraft barred Macklemore from the venue over his anti-Israel rant.",
+      " Is this Zach Bryan standing on principle, or just trolling Robert Kraft on his own field?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/03/celebrity-news/zach-bryan-wears-free-palestine-shirt-during-concert-at-robert-krafts-gillette-stadium-",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Going streaming route for tight ends is play right now in fantasy football",
+    "angle": "Fantasy football managers are hitting the same wall they hit every single year: tight end is a black hole, and the smart move is stop committing to one and start streaming matchups week to week.",
+    "bullets": [
+      " Who's on the phone defending their one \"elite\" tight end instead of admitting it's time to stream the position?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/03/betting/going-streaming-route-for-tight-ends-is-play-right-now-in-fantasy-football/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u201cGood Heavens\u201d: Kathleen Turner Reacts to Michael Douglas\u2019 Bombshell About Their Secret Romance During \u2018Romancing the Stone\u2019",
+    "angle": "Michael Douglas drops a bombshell in his new memoir that he and Kathleen Turner secretly hooked up during 'Romancing the Stone' - and her reaction is pure chaotic-icon energy. It's a 40-year-old Hollywood secret blowing up in real time.",
+    "bullets": [
+      " Michael Douglas reveals the affair in excerpts from his new memoir, 'One Helluva Ride'",
+      " Kathleen Turner's reaction to the reveal: \"Good Heavens\"",
+      " Would you want your decades-old secret romance revealed in your co-star's memoir - or is some chemistry better left off the page?"
+    ],
+    "debate": "",
+    "source": "www.hollywoodreporter.com (Tier 3) | Score: 78/90 (45 fit + 4 source + 29 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Kathleen Turner responds to Michael Douglas revealing their secret affair during \u2018Romancing the Stone\u2019 - ew.com",
+    "angle": "Decades after lighting up the screen together in 'Romancing the Stone,' Michael Douglas just spilled that there was a real-life secret affair with co-star Kathleen Turner - and now she's clapping back with her own response, which is exactly the kind of old-Hollywood gossip that writes itself.",
+    "bullets": [
+      " Michael Douglas revealed there was a secret affair with Kathleen Turner during the filming of 'Romancing the Stone'",
+      " Kathleen Turner has now publicly responded to Douglas's revelation",
+      " Co-star chemistry on screen or something more - where's the line, and should secrets like this stay buried? Entertainment Weekly (via Google News) (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD"
+    ],
+    "debate": "4Zmk5SERzaGktWmNtNjRLeEFLcVpsSUtxQQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdC1lZ0xueEFzUTBLQkNWM1Z3UHRPTE9GbVJMcDBiOHpIdEF5T1JCY",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Michael Douglas reveals secret Kathleen Turner romance after lying for 40 years - ew.com",
+    "angle": "Two Hollywood legends, one buried romance, and a confession four decades in the making \u2014 this is prime watercooler gossip that fans of their classic on-screen pairings will eat up.",
+    "bullets": [
+      " Michael Douglas has revealed he was secretly romantically involved with Kathleen Turner.",
+      " He reportedly kept the relationship under wraps for 40 years before going public with it now.",
+      " What's the longest you've kept a juicy secret from everyone \u2014 and did it ever come out? Entertainment Weekly (via Google News) (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD"
+    ],
+    "debate": "UF8wdjNqNlJyVlNzbjdiMUZ2ZGZyaEFHYmFDYlpSSW0?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU1FIVmU5RnVwbGF0OEJteVc1dU5hWHJyQjkzb0NoX1Fnd2ZSVVhsbz",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hudson Williams wore this cardigan. Then the Indigenous designer's business went viral",
+    "angle": "This is the dream scenario for any small business: one celebrity wears your product once, and suddenly you're sold out and trending worldwide \u2014 and it's tied to a meaningful date, which gives it real heart.",
+    "bullets": [
+      " Hudson Williams, star of Heated Rivalry, wore the cardigan to an event in New York on Wednesday",
+      " Williams paired it with an orange ribbon, marking National Day for Truth and Reconciliation",
+      " One celebrity, one outfit, one social post \u2014 that's all it takes now to make or break a small business overnight."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/hudson-williams-sweater-by-canadian-indigenous-designer-9.7367645?cmp=rss",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Kingdom Come Deliverance\u2019 Studio Co-Founder Expresses Hope That GTA6 Will Drive Up Game Prices",
+    "angle": "The co-founder of 'Kingdom Come: Deliverance' is openly hoping GTA6's price tag pushes the whole industry's prices up \u2014 a gamer-rage lightning rod days before one of the biggest launches in gaming history.",
+    "bullets": [
+      " Would you actually pay more for games if it meant studios could pay workers better \u2014 or is this just corporate spin dressed up as empathy? gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/kingdom-come-deliverance-studio-co-founder-expresses-hope-that-gta6-will-drive-up-game-prices-2000821035",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Falcon Heavy to fly its first mission for U.S. spy satellite agency - Spaceflight Now",
+    "angle": "Falcon Heavy just flew its first-ever mission for America's spy satellite agency \u2014 a reminder that the guy who makes memes also quietly launches national security hardware into orbit.",
+    "bullets": [
+      " SpaceX launched the NROL-97 mission on Oct. 1, 2026",
+      " It's the first NRO payload ever to fly on a Falcon Heavy rocket",
+      " We don't even know what's actually on that rocket \u2014 and that's kind of the point. Spaceflight Now (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Unsafe sleep factors found in nearly 75% of sudden unexpected infant deaths, CDC says",
+    "angle": "New CDC numbers show almost 3 out of 4 sudden infant deaths involved something preventable in how the baby was sleeping \u2014 a stat that hits home for every new parent, grandparent, or sleep-deprived friend in the audience.",
+    "bullets": [
+      " CDC analysis finds unsafe sleep factors present in nearly 75% of sudden unexpected infant deaths (SUID).",
+      " Unsafe sleep factors typically mean things like soft bedding, loose blankets, or a baby sleeping on their stomach/side instead of flat on their back.",
+      " SUID is an umbrella term that includes SIDS and remains one of the leading causes of death for babies under age 1.",
+      " Parents, be honest: did anyone actually walk you through safe-sleep rules, or did you just figure it out from late-night Googling?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://edition.cnn.com/2026/10/01/health/sudden-unexpected-infant-death-safe-sleep-wellness",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Vaccines not only directly protect vaccinated individuals but also contribute to protecting the entire population via indirect herd-immunity benefits. Half of averted COVID-19 infections and 1/4 of hospitalizations and deaths were attributable to indirect protection of unvaccinated by vaccinated.",
+    "angle": "New research puts hard numbers on something people argue about constantly: how much does my personal vaccine choice actually affect everyone else? Turns out, a lot - which makes this a perfect flashpoint for the ongoing personal-freedom-vs-community-health debate.",
+    "bullets": [
+      " Researchers found half of all COVID-19 infections prevented by vaccines were due to indirect herd-immunity protection - not just the shot working on the person who got it.",
+      " 1 in 4 avoided hospitalizations and deaths came from vaccinated people shielding unvaccinated people around them, not direct personal immunity.",
+      " Does finding out your vaccine protected your unvaccinated coworker change how you feel about mandates - or does 'my body, my choice' still win?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://royalsocietypublishing.org/rsif/article/23/242/20250839/483439/Quantifying-the-direct-and-indirect-impact-of",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Owning a smartphone at age 12 was associated with a 103% higher risk of tying self-worth to weight, 67% higher risk of binge eating and 49% higher risk of any eating disorder symptoms by age 14, according to a study of 8,957 adolescents",
+    "angle": "Every parent listening has had the 'when do I get my kid a phone' fight, and this study puts a hard number on the risk \u2014 it's a built-in debate for parents and non-parents alike.",
+    "bullets": [
+      " Researchers tracked 8,957 adolescents to see what happens after getting a smartphone at age 12",
+      " Kids with a phone at 12 had a 103% higher risk of tying their self-worth to their weight by age 14",
+      " Same group showed a 67% higher risk of binge eating",
+      " Overall, a 49% higher risk of any eating disorder symptoms by age 14",
+      " What age did you (or will you) hand your kid their first smartphone \u2014 and does a stat like '103% higher risk' change your answer?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2854492",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "McDonald's has been using AI to decide how much you should pay for a Big Mac",
+    "angle": "McDonald's reportedly using AI to set prices is exactly the kind of 'wait, WHAT' headline that gets people checking their receipts \u2014 it taps straight into the surveillance-pricing anxiety everyone already has about apps and algorithms.",
+    "bullets": [
+      " Story trending out of r/nottheonion \u2014 the subreddit literally dedicated to real headlines that sound fake",
+      " Core claim: McDonald's has been using AI to help decide Big Mac pricing",
+      " Fits a bigger pattern people are already buzzing about \u2014 so-called 'surge pricing' or 'dynamic pricing' creeping into fast food",
+      " Would it actually bother you if an algorithm \u2014 not a human \u2014 decided your burger costs more today than yesterday?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/114053-mcdonald-using-ai-decide-how-much-you-pay.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-02",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Six Flags tests new names for Cedar Point, including \u2018Six Flags of North Ohio\u2019",
+    "angle": "Six Flags bought Cedar Point and is reportedly test-driving new park names \u2014 and 'Six Flags of North Ohio' is somehow a real contender. It's the kind of corporate-rebrand clunker that writes its own jokes.",
+    "bullets": [
+      " Six Flags is testing new names for the legendary Cedar Point amusement park",
+      " One proposed name on the list: 'Six Flags of North Ohio'",
+      " Story's gaining traction on Reddit's r/nottheonion for how real-but-absurd it sounds",
+      " Vote now: does 'Six Flags of North Ohio' sound like a theme park or a DMV branch?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cleveland.com/travel/2026/10/six-flags-tests-new-names-for-cedar-point-including-six-flags-of-north-ohio.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-02",
     "slot": "am",
     "category": "THE LIST",
     "title": "Jack Hughes, who laughed at Trump's joke about the women's hockey team after his gold medal, don't find this joke funny.",
