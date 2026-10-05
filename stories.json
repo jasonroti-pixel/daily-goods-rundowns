@@ -1,5 +1,516 @@
 [
   {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Fox News Personality Makes Surprising Claim About \u2018Sesame Street\u2019: \u2018They Get Super Political\u2019",
+    "angle": "A Fox News personality just dragged beloved kids' show Sesame Street into the culture war, and that's instant watercooler fodder - everyone has nostalgia for Big Bird, so a 'they've gone political' claim is guaranteed to split the room.",
+    "bullets": [
+      " A Fox News personality publicly claimed 'Sesame Street' has 'gotten super political'",
+      " Have you actually noticed Sesame Street getting political, or is this just outrage for clicks?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://parade.com/entertainment/fox-news-personality-makes-surprising-claim-about-sesame-street-they-get-super-political",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "The surprising names Prince George, Princess Charlotte and Prince Louis go by at school",
+    "angle": "The royals famously ditch the titles at school gates, and now Prince George, Princess Charlotte and Prince Louis are reportedly doing the same with their own low-key school names \u2014 a fun peek at how hard the family works to keep the kids' lives normal.",
+    "bullets": [
+      " Prince George just started his first year at Eton College, the same school his dad Prince William attended.",
+      " His younger siblings, Princess Charlotte and Prince Louis, are both at Lambrook Prep School.",
+      " Royal schools have a long history of having the kids use low-key surnames instead of 'Prince' or 'Princess' to blend in with classmates.",
+      " Would you want your kid known by a secret 'normal' name at school if you were famous, or is that just extra confusing for a 12-year-old?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/05/royal-family/suprising-names-prince-george-princess-charlotte-and-prince-louis-go-by-at-school/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Stephen Colbert\u2019s \u2018Lord of the Rings\u2019 Movie Reportedly \u2018Paused\u2019 Over Paramount-Warner Bros. Merger",
+    "angle": "Stephen Colbert's passion-project trip to Middle-earth is reportedly on ice, caught in the crossfire of the Paramount-Warner Bros. merger chaos \u2014 a fun 'who actually controls Hollywood right now' story.",
+    "bullets": [
+      " Stephen Colbert's Lord of the Rings movie has reportedly been 'paused'",
+      " It's the latest project caught in limbo as the two studios sort out their future",
+      " Does a corporate merger really get to put Middle-earth on hold? gizmodo.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/stephen-colberts-lord-of-the-rings-movie-reportedly-paused-over-paramount-warner-bros-merger-2000821429",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Google Is Accused of Destroying Nearly 500 Football Fields of Forest for New Data Center Project",
+    "angle": "Google's getting called out for clear-cutting nearly 500 football fields of forest to build a new data center - it's the AI boom's environmental cost showing up in a very real, very visual way, and that's a tension audiences are already primed to argue about.",
+    "bullets": [
+      " Is unlimited AI growth worth paving over forests to get it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gadgetreview.com/google-is-accused-of-destroying-nearly-500-football-fields-of-forest-for-new-data-center-project",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "It\u2019s election day in Quebec: What you need to know to vote",
+    "angle": "Quebecers hit the polls today to decide who runs the province next, and the outcome could ripple into national politics well beyond Quebec's borders.",
+    "bullets": [
+      " Today is October 5, official election day across Quebec.",
+      " Voters are choosing who leads the next provincial government.",
+      " Polls determine the province's political direction going forward.",
+      " Does what happens in Quebec today actually matter to the rest of us, or is it strictly a local story?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/montreal/quebec-provincial-election-voting-day-2026-9.7364241?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Andrew Mountbatten-Windsor challenges validity of search warrants in his Epstein-related arrest",
+    "angle": "The disgraced royal isn't just denying the Epstein document allegations anymore \u2014 he's taking police to court over how they arrested him, keeping this scandal very much alive and giving hosts a fresh legal angle to dig into.",
+    "bullets": [
+      " Andrew Mountbatten-Windsor is challenging the validity of the search warrants used in his February arrest",
+      " He was arrested on suspicion of misconduct in public office",
+      " He's taking the case to court rather than letting the arrest stand unchallenged",
+      " Is this a smart legal move to clear his name, or does fighting the warrant just make him look guiltier?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/andrew-arrest-epstein-legal-challenge-9.7369171?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Alberta separatists\u2019 talks with GOP spark outcry, call for legislative change",
+    "angle": "Word that Alberta's independence movement has been in talks with Republican figures south of the border is setting off alarm bells, and now there's a push to change the law because of it - that's a real \"wait, what?\" story for a Canadian audience.",
+    "bullets": [
+      " Alberta separatists are reportedly in contact with figures tied to the GOP in the U.S.",
+      " There are now calls for a legislative change to address or restrict this kind of cross-border political contact.",
+      " Should it be illegal for a U.S. political party to be chatting up a Canadian separatist movement?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theglobeandmail.com/canada/article-alberta-separatists-talks-with-gop-spark-call-for-change-from-calgary/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Poilievre team divided over when to drop Mark Carney diss track",
+    "angle": "Canadian troops training alongside the US in Alaska are reportedly struggling with brutal Arctic conditions - a reality check as climate change and global tensions put the North Pole region back on the map strategically.",
+    "bullets": [
+      " Smart campaign move or beneath the office - would a political diss track actually change your vote, or is it just cringe?",
+      " Canadian troops took part in joint military exercises in Alaska",
+      " Report describes a \"cold reality\" - soldiers and the military broadly having to relearn Arctic warfare skills",
+      " Comes as the Arctic becomes a bigger focus for defense planners amid melting ice and rising global interest in the region",
+      " Is Canada actually ready to defend its own backyard up north?"
+    ],
+    "debate": "?I Cold reality: Canadian troops struggle in Alaska as military relearns Arctic warfare",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/arctic-warfare-canada-troops-training-9.7367626?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "\u2018Unintended consequences\u2019: Poll shows UCP independence referendum boosting Alberta NDP",
+    "angle": "Premier Danielle Smith leaned into an independence referendum to keep her party's base happy, but new polling suggests it's spooking moderate Albertans straight into the arms of the opposition \u2014 a political own-goal story with real stakes for the next election.",
+    "bullets": [
+      " Premier Danielle Smith's UCP government is pushing ahead with an independence referendum",
+      " New polling shows the move appears to be boosting the Alberta NDP, the province's main opposition",
+      " Observers are calling it an 'unintended consequence' of Smith's strategy to court hardline separatist-minded voters",
+      " Could flirting with separatism actually be the thing that hands Alberta's opposition the next election?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/calgary/cbc-calgary-alberta-poll-separation-ndp-9.7367276?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "What Florida\u2019s property tax vote means for Canadian snowbirds",
+    "angle": "A huge chunk of Canadians who winter in Florida actually own property down there, so any shake-up to how the state taxes real estate hits their wallets directly \u2014 this is the kind of \"wait, what does that mean for ME\" story snowbird listeners will want decoded.",
+    "bullets": [
+      " Anyone in our audience own a place in Florida \u2014 are you already bracing for a bigger bill, or hoping this actually saves you money? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "WN25vajVQWWRHUXFKdkxlaUJGb01WWi1KYmJ3Yk9NeWhSaFFmSE1v?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVUxRQWZocE5NeFV0dHNwNno4V1VuSTdya192MnhzVHpCNkF0dzY4e",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Art installation highlights Canada-EU ties beyond trade and defence",
+    "angle": "A new art installation is being used to show the Canada-EU relationship isn't just trade deals and defense pacts - there's a cultural angle too, which gives hosts a lighter diplomatic story to chew on.",
+    "bullets": [
+      " Can a sculpture actually make us think differently about a trade partner, or is this just diplomacy with a ribbon on it? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "Y0eW1ZQUNHTG9QcHI0ZFA1eldrTXRGWVVXREN4NXBsamJxOVZGRWVGX1RsUQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNmo4YnJxUnJ4SDFXRTljYmRFRE9lMGozVE1HRWItY0p2QV9YTUhBc2l",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Annabelle Wallis on the Defining Question of \u2018Unabomber,\u2019 a Potential James Wan Reunion and \u2018Peaky Blinders\u2019 What-Ifs - The Hollywood Reporter",
+    "angle": "Annabelle Wallis sits down with THR to talk Unabomber, Peaky Blinders regrets, and a possible James Wan reunion \u2014 but the real hook is how one of her old interviews got twisted into a viral hoax about the real Annabelle doll busting out of a Connecticut museum.",
+    "bullets": [
+      " An old Hollywood Reporter interview with Annabelle Wallis got twisted into a viral hoax claiming the real-life Annabelle doll escaped the Warren Museum in Connecticut.",
+      " Wallis opens up on the \"defining question\" of playing her role in Unabomber.",
+      " She teases a possible reunion with director James Wan, who produced the Annabelle horror franchise she starred in.",
+      " Wallis also reflects on \"what-ifs\" from her run on Peaky Blinders.",
+      " A celebrity profile accidentally fueled a creepy doll-escape hoax \u2014 ask listeners if they fell for it. Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 90/90 (45 fit + 12 source + 33 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/movies/movie-features/annabelle-wallis-unabomber-netflix-1236720760/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Sam Altman Says \u2018Artificial\u2019 Filmed Outside His House and He Waved at Andrew Garfield: \u2018He Did Walk Like Me \u2026 I Felt I Was in Some Weird Glitch of the Simulation\u2019",
+    "angle": "The OpenAI CEO has never actually met Andrew Garfield, who's playing him in a new movie about the chaos of his 2023 firing \u2014 but he did catch Garfield in character outside his own house, and the comparison freaked him out a little.",
+    "bullets": [
+      " Andrew Garfield plays Sam Altman in Luca Guadagnino's upcoming film \"Artificial\"",
+      " Altman says he's never met Garfield in person, but waved at him when filming happened right outside his house",
+      " His reaction, per Vanity Fair: \"He did walk like me... I felt I was in some weird glitch of the simulation.\"",
+      " Would you want to watch an actor study your walk and your worst week ever for a movie \u2014 or is that the ultimate ick? variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/news/sam-altman-artificial-filmed-outside-house-waved-andrew-garfield-1236899020/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Shocking sleazy new details surface about Grammy-winning Texas Dem candidate: 'Shhhh... it was our secret' https://t.co/CcmTlrq1ia https://t",
+    "angle": "A Grammy-winning musician who's now running for office in Texas just got hit with a sleazy new expos\u00e9 \u2014 that's the kind of celebrity-meets-politics mashup that's pure watercooler gold for entertainment chat.",
+    "bullets": [
+      " New York Post is dropping \"shocking sleazy new details\" on a Grammy-winning candidate running for office in Texas as a Democrat",
+      " A Grammy on the shelf and a scandal in the closet \u2014 does this sink a political run or just make for good tabloid theater? X/Twitter @NYPost (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2107056146431324477",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Sam Altman says #Artificial filmed outside his house and he waved to Andrew Garfield:",
+    "angle": "The guy who's building the AI that's rattling Hollywood just had a surreal run-in with the movie about it \u2014 a lookalike actor nailed his walk, his backpack, everything, right outside his house.",
+    "bullets": [
+      " Sam Altman says he stepped outside for coffee and found cameras filming #Artificial right on his street",
+      " An actor dressed exactly like him \u2014 same backpack, same walk \u2014 made him feel like he was in \"a weird glitch of the simulation\"",
+      " He waved to Andrew Garfield on set before continuing on his way",
+      " Altman's own words: \"it's like a strange thing to see someone that has nailed your kind of quirky mannerisms\"",
+      " Would you want to watch a stranger perfectly mimic your own mannerisms on a movie set outside your house? X/Twitter @Variety (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Variety/status/2107086420309409890",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Former Special Counsel Jack Smith attends the Power to the People concert on October 3, 2026, at the Merriweather Post Pavilion in Columbia, Maryland",
+    "angle": "The guy who spent years prosecuting Donald Trump as Special Counsel just showed up at a concert literally called 'Power to the People' \u2014 the internet is having a field day with the irony and the sighting itself.",
+    "bullets": [
+      " Jack Smith, the former Special Counsel who led the federal cases against Donald Trump, was spotted at a concert",
+      " It happened on October 3, 2026 at Merriweather Post Pavilion in Columbia, Maryland",
+      " Celebrity sightings hit different when it's a guy who spent two years building federal cases, not a pop star \u2014 would you have recognized him in the crowd?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/lu9cy3xafhth1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Zach Bryan sets the attendance record at Gillette Stadium with 73,538 people, surpassing Ed Sheeran\u2019s previous record of 71,723",
+    "angle": "A country star outdrawing a global pop giant at the same stadium is exactly the kind of number that gets music fans arguing about who's really the biggest act in the world right now.",
+    "bullets": [
+      " Zach Bryan packed Gillette Stadium with 73,538 fans.",
+      " That tops the previous record of 71,723, set by Ed Sheeran.",
+      " Does this make Zach Bryan the biggest live act in music right now, bigger than Ed Sheeran?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/vg2tlgbeeith1.png",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Entourage\u2019 star Constance Zimmer reveals breast cancer battle: \u2018Pure shock and fear\u2019",
+    "angle": "A familiar face from 'Entourage' and 'UnREAL' going public and raw about a cancer diagnosis always lands - it's the kind of vulnerable celebrity moment that makes for real, human conversation instead of just gossip.",
+    "bullets": [
+      " Constance Zimmer revealed she's battling breast cancer",
+      " She described the diagnosis as \"pure shock and fear\"",
+      " Zimmer opened up to fans on Instagram over the weekend, saying the mental toll that followed was \"overwhelming\"",
+      " Ask listeners: when a health scare hits, is it the diagnosis or the mental spiral afterward that's actually harder to deal with?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Cam Schlittler is built for surprisingly hostile environment Yankees face in Game 2",
+    "angle": "The Yankees are in a must-win spot in the ALDS, and they're leaning on a guy built for exactly this kind of pressure-cooker road environment.",
+    "bullets": [
+      " Yankees trail 1-0 in the best-of-five ALDS.",
+      " Cam Schlittler is the Yankees' potential Game 2 savior on the mound.",
+      " Do you trust a young arm to save your season on the road, or does that pressure eat rookies alive?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/05/sports/cam-schlittler-is-built-for-surprisingly-hostile-environment-yankees-face/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Don\u2019t Listen To Critics Or Rotten Tomatoes About \u2018Verity\u2019 - Forbes",
+    "angle": "The movie version of Colleen Hoover's massively popular thriller is getting beat up by critics and sitting low on Rotten Tomatoes, but Forbes is telling fans not to trust the score \u2014 classic critics-vs-the-people fight, and Hoover's fanbase is huge enough to make this a real watercooler topic.",
+    "bullets": [
+      " Verity, based on Colleen Hoover's bestselling novel, is drawing harsh reviews from critics.",
+      " A Forbes piece is specifically telling audiences to ignore both the critics and the Rotten Tomatoes score.",
+      " Hoover's books have one of the most rabid fanbases in publishing \u2014 so a critic/fan split here tends to get loud.",
+      " Do you trust Rotten Tomatoes before you see a movie, or do you go anyway and judge for yourself? Forbes (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.forbes.com/sites/paultassi/2026/10/04/dont-listen-to-critics-or-rotten-tomatoes-about-verity/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Digital menstrual tracking risks creating more harm than benefit, argue experts",
+    "angle": "Millions of women track their cycles on apps like Flo and Clue, but experts are warning the convenience might come with a privacy and health-risk price tag nobody read the fine print on.",
+    "bullets": [
+      " Do you actually trust a period-tracking app with your data, or did you delete yours already?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://bmjgroup.com/digital-menstrual-tracking-risks-creating-more-harm-than-benefit-argue-experts/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "AI May Force 11 Million Workers Into New Jobs, McKinsey Says",
+    "angle": "Everyone's scared AI is coming for their job, but new research says the bigger story is massive job-shuffling, not mass unemployment \u2014 which hits way closer to home for most listeners than a sci-fi robot takeover.",
+    "bullets": [
+      " McKinsey projects AI could push 11 million workers in the U.S. into entirely new occupations.",
+      " Would you rather AI take your job outright, or force you to retrain for a totally different one?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-29/ai-may-force-11-million-workers-into-new-jobs-mckinsey-says",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "When the clocks stop changing. Research shows permanent standard time is the preferred choice for health, as it preserves morning light and aligns with human circadian biology. This can lead to improved sleep, mood, and overall health, particularly for vulnerable populations",
+    "angle": "With clocks changing again soon, this is the one debate everyone has an opinion on \u2014 and new research says we've had it backwards: permanent standard time, not permanent daylight saving, is what your body actually wants.",
+    "bullets": [
+      " Permanent standard time \u2014 not daylight saving \u2014 is the option researchers say your body clock actually prefers",
+      " Payoff includes better sleep, mood, and overall health",
+      " Researchers flag it matters most for vulnerable populations \u2014 kids, shift workers, older adults",
+      " Dark mornings or dark evenings \u2014 which one are you actually willing to live with forever? ON-AIR BIT BREAKDOWN - Step 1: Pick Your Side - 30 seconds, before the break -> Each host declares: Team Permanent Standard Time (bright mornings) or Team Permanent Daylight Saving (bright evenings) \u2014 no sitting on the fence. - Step 2: Make Your Case - 60 seconds each -> Hosts give their best one-liner for why their side wins \u2014 commute, kids at the bus stop, after-work daylight, whatever hits hardest. - Step 3: Open the Phones - Live callers decide -> Ask listeners to call/text which side they're on, and read a few out before declaring a 'winner' for the day."
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.eurekalert.org/news-releases/1146225",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Bison Are Back in Britain After 6,000 Years",
+    "angle": "Wild bison are roaming the UK for the first time in about 6,000 years \u2014 a genuine good-news, feel-good story about rewilding that's perfect for ending the show on a high note.",
+    "bullets": [
+      " European bison have been reintroduced in Britain for the first time in roughly 6,000 years.",
+      " Marks a major rewilding milestone \u2014 these animals vanished from the UK long before recorded history.",
+      " Nothing like ending the show with giant shaggy bison just... wandering around England again."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/bison-are-back-in-britain-after-6-000-years-12077311",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "In Savannah, Georgia, the U.S. Army Corps of Engineers turned 160,000 cubic yards of dredged harbor mud into an 8-acre bird island, where more than 300 nests were built in its first nesting season.",
+    "angle": "A government dredging project accidentally became a conservation win \u2014 leftover harbor mud is now a packed bird colony, which is exactly the kind of 'humans did something good for once' story that closes a show on a high note.",
+    "bullets": [
+      " In its very first nesting season, birds already built more than 300 nests there.",
+      " Leave it to birds to move into a brand-new island faster than most people furnish an apartment."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://dredgewire.com/savannah-turned-160000-cubic-yards-of-mud-removed-from-its-harbor-into-an-8-acre-island-birds-built-more-",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+    "angle": "Midterms are coming up and apparently some voters are outsourcing the decision to a chatbot \u2014 it's a weirdly perfect snapshot of 2026 and an easy debate-starter for the show.",
+    "bullets": [
+      " Would you ever let an AI tell you who to vote for \u2014 or is that where you draw the line?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Iranian strikes on AWS facilities left customer data beyond recovery in Bahrain, UAE",
+    "angle": "This isn't just a server outage \u2014 if Iranian strikes actually nuked AWS data centers in Bahrain and the UAE beyond recovery, that's a wake-up call on how fragile \"the cloud\" really is when it sits in a war zone.",
+    "bullets": [
+      " Report claims Iranian strikes hit AWS facilities in Bahrain and the UAE",
+      " Customer data from those facilities is described as beyond recovery",
+      " Story is circulating out of r/technology on Reddit, details still thin/unverified",
+      " If \"the cloud\" can get bombed, is anything you store online actually safe?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.helpnetsecurity.com/2026/09/17/aws-middle-east-outage-permanent-data-loss-bahrain-uae/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Scott Bessent compares AI CEOs who warn of catastrophe to Hannibal Lecter: 'Stop me before I kill again'",
+    "angle": "Scott Bessent just compared AI chiefs who publicly warn their own tech could be catastrophic to a fictional serial killer begging to be stopped \u2014 a wild, quotable jab from a sitting cabinet official that cuts right at Silicon Valley's favorite PR move.",
+    "bullets": [
+      " Scott Bessent, the sitting U.S. Treasury Secretary, made the comparison.",
+      " He likened AI CEOs who warn their technology could be catastrophic to Hannibal Lecter.",
+      " Is 'doomer' talk from AI CEOs genuine warning or just genius marketing dressed up as a confession?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Robert Blake\u2019s Son Stages Murder Mystery at Restaurant Tied to Wife\u2019s Murder",
+    "angle": "Robert Blake's murder trial over wife Bonny Lee Bakley's 2001 killing was one of the biggest tabloid sagas of its era, so his son staging a murder-mystery dinner at the very restaurant tied to that case is the kind of wild, real-life-meets-true-crime stunt that gets people talking.",
+    "bullets": [
+      " Robert Blake's son organized a staged murder mystery event",
+      " Blake himself was famously tried (and acquitted) in Bonny Lee Bakley's 2001 shooting death",
+      " Is this a tasteless cash-grab or a weirdly clever way to turn tragedy into tribute?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://parade.com/entertainment/robert-blakes-son-stages-murder-mystery-at-restaurant-tied-to-wifes-murder",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-05",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "\u2018Avengers: Endgame\u2019 Overtakes \u2018Avatar\u2019 as Highest-Grossing Movie in History With $2.925 Billion After \u2018Encore\u2019 Re-Release",
+    "angle": "The two biggest movies ever made are STILL fighting for the all-time box office title years later, and this time Marvel pulled off the win with a sneaky move: dragging fans back into theaters for a re-release.",
+    "bullets": [
+      " Avengers: Endgame has now crossed $2.925 billion worldwide, making it the highest-grossing movie of all time.",
+      " Avatar held the all-time crown before this, and the two films have now traded the title back and forth for years.",
+      " Should a re-release be allowed to 'break' an all-time box office record, or is that just a nostalgia cash grab?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/box-office/avengers-endgame-highest-grossing-movie-ever-avatar-1236894787/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-10-04",
     "slot": "pm",
     "category": "THE LIST",
