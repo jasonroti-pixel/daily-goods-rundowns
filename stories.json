@@ -1,5 +1,563 @@
 [
   {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "California Governor Gavin Newsom signs 7 laws making data centers pay their fair share of electricity and water infrastructure costs, disclose water use and face environmental review, protecting Californians from higher bills and environmental harm.",
+    "angle": "Every state's getting hit with an AI data center boom right now, and the quiet side effect is your electric bill going up to cover it. California just became the first big domino to push back, which makes this a preview of the fight every other state is about to have.",
+    "bullets": [
+      " Data centers will now have to disclose their water use and go through environmental review",
+      " Framed explicitly as protecting everyday Californians from higher utility bills and environmental fallout",
+      " Should the AI boom's electric and water bill get split with everyone else, or should the tech companies building it eat the whole cost themselves?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://calmatters.org/digital-democracy/2026/09/new-california-laws-data-centers/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "California Governor Gavin Newsom signs law opening the door to balcony solar for renters, apartment dwellers and homes without suitable roofs, allowing qualifying solar systems to plug into household outlets without utility approval or interconnection fees.",
+    "angle": "This could be huge for renters and apartment dwellers who've always been locked out of solar because they don't own a roof \u2014 now you might just plug a panel into a regular outlet. It's a real win for everyday people, not just homeowners with cash to burn.",
+    "bullets": [
+      " Opens the door to balcony solar for renters and apartment dwellers",
+      " Covers homes without suitable roofs for traditional panels too",
+      " Qualifying systems can plug straight into household outlets \u2014 no utility approval, no interconnection fees",
+      " Would you plug a solar panel into your wall outlet, or does that sound like a fire hazard waiting to happen?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://electrek.co/2026/10/01/california-gives-the-green-light-to-balcony-solar/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Lula, Bolsonaro head to run-off after neither secure majority in Brazil election's 1st round",
+    "angle": "Latin America's biggest economy just set up a runoff between its sitting president and a Trump-aligned challenger \u2014 and with a Bolsonaro back in the mix, this has real ripple effects for US politics watchers too.",
+    "bullets": [
+      " Luiz In\u00e1cio Lula da Silva, Brazil's veteran president, failed to win outright in round one.",
+      " His runoff opponent is Sen. Fl\u00e1vio Bolsonaro, an ally of President Trump.",
+      " Does a Trump-aligned win in Brazil feel like part of a bigger pattern, or is that reading too much into one country's election?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/lula-bolsonaro-brazil-election-9.7369047?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "After Trump\u2019s Venezuelan oil deal, those living on polluted lake in oil country wait for change",
+    "angle": "The U.S. just struck a massive deal to tap into Venezuela's oil \u2014 but the people actually living next to the oil fields aren't cheering about production, they're begging someone to clean up the polluted lake in their backyard first.",
+    "bullets": [
+      " It was struck with Venezuela's interim authorities, not the sitting government",
+      " Residents there say they welcome the industry revival talk \u2014 but their real priority is cleaning up a polluted lake they live on",
+      " Big international oil deal, zero mention of the mess in people's actual backyard \u2014 who's responsible for cleaning that up?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/lake-maracaibo-venezuela-us-oil-deal-9.7365979?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "More than 500K Walgreens-branded eye drops recalled over sterility concerns",
+    "angle": "This is a nationwide drugstore chain recalling over half a million bottles of eye drops over sterility concerns \u2014 and eye drop contamination isn't a small deal, past cases have led to actual infections and vision loss, so this is a genuine 'go check your bathroom cabinet' story for anyone who shops at Walgreens.",
+    "bullets": [
+      " Walgreens is recalling more than 500,000 bottles of its store-brand eye drops",
+      " Contaminated eye drops can lead to serious eye infections, so this isn't just a paperwork recall Check Your Cabinet",
+      " Seriously \u2014 go check your bathroom shelf right now, do you have Walgreens-brand eye drops in there?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/04/business/more-than-500k-walgreens-branded-eye-drops-recalled-over-sterility-concerns/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "High school runners stumble upon human remains at NY park, possibly solving year-long missing person\u2019s case",
+    "angle": "It's the kind of real-life true-crime twist people can't stop talking about - a high school track practice turning into the break in a missing person's case that's been cold for a year.",
+    "bullets": [
+      " Happened on trails in Plandome Pond Park in Manhasset, New York",
+      " Runners were out around 5:45 p.m. Thursday when the discovery was made",
+      " Investigators think the remains could solve a case that's been open for about a year",
+      " What's the strangest thing YOU'VE ever stumbled on outdoors - call in, we want the stories."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/04/us-news/high-school-runners-stumble-upon-human-remains-at-ny-park-possibly-solving-year-long-mis",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Michael J. Fox Receives Highest Order of Canada Honor for His Parkinson\u2019s Advocacy",
+    "angle": "The Back to the Future star and lifelong Parkinson's advocate is being recognized with the top level of the Order of Canada - a feel-good moment of a Canadian icon getting his due after three decades of turning his own diagnosis into a global fight for a cure.",
+    "bullets": [
+      " Michael J. Fox has been given the highest level of the Order of Canada, the country's top civilian honor.",
+      " Fox has lived publicly with Parkinson's since the early 1990s and has used his fame ever since to push for a cure.",
+      " This is Canada doing right by one of its own - a guy who turned a brutal diagnosis into a 30-year fight that's raised millions for a cure."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/michael-j-fox-receives-order-of-canada-honor-for-parkinsons-advocacy-12156889",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Mark Carney for Nobel Peace Prize? Probably not, but his name's out there",
+    "angle": "Canadians are reacting online to chatter about PM Mark Carney being mentioned in Nobel Peace Prize conversation - a classic case of a name trending before anyone agrees it makes sense, which is exactly the kind of thing that gets a national debate going.",
+    "bullets": [
+      " Does Mark Carney actually belong in the Nobel conversation, or is this just internet noise running ahead of reality?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/nobel-prize-canadians-carney-9.7366789",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "'This is home for me': Amber Marshall reflects as 20th season of Heartland set to begin",
+    "angle": "A CBC drama hitting season 20 is a genuine Canadian TV milestone, and Amber Marshall's real-life ranch roots give hosts an easy, warm human-interest angle to dig into.",
+    "bullets": [
+      " Heartland is kicking off its 20th season on CBC",
+      " Star Amber Marshall says the show feels like home, calling it: 'This is home for me'",
+      " Marshall's own love of horses and ranch life mirrors her character's story",
+      " 20 years on air - what's the one Canadian show you've stuck with since season one?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/heartland-amber-marshall-20-seasons-9.7368728?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "U.S. removes B-1 bombers from U.K. airbase targeted in suspected plot: Pentagon",
+    "angle": "These are the same bombers that just hit Iran, and the Pentagon yanked them out of England because the base itself became a target \u2014 that's a pretty wild escalation for a story most people haven't heard yet.",
+    "bullets": [
+      " A dozen B-1 bombers were stationed at RAF Fairford, northwest of London",
+      " Those same aircraft were used in U.S. strikes on Iran",
+      " Does moving the planes mean the threat was credible, or is this just the Pentagon being cautious after Iran strikes?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/us-removes-bombers-uk-airbase-9.7368968?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Hyundai warns Ioniq 9 seats may not stop moving",
+    "angle": "It's a safety warning on Hyundai's electric SUV sold here in Canada \u2014 and a seat that won't lock in place while you're driving is the kind of basic safety scare that makes everyone want to check their own car.",
+    "bullets": [
+      " Hyundai issued a warning tied to its electric SUV, the Ioniq 9",
+      " No word yet on how many vehicles are affected or what's triggering the issue",
+      " Would you keep driving it, or park it till Hyundai sorts it out? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "1udGFNRzF5dU56WmQweGFVY3pGYnBxaWZJa2pzLU1B?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa2J4S0wwbjdxWWpaODN0c1Bnbkp3eXNpUUxxYk1VeGctWkxaWE4wT",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "What Florida\u2019s property tax vote means for Canadian snowbirds",
+    "angle": "Hundreds of thousands of Canadians own winter homes in Florida, so any shift in how the state taxes property hits their wallets directly - this is the kind of \"boring policy vote\" that actually changes the math on keeping a place in the sun.",
+    "bullets": [
+      " Anyone in our audience own a place in Florida - are you already feeling the property tax squeeze down there? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "WN25vajVQWWRHUXFKdkxlaUJGb01WWi1KYmJ3Yk9NeWhSaFFmSE1v?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVUxRQWZocE5NeFV0dHNwNno4V1VuSTdya192MnhzVHpCNkF0dzY4e",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Korea Box Office: \u2018The Assassin(s)\u2019 Holds Admissions Lead as \u2018Chiikawa\u2019 Generates Top Weekend Gross",
+    "angle": "A split box-office crown is a fun global pop-culture nugget - a gritty political thriller is pulling more butts in seats, but a Japanese cartoon cat is raking in more money per ticket.",
+    "bullets": [
+      " Chiikawa the Movie: The Secret of the Mermaid Island, a Japanese animated film, pulled in the biggest gross revenue of the weekend despite not leading in ticket count.",
+      " Which actually matters more - who sold the most tickets, or who made the most money? variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/box-office/korea-box-office-the-assassins-admissions-lead-1236898809/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Kim Kardashian shares rare update on love life, reveals why she wasn\u2019t \u2018ready to open up\u2019 before Lewis Hamilton romance - Page Six",
+    "angle": "Kim's breaking her silence on her love life for the first time since the Kanye split, and she's getting candid about why it took this long to go public with Lewis Hamilton - that's prime relationship-talk material.",
+    "bullets": [
+      " Kim split from Kanye West back in 2021",
+      " She says she \"needed to heal\" before diving into the Lewis Hamilton romance",
+      " Kim admits she wasn't \"ready to open up\" before this relationship",
+      " How long should someone wait after a big public breakup before going public with someone new? Page Six (via NewsAPI) (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/03/celebrity-news/kim-kardashian-shares-update-on-love-life-with-lewis-hamilton/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He\u2019s \"Addicted Like Everybody Else\": \"They\u2019re Facilitating Our Own Destruction\"",
+    "angle": "A beloved, likable star admitting he's hooked on his phone just like the rest of us is instant relatable territory \u2014 and his line about phones \"facilitating our own destruction\" is the kind of quote that gets people nodding along in their cars.",
+    "bullets": [
+      " Paul Rudd says he now refuses to bring his phone onto film sets.",
+      " His reason: he's \"addicted like everybody else.\"",
+      " He went further, saying phones are \"facilitating our own destruction.\"",
+      " Could you survive a full workday without your phone \u2014 be honest? ON-AIR BIT BREAKDOWN - Step 1: Lock 'Em Up - Top of segment -> Both hosts physically put their phones in a drawer or box on-air, Rudd-style. - Step 2: The Itch Check - Mid-segment, a few minutes later -> Hosts check in on how badly they want to grab their phones and why \u2014 be honest about the urge. - Step 3: Phone Lines Open - Audience participation -> Ask listeners to call/text in (from one other phone!) with their own 'I'm addicted' confession."
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/paul-rudd-phone-addiction-a-statement-nyff-1236898348/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Digger\u2019 Flops With $8 Million Opening, Becoming the Biggest Bomb of Tom Cruise\u2019s Career",
+    "angle": "Tom Cruise is supposed to be the last true movie star who can guarantee an opening weekend - so when a film of his tanks this badly, it's a real gut-check for Hollywood and a juicy 'is his star power fading?' debate for the hosts.",
+    "bullets": [
+      " Digger opened to just $8 million domestically in its debut weekend.",
+      " Industry reports are calling it the biggest box office bomb of Tom Cruise's entire career.",
+      " Is Tom Cruise's movie-star magic finally fading, or did this one just miss for reasons that have nothing to do with him?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.indiewire.com/news/box-office/digger-flops-tom-cruise-150-million-loss-warner-bros-bomb-1235220093/?utm_campaign=",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Dodgers best-laid plans go all wrong as Braves win Game 2 to even NLDS",
+    "angle": "The Dodgers looked like the team to beat and now they're in a dead-even fight, which is exactly the kind of collapse that gets baseball fans and casual sports talkers buzzing.",
+    "bullets": [
+      " Braves take Game 2 of the NLDS, squaring the best-of-five series at 1-1.",
+      " Dodgers had the early advantage in the series and let it slip away.",
+      " Series now shifts with momentum firmly in Atlanta's corner heading into Game 3.",
+      " Is this a blip for the Dodgers or the start of a real meltdown?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/04/sports/dodgers-best-laid-plans-go-wrong-in-nlds-game-2-loss-to-braves/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Liberty staring down first dose of playoff adversity with little margin for error",
+    "angle": "The defending vibe of this Liberty team has been near-perfect all season, so a Game 1 loss is the first real gut-check \u2014 it's the kind of adversity storyline that tests whether a favorite can actually bounce back under pressure.",
+    "bullets": [
+      " Liberty trail their best-of-five playoff series 1-0.",
+      " It's described as the team's first real taste of adversity this postseason.",
+      " Is one road loss a wake-up call or a warning sign for the Liberty?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/04/sports/liberty-staring-down-first-dose-of-playoff-adversity-with-little-margin-for-error/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Florence Pugh on How Zoe Kazan \u2018East of Eden\u2019 Collaboration Helped Boost Her Confidence - The Hollywood Reporter",
+    "angle": "Florence Pugh on How Zoe Kazan \u2018East of Eden\u2019 Collaboration Helped Boost Her Confidence -",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/tv/tv-features/florence-pugh-east-of-eden-zoe-kazan-boosted-confidence-1236721680/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Pregnant Ciara bares growing baby bump while strutting Paris Fashion Week runway - Page Six",
+    "angle": "She's expecting baby number five and still strutting Paris Fashion Week with the bump out \u2014 it's the kind of glam-meets-relatable moment that gets instant reactions on social.",
+    "bullets": [
+      " Ciara is expecting her fifth child \u2014 her fourth with husband Russell Wilson",
+      " She walked the runway for Junya Watanabe at Paris Fashion Week",
+      " She showed off her growing baby bump in a number of eclectic looks",
+      " She was pictured at Saturday's show",
+      " Would you ever hit a fashion runway while pregnant, or is that a hard pass? Page Six (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/03/parents/pregnant-ciara-flaunts-baby-bump-on-pfw-runway/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Tucker Carlson Sparks Backlash With Claim UK Shouldn\u2019t Have Fought Hitler",
+    "angle": "Tucker Carlson just dropped one of the most historically loaded takes imaginable - suggesting Britain shouldn't have gone to war against the Nazis - and the internet is losing it. It's the kind of comment that reignites the whole 'how much influence should this guy have' debate all over again.",
+    "bullets": [
+      " Tucker Carlson is under fire for suggesting the UK made the wrong call entering World War II against Hitler.",
+      " It's reigniting the recurring debate over how much mainstream platform Carlson should get for commentary like this.",
+      " Is this just edgy contrarianism for clicks, or does it cross a line even 'just asking questions' can't cover?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.newsweek.com/tucker-carlson-backlash-uk-fought-hitler-ww2-12520178",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Drew Rasmussen takes no-hitter into 8th inning for Rays' 1-0 win over Yankees in Game 1 of ALDS - Yahoo Sports",
+    "angle": "This is the kind of pitching performance that makes even non-baseball fans stop scrolling \u2014 a near-perfect game against the Yankees, in the playoffs, decided by a single run.",
+    "bullets": [
+      " Drew Rasmussen carried a no-hitter into the 8th inning before it broke up",
+      " He tied a Rays postseason record with 10 strikeouts",
+      " Rasmussen retired 15 straight Yankees batters at one stretch",
+      " Rays win Game 1 of the ALDS, 1-0",
+      " Which hurts worse as a fan: losing big, or watching your team get one-hit in a playoff game? Yahoo Entertainment (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://sports.yahoo.com/mlb/live/drew-rasmussen-takes-no-hitter-into-8th-inning-of-rays-1-0-win-over-yankees-in-game-1-of-alds-21",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Kim Kardashian reveals shocking number of nannies she has for her and Kanye West\u2019s four kids",
+    "angle": "Kim Kardashian got real about the army of help behind her and Kanye's four kids \u2014 it's the kind of celebrity-parenting-at-scale reveal that instantly gets regular parents comparing notes.",
+    "bullets": [
+      " Kim shares four kids with Kanye West: North (13), Saint (10), Chicago (8), and Psalm (7)",
+      " She opened up about just how many nannies it actually takes to run that household",
+      " Be honest \u2014 if money were no object, how much help would YOU hire to raise your kids? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/04/parents/kim-kardashian-reveals-shocking-number-of-nannies-she-has-for-her-and-kanye-wests-kids/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "\u2018Tinder Swindler,\u2019 convicted fraudster, plans to launch dating app",
+    "angle": "The guy who became internet-famous for scamming women on dating apps now wants to build his own dating app - the irony alone is a built-in debate for the show.",
+    "bullets": [
+      " He's a convicted fraudster, infamous for scamming people he met through dating apps.",
+      " His next move: reportedly launching his own dating app.",
+      " Would you ever trust a dating app built by the guy convicted of scamming people on dating apps?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ktla.com/news/nationworld/tinder-swindler-convicted-fraudster-plans-to-launch-dating-app/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "AI May Force 11 Million Workers Into New Jobs, McKinsey Says",
+    "angle": "Everyone's anxious about AI wiping out jobs, but this new report says the real story is messier \u2014 millions get pushed into new roles instead of unemployment, which is its own kind of chaos.",
+    "bullets": [
+      " McKinsey says AI could create more jobs than it destroys overall",
+      " Up to 11 million US workers may need to switch occupations because of AI",
+      " If AI forced you to switch careers tomorrow, what job would you actually want to land in?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-29/ai-may-force-11-million-workers-into-new-jobs-mckinsey-says",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Federal judge calls Flock \u2018indiscriminate mass surveillance\u2019",
+    "angle": "Flock's camera network is the thing scanning license plates for cops in thousands of towns across North America, and a federal judge just put a label on it that'll make anyone who's driven past one twitchy: 'indiscriminate mass surveillance.'",
+    "bullets": [
+      " Flock Safety's cameras automatically scan and log license plates for police departments in communities across the country.",
+      " A federal judge ruled the system amounts to 'indiscriminate mass surveillance.'",
+      " Have you ever clocked one of these camera poles in your own neighborhood and wondered who's watching?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.yahoo.com/news/us/articles/federal-judge-calls-flock-indiscriminate-193315901.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "In Savannah, Georgia, the U.S. Army Corps of Engineers turned 160,000 cubic yards of dredged harbor mud into an 8-acre bird island, where more than 300 nests were built in its first nesting season.",
+    "angle": "It's the ultimate 'one man's trash' story \u2014 literal dredged-up muck turned into a brand-new island, and birds didn't just show up, they moved in by the hundreds in year one.",
+    "bullets": [
+      " In its very first nesting season, the island already hosted more than 300 nests",
+      " Leftover harbor sludge just out-performed most man-made wildlife projects \u2014 proof trash really is just treasure waiting for a game plan."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://dredgewire.com/savannah-turned-160000-cubic-yards-of-mud-removed-from-its-harbor-into-an-8-acre-island-birds-built-more-",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Russian Pneumonic Plague: White House Monitors Suspected Outbreak After Researcher\u2019s Death Triggers Quarantine Measures In Siberia",
+    "angle": "The words 'pneumonic plague' alone are enough to stop a scroll, and the fact that the U.S. government is reportedly keeping tabs on a quarantine situation in Russia gives this real teeth beyond just a scary headline.",
+    "bullets": [
+      " Reports point to a pneumonic plague scare originating in Siberia, Russia.",
+      " Quarantine measures have reportedly been put in place in the affected area.",
+      " Post-COVID, does a story like this make you genuinely nervous or have we all just become numb to outbreak headlines?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://sundayguardianlive.com/world/russian-pneumonic-plague-white-house-monitors-outbreak-after-researchers-death-triggers-qu",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Bonnie Blue Allegedly Tells Sydney Sweeney To Stop Sexualising Sports After Novig Ad",
+    "angle": "The irony here is too good to pass up - a story about one of the internet's most notorious shock-content creators apparently clutching her pearls over an ad. It's a built-in punchline for a kicker segment.",
+    "bullets": [
+      " Who exactly gets to be the sexy-content police here?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/bonnie-blue-allegedly-criticises-sydney-sweeney-sports-campaign-1765011",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Scott Bessent compares AI CEOs who warn of catastrophe to Hannibal Lecter: 'Stop me before I kill again'",
+    "angle": "Treasury Secretary Scott Bessent just compared AI CEOs warning about catastrophic risk to a literal fictional serial killer begging to be stopped - a wild soundbite from a sitting cabinet official that cuts right into the AI-safety-vs-hype debate everyone's already having.",
+    "bullets": [
+      " Scott Bessent, the U.S. Treasury Secretary, took aim at AI executives who publicly warn their own technology could be catastrophic.",
+      " He compared them to Hannibal Lecter, invoking the line 'Stop me before I kill again'.",
+      " Is it brave or just marketing when tech CEOs warn the public their own AI could be dangerous?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Sam Altman to Decoded: \u2018The world should accept some bad things happening\u2019 for the benefits of AI",
+    "angle": "The OpenAI CEO just said out loud that the world should accept 'some bad things happening' to get AI's benefits \u2014 a strikingly blunt stance that puts him at odds with rival Anthropic's safety-first messaging and hands hosts an instant debate.",
+    "bullets": [
+      " Sam Altman, CEO of OpenAI, says the world should 'accept some bad things happening' for AI's benefits",
+      " Altman reportedly used the remarks to draw a contrast with rival lab Anthropic's more cautious AI safety stance",
+      " How much 'bad' should we tolerate for AI's upside \u2014 and who gets to set that line?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Quebec on the cusp of electing separatist government promising referendum",
+    "angle": "A party promising a new independence referendum is on track to win power in Quebec - if it happens, that's a direct shot at Canada staying together, and the whole country will be watching.",
+    "bullets": [
+      " A separatist party in Quebec is positioned to potentially win the next provincial election",
+      " Quebec has held two prior sovereignty referendums, in 1980 and 1995 - the 1995 vote was razor-thin, decided by about 1 percentage point",
+      " Could Quebec actually separate from Canada - and would the rest of the country even fight to stop it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theglobeandmail.com/canada/article-quebec-on-the-cusp-of-electing-separatist-government-promising/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-04",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Poilievre team divided over when to drop Mark Carney diss track",
+    "angle": "A diss track aimed at the Prime Minister is pure watercooler gold \u2014 it drags hip-hop beef culture straight into federal politics, and the fact that Poilievre's own team is reportedly fighting over the timing makes it even juicier.",
+    "bullets": [
+      " Reports out of Poilievre's camp say staffers are split on the timing of releasing a diss track aimed at Mark Carney",
+      " Does a diss track make a party leader look sharp and online, or does it just look desperate - call in and tell us."
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thebeaverton.com/2026/10/poilievre-team-divided-over-when-to-drop-mark-carney-diss-track/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-10-02",
     "slot": "pm",
     "category": "THE LIST",
