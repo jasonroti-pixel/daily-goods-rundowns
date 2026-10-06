@@ -1,5 +1,565 @@
 [
   {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "A California retiree started picking up litter alone on her daily walks in 2020. Six years later, she has rallied 250+ volunteers who have removed nearly 750,000 pounds of trash across the San Fernando Valley",
+    "angle": "One retiree's solo walking habit turned into a full-blown grassroots cleanup movement, and the scale of it, nearly 750,000 pounds of trash, is the kind of feel-good, pay-it-forward story that makes people want to go do something good themselves.",
+    "bullets": [
+      " A California retiree started picking up litter solo on her daily walks back in 2020.",
+      " Six years later, she's rallied more than 250 volunteers to join the cause.",
+      " Together they've hauled away nearly 750,000 pounds of trash.",
+      " One person, one walk, one bag of trash a day, that's literally all it took to snowball into a 250-person army, so what's stopping any of us from starting something similar?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/pounds-of-trash-san-fernando-valley/37716/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "The world's first solar-powered ambulance has travelled 800km across Kenya, bringing X-ray, ultrasound, vaccine refrigeration and other medical equipment to off-grid communities. While stationary, its solar panels generated more energy than all its onboard medical equipment used.",
+    "angle": "It's the world's first solar-powered ambulance, and it's already covered 800km bringing real medical gear to communities with no power grid at all \u2014 a genuine tech-meets-humanity story with global appeal.",
+    "bullets": [
+      " It's the world's first solar-powered ambulance",
+      " Has already traveled 800km across Kenya",
+      " Onboard: X-ray, ultrasound, and vaccine refrigeration equipment for off-grid communities",
+      " While parked, its solar panels generated more energy than all the medical equipment used",
+      " A sun-powered ER on wheels reaching people with zero electricity \u2014 ask listeners where closer to home could use something like this."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://geographical.co.uk/news/solar-ambulance-brings-healthcare-to-off-grid-communities",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Hundreds of schools in France blockaded in biggest day of student protests so far",
+    "angle": "Hundreds of schools blockaded, students and parents marching nationwide \u2014 this is a country-wide standoff over crumbling classrooms that's escalating fast, and it raises the \"could this happen here\" conversation about school funding.",
+    "bullets": [
+      " Hundreds of schools across France are blockaded by protesters",
+      " Students, teachers and parents are marching in cities nationwide",
+      " It's being called the biggest day of action yet in this wave of protests",
+      " Demonstrators are demanding the government fix understaffed and dilapidated classrooms",
+      " Would you ever pull your kid out of school to march over classroom conditions \u2014 or is that a line families shouldn't cross?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/france-student-protests-photos-9.7370647?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "High-flying lawyer goes on trial for writing bad cheque allegedly to cover for collapsing firm",
+    "angle": "A Toronto lawyer who built a firm with his wife is now on trial for fraud after millions in client trust money went missing and the whole operation imploded - it's a wild fall-from-grace story with real victims and real money.",
+    "bullets": [
+      " Millions of dollars in client trust account money was discovered missing",
+      " He's now on trial on a fraud charge, tied to an allegedly bad cheque written to cover for the firm",
+      " When the guy holding your money is a lawyer, who's actually watching the watchmen?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/toronto/nicholas-cartel-lawyer-fraud-trial-9.7370260?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Big screens, bigger savings: October Prime Day has TV deals on Samsung to Hisense",
+    "angle": "Amazon's October Prime Day event is dropping big markdowns on televisions right as everyone starts holiday shopping early - and some sets are going for under $200, which is the kind of number that gets people talking.",
+    "bullets": [
+      " October Prime Day is rolling out deep discounts on TVs",
+      " Some big-screen sets are priced at under $200",
+      " Deals span brands from Samsung to Hisense",
+      " Is anyone actually holding off on a new TV just to snag it on sale right now - and what's the price that makes you pull the trigger?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/shopping/amazon-prime-big-deal-days-tv-deals-october-2026/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "These Prime Big Deal Day finds are all under $100 \u2014 and totally underrated",
+    "angle": "Prime Big Deal Day is flooding feeds with sales, and the real watercooler moment isn't the doorbusters everyone already knows about \u2014 it's the sleeper hits nobody's talking about yet.",
+    "bullets": [
+      " What's the best under-$100 deal you've ever stumbled on that nobody else knew about?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/shopping/amazon-prime-big-deal-days-deals-under-100-october-2026/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Nearly 70 per cent of tip workers nationwide report decrease in tips: report",
+    "angle": "This hits anyone who's ever left a tip or worked for one - a new report says tipped workers across the country are watching their gratuities dry up, which says a lot about how stretched Canadians feel right now.",
+    "bullets": [
+      " Nearly 70 per cent of tipped workers nationwide say their tips have gone down",
+      " Comes amid broader conversation about tipping fatigue among Canadian consumers",
+      " Have you cut back on tipping lately - and if so, what made you stop?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/atlantic/article/nearly-70-per-cent-of-tip-workers-nationwide-report-decrease-in-tips-report/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Carney wants more immigration, Canada needs less \u2014 The numbers may be down from their peak, but Canada\u2019s immigration system is still far from under control",
+    "angle": "Immigration is one of the most divisive kitchen-table issues in Canada right now, and PM Mark Carney pushing for MORE newcomers while the system's already under fire is exactly the kind of split that gets phone lines lit up.",
+    "bullets": [
+      " Mark Carney is pushing to bring in more immigration, even as critics argue Canada needs less.",
+      " Immigration numbers are reportedly down from their peak \u2014 but the system is still described as far from under control.",
+      " More immigration or less \u2014 where do you land, and does it matter if the system's still 'not under control' either way?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://torontosun.com/opinion/columnists/carney-wants-more-immigration-canada-needs-less",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Giant underwater Kelvin wave could 'pack a punch' for B.C. in mid-October",
+    "angle": "There's a massive underwater wave tied to El Ni\u00f1o creeping up the Pacific coast toward British Columbia, and scientists are flagging it as a mid-October gut-check for how climate change is supercharging a totally natural phenomenon.",
+    "bullets": [
+      " It's called a Kelvin wave \u2014 a giant wave of warmer water moving beneath the ocean's surface, not something you'd ever see cresting on a beach.",
+      " It's riding along on this year's El Ni\u00f1o pattern, traveling up the west coast of the Americas toward B.C.",
+      " Scientists say it could 'pack a punch' when it arrives in mid-October.",
+      " Researchers are specifically worried climate change is amplifying the impact of this naturally-occurring wave.",
+      " It's invisible, it's underwater, and it's still strong enough to worry scientists \u2014 ask listeners on the coast if they've noticed anything weird with the water lately."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/science/kelvin-wave-el-nino-climate-bc-9.7370049?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "'Only the beginning': Anti-immigration group says Ottawans should 'brace themselves'",
+    "angle": "A group pushing mass deportation of millions has been wallpapering Ottawa with recruitment posters, sparking racism complaints \u2014 but police say the materials don't cross the legal line, and the group says it's just getting started.",
+    "bullets": [
+      " Its stated goal: mass deportations of millions of people.",
+      " Police reviewed the complaints and say the materials reported so far do not meet the threshold for a hate crime.",
+      " Where's the line between 'legal but ugly' free speech and hate speech \u2014 and should police be the ones drawing it?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/ottawa/only-the-beginning-anti-immigration-group-says-ottawans-should-brace-themselves-9.73623",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Youngest ever elected Quebec MNA \u00c9lo\u00efse Coulombe wins for the Conservatives at 23 years old",
+    "angle": "A 23-year-old winning a seat in Quebec's National Assembly is a genuine history-making moment, and it taps into the bigger conversation about young people breaking into politics at a time when most voters assume that's a boomer's game.",
+    "bullets": [
+      " \u00c9lo\u00efse Coulombe just made history as the youngest MNA ever elected in Quebec.",
+      " She's only 23 years old.",
+      " She won her seat running for the Conservatives.",
+      " Would you trust a 23-year-old to represent you at the provincial level, or does experience matter more than energy? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "Wb2hDS3IyRkVjTnBSWmdBVTZNaUo?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM0o5M291UjR0NWF6NEZ0bkRsUGNtc2NCSkNScXk1bXFVbU5IZkpnbm",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Teenager rescued from B.C.\u2019s \u2018Widowmaker\u2019 after getting stranded using AI instructions",
+    "angle": "A teenager got stranded on a trail literally nicknamed 'the Widowmaker' after following step-by-step directions from an AI chatbot \u2014 it's the perfect real-world cautionary tale for a generation that Googles everything and now asks AI instead.",
+    "bullets": [
+      " Rescue crews had to be called in to get them down safely.",
+      " Would you trust a chatbot to guide you down a mountain called 'the Widowmaker'? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "FiWUZrRmNQazd0MDlaYXp6MW5MMHRiZVpRd0JaamIyRHFXNEJpazBESnVRWVN3cVMzakpPakhPdlg2Q3lCeDI?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNXdBaU9rSWxBc2lQMkZlWU1sc3lGbkw5dGgyYzJEV3dRcXo2dzdNbTVf",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "How Michael Douglas Began a Secret Affair on the Set of Basic Instinct \u2014 But Not with Sharon Stone (Exclusive) - people.com",
+    "angle": "A juicy old-Hollywood confession just dropped, and it's got a built-in twist \u2014 everyone assumes Sharon Stone, but that's not who it was. That's the kind of mystery that keeps people clicking and keeps hosts guessing.",
+    "bullets": [
+      " Before you Google it \u2014 who do YOU think Michael Douglas's mystery co-star was? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "1cFBKd19KSVJsOHlPUTBLY1N6S1pxZGM1WDgwWHp2VXNh?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWllJc0VaTUl0cjFjMEFGbW9PNUozVjFwMnVyblpxWVJoOVVpNE1vSTd",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "First Look: The Omega Seamaster Diver 300m James Bond and Spectre Collection - Monochrome Watches",
+    "angle": "James Bond Day just dropped new Omega Seamasters, including the first one ever dedicated to Spectre \u2014 a fun pop-culture hook for watch nerds and 007 fans alike.",
+    "bullets": [
+      " Omega released two special-edition Seamaster Diver 300m models timed to James Bond Day",
+      " It's the first Seamaster dedicated specifically to Spectre",
+      " Omega and Bond have been linked for over 30 years, on his wrist since GoldenEye in 1995",
+      " Which Bond actor had the best watch game \u2014 Connery, Craig, or someone else entirely? Monochrome-watches.com (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://monochrome-watches.com/omega-seamaster-diver-300m-james-bond-and-spectre-collection-2026-review-price/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Germany is turning abandoned coal mines into 23 lakes; the former mining landscape is becoming Europe's largest artificial wetland",
+    "angle": "This is pure reset-the-mood radio - a country took one of its ugliest industrial scars and literally flooded it into a vacation destination, which is the kind of 'wait, really?' story that makes for easy, feel-good banter.",
+    "bullets": [
+      " It's made up of 23 post-mining lakes covering about 14,000 hectares of water.",
+      " It's being billed as Europe's largest artificial wetland, built entirely from flooded open-cast coal pits.",
+      " Would you vacation on a lake that used to be a coal mine - and does it change your answer that it took almost 60 years to build?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://timesofindia.indiatimes.com/world/europe/germany-is-turning-abandoned-coal-mines-into-23-lakes-the-former-mining-landsca",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Andrew Garfield Says OpenAI\u2019s Sam Altman Seemed \u2018F\u2014ing Great Before Playing Him in \u2018Artificial\u2019: And Then You Learn More About a Person\u2019",
+    "angle": "Andrew Garfield is playing OpenAI's Sam Altman in the new film 'Artificial,' and he just dropped a quote that sounds like praise but reads like shade - exactly the kind of Hollywood tea that gets a panel talking.",
+    "bullets": [
+      " Andrew Garfield plays OpenAI CEO Sam Altman in the upcoming movie 'Artificial'",
+      " He followed it up with: 'And then you learn more about a person'"
+    ],
+    "debate": "Garfield never says anything bad about Altman out loud - so did you catch the shade, or nah?",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/andrew-garfield-sam-altman-movie-artificial-nyff-premiere-luca-guadagnino-1236894719/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Jessica Simpson goes public with musician Thomas Eisenhood 6 months after sparking romance rumors",
+    "angle": "Jessica Simpson is one of pop culture's most-watched exes, so any new man in her life is instant tabloid gold - and this one's been a slow-burn mystery for half a year.",
+    "bullets": [
+      " Jessica Simpson is now going public with musician Thomas Eisenhood",
+      " Dating rumors about the two first popped up about six months ago",
+      " Six months of hiding it - why do celebs wait so long to confirm a relationship everyone already knows about?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/06/celebrity-news/jessica-simpson-goes-public-with-musician-thomas-eisenhood-6-months-after-sparkin",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Digger\u2019 director weighs in on scathing reviews of Tom Cruise film after disastrous opening weekend",
+    "angle": "A big-name director going public to defend his movie right after brutal reviews and a flop opening weekend is exactly the kind of Hollywood drama audiences love to dissect.",
+    "bullets": [
+      " Director Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu is speaking out after critics trashed his new satirical comedy.",
+      " I\u00f1\u00e1rritu is pushing back on what he calls the negativity surrounding the movie's reception.",
+      " Is it fair for a director to publicly clap back at critics, or should you just let a flop go?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/06/entertainment/digger-director-reacts-to-scathing-reviews-of-tom-cruise-film-after-opening-weekend/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "London Film Fest Gets Concrete \u2013 Literally, and More Than Once!",
+    "angle": "It's a goofy little scheduling nightmare that doubles as a fun film-nerd story \u2014 multiple 2026 titles with 'concrete' in the name turned the fest's planning meetings into a running joke.",
+    "bullets": [
+      " Kristy Matheson, director of the London Film Festival, says the 2026 lineup includes several movies with 'concrete' in the title.",
+      " She admits it made for 'hilarious and quite confusing program meetings' trying to keep them straight.",
+      " Have you ever mixed up two movies just because they had almost the same name?"
+    ],
+    "debate": "",
+    "source": "www.hollywoodreporter.com (Tier 3) | Score: 78/90 (45 fit + 4 source + 29 quality) -> LEAD",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/london-film-festival-2026-lff-concrete-movie-titles-1236720815/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "David Ellison Names Skydance Corp.\u2019s New Leadership Team for Movies, TV, Streaming and More - Variety",
+    "angle": "The Paramount-Warner Bros. Discovery merger is officially closing, and David Ellison just revealed who's actually going to be running the show at new Skydance Corp. - this is the org chart that decides what gets made and who's job is safe in Hollywood.",
+    "bullets": [
+      " David Ellison announced his picks for senior execs right on the eve of officially closing the Paramount-Warner Bros. Discovery merger",
+      " Every merger like this means someone's dream job just got created - and someone else's got erased. Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/news/david-ellison-skydance-new-leadership-team-1236898983/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Influencer Mikayla Nogueira Reveals Reason She Divorced Husband Cody Hawken in Shocking New Interview - people.com",
+    "angle": "Mikayla Nogueira built a massive following on raw, unfiltered honesty, so when she goes public with the real reason behind her split from Cody Hawken, her audience is going to want every detail - this is classic watercooler celebrity gossip with broad reach.",
+    "bullets": [],
+    "debate": "does it feel like oversharing for clicks?",
+    "source": "People (via Google News) (Tier 2) | Score: 86/90 (45 fit + 8 source + 33 quality) -> LEAD",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdy02eEtUbzNrZ2NoMjk2ZGNSVm81d0VJdEFOVlZwSi0tX2tad1JQZkJOe",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Score nearly 40% off the \u2018game-changer\u2019 K-beauty cream Kendall Jenner and Melissa Gorga love",
+    "angle": "Celebrity-loved skincare deals are catnip for listeners hunting Amazon/Sephora bargains, and when Kendall Jenner and a Real Housewife both swear by the same jar, that's an easy 'add to cart' story for the show.",
+    "bullets": [
+      " Kendall Jenner and Real Housewives' Melissa Gorga are both named fans of the product",
+      " It's currently discounted nearly 40% off",
+      " Described as viral and worth it",
+      " Ask listeners: what's the one celebrity-endorsed product you actually bought and loved? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/06/style/kendall-jenner-anua-pdrn-cream-is-38-off-at-october-prime-day/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Chick-fil-A takes a stand against fast-food drive-thru AI trend",
+    "angle": "Every fast-food chain is racing to put AI voices in the drive-thru, but Chick-fil-A \u2014 the brand literally famous for its over-the-top friendly service \u2014 is reportedly refusing to jump on the trend, betting that human warmth beats automation.",
+    "bullets": [
+      " Chick-fil-A is pushing back against the fast-food industry's AI drive-thru trend",
+      " Chick-fil-A's brand identity is built on personal, human-driven customer service",
+      " Would you rather order from a robot that never messes up your order, or a human who might - but actually means it when they say 'my pleasure'?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fox5atlanta.com/news/chick-fil-a-takes-stand-against-fast-food-drive-thru-ai-trend?taid=6ac39155d234120001bf1390&ut",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Women with the same medical condition as men are less likely to be offered treatment such as surgery, a stent or a strong painkiller, research has found published in PLOS One.",
+    "angle": "New research says women get undertreated compared to men with the identical diagnosis \u2014 fewer surgeries, fewer stents, weaker painkillers. It's a story almost everyone in the audience has either lived or watched happen to someone they love.",
+    "bullets": [
+      " A study published in PLOS One found women are less likely than men to be offered treatment for the same medical condition.",
+      " Researchers note the disparity exists even when the diagnosis itself is identical between male and female patients.",
+      " Have you ever felt brushed off by a doctor and later found out a man with your exact symptoms got a scan, a script, or surgery you never got offered?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "A fungus resistant to all 4 types of antifungal drugs has been found in a hospital patient in Kenya, only the 2nd case ever recorded worldwide after New York in 2022. The superbug, Candida (Candidozyma) auris, infected a 28-year-old's surgical wound, and scientists warn the global threat is growing.",
+    "angle": "This is the kind of 'science is scary' story that makes for easy, visceral chat \u2014 a fungus doctors can't kill with any drug on the shelf, and we're only the second place on the planet to see it.",
+    "bullets": [
+      " It was found infecting a 28-year-old patient's surgical wound in a Kenyan hospital.",
+      " This marks only the 2nd case ever recorded worldwide \u2014 the first was in New York in 2022.",
+      " Scientists are warning the global threat is growing, not shrinking.",
+      " Does a story like this make you more of a hospital germaphobe, or do you shrug it off as 'science will figure it out'?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nature.com/articles/s41598-026-70653-9",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Robots are cleaning desert solar panels every night without using a drop of water, helping keep them productive while saving about 2.6 billion gallons of water and cleaning more than 3.9 billion panels to date across 5,000+ MW of solar projects.",
+    "angle": "It sounds like sci-fi, but it's real: robots are scrubbing solar farms clean overnight with zero water, which matters big time as droughts squeeze desert regions that rely on solar power.",
+    "bullets": [
+      " They've saved roughly 2.6 billion gallons of water so far",
+      " More than 3.9 billion panels cleaned to date",
+      " Covers solar projects totaling over 5,000 MW",
+      " Robots cleaning solar panels dry in the desert - proof the little innovations save as much as the big headlines."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/robots-built-by-the-israeli-company-ecoppia-roll-along-desert-solar-panels-every-night-and-brush-off-th",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Filipina OnlyFans Star Uses Profits To Build School She Once Dreamed of Teaching in, But Critics Call It 'Ethical Gooning'",
+    "angle": "Filipina OnlyFans Star Uses Profits To Build School She Once Dreamed of Teaching in, But Critics Call It 'Ethical Gooning'",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/onlyfans-star-maeurn-smiles-builds-school-cebu-1765117",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Man Makes Prosthetic Legs from Easy-to-Find Bike Parts, and He\u2019s Giving the Revolutionary Design Away for Free (Exclusive)",
+    "angle": "This is exactly the kind of feel-good, pay-it-forward story that stops people mid-scroll \u2014 a DIY fix for something insanely expensive, handed out for nothing.",
+    "bullets": [
+      " A man designed prosthetic legs using easy-to-find bike parts",
+      " He's giving the design away for free instead of patenting or selling it",
+      " Prosthetics can cost tens of thousands of dollars \u2014 so a free, bike-parts version is the kind of hack that actually changes lives."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/michigan-man-creates-prosthetic-legs-from-repurposed-bike-parts-12152651",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "A Texas Woman Is Fighting to Stop a Data Center From Replacing a Promised Park",
+    "angle": "AI's data-center boom is colliding with everyday communities, and this Texas standoff \u2014 one resident vs. a broken park promise \u2014 is the kind of local fight popping up everywhere right now as tech giants gobble up land.",
+    "bullets": [
+      " Would you rather have the park or the jobs/tax revenue a data center brings to your town?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gadgetreview.com/a-texas-woman-is-fighting-to-stop-a-data-center-from-replacing-a-promised-park",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "In early clinical trial, people with Type 1 diabetes are able to go off insulin",
+    "angle": "An early clinical trial is reporting that some people with Type 1 diabetes may be able to stop insulin altogether - huge if it holds up, since insulin dependence has basically defined life with this disease for a century.",
+    "bullets": [
+      " Participants with Type 1 diabetes reportedly no longer needed insulin during the trial.",
+      " If this pans out in bigger trials, it could change the standard of care for millions living with the disease.",
+      " Does 'early trial' excite you or make you skeptical - how long do you wait before you believe a medical breakthrough headline?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nbcnews.com/health/health-news/early-clinical-trial-people-type-1-diabetes-are-able-go-insulin-rcna601171",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "US, China And Russia Race To Build Nuclear Reactors On The Moon: Report",
+    "angle": "This isn't sci-fi anymore \u2014 three superpowers are quietly racing to drop nuclear reactors on the lunar surface before anyone else claims the real estate, and it's basically a new space race with a radioactive twist.",
+    "bullets": [
+      " Russia and China are reportedly teaming up on a joint reactor project aiming for 2036.",
+      " Report flags real safety concerns around putting nuclear tech on a body with no atmosphere and no clear rulebook.",
+      " Who do you trust to put a nuclear reactor on the Moon first \u2014 the US, China, or Russia?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ndtv.com/world-news/us-china-and-russia-race-to-build-nuclear-reactors-on-the-moon-report-12137354",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "A review of 9 studies involving ~1.3 million people found that insomnia was associated with a 26% higher risk of stroke and a 28% higher risk of hospitalisation. The review also found associations with Alzheimer\u2019s disease, as well as with depression and suicidal behaviour",
+    "angle": "Everyone jokes about being a bad sleeper, but this review puts real numbers behind it \u2014 insomnia isn't just annoying, it's tied to serious health risks like stroke and Alzheimer's. It's a relatable hook with a scary enough stat to make listeners actually check their own sleep habits.",
+    "bullets": [
+      " Researchers pooled 9 studies covering roughly 1.3 million people",
+      " Insomnia was linked to a 26% higher risk of stroke",
+      " Also tied to a 28% higher risk of hospitalisation",
+      " Associations also showed up with Alzheimer's disease, depression, and suicidal behaviour",
+      " Call in: how many hours of actual sleep did you get last night, and does it ever feel like it's catching up with you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.meduniwien.ac.at/web/en/about-us/news/2026/news-in-september-2026/insomnia-linked-to-a-higher-risk-of-stroke-intern",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Televangelist Jim Bakker, who built a faith-based empire before resigning amid scandal, dies at 86",
+    "angle": "Bakker was one of the biggest names in American televangelism before his empire collapsed in a scandal that became a defining tabloid story of the '80s - a name that'll spark very different reactions depending on your listeners' age.",
+    "bullets": [
+      " Jim Bakker has died at age 86",
+      " He built a sprawling faith-based empire that made him one of the most recognizable televangelists in the country",
+      " His ministry unraveled after he resigned amid scandal, a fall from grace that became a national story at the time",
+      " Phone lines open: did you live through the Bakker scandal in real time, or is this the first you're hearing his name?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.cnn.com/2026/10/05/us/televangelist-jim-bakker-dies-hnk",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-10-05",
     "slot": "pm",
     "category": "THE LIST",
