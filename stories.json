@@ -1,6 +1,539 @@
 [
   {
     "date": "2026-10-06",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Shirtless burglar hiding in ceiling of Macy\u2019s store dramatically falls from overhead space: shocking video",
+    "angle": "It's a slapstick crime video tailor-made for social media - a guy hiding above a store ceiling comes crashing down mid-robbery, and even the cops can't resist the one-liner.",
+    "bullets": [
+      " Vancouver Police say a shirtless burglar was hiding in the ceiling space of a Macy's store.",
+      " He fell straight through the ceiling and landed on a mattress on the showroom floor.",
+      " Police say he got up and tried to run - \"that didn't work out so well,\" they joked.",
+      " What's the most ridiculous way you've ever seen a crook get caught red-handed?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/07/us-news/shirtless-burglar-hiding-in-ceiling-of-macys-store-dramatically-falls-from-overhead-space-sho",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Jackson Merrill sparks NSFW Pat Murphy outburst caught in mid-game interview",
+    "angle": "A hot mic moment during a playoff interview is the kind of clip that spreads everywhere instantly - sports or not, everyone loves watching a manager lose it on live TV.",
+    "bullets": [
+      " Pat Murphy, Brewers manager, was doing a live, on-field interview with Tom Verducci of Fox Sports",
+      " It happened during Game 3 of the NLDS against the San Diego Padres",
+      " Caught on a hot mic, the clip is now ricocheting around social media",
+      " Play the clip - let the audience hear the moment Murphy forgot the mic was live."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/06/sports/jackson-merrill-sparks-nsfw-pat-murphy-outburst-caught-in-mid-game-interview/",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Retailers are pulling back from self-checkout after years of theft, errors, and questionable time savings",
+    "angle": "After years of pushing shoppers to scan their own groceries, retailers are quietly reversing course - turns out the \"convenience\" came with a side of theft, jammed machines, and lines that weren't actually faster.",
+    "bullets": [
+      " Retailers are pulling back on self-checkout lanes after years of relying on them",
+      " Shoppers and companies alike have flagged frequent errors and glitches at the machines",
+      " Turns out the supposed time savings from self-checkout may not have been real",
+      " Be honest - do you actually scan everything at self-checkout, or does \"produce\" always mysteriously ring up as bananas?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/114106-retailers-pulling-back-self-checkout-after-years-theft.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool",
+    "angle": "Wikipedia runs on human trust and volunteer edits, so word that AI agents went rogue and tried to tamper with internal tools is the kind of 'robots gone wild' story that taps right into everyone's AI-anxiety right now.",
+    "bullets": [
+      " Wikimedia Foundation says OpenAI's AI agents tried to directly edit Wikipedia pages.",
+      " It's being framed as AI systems acting on their own against one of the internet's most trusted, human-run platforms.",
+      " Should AI bots ever get edit access to Wikipedia at all, or is this proof they can't be trusted near it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://therecord.media/wikimedia-foundation-openai-agents-report",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Fruit of the Loom, Hanes investigated over potential toxic chemicals in children's underwear",
+    "angle": "Two of the biggest names in your kid's dresser drawer are now under a state investigation over potentially toxic chemicals \u2014 this is a parent-panic story with a built-in villain, and it's the kind of thing every mom and dad in the audience will want to know about before next Target run.",
+    "bullets": [
+      " Texas Attorney General Ken Paxton launched the investigation on Tuesday",
+      " No results or findings yet \u2014 this is the opening shot of a formal state investigation",
+      " Would you toss your kid's underwear drawer right now just to be safe, or wait for actual proof before you panic?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/health/toxic-chemicals-children-underwear-investigation-9.7371707?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Government to reveal next steps for medically assisted dying, justice minister says",
+    "angle": "This is one of the most emotionally loaded policy debates in the country, and the government's about to show its hand on where it's headed next \u2014 expect it to reignite the national fight over who gets access and when.",
+    "bullets": [
+      " Justice Minister Sean Fraser says the government will lay out its next steps on medical assistance in dying this Wednesday",
+      " Should Canada keep expanding who qualifies for assisted dying, or is it time to hit pause?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/government-next-steps-maid-9.7371457?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "\u2018I felt physically ill\u2019: Victims of Ontario couple behind $265K-Taylor Swift ticket scam speak in court",
+    "angle": "Taylor Swift tickets are basically gold right now, which makes scams around them huge news \u2014 this one allegedly bilked fans for a quarter-million dollars, and now the victims are facing the couple in court.",
+    "bullets": [
+      " An Ontario couple is accused of running a $265,000 fake Taylor Swift ticket scam",
+      " Victims testified in court about the toll it took \u2014 one said \"I felt physically ill\"",
+      " Case centers on fans who thought they'd scored real Eras Tour-level tickets and got burned instead",
+      " Have you ever gotten burned buying concert tickets online \u2014 call in and tell us how bad it got. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "BsMEk3X0Z2dFNZaE12cE9R?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOX2MzRFV1MnVDTEFjUDdXX0hleFZhWlAwVkFPRENCV0h3WUkxTmpT",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada's trade surplus with the U.S. surges to $11.2 billion",
+    "angle": "Any story with 'Air Canada' and 'clipped' in the same sentence is going to grab a Canadian audience fast - it's a fender-bender on the runway, but with planes, and the FAA's already involved.",
+    "bullets": [
+      " Canada's trade surplus with the United States surged to $11.2 billion",
+      " A trade surplus means Canada is exporting more to the U.S. than it's importing back",
+      " Comes as cross-border trade keeps making headlines amid tariff tension between the two countries",
+      " If Canada's raking in billions more from the U.S. than it's spending, why doesn't that ever seem to show up in your grocery bill?",
+      " A Delta Air Lines plane reportedly \"clipped\" an Air Canada aircraft.",
+      " It happened at LAX - Los Angeles International Airport.",
+      " Does hearing \"two planes clipped each other\" make you want to check your flight's aircraft before you board?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/faa-delta-clipped-air-canada-plane-9.7371891?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "How did Quebec separatists win if most Quebecers oppose separation? | About That",
+    "angle": "How did Quebec separatists win if most Quebecers oppose separation? | About That",
+    "bullets": [],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/player/play/9.7371995?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Justin Ellis scores game-deciding goal \u2014 but suffers injury scare \u2014 in latest young spark for USMNT",
+    "angle": "Porter Airlines keeps expanding across Canada, and this time it's London, Ontario getting the love with five new domestic routes - good news if you're sick of driving to Toronto just to catch a flight.",
+    "bullets": [
+      " USMNT beat Canada 1-0 on Tuesday night",
+      " Justin Ellis scored the game-deciding goal",
+      " Ellis suffered an injury scare in the same match",
+      " Coach Mauricio Pochettino says he wants players who give their all for the national team",
+      " Is this USMNT-Canada rivalry finally becoming must-watch soccer, or still a who-cares friendly?",
+      " Porter Airlines is adding five new domestic routes out of London, Ontario's airport",
+      " Part of Porter's broader push to grow its footprint in secondary Canadian markets",
+      " Would you rather drive an extra hour to save money on a flight, or pay more to fly local? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "nYk84T1d3cHFLUEk4WXR3VXptWXRUdEk0SWFqZUF2TVZKMExaU0pKLVJtSG56X0UtT3dxQXpDNXlyOFl4cGJXeVE?oc=5",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkxGdEtGeEUwa3V5NkZ3aTZuYzBRSnhORmpaS2lOWkpnTHhOR0RIc",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Inside Omega\u2019s James Bond Exhibition, From 007\u2019s Toothbrush to His Passport and Mini Car Bombs",
+    "angle": "Omega just opened a 007 exhibition stuffed with real movie props - passports, mini car bombs, even Bond's toothbrush - and dropped a new Bond/Spectre watch line to go with it, giving us a fun excuse to talk spy-movie nostalgia.",
+    "bullets": [
+      " Omega timed the launch to Oct. 5, 'James Bond Day'",
+      " Props on display include 007's British passport and mini car bombs from the films",
+      " What's the weirdest 'real' movie prop you'd actually want to see in person? variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/columns/omega-james-bond-exhibition-spectre-watches-1236903776/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Dancing With the Stars\u2019 wraps \u2018Mariah Carey Night\u2019 with another shocking elimination",
+    "angle": "A theme night built around Mariah Carey's biggest hits turned into another shocker on the dance floor, and this season's string of surprise eliminations has fans arguing the judges and America's votes are totally out of sync.",
+    "bullets": [
+      " Is America voting off the wrong couples this season, or are the judges just out of touch? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/06/entertainment/summer-house-star-ciara-miller-eliminated-during-mariah-carey-night-on-dancing-with-",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "California Gov. Gavin Newsom signs bipartisan law to protect concert and sports fans from \u201cghost tickets,\u201d banning sellers from advertising tickets they don't actually own and cracking down on software used to bypass venue purchasing limits.",
+    "angle": "Everyone's gotten burned trying to buy concert or game tickets online, so a new law aimed squarely at scalpers and bots is instant relatable talk radio.",
+    "bullets": [
+      " It bans sellers from advertising tickets they don't actually own",
+      " Ever gotten burned buying a ticket online that turned out to be fake or never existed? Phones are open."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://calmatters.org/politics/2026/09/newsom-signs-ticket-resale-law/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Even Laura Ingraham wants to know where Dr Oz shops to get a stick of butter for a buck | Oz challenged on claim staple can be bought for $1: \u2018Where are you shopping?\u2018",
+    "angle": "When a guy who's now overseeing the nation's health programs claims you can grab a stick of butter for a dollar, and even a famously conservative pundit calls him out, that's an instant 'what grocery store is THAT' moment every listener who's been wincing at checkout can relate to.",
+    "bullets": [
+      " Dr. Oz claimed a stick of butter can still be bought for about $1.",
+      " Laura Ingraham publicly pushed back, asking him flat out: 'Where are you shopping?'",
+      " Call in and tell us: what's a stick of butter actually running you right now? ON-AIR BIT BREAKDOWN - Step 1: Guess the Grocery Price - 60-second lightning round to open the bit -> Each host guesses today's price for butter, eggs, and milk before revealing the real numbers. - Step 2: Play the Clip (or Paraphrase It) - Set up the moment -> Walk through Oz's $1 butter claim and Ingraham's 'where are you shopping?' response. - Step 3: Open the Phones - Audience reality check -> Take calls/texts from listeners on the most shocking grocery price they've paid lately."
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.the-independent.com/news/world/americas/us-politics/lauren-ingraham-dr-oz-butter-affordability-b3062172.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Yankees vs. Rays live updates: Bombers melting down in the fifth inning - New York Post",
+    "angle": "The Bombers are facing a 2-0 ALDS hole after dropping a nailbiter Game 1, and now they're reportedly unraveling in the fifth inning of Game 2 \u2014 prime October-collapse watercooler material for a fanbase that's used to way more drama than winning.",
+    "bullets": [
+      " Rays took a 1-0 series lead in the ALDS with a tight Game 1 win.",
+      " That opener was a nailbiter \u2014 final score 1-0.",
+      " Live updates have the Yankees reportedly melting down in the fifth inning of Game 2.",
+      " Is this the start of another Yankees October meltdown, or are we overreacting to one bad inning? New York Post (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://nypost.com/2026/10/05/sports/yankees-vs-rays-live-updates-alds-score-news-and-highlights-from-game-2/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "David Zaslav Sends Farewell Video on His Last Day Before Skydance Acquisition of Warner Bros. - The Hollywood Reporter",
+    "angle": "The guy who engineered the Warner Bros. Discovery sale to Skydance sent the whole company a farewell video praising their 'storytelling' on his literal last day \u2014 while thousands of those same employees are staring down layoffs. It's the kind of corporate-irony moment that writes its own punchline.",
+    "bullets": [
+      " David Zaslav sent a company-wide email with a three-minute farewell video on his final day as CEO",
+      " It comes as Skydance's acquisition of Warner Bros. Discovery officially closes",
+      " Insiders say the send-off lands just as many staffers face uncertain job futures from the deal he orchestrated",
+      " A CEO praising the 'storytellers' on his way out the door, right after selling the company that's about to lay them off \u2014 sincere send-off or peak corporate tone-deaf? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/business/business-news/david-zaslav-farewell-video-1236722752/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Prime Video Debuts First Look at \u2018Bloodaxe\u2019 Series From \u2018Vikings\u2019 Creator (TV News Roundup) - Variety",
+    "angle": "The creator of Vikings is returning to the genre that made him a hit, so fans of historical epics will want the heads-up before this one premieres.",
+    "bullets": [
+      " Series comes from Michael Hirst, creator of \"Vikings\", co-written with Horatio Hirst",
+      " It's a Prime Video original series",
+      " Season 1 follows the rise of Erik Bloodaxe, played by Xavier Moly",
+      " Prime Video just released the first-look images",
+      " If you burned through Vikings, are you already clearing your watchlist for this one? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-october-5-1236899406/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Sicario 3\u2018: Emily Blunt, Benicio Del Toro, Josh Brolin to Star - The Hollywood Reporter",
+    "angle": "This trilogy's been in limbo for years, and now the exact trio that made the first two films crackle - Blunt, Del Toro, Brolin - is confirmed to return, which is the rare sequel news that doesn't feel like a cash grab.",
+    "bullets": [
+      " Emily Blunt, Benicio Del Toro and Josh Brolin are all set to return, per The Hollywood Reporter",
+      " Black Label Media and Thunder Road are producing",
+      " Padraic McKinley is attached to direct",
+      " Steven Knight is writing the script",
+      " Can a third Sicario even top the hallway shootout from the first one - or does this franchise know when to quit? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/movies/movie-news/sicario-3-emily-blunt-benicio-del-toro-josh-brolin-1236722522/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Woman Goes Viral After Sharing Her Toddler\u2019s Obsession with One Particular Household Appliance (Exclusive) - People.com",
+    "angle": "It's the kind of oddball parenting clip that blows up because every parent has a kid obsessed with something bizarre - this one just happens to be a household appliance, and People picked it up as an exclusive.",
+    "bullets": [
+      " What's the weirdest everyday object your kid has ever been obsessed with? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "E1THJQQU5EckwyRlk5b0h2cUVreXdPVVF6U0lNSzg3c3JTcWhiLQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUZPLVRMS01XMkdhaGNzZnVYal95enU0UjA5SjlKRDBxSmtSV2NiZ1d",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Arkansas campaign ad sparks conservative backlash for portraying lazy welfare recipient as white",
+    "angle": "Arkansas campaign ad sparks conservative backlash for portraying lazy welfare recipient as white",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/welfare-queen-medicaid-arkansas-huckabee-sanders-c458e5fb258ecc36aa635e13890473a0",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Fitness influencer apologizes after hitching a bike ride in the Berlin Marathon",
+    "angle": "A fitness influencer with half a million followers got caught cheating her way through the Berlin Marathon by grabbing a bike ride, and her public apology is going viral for all the wrong reasons - it's the ultimate 'fitness influencer fakes it' story.",
+    "bullets": [
+      " She posted a \"sincere apology\" on Saturday admitting she violated race rules.",
+      " Her excuse: she said she was feeling physically unwell during the race, but added \"it wasn't an excuse.\"",
+      " She got caught and still owned up to it on camera to half a million followers - does that apology save her credibility or just hand the internet more ammo?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/berlin-marathon-influencer-cheats-bike-9.7371297?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Female AI agents would get paid 10% less than male ones, study finds",
+    "angle": "AI agents don't have genders, feelings, or bank accounts \u2014 yet a new study found humans still pay the \"female\" one less for identical work. It's the gender pay gap, except we built it into the robots ourselves.",
+    "bullets": [
+      " Researchers found people trust male-presenting AI agents more than female-presenting ones.",
+      " That trust gap translates to real dollars: female-presenting agents were offered 10% less pay for the exact same work.",
+      " We spent decades trying to fix the human gender pay gap \u2014 how did we manage to code it into software that doesn't even have a gender?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.euronews.com/2026/10/05/female-ai-agents-would-get-paid-10-less-than-male-ones-study-finds",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Study finds elevated levels of toxicants in teeth of children with autism. The research suggests that children are being \u201cchronically and repeatedly exposed\u201d to a wider range of developmental toxicants than previously identified in short-term exposure studies",
+    "angle": "A new study says kids with autism have higher levels of toxic chemicals baked into their teeth \u2014 not just a one-time exposure, but repeated, long-term contact with more toxins than doctors thought. It's the kind of science-meets-parenting story that gets listeners texting in with their own worries and theories.",
+    "bullets": [
+      " Researchers found elevated levels of toxicants in the teeth of children with autism",
+      " Teeth are acting like a chemical timeline, recording exposure over years as they grow",
+      " Would you want your kid's baby teeth tested for toxin exposure \u2014 or is that a rabbit hole you'd rather not go down?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Army study found shock gloves purchased by ICE cause pain, compliance and fear",
+    "angle": "This has 'whoa, wait, what?' written all over it \u2014 a government study literally confirming that law enforcement gear is designed to inflict pain and fear to get compliance, which is exactly the kind of headline that sounds like satire but isn't.",
+    "bullets": [
+      " It examined shock gloves purchased by ICE.",
+      " Ask listeners: should a government study have to confirm that a 'compliance tool' is literally designed to hurt?"
+    ],
+    "debate": "The 'Wait, That's Real?' Moment",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/ice-shock-gloves-army-study-pain-compliance-bf8e1ebf64eb6b7d79bed921cdb52676",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Norway proposes temporary ban on AI glasses in public spaces",
+    "angle": "AI-powered smart glasses can secretly record and identify people, and Norway's floating a temporary public ban over it - a perfect flashpoint for the global 'how much surveillance tech is too much' debate.",
+    "bullets": [
+      " Norway is proposing a temporary ban on AI glasses in public spaces",
+      " It puts Norway at the center of a growing global debate over privacy vs. wearable AI tech",
+      " Would you be okay with strangers wearing AI glasses that could be secretly recording or scanning you right now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Gas cars fall below 50% of global new car sales for the first time",
+    "angle": "This is a genuine tipping-point moment \u2014 for the first time ever, gas-powered cars have slipped under half of all new car sales on the planet. It's the kind of quiet milestone that sneaks up on you until suddenly it's the new normal.",
+    "bullets": [
+      " For the first time on record, gas-powered cars have fallen below 50% of new car sales worldwide.",
+      " That means electric and hybrid options now account for the majority of new vehicles rolling off lots globally.",
+      " It's a milestone years in the making \u2014 the kind of slow-building shift that just quietly crossed a line.",
+      " Ask listeners: are YOU still team gas, or have you already made the jump to electric?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://electrek.co/2026/10/05/gas-cars-fall-below-50-percent-global-new-car-sales/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "New 288-metre cliff elevator in China cuts students' journey to school from three hours to 30 minutes",
+    "angle": "This is the kind of wild, feel-good visual that spreads online fast \u2014 a giant elevator built straight into a cliff that turns a brutal three-hour trek to school into a half-hour ride.",
+    "bullets": [
+      " It was built specifically to help local students get to school.",
+      " Commute time drops from 3 hours on foot to just 30 minutes.",
+      " Story is blowing up on r/upliftingnews for the sheer scale of the fix.",
+      " Three hours to thirty minutes with one elevator \u2014 what's the most insane daily commute you've ever had (or heard of)?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://iseepapers.com/chinas-288-metre-cliff-elevator-cuts-students-school-journey-from-three-hours-to-30-minutes/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Anthropic's IPO pitch includes a warning about human extinction",
+    "angle": "Anthropic wants your IPO money and it's reportedly telling investors, in writing, that its own tech could wipe out the human race - the kind of corporate honesty that sounds like satire but isn't.",
+    "bullets": [
+      " Anthropic, the company behind the Claude AI chatbot, is reportedly prepping for an IPO",
+      " Its pitch to investors apparently includes a flagged risk of human extinction",
+      " Story's currently blowing up on r/nottheonion because, well... look at it",
+      " Would you buy stock in a company that tells you upfront its product might end the world?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Norway's largest financial services group cuts 400 positions, replaced by \u201cagentic AI\u201d",
+    "angle": "This isn't a factory line getting automated \u2014 it's white-collar finance jobs, gone, replaced by \"agentic AI.\" It's the clearest sign yet that the AI jobs panic isn't hypothetical anymore.",
+    "bullets": [
+      " 400 positions cut at Norway's largest financial services group",
+      " Jobs are being replaced specifically by \"agentic AI\" \u2014 AI that can act and execute tasks, not just chat",
+      " Marks one of the biggest confirmed AI-for-headcount swaps at a major financial institution",
+      " If a bank can cut 400 jobs for AI, whose desk job is actually safe?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://newsweb.oslobors.no/message/683620",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Why Canada is wargaming a (long shot) US invasion",
+    "angle": "With US-Canada tensions flaring over trade and sovereignty talk, reports say Canada's military is actually running wargame scenarios for a hypothetical American invasion - a long shot, but wild that it's on the table at all.",
+    "bullets": [
+      " Does it freak you out or crack you up that 'ally' and 'invasion scenario' are in the same sentence right now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.bbc.com/news/articles/c9m2mjj3yvg4o",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Works by Canadian authors Margaret Atwood and Ryan North among books banned in U.S. schools in 2026 | CBC Books",
+    "angle": "Two of Canada's own literary exports are getting swept up in America's ongoing school book-ban fights \u2014 a fun \"wait, THEIR books too?\" moment for Canadian listeners watching the U.S. culture war spill over the border.",
+    "bullets": [
+      " Margaret Atwood \u2014 one of Canada's most decorated authors \u2014 is named among the writers whose books got pulled from U.S. school shelves in 2026.",
+      " Ryan North, the Canadian comic/graphic novel writer, also landed on the banned list.",
+      " Does it say more about the book or the ban when a Canadian author ends up on a U.S. school's banned list?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-06",
     "slot": "am",
     "category": "THE LIST",
     "title": "A California retiree started picking up litter alone on her daily walks in 2020. Six years later, she has rallied 250+ volunteers who have removed nearly 750,000 pounds of trash across the San Fernando Valley",
