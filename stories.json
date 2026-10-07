@@ -1,5 +1,556 @@
 [
   {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "\u201cAI won\u2019t take your job anytime soon\u201d: Microsoft\u2019s AI boss says only 5% of human work will be replaced in 10 years",
+    "angle": "Everyone's bracing for AI to wipe out jobs, so it's a jolt when Microsoft's own AI boss says the real number is tiny - and it opens up a juicier debate about hours and headcount quietly shrinking instead.",
+    "bullets": [
+      " Microsoft's AI chief cited economist Daron Acemoglu's estimate that only about 5% of human work gets automated by AI over the next 10 years",
+      " Daron Acemoglu is a prominent economist who's been one of the louder skeptics pushing back on AI hype",
+      " Do you buy the '5%' number, or does it feel like corporate spin to keep everyone calm while hiring quietly dries up?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.reddit.com/r/Futurology/comments/1wzunqr/ai_wont_take_your_job_anytime_soon_microsofts_ai/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Nature\u2019s Goofy Side Takes Center Stage in the Funniest Wildlife Photos of the Year",
+    "angle": "The Comedy Wildlife Photography Awards are basically guaranteed content \u2014 ridiculous animal faces, perfect timing, zero controversy, pure watercooler fodder for a slow news day.",
+    "bullets": [
+      " Photographers compete to capture perfectly timed moments of animals mid-blooper",
+      " Pull up your three favorite shots on air and make the other host guess what the animal was thinking. gizmodo.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/natures-goofy-side-takes-center-stage-in-the-funniest-wildlife-photos-of-the-year-2000822765",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "'Black Mirror Behaviour': AI Video of Slain Man Forgiving Killer in Court Gets His Sentence Vacated",
+    "angle": "A court let an AI-generated video of a murdered man 'speak' and forgive his own killer at sentencing \u2014 and now an appeals court says that crossed a line and wiped out the sentence. It's the kind of true-crime-meets-AI story that's part legal drama, part genuine 'is this where technology is taking us' gut-check.",
+    "bullets": [
+      " A court allowed an AI-generated video of a murder victim to address the courtroom and forgive his killer before sentencing.",
+      " An appeals court has since vacated the sentence, citing the use of the AI recreation.",
+      " Should AI be allowed to put words in a victim's mouth in court \u2014 even forgiving words \u2014 or does that cross a line no algorithm should touch?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/arizona-court-orders-new-sentencing-after-ai-victim-video-1765241",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Nepal search for missing after flash floods officially ends, with nearly 5,300 people still unaccounted for",
+    "angle": "Nepal's government just officially ended the search for flood victims \u2014 even though nearly 5,300 people are still unaccounted for weeks later, leaving families stuck between grief and disbelief.",
+    "bullets": [
+      " Nepal was hit by catastrophic flash floods weeks ago that devastated communities.",
+      " Nearly 5,300 people remain unaccounted for.",
+      " Families of the missing say they have \"mixed feelings\" about the decision to stop looking.",
+      " How do you put a timeline on hope \u2014 at what point does a country have to officially stop searching for its own people?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/nepal-mudslide-search-ends-thousands-missing-9.7372223?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Sebastian Stan Says It Was \u201cVery Nostalgic\u201d Reuniting with Chris Evans on \u2018Avengers: Doomsday:\u2019 \u201cWe Grew Up Together\u201d",
+    "angle": "Avengers: Doomsday is shaping up to be the biggest superhero reunion in years, and fans are losing it over Bucky and Cap getting back together on screen.",
+    "bullets": [
+      " Sebastian Stan called reuniting with Chris Evans on set \"very nostalgic\"",
+      " Stan told Decider: \"We grew up together\"",
+      " Stan says the Marvel cast dynamic \"has been a family and it never stops being that way\"",
+      " Which on-screen duo reunion would get YOU back in a movie theater seat instantly?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://decider.com/2026/10/07/sebastian-stan-interview-avengers-doomsday-chris-evans-bucky/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Doctor reveals Christa Pike\u2019s \u2018memories\u2019 and what she said in hospital after bungled execution",
+    "angle": "A death row case just took the strangest turn possible: an inmate who lived through two botched lethal injection attempts can reportedly recall what happened to her in the hospital afterward. It's a story that forces a national conversation about how the death penalty is actually carried out.",
+    "bullets": [
+      " Christa Pike reportedly survived two botched lethal injection attempts",
+      " A doctor who advised her legal team says she can recall her own name",
+      " If the state can't even carry out an execution without botching it twice, should it still be allowed to try a third time?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/07/us-news/christa-pikes-doctor-reveals-murderers-memories-and-what-she-said-in-hospital-after-bungle",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Immigration minister appears unaware of court ruling that guarantees Charter rights for refugees",
+    "angle": "This is the kind of gaffe that actually matters - a sitting immigration minister reportedly couldn't speak to the landmark Supreme Court ruling that underpins how Canada handles refugee claims, and advocates are not holding back their shock.",
+    "bullets": [
+      " That ruling is described as the cornerstone of Canada's entire refugee protection system",
+      " Refugee rights advocates say they're shocked the minister didn't seem to know it",
+      " Should a government minister be expected to know the single most important court case governing their own file - no excuses?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/singh-case-refugee-board-c-12-lena-diab-9.7371340?cmp=rss",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Canadians are tipping less, and hospitality workers are feeling it",
+    "angle": "Tip fatigue is real - after years of being asked to tip on everything from a coffee to a to-go order, Canadians are pulling back, and the workers who rely on that extra cash are the ones absorbing it.",
+    "bullets": [
+      " Tip fatigue is pushing more Canadians to tip less or skip it altogether, especially on takeout and counter-service orders",
+      " Hospitality workers say the pullback is hitting their take-home pay directly, since tips are often treated as part of their real wage",
+      " Have you started tipping less lately - and does it make you feel guilty, or just done?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.moneysense.ca/spend/canada-tipping-culture-survey/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Canada's Bill C-22 could drive out a tool 20 million people use to beat censorship",
+    "angle": "Bill C-22 is raising alarms online because it could push out a tool that roughly 20 million people rely on to get around censorship - a classic internet-freedom-vs-government-control fight that always gets people talking.",
+    "bullets": [
+      " Critics say it could drive out a tool used by around 20 million people.",
+      " Where's the line between online safety regulation and killing tools people use for internet freedom?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.yahoo.com/news/politics/articles/canadas-bill-c-22-could-082052681.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "What firefighters want you to know about lithium battery fires",
+    "angle": "Porter Airlines is adding five new domestic routes out of London airport, which matters for Canadian listeners weighing cheaper, more convenient flight options closer to home instead of trekking to Toronto Pearson.",
+    "bullets": [
+      " Firefighters warn lithium battery fires are hot, fast, and hard to extinguish",
+      " Risk spans from household e-bike batteries to huge storage batteries at a P.E.I. solar farm",
+      " Story breaks down why these fires are uniquely dangerous and how to minimize the risk",
+      " Porter Airlines is expanding service at the London airport.",
+      " Move signals continued growth for Porter beyond its traditional Toronto base.",
+      " Would you rather drive the extra hour to save money, or pay more to fly out of your closest airport? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "Got an e-bike or e-scooter charging in your house right now \u2014 where do you keep it, and does this change that?",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQkxGdEtGeEUwa3V5NkZ3aTZuYzBRSnhORmpaS2lOWkpnTHhOR0RIc",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Will the latest Canada grocery benefit payment help you ahead of Thanksgiving?",
+    "angle": "Money hitting bank accounts days before a big family meal is an instant relatable topic - everyone's either checked their account already or wants to know if they're getting a cheque.",
+    "bullets": [
+      " Did the rebate actually show up in your account yet, and is it covering your turkey or barely denting the grocery bill? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "khialY2dFZuSkExNTJxSUNRU0N2THVBSVBfTWNBdVFmRVNZdkl0X0I4eWJmT0pYVWlNX01QOTJnbDdaSzA?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR0xHZmdHWDhjMUZBTzRaNFFfeXRidUNILTBDSUJneEdKeERFY2Y1U",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Line of Duty\u2019 Creator Jed Mercurio Submits \u2018Doctor Who\u2019 Bid to BBC",
+    "angle": "Doctor Who's future is up for grabs and now a heavyweight British drama producer is openly campaigning for the keys - that's a juicy insider story for any Whovians or prestige-TV fans in the audience.",
+    "bullets": [
+      " Jed Mercurio, creator of Line of Duty, has submitted a pitch to reboot Doctor Who for the BBC",
+      " He's bidding through Hat Trick Mercurio, his production company co-founded with Jimmy Mulville",
+      " Mercurio's resume includes Bodyguard (starring Richard Madden) and Trigger Point (starring Vicky McClure)",
+      " Line of Duty energy on Doctor Who - genius crossover or totally wrong tone for a kids-and-family sci-fi show? variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/global/jed-mercurio-doctor-who-bid-bbc-1236904187/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Lizzie Borden was no suffragist, no matter what Ryan Murphy says",
+    "angle": "Ryan Murphy's known for bending true crime into prestige drama, but critics say his latest spin \u2014 painting axe-murder suspect Lizzie Borden as some kind of early feminist icon \u2014 is rewriting history to sell a better story.",
+    "bullets": [
+      " Where's the line between creative license and just making history up to fit a narrative?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.salon.com/2026/10/06/lizzie-borden-was-no-suffragist-no-matter-what-ryan-murphy-says/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Sylvester Stallone threatened to knock A-list co-star\u2019s \u2018teeth out\u2019 in explosive on-set clash",
+    "angle": "Stallone's new memoir drops a juicy, decades-later confession about an on-set blowup with a fellow A-lister \u2014 exactly the kind of old-Hollywood tea that gets people talking about which movie and which star.",
+    "bullets": [
+      " He says he threatened to knock the co-star's \"teeth out\" during filming.",
+      " Stallone writes \"it was clear to everyone that this wasn't working\" on set.",
+      " His bottom line on the feud: \"One of us had to go.\"",
+      " Before you Google it \u2014 guess which A-lister Stallone almost decked, then see if callers get it right."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "The best-dressed celebrities at the VRT Awards 2026: Lindsay Hubbard, Layla Taylor and more",
+    "angle": "Awards shows live and die by the carpet, and this one's got a built-in punchline \u2014 the trophy itself is a teacup. Easy, fun entry point for a fashion debate with names like Lindsay Hubbard and Layla Taylor in the mix.",
+    "bullets": [
+      " Lindsay Hubbard and Layla Taylor were named among the best-dressed stars on the carpet",
+      " Red carpet looks were judged before the awards themselves were even handed out",
+      " Pull up the photos on air \u2014 safe and chic, or swing-for-the-fences risky: which look actually wins? ON-AIR BIT BREAKDOWN - Step 1: Pull the carpet photos - 30 seconds, get them on screen/socials -> Producer queues up 3-4 red carpet looks including Lindsay Hubbard and Layla Taylor - Step 2: Quick-fire rate each look - 1 minute, hosts react live -> Each host gives a one-word verdict per outfit, then a quick reason why - Step 3: Crown the winner - 30 seconds, wrap with a poll -> Hosts disagree on purpose, throw it to listeners to vote best-dressed on socials"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/07/style/the-best-dressed-celebrities-at-the-vrt-awards-2026/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Austin Abrams\u2019 \u2018Whalefall\u2019: First Reactions - The Hollywood Reporter",
+    "angle": "Early reactions to the survival thriller 'Whalefall' are hitting social media ahead of its theatrical release, and critics are buzzing about lead Austin Abrams continuing a huge breakout year.",
+    "bullets": [
+      " Brian Duffield directs the survival thriller 'Whalefall'",
+      " Lead actor Austin Abrams stars, and reviewers say it's part of his \"banner year\"",
+      " First reactions are circulating on social media ahead of release",
+      " Movie hits theaters Oct. 16",
+      " Would you sit through a movie about getting swallowed by a whale, or is that a hard pass for you? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/movies/movie-news/whalefall-first-reactions-austin-abrams-brian-duffield-1236716804/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "'Marriage is a lot of work,' says Michael Douglas on 2013 split with Catherine Zeta-Jones - BBC",
+    "angle": "Hollywood's golden couple actually split for a year back in 2013, and now Douglas is opening up about never giving up on winning her back - a real love story twist that fans eat up.",
+    "bullets": [
+      " Douglas told the Sunday Times: \"Marriage is a lot of work.\"",
+      " He says he \"never gave up hope\" of reconciling during their 2013 split",
+      " Douglas recalls telling her right away: \"I'm going to be the father of your children\"",
+      " Does hearing a 28-year age gap love story that actually survived a split make you more romantic or more skeptical about Hollywood marriages? BBC News (via NewsAPI) (Tier 1) | Score: 77/90 (45 fit + 12 source + 20 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.bbc.com/news/articles/c6jrw4ndzjpeo",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Disney star Christy Carlson Romano talks new book, stage moms, more - USA Today",
+    "angle": "Christy Carlson Romano, the Emmy-nominated Disney Channel alum, just dropped a memoir ripping the curtain back on her Hollywood childhood \u2014 perfect fodder for the always-juicy 'what really happens to child stars' conversation.",
+    "bullets": [
+      " Her new memoir is called \"Once Upon a Trainwreck\"",
+      " She's a Disney Channel alum and Emmy-nominated actress",
+      " She sat down with USA TODAY to unpack a \"turbulent upbringing\" in the industry",
+      " She says finding herself has been \"her greatest performance\"",
+      " Stage parents, lost childhoods, Hollywood pressure \u2014 ask listeners: did a pushy parent ever help or hurt your own shot at something big? USA Today (via NewsAPI) (Tier 1) | Score: 77/90 (45 fit + 12 source + 20 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.usatoday.com/story/entertainment/books/2026/10/06/christy-carlson-romano-book-interview-once-upon-a-trainwreck-dis",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Doctor Who\u2019 Returns in First Look at Animated Series for Pre-Schoolers",
+    "angle": "The Doctor's going full preschool with a new animated spinoff, which is either a genius way to build the next generation of Whovians or proof no franchise is safe from the baby-show treatment.",
+    "bullets": [
+      " Doctor Who is getting an animated series aimed at preschoolers, with a first look now out",
+      " Does turning a sci-fi icon into a toddler show feel like smart franchise-building or scraping the bottom of the IP barrel? gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/doctor-who-returns-in-first-look-at-animated-series-for-pre-schoolers-2000822589",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Arkansas campaign ad sparks conservative backlash for portraying lazy welfare recipient as white",
+    "angle": "A political ad out of Arkansas is getting ripped by conservatives for casting a white person as the 'lazy welfare recipient' \u2014 and the backlash itself is the story, because it's forcing an awkward conversation about what stereotype people expected to see instead.",
+    "bullets": [
+      " It depicts a lazy welfare recipient who is white",
+      " It's drawing backlash from conservatives over the portrayal",
+      " Is the backlash about the ad being unfair \u2014 or about what it says that people assumed the 'lazy welfare recipient' would look different?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/welfare-queen-medicaid-arkansas-huckabee-sanders-c458e5fb258ecc36aa635e13890473a0",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Fitness influencer apologizes after hitching a bike ride in the Berlin Marathon",
+    "angle": "A marathon cheating scandal is basically tailor-made for viral outrage - and this one's got an influencer with over half a million followers getting caught and publicly apologizing, which is the kind of receipts-required drama that always gets people talking.",
+    "bullets": [
+      " Influencer goes by Abeeeer on the Chinese platform Rednote (Xiaohongshu), where she has 520,000 followers",
+      " She posted a \"sincere apology\" Saturday for violating race rules during the Berlin Marathon",
+      " Her excuse: she was feeling physically unwell during the race",
+      " She admitted outright that \"it wasn't an excuse\" for hitching the bike ride",
+      " Does the apology actually fix it, or once you fake a marathon finish, is your credibility just done?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/berlin-marathon-influencer-cheats-bike-9.7371297?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "I review AirPods, MacBooks and more. Here are the 14 best Amazon Prime Day Apple deals - CNN",
+    "angle": "Amazon's October Prime Day event means discounts on AirPods, MacBooks, and Apple Watches, and a tech reviewer has already sorted the real deals from the duds \u2014 solid fodder for a quick 'did you buy anything' segment.",
+    "bullets": [
+      " CNN Underscored's tech reviewer tested a pile of Apple products to find the 14 best deals of this October Prime Day event.",
+      " Deals cover the usual suspects: AirPods, MacBooks, and more Apple gear, discounted for Amazon's fall sale.",
+      " It's part of Amazon's broader 'Prime Big Deal Days' push \u2014 their second major sale event of the year.",
+      " Call in and tell us \u2014 did you already buy something on Prime Day, or are you waiting to see if it gets cheaper? CNN (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.cnn.com/cnn-underscored/deals/best-amazon-prime-day-apple-deals-2026-10-06",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Study finds elevated levels of toxicants in teeth of children with autism. The research suggests that children are being \u201cchronically and repeatedly exposed\u201d to a wider range of developmental toxicants than previously identified in short-term exposure studies",
+    "angle": "A new study says kids with autism are showing elevated toxic chemical levels baked right into their baby teeth \u2014 this taps straight into the never-ending parent anxiety over what's really causing autism rates to rise, and it's the kind of science headline that spreads fast on social.",
+    "bullets": [
+      " Researchers found elevated levels of toxicants in the baby teeth of kids with autism.",
+      " It flags a wider range of developmental toxicants than earlier short-term exposure research ever picked up on.",
+      " Would you actually want your kid's baby teeth tested for toxic exposure, or does this just feed the panic without giving parents real answers?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Army study found shock gloves purchased by ICE cause pain, compliance and fear",
+    "angle": "This is the kind of \"wait, that's real?\" story made for r/nottheonion - a military study basically confirms a law enforcement tool is designed to inflict pain and fear on purpose, which is an easy conversation starter about where the line is on use-of-force gear.",
+    "bullets": [
+      " An Army study reportedly found the shock gloves cause pain, compliance, and fear in people on the receiving end.",
+      " Story's been circulating on r/nottheonion - the subreddit for real news that sounds fake.",
+      " Is \"compliance through fear\" a tool law enforcement should be allowed to use - or is that the line?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/ice-shock-gloves-army-study-pain-compliance-bf8e1ebf64eb6b7d79bed921cdb52676",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Parents are using AI to generate pictures of their kids to save money on school photos",
+    "angle": "School photo packages can run families serious money every year, so some parents are skipping picture day altogether and just generating an AI version of their kid instead - a classic case of tech convenience bumping into \"wait, is that weird?\"",
+    "bullets": [
+      " Smart budget hack or something that feels a little off when it's your kid's face - where do you land?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Goodbye joint replacements? Stanford scientists found a way to regrow cartilage and stop arthritis",
+    "angle": "Millions of people live with joint pain and eventually face knee or hip replacement surgery, so a story about regrowing cartilage naturally is the kind of hope-forward science news that gets everyone talking about their own aching knees.",
+    "bullets": [
+      " Stanford scientists say they've developed a way to regrow cartilage in joints",
+      " If it pans out, it could mean skipping joint replacement surgery entirely",
+      " Who in your life is already counting down to a hip or knee replacement \u2014 would they sign up for this in a heartbeat?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261005011249.htm",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Gas cars fall below 50% of global new car sales for the first time",
+    "angle": "For the first time ever, more than half of new cars sold worldwide are NOT pure gas-powered \u2014 a quiet tipping point that says the EV/hybrid shift isn't a coastal trend anymore, it's global math.",
+    "bullets": [
+      " That means EVs and hybrids combined now outsell traditional gas cars on the global market.",
+      " Be honest \u2014 when your next car shops around, is gas even on your list anymore?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://electrek.co/2026/10/05/gas-cars-fall-below-50-percent-global-new-car-sales/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Ms. Rachel paid the full $5,000 target for a Filipino baby's medical fundraiser after his mother asked her to simply share it. The family had appealed for help after the baby was diagnosed with omphalocele.",
+    "angle": "A mom just wanted a retweet for her baby's medical fund \u2014 Ms. Rachel went full fairy godmother and covered the whole bill herself. It's the kind of good-news gut-punch that makes for a perfect show closer.",
+    "bullets": [
+      " A Filipino mother reached out to Ms. Rachel asking her to simply share her son's medical fundraiser.",
+      " Instead of just sharing it, Ms. Rachel paid the entire remaining $5,000 goal herself.",
+      " Story is lighting up r/upliftingnews as a feel-good moment.",
+      " When's the last time asking a celebrity for a 'small favor' turned into them footing the whole bill?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://radar.ph/ms-rachel-donates-5000-to-filipino-child-with-serious-birth-defect/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "New 288-metre cliff elevator in China cuts students' journey to school from three hours to 30 minutes",
+    "angle": "A school commute that used to eat half the school day just got slashed from three hours to thirty minutes, pure feel-good engineering-meets-humanity story with a wild visual that's tailor-made for social.",
+    "bullets": [
+      " A new 288-metre elevator was built straight into a cliffside in China.",
+      " It's designed to get local students to and from school.",
+      " What's the worst school or work commute you ever had to survive?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://iseepapers.com/chinas-288-metre-cliff-elevator-cuts-students-school-journey-from-three-hours-to-30-minutes/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "US Man Bought Plutonium From Russia and Sold It Online Across America",
+    "angle": "A story so absurd it reads like satire but isn't \u2014 an American allegedly bought plutonium straight from Russia and then resold it online to buyers across the US, which is both hilarious and deeply unsettling.",
+    "bullets": [
+      " Story originated on r/nottheonion, the subreddit for real news that sounds fake",
+      " Buyer allegedly sourced actual plutonium from Russia",
+      " Material was then resold online to customers across the US",
+      " On a scale of 'dark web weirdo' to 'national security threat,' where does buying plutonium online even land?"
+    ],
+    "debate": "The 'Wait, What?' Reaction",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://united24media.com/world/us-man-bought-plutonium-from-russia-and-sold-it-online-across-america-23206",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Army study found shock gloves purchased by ICE cause pain, compliance and fear",
+    "angle": "An Army study reportedly found that the shock gloves ICE bought are specifically effective because they cause pain and fear, not just 'compliance' \u2014 that's the kind of detail that turns a gear story into a real debate about where the line is on force.",
+    "bullets": [
+      " ICE purchased shock gloves as part of its gear lineup",
+      " An Army study found the gloves work by causing pain, compliance, and fear in the person zapped",
+      " Is 'pain and fear' an acceptable design goal for law enforcement gear, or does that cross a line?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nbcnews.com/news/us-news/army-study-found-shock-gloves-purchased-ice-cause-pain-compliance-fear-rcna602015",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Solo teen hiker hoisted from mountain cliff after using AI to plan route, North Shore Rescue says",
+    "angle": "A solo teen hiker had to be airlifted off a cliff after following a hiking route mapped out by AI - a real-world cautionary tale about blindly trusting chatbots with your safety that's tailor-made for a debate.",
+    "bullets": [
+      " A teen hiker was hoisted off a mountain cliff by North Shore Rescue crews after getting stranded.",
+      " North Shore Rescue is calling out the incident as a warning about relying on AI for backcountry trip planning.",
+      " Would you ever let a chatbot map your hiking route - or is this exactly why you don't let AI near your outdoor safety plan?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nsnews.com/local-news/solo-teen-hiker-hoisted-from-mountain-cliff-after-using-ai-to-plan-route-north-shore-rescue-says-",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-10-06",
     "slot": "pm",
     "category": "THE LIST",
