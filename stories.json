@@ -1,6 +1,740 @@
 [
   {
     "date": "2026-10-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Fugitive accused of heinous crimes 14 years ago busted living secret life in ritzy California beachtown https://t.co/MaWop0NV9T https://t.co",
+    "angle": "A guy accused of serious crimes pulled off a 14-year disappearing act and got caught living it up in a wealthy California beach town \u2014 it's the real-life fugitive thriller plot that always gets people hooked.",
+    "bullets": [
+      " Suspect allegedly dodged police for 14 years before finally getting caught",
+      " He was tracked down living a \"secret life\" in a ritzy California beach town",
+      " Original charges are described as \"heinous crimes\"",
+      " How does someone vanish for 14 years and rebuild a whole new life two blocks from the beach without anyone catching on? X/Twitter @NYPost (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2108009157978739197",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "The U.S. Army Corps of Engineers has transformed 500,000 cubic yards of dredged Mississippi River sand into 7 new wildlife islands at Wisconsin's McGregor Lake, completing a $25 million project that restored 270+ acres of aquatic habitat and protected 22 acres of wetlands.",
+    "angle": "The U.S. Army Corps of Engineers has transformed 500,000 cubic yards of dredged Mississippi River sand into 7 new wildlife islands at Wisconsin's McGregor Lake, completing a $25 million project that restored 270+ acres of aquatic habitat and protected 22 acres of wetlands.",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://dredgewire.com/corps-of-engineers-celebrates-mcgregor-lake-restoration-project-completion/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Texas Parks and Wildlife Foundation has secured a 650-acre family ranch on Lake Palestine for a new state park, preserving one of the lake's largest remaining undeveloped tracts after the land was owned by the same family since 1940",
+    "angle": "An 86-year-old family ranch on Lake Palestine is becoming a brand-new state park instead of lakefront development \u2014 a rare win for conservation that'll have people rooting for the family who held on this long.",
+    "bullets": [
+      " Instead of selling to developers, the land will be preserved permanently as public parkland",
+      " Would you turn down developer money to keep land in the family \u2014 or cash out?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.texastribune.org/2026/10/02/lake-palestine-east-texas-park/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "One of America\u2019s Last Chestnut Groves Is About to Be Destroyed for a Data Center",
+    "angle": "American chestnuts were basically wiped out by blight a century ago, so a surviving grove is a genuine rarity \u2014 and now it's reportedly in the path of the AI data center boom. It's the clash of the moment: tech's land grab versus something nature can't just rebuild.",
+    "bullets": [
+      " It's reportedly set to be cleared to make way for a data center",
+      " American chestnuts were nearly wiped out continent-wide by blight in the early 1900s, making surviving groves extremely rare",
+      " Story is circulating on r/technology, tied into the bigger wave of AI-driven data center construction",
+      " Is unchecked AI infrastructure worth paying for with pieces of American history and nature we can't get back?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gadgetreview.com/one-of-americas-last-chestnut-groves-is-about-to-be-destroyed-for-a-data-center",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services | Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+    "angle": "That little padlock next to a web address is supposed to mean 'this site is legit' \u2014 but hackers just proved they can fake it for Google and other major services, which is a scary gut-check for anyone who's ever typed a password online.",
+    "bullets": [
+      " Hackers compromised three domain registries to pull this off",
+      " They walked away with counterfeit TLS certificates \u2014 the digital ID cards that make browsers show that trusted padlock icon",
+      " Fake certs like these can be used to impersonate real websites and intercept supposedly 'secure' traffic",
+      " If the padlock icon can be faked for Google, does anyone actually know what 'secure' means online anymore?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "South Korea unveils US$747 billion energy transition plan through 2035, accelerate renewable expansion to 100GW by 2030",
+    "angle": "This is one of the biggest national energy bets on the planet right now \u2014 South Korea staking three-quarters of a trillion dollars on going green, which puts real pressure on North America to keep pace in the global clean-energy race.",
+    "bullets": [
+      " South Korea just unveiled a US$747 billion energy transition plan stretching out to 2035",
+      " It's one of the largest single national clean-energy investment plans announced anywhere this year",
+      " Could you ever see North America dropping three-quarters of a trillion dollars on clean energy in one shot \u2014 or are we falling behind countries like South Korea?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.businesstimes.com.sg/international/south-korea-unveils-us747-billion-energy-transition-plan-through-2035",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Government to exclude people who solely suffer from mental illness from medical assistance in dying",
+    "angle": "This reopens one of the most emotional debates in Canadian politics - how far MAID should go - and it's the kind of policy story that splits people along deeply personal, not just partisan, lines.",
+    "bullets": [
+      " MAID expansion to mental-illness-only cases has already been delayed multiple times by Ottawa amid pushback from doctors and disability advocates.",
+      " Critics on both sides use this fight - some call it a necessary safety limit, others call it a rollback of promised rights.",
+      " Should mental illness alone ever qualify someone for medically assisted death - where's the line?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://vancouver.citynews.ca/2026/10/07/liberals-to-outline-plans-on-assisted-dying-ahead-of-mental-illness-expansion/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Don't support Trump tariffs then blame Stelco job cuts on 'act of God,' minister Joly warns Cleveland-Cliffs | 'These obligations are binding,' industry minister says",
+    "angle": "This is the sharpest shot yet in the Trump tariffs fallout - a sitting Canadian cabinet minister publicly accusing a major steelmaker of using tariffs as cover for layoffs, which taps into real anxiety about jobs, trade wars, and who actually pays the price.",
+    "bullets": [
+      " M\u00e9lanie Joly, Canada's industry minister, is warning Cleveland-Cliffs directly over job cuts at Stelco",
+      " Joly's accusation: the company can't support Trump's tariffs and then blame the resulting layoffs on an 'act of",
+      " Her warning line: 'These obligations are binding'",
+      " Frames the cuts as a direct consequence of the US-Canada tariff fight, not an uncontrollable outside event",
+      " Is this minister right to call out a company for hiding behind tariffs - or is she just deflecting blame for jobs Ottawa couldn't protect?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/hamilton/melanie-joly-cleveland-cliffs-stelco-layoffs-9.7372902",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Jack White Slams Trump for Saying Iran Can \u201cTake Out\u201d L.A. and San Diego: \u201cThe Worst American of All Time\u201d",
+    "angle": "A rock icon going nuclear on a sitting president over an alleged threat to two major U.S. cities is exactly the kind of celebrity-meets-politics collision that gets phones ringing - it's got star power, outrage, and real stakes.",
+    "bullets": [
+      " Jack White publicly blasted Donald Trump over remarks suggesting Iran could \"take out\" L.A. and San Diego",
+      " White called Trump \"the worst American of all time\"",
+      " Does a rock star calling out a president's words move the needle, or is this just another celebrity political pile-on?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.hollywoodreporter.com/news/politics-news/jack-white-slams-trump-iran-take-out-los-angeles-san-diego-1236724159/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Peaky Blinders star pleads guilty after driving 24mph in a 20mph zone behind wheel of his BMW",
+    "angle": "A British TV star just pleaded guilty in court over going 24 in a 20 zone - the kind of wildly disproportionate celebrity-meets-bureaucracy story that's tailor-made for an on-air eye-roll.",
+    "bullets": [
+      " He pleaded guilty to the offense",
+      " He was behind the wheel of his BMW",
+      " Is this really guilty-plea-worthy, or is 4mph over the dumbest celebrity headline of the week?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.lbc.co.uk/article/peaky-blinders-star-joe-cole-john-shelby-speeding-charge-5HjdjRG_2/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Golden naked Trump statue unveiled at European Parliament",
+    "angle": "A Danish artist put an 8.5-foot, 23-karat-gold naked Trump statue riding on a struggling man's shoulders inside the actual European Parliament \u2014 it's blunt, it's viral-ready, and it's already got people picking sides on art vs. provocation.",
+    "bullets": [
+      " Statue is 8.5 feet tall and coated in 23-karat gold",
+      " Created by Danish artist Jens Galschiot, titled \"The Orange Plague\"",
+      " Depicts a naked Trump being carried on the shoulders of a smaller, visibly burdened man",
+      " Biting political satire or just shock-value trolling dressed up as art \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1wzuwz4",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "In Oval Office, Trump says he can do whatever he wants, \u201cif I want.\u201d",
+    "angle": "A sitting president casually claiming unchecked power on camera is the kind of soundbite that writes its own debate - instant fuel for the 'is that even legal' conversation.",
+    "bullets": [
+      " Donald Trump made the comment from inside the Oval Office",
+      " Direct quote attributed to him: \"I can do whatever I want, if I want\"",
+      " Clip is circulating and generating reaction online, including on r/fauxmoi",
+      " Does a president actually have that kind of power, or is this just Trump being Trump?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/qknky9tp73uh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "\u2018No\u2019: Moe shuts down Elon Musk\u2019s calls for Saskatchewan to separate",
+    "angle": "The world's richest man is now freelancing in Canadian unity debates, and a sitting premier just clapped back in one word \u2014 that's an easy, fun flashpoint for a Canadian-politics-meets-billionaire-ego segment.",
+    "bullets": [
+      " Elon Musk posted on X that Quebec, Alberta, and Saskatchewan should all separate from Canada",
+      " Saskatchewan Premier Scott Moe quote-replied with a single word: \"No.\"",
+      " Moe has previously opposed Saskatchewan separation but has defended Alberta Premier Danielle Smith's right to put the question to a referendum",
+      " Should a billionaire with zero vote in Canada get to weigh in on whether provinces should separate?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/regina/article/no-moe-shuts-down-elon-musks-calls-for-saskatchewan-to-separate/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "'We're taking over our waters': Canadian First Nation pushes back on U.S. border patrol access",
+    "angle": "A Canadian First Nation is drawing a hard line on U.S. border agents operating in their traditional waters \u2014 a sovereignty clash that taps into bigger questions about who actually controls the border, and Indigenous rights versus federal authority on both sides of it.",
+    "bullets": [
+      " A Canadian First Nation says it's pushing back on U.S. border patrol having access to their waters",
+      " Frames the dispute as a jurisdiction/sovereignty issue, not just a policy disagreement",
+      " Should Indigenous nations get final say over who patrols their waters, even when it's a foreign government's border agents?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://unpublished.ca/news-feed-item/2026-10-07/were-taking-over-our-waters-canadian-first-nation-pushes-back-on-us-border",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Parti Qu\u00e9b\u00e9cois finally finds minority it likes",
+    "angle": "The Parti Qu\u00e9b\u00e9cois has built its brand on tightening the rules around minorities in Quebec, so a headline about them warming up to one specific group is instant irony bait for Canadian political chatter.",
+    "bullets": [
+      " Is this a fair jab at the PQ's track record on minority politics, or a cheap shot dressed up as a headline?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thebeaverton.com/2026/10/parti-quebecois-finally-finds-minority-it-likes/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "NASA's Curiosity rover takes striking image of dawn on Mars",
+    "angle": "It's a jaw-dropping postcard from another planet - a reminder that there's a car-sized robot casually watching the sun come up 225 million kilometres from here, on terrain that's been sitting untouched for billions of years.",
+    "bullets": [
+      " Image was captured by NASA's Curiosity rover, which is car-sized",
+      " Shot shows dawn breaking over Mars, sunlight hitting jagged rock formations",
+      " Those crags were formed billions of years ago",
+      " Curiosity continues actively exploring the Martian surface",
+      " Would you want to see a live sunrise feed from Mars every morning, or does space stuff only impress you in photo form?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/science/nasa-curiosity-rover-mars-dawn-9.7372971?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Lawyer accused of fraud says bad cheque didn't hurt the bank",
+    "angle": "A suspended Ontario lawyer's fraud trial is hinging on a wild legal argument: does it matter if your bad cheque didn't actually cost the bank anything? It's a courtroom twist that doubles as a great 'wait, is that really a defense?' debate.",
+    "bullets": [
+      " Court reportedly went back and forth \u2014 \"ping-ponged\" \u2014 on whether that actually clears him.",
+      " If nobody actually loses money, should it still count as fraud?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/toronto/nicholas-cartel-lawyer-fraud-trial-td-bank-9.7373082?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Average asking rent down 2.9% in B.C. in September, marking 2 years of decreases: report",
+    "angle": "If you're renting in B.C., this is actually good news for once - prices have been sliding for two straight years, the longest downturn on record. It's a real shift in a market everyone's been complaining about for a decade.",
+    "bullets": [
+      " Average asking rent in B.C. dropped 2.9% year-over-year in September",
+      " That marks two full years of consecutive annual declines",
+      " Report comes from Rentals.ca and Urbanation",
+      " It's described as the longest rental downturn in recent Canadian history",
+      " Two years of rent drops in B.C. - are renters actually feeling relief, or does it still feel just as unaffordable as ever?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/canada-average-rents-fall-2-years-9.7373338?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "$14 milk and $64 diapers: The reality facing some families as Canada rolls out groceries benefit",
+    "angle": "Canada's rolling out a new groceries benefit to help with affordability, but the sticker shock for some families \u2014 milk and diapers at prices that sound fake \u2014 shows just how uneven the cost-of-living crisis really is depending on where you live.",
+    "bullets": [
+      " Some families are reportedly paying $14 for milk",
+      " Diapers are running as high as $64 in the same households",
+      " Does a flat grocery rebate actually fix anything when milk is $14 in some communities and $4 in others? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWxIZVJ5eHVjd0UzZWRoaFVvbFFUSmFXTFE4U1hfaFVtRHRFS3BLbE",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Fog warning issued for B.C.\u2019s Lower Mainland",
+    "angle": "A fog warning's gone out for B.C.'s Lower Mainland \u2014 easy local-flavor Canadian news item and a chance to riff on commute chaos and ferry/flight delays for anyone driving or flying through Vancouver today.",
+    "bullets": [
+      " Anyone out West dealing with soup-thick fog on the roads this morning \u2014 call in and tell us how bad the drive was. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "lSnJkY2tfeFBHcXp0Q2VF?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSElyaXJOaTdzc3ZhUC12RzFHV01HZXhFbkZEaHZNVUJtVGU0V0dLZUF",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Artificial\u2019 Roasts AI\u2019s Creators\u2014and Sends a Dark Warning About Its Dangers | From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
+    "angle": "A new film called 'Artificial' is going viral for mocking the real-life weirdness of OpenAI's Sam Altman and other AI titans \u2014 while warning their recklessness could be a lot less funny than it looks.",
+    "bullets": [
+      " It pokes fun at their 'dorky parties' and 'weird walks' \u2014 little real-life quirks turned into satire.",
+      " Underneath the jokes, it delivers a dark warning about the recklessness driving the AI boom.",
+      " Is it satisfying to watch Hollywood drag the guys building AI \u2014 or does it just make the whole thing feel scarier?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift | 54-year-old North Carolina man, Michael Smith, gets 18 months for AI scheme stealing $8M in music streaming royalties.",
+    "angle": "This is the music industry's nightmare scenario: AI-generated songs nobody wrote, played on repeat by an army of bots, siphoning real royalty money meant for real artists \u2014 and it actually worked for years before he got caught.",
+    "bullets": [
+      " Michael Smith, a 54-year-old from North Carolina, was sentenced to 18 months in prison.",
+      " He used roughly 10,000 bots to stream AI-generated songs on repeat.",
+      " Reports say his fake-stream numbers were big enough to \"outstream\" Taylor Swift.",
+      " If AI can fake its way to chart-topping numbers, can we trust ANY streaming chart again?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Glen Powell Is Staying Quiet on Politics Because \u2018I Do Not Like the Discourse,\u2019 Says \u2018Running Man\u2019 Flopped After Paramount Laid Off \u2018Entire Marketing Department\u2019",
+    "angle": "Glen Powell's dodging politics on purpose \u2014 but he's not dodging blame for his own box office miss, pointing the finger straight at the studio. It's a juicy excuse that doubles as a peek behind the curtain at how messy Hollywood marketing has gotten.",
+    "bullets": [
+      " He claims 'The Running Man' flopped after Paramount laid off its 'entire marketing department.'",
+      " Is Glen Powell onto something about studios sabotaging their own movies, or is that just a convenient excuse for a flop?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/glen-powell-politics-interviews-running-man-flop-1236904266/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hayley Williams: \"If I could tell you anything: go to smaller shows than this, go to little shows at independent venues. Find your people, find your favorite music, and support that. We are all that we fucking have.\"",
+    "angle": "The Paramore frontwoman is using her own platform to push fans away from the big stadium machine and toward tiny independent venues - a rare \"don't just come see me\" moment that's got music fans buzzing.",
+    "bullets": [
+      " Hayley Williams told fans: \"go to smaller shows than this, go to little shows at independent venues.\"",
+      " Her advice: \"Find your people, find your favorite music, and support that.\"",
+      " When's the last time you skipped the big arena show for a sweaty little club gig - and was it worth it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/i6ra3fq7r3uh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "New footage of Pete Hegseth working out with the troops looking like he wouldn't make it through the warmup of a Senior CorePower Sculpt class at my local YMCA",
+    "angle": "A clip of Defense Secretary Pete Hegseth working out alongside troops is getting dragged online, with one viral take comparing his effort to a senior fitness class \u2014 it's the kind of \"did you see this\" clip that's made for hosts to react to live.",
+    "bullets": [
+      " Play the clip and let the hosts give their own honest play-by-play \u2014 would he survive a CorePower Sculpt warmup?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/15sjm6rgh4uh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Dua Lipa seen chatting up Marlins Man in bizarre Yankee Stadium scene",
+    "angle": "The internet's most famous rally-cap superfan just photobombed a global pop star at the ALDS, and the clip is pure chaos - it's the kind of random celebrity-meets-mascot moment that blows up online because nobody can explain why they were even talking.",
+    "bullets": [
+      " Marlins Man and Dua Lipa were seated near each other behind home plate for Game 3 of the ALDS at Yankee Stadium",
+      " Broadcast cameras caught him chatting her up on live TV",
+      " Dua Lipa appeared to be filming/taking video during the exchange",
+      " What's the most random celebrity sighting you've ever had at a sporting event?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/07/sports/dua-lipa-seen-chatting-up-marlins-man-in-bizarre-yankee-stadium-scene/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Liberty suffer brutal OT loss to Dream, Angel Reese to fall into 0-2 series hole",
+    "angle": "A gutting overtime collapse in the semifinals is exactly the kind of playoff drama that gets sports fans and casual viewers alike talking \u2014 especially when a team's season is suddenly hanging by a thread.",
+    "bullets": [
+      " New York Liberty dropped a brutal overtime heartbreaker to the Atlanta Dream in Game 2 of the semifinals.",
+      " Post-season stakes just jumped \u2014 lose again and the defending vibe shifts to must-win desperation.",
+      " Can the Liberty actually dig out of an 0-2 hole, or is this series already over?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/07/sports/liberty-suffer-brutal-ot-loss-to-dream-angel-reese-to-fall-into-0-2-series-hole/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Marshals\u2019 Star Luke Grimes Says He Hasn\u2019t Spoken to \u2018Yellowstone\u2019 Co-Star Kevin Costner \u2018Since We Stopped Working Together\u2019",
+    "angle": "Luke Grimes just admitted he and Kevin Costner played a beloved father-son duo for years on 'Yellowstone' and haven't exchanged a single word since the cameras stopped rolling \u2014 a juicy gap between on-screen chemistry and real-life silence that fans of the biggest show on TV won't be able to resist dissecting.",
+    "bullets": [
+      " Luke Grimes now headlines the 'Yellowstone' spinoff 'Marshals'",
+      " He told USA Today: \"I've never spoken to Kevin since we stopped working together\"",
+      " Costner famously exited the flagship show before its ending aired",
+      " Is it weird or totally normal that co-stars who felt like family on screen can just go cold turkey the second the show wraps? variety.com (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/news/marshals-luke-grimes-kevin-costner-yellowstone-1236905016/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "All the High (and Low) Notes From Mariah Carey Night on \u2018Dancing With the Stars\u2019: See the Scores, Who Went Home (Updating Live) - The Hollywood Reporter",
+    "angle": "Dancing With the Stars went all-in on a Mariah Carey theme night, and the result was a genuine shocker elimination \u2014 exactly the kind of upset that gets fans arguing about the judges and the vote.",
+    "bullets": [
+      " Taylor Hanson (yes, of Hanson) and partner Britt Stewart were eliminated \u2014 a result fans are calling shocking",
+      " This is episode five of Dancing With the Stars season 35",
+      " Was voting off a Hanson brother on Mariah night the right call, or did America get this one wrong? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-mariah-carey-week-4-recap-scores-elimination-1236723985/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "David Ellison (Again) Says He Plans to Combine HBO Max and Paramount+ - The Hollywood Reporter",
+    "angle": "Streaming fatigue is real, and this is the merger everyone saw coming after Skydance took over Paramount - a mega-combo of HBO Max and Paramount+ would reshuffle where half of America watches TV.",
+    "bullets": [
+      " David Ellison, Skydance Chairman and CEO, told reporters Tuesday he wants to \"bring HBO Max and Paramount+ together\" as one streaming service.",
+      " He frames it as a \"long term\" plan, not something happening tomorrow.",
+      " Building out the combined tech stack is reportedly going to \"take a while.\"",
+      " If HBO Max and Paramount+ became one app tomorrow, are you saving money or just bracing for a price hike? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/business/business-news/hbo-max-paramount-plus-merge-david-ellison-says-1236724097/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Research found young adults following physicians on TikTok consider them more accessible, credible and altruistic than their own doctors. Even if the followers haven't actually confirmed the influencers' medical credentials.",
+    "angle": "This taps into a real shift in how young people get health info \u2014 a parasocial bond with a face on a screen is now beating the actual doctor-patient relationship, credentials or not.",
+    "bullets": [
+      " New research finds young adults rate physicians they follow on TikTok as more accessible, more credible, and more altruistic than their own personal doctor.",
+      " That trust holds even though most of these followers never actually verified the TikTok doctor's real medical credentials.",
+      " Be honest \u2014 have you ever taken real medical advice from a TikTok doctor you never bothered to fact-check?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.vcu.edu/article/popular-tiktok-docs-have-big-influence-on-gen-z-followers-new-vcu-research-finds",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Anthony Volpe\u2019s homer overturned in Yankee Stadium fan controversy",
+    "angle": "A fan reaching into the field of play at Yankee Stadium erased an Anthony Volpe home run in the middle of a playoff game \u2014 and it's giving everyone flashbacks to the most infamous fan-interference call in Yankees history.",
+    "bullets": [
+      " Anthony Volpe's home run was overturned after review due to fan interference at Yankee Stadium",
+      " Should fans who reach onto the field during a live play face a stadium ban \u2014 and does this call remind you of any other legendary blown playoff moments?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/07/sports/anthony-volpes-homer-overturned-in-yankee-stadium-fan-controversy/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "SiriusXM Reaffirms Commitment To Comics \u201cAt Every Stage Of Their Careers,\u201d Says Raw Comedy Decision Predated Maniscalco\u2019s Arrival",
+    "angle": "Comics are dragging SiriusXM online over the death of its Raw Dog Comedy channel, and now the company is pushing back fast with an exclusive statement trying to clear its name - that's a juicy corporate-damage-control story with a comedy-world angle.",
+    "bullets": [
+      " SiriusXM gave Deadline an exclusive statement responding to comedian backlash",
+      " Quote: \"SiriusXM has proudly supported the comedy community, and we have been listening to comedians speak out this week\"",
+      " Comes amid what's described as \"ongoing fallout with comics online\"",
+      " When a company says 'we've been listening to you this week,' do you ever actually believe them? deadline.com (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://deadline.com/2026/10/siriusxm-new-statement-raw-dog-sebastian-maniscalco-1237149547/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Woman admits to marrying 14 men to keep her $300K Vegas gambling habit going",
+    "angle": "A story so outlandish it landed on r/nottheonion - a woman admitting to marrying 14 different men just to bankroll a six-figure gambling habit is pure watercooler gold, equal parts jaw-drop and moral debate.",
+    "bullets": [
+      " She's admitted to marrying 14 different men - reportedly without officially untangling herself from the previous ones first.",
+      " Bigamy is a crime in basically every U.S. state - and 14 marriages isn't a loophole, it's a pattern.",
+      " Call in: what's the most extreme thing you've ever done - or seen someone do - to fund a bad habit?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.the-independent.com/news/world/americas/crime/las-vegas-woman-marriage-14-men-gambling-habit-b3012255.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Man discovers his parents\u2019 coffee machine used 1TB of data in 10 days",
+    "angle": "Everyone's got a \"smart\" gadget they don't fully trust, and this is the nightmare scenario \u2014 a coffee machine quietly burning through a terabyte of data. It's a fun, relatable way to get into how much our appliances are secretly doing behind the scenes.",
+    "bullets": [
+      " A Reddit user says he discovered his parents' coffee machine chewed through 1TB of data in just 10 days",
+      " For comparison, 1TB is enough to stream hundreds of hours of HD video \u2014 from a device that just brews coffee",
+      " Call in: have you ever checked your router and found out which of your \"smart\" appliances is secretly a data hog?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A 30-minute soak in a 40\u00b0C (104\u00b0F) hot bath lowered blood pressure more than 30 minutes of moderate cycling in a small study of 25 adults aged 45\u201370 with overweight or obesity, and increased blood flow in tiny skin vessels, which may help people who can't exercise get similar blood vessel benefits.",
+    "angle": "This flips the usual \"you have to sweat it out\" wisdom on its head, and it's instant permission-to-be-lazy content that every listener who hates the gym will want to hear about.",
+    "bullets": [
+      " Researchers studied 25 adults, ages 45 to 70, all carrying extra weight.",
+      " A 30-minute soak at 40\u00b0C (104\u00b0F) lowered blood pressure more than 30 minutes of moderate cycling.",
+      " Scientists say it could give people who can't exercise similar blood vessel benefits.",
+      " Phone lines open: would you rather take a hot bath or hit the gym for your heart \u2014 and be honest, which one are you actually doing tonight?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/a-hot-bath-may-lower-your-blood-pressure-more-than-a-30-minute-workout-can-study-reveals",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "A retired California science teacher has grown and entrusted 10,000 oak seedlings to communities across Southern California, including fire ravaged Altadena, where he is helping bring back the trees that were lost",
+    "angle": "A feel-good palate-cleanser after the Eaton Fire coverage \u2014 one guy in his garage basically single-handedly replanting Altadena, tree by tree.",
+    "bullets": [
+      " A retired California science teacher has grown 10,000 oak seedlings by hand.",
+      " He's been giving them away to communities across Southern California.",
+      " A chunk are going to Altadena, one of the hardest-hit areas from the recent wildfires, to help regrow what burned.",
+      " This is the guy who looked at a burned town and thought, 'I'll just grow 10,000 trees myself' \u2014 that's the story we end the show on."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.latimes.com/environment/story/2026-09-19/one-man-has-planted-10000-native-oak-trees-across-southern-california",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "More than 70 dogs rescued from a South Korean dog meat farm in what may be the country\u2019s final large scale rescue, as a nationwide ban on dog meat takes full effect in February 2027.",
+    "angle": "South Korea is phasing out its dog meat industry entirely by 2027, and this rescue might be one of the last of its kind - a real-world happy ending with a built-in deadline.",
+    "bullets": [
+      " More than 70 dogs were rescued from a dog meat farm in South Korea.",
+      " A nationwide ban on dog meat is set to take full effect in February 2027.",
+      " This rescue may be the country's final large-scale rescue of its kind.",
+      " An entire country ending an industry - name another law you'd love to see other countries copy."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/70-dogs-rescued-from-south-korea-dog-meat-farm-ahead-of-industry-ban-12149700",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "She had no running shoes, no sports gear, and ran barefoot in a saree. This lady cleared the Jharkhand Home Guard physical test with 4 minutes to spare to feed her family",
+    "angle": "This is pure underdog magic: a single mom with zero gear beats a government fitness test by four minutes, training at 4am because giving up wasn't an option. It's the kind of story that makes people stop scrolling and just root for someone.",
+    "bullets": [
+      " Kavita had to run 1,600 metres in under 10 minutes to qualify for the Jharkhand Home Guard \u2014 she did it in 6 minutes, barefoot.",
+      " No running shoes, no tracksuit, no coach \u2014 she trained on the road every morning at 4 a.m., running in her saree.",
+      " She's been raising two young children and supporting her elderly in-laws solo since losing her husband.",
+      " She crossed the finish line with 4 minutes to spare.",
+      " No shoes, no training gear, no excuses \u2014 just a mom who had to make it happen."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.etvbharat.com/en/offbeat/jharkhand-ramgarh-kavita-barefoot-saree-run-for-home-guard-recruitment-enn26100701055",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Kawhi Leonard gets free \u2018Kraft Dinner' for life",
+    "angle": "A classic internet-brain story for the goodbye segment \u2014 a brand latching onto an athlete's name for a lifetime supply of mac and cheese is exactly the kind of only-on-Reddit headline that makes for an easy, fun way to close the show.",
+    "bullets": [
+      " If a brand gave YOU free product for life based on your name, what would you want it to be? ON-AIR BIT BREAKDOWN - Step 1: Set up the premise - 15 seconds -> Hosts explain Kawhi Leonard is set for free Kraft Dinner for life, no further details needed. - Step 2: Hosts go first - 30 seconds -> Each host says what brand/product they wish would adopt them for a lifetime freebie based on their own name. - Step 3: Open the phone lines - 1-2 minutes -> Take caller/text submissions of their own 'name match' free-for-life product, pick the funniest to read on air."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/toronto/video/shows/ctv-news-at-noon/2026/10/05/kawhi-leonard-gets-free-kraft-dinner-for-life/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "In a new study, scientists unlock the longevity secrets of 194-year-old Jonathan the giant tortoise. They found that, compared with other Aldabra tortoises, Jonathan has unique variants in 287 genes, some involved in DNA repair.",
+    "angle": "Jonathan the giant tortoise is older than the lightbulb, and scientists just found out why \u2014 his DNA might be the ultimate longevity hack we've all been looking for.",
+    "bullets": [
+      " Jonathan is a 194-year-old Aldabra giant tortoise \u2014 believed to be the oldest living land animal on Earth",
+      " Researchers found Jonathan carries unique variants in 287 genes compared to other Aldabra tortoises",
+      " Several of those genes are tied to DNA repair, a key factor scientists link to slowing aging",
+      " If scientists could bottle Jonathan's DNA repair trick into a pill, would you take it to live to 194?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.scientificamerican.com/article/scientists-unlock-the-longevity-secrets-of-194-year-old-jonathan-the-giant-tortoise/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "#BREAKING: Death row inmate 'angry and confused' after botched execution attempt https://t.co/gQHNMsozh6",
+    "angle": "Botched executions always reignite the national death penalty debate - how states carry out capital punishment, and whether current methods are humane, is a story with reach way beyond one state's prison system.",
+    "bullets": [
+      " Should botched executions like this one reopen the whole death penalty debate? X/Twitter @CTVNews (Tier 1) | Score: 52/90 (45 fit + 12 source + 5 quality - 10 penalty (Depressing/negative tone)) -> STRONG"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/CTVNews/status/2107902346504147392",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "FBI says it thwarted an attack on the Mall of America by a teen it supplied with an assault rifle https://t.co/9YqjiU3HdM",
+    "angle": "A foiled attack on one of the most famous malls in America is big enough on its own, but the twist is what's got people talking: the FBI says the teen plotting it was using an assault rifle federal agents themselves supplied as part of the sting.",
+    "bullets": [
+      " Did the FBI save the Mall of America \u2014 or cross a line by arming the kid they later arrested? X/Twitter @CTVNews (Tier 1) | Score: 52/90 (45 fit + 12 source + 5 quality - 10 penalty (Depressing/negative tone)) -> STRONG"
+    ],
+    "debate": "The case raises the familiar sting-operation question: did agents stop a real threat, or help manufacture one?",
+    "source": "",
+    "url": "https://x.com/CTVNews/status/2107893902954926539",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-07",
     "slot": "am",
     "category": "THE LIST",
     "title": "\u201cAI won\u2019t take your job anytime soon\u201d: Microsoft\u2019s AI boss says only 5% of human work will be replaced in 10 years",
