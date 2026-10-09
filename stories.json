@@ -1,5 +1,683 @@
 [
   {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "\"Software is over\": Developer uses AI to build free Adobe clones after frustration with cancellation fees",
+    "angle": "Subscription fatigue is universal - cancellation fees, price creep, locked-in software - and this story taps right into it with a twist: AI coding tools are now good enough that one frustrated user just built free replacements himself.",
+    "bullets": [
+      " Developer declared \"software is over\" after getting burned by Adobe's cancellation fees",
+      " Used AI to build free clones of Adobe's software instead of paying up",
+      " Story is lighting up r/technology as a real-world test of AI replacing paid software",
+      " Would you ditch your subscriptions and just AI-build your own version instead?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/114136-software-over-developer-uses-ai-build-free-adobe.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "FBI arrests Fortnite player who threatened to shoot FBI agents in game after Epic reported him and sent audio recordings",
+    "angle": "A Fortnite player allegedly typed out threats to shoot FBI agents during a match, Epic Games caught it and handed over audio, and now the FBI has actually arrested him \u2014 proof that what happens in-game doesn't stay in-game anymore.",
+    "bullets": [
+      " Epic Games flagged the threats and reported the player to authorities.",
+      " Epic reportedly turned over audio recordings from the game as evidence.",
+      " Where's the line between trash talk and a real threat when the whole world is basically wired with a mic?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.dexerto.com/fortnite/fortnite-player-arrested-by-fbi-after-epic-games-report-his-voice-chat-threats-3416033/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Government to exclude people who solely suffer from mental illness from medical assistance in dying",
+    "angle": "Canada has one of the most permissive assisted-dying laws in the world, and expanding it to cover mental illness alone has been one of the country's most explosive health debates for years \u2014 this is the government formally pulling back from that expansion.",
+    "bullets": [
+      " MAID eligibility for mental-illness-only cases has already been delayed multiple times by Ottawa amid pushback from doctors, disability advocates, and mental health groups.",
+      " Should mental illness alone ever be enough to qualify for assisted dying, or does that cross a line medicine shouldn't cross?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://vancouver.citynews.ca/2026/10/07/liberals-to-outline-plans-on-assisted-dying-ahead-of-mental-illness-expansion/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Don't support Trump tariffs then blame Stelco job cuts on 'act of God,' minister Joly warns Cleveland-Cliffs | 'These obligations are binding,' industry minister says",
+    "angle": "A federal cabinet minister is publicly calling out a major steelmaker for cutting Canadian jobs while still cashing in on Trump-era tariff protections \u2014 a trade/jobs collision that's catnip for a political debate segment.",
+    "bullets": [
+      " Canada's Industry Minister M\u00e9lanie Joly is warning steel giant Cleveland-Cliffs over job cuts at its Stelco operations.",
+      " Joly says the company can't accept the benefits of Trump's tariffs and then call the resulting job losses an 'act of",
+      " Her warning: 'These obligations are binding.'",
+      " Should a company get to keep tariff protection money if it's still laying off the workers that protection was supposed to save?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/hamilton/melanie-joly-cleveland-cliffs-stelco-layoffs-9.7372902",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Michigan Republican candidate breaks with Trump over tariffs on Canada",
+    "angle": "A Republican candidate in Michigan publicly splitting from Trump on trade policy is a rare crack in party unity, and tariffs on Canada hit close to home for border-state voters and businesses on both sides of the line.",
+    "bullets": [
+      " A Michigan Republican candidate is publicly breaking with Trump on trade policy.",
+      " It's a rare on-the-record split from a GOP candidate against their own party's leader.",
+      " Does breaking with your own party on an issue like this show independence, or is it just a risky campaign gamble?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ca.finance.yahoo.com/news/michigan-republican-candidate-breaks-trump-181837094.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Peaky Blinders star pleads guilty after driving 24mph in a 20mph zone behind wheel of his BMW",
+    "angle": "A crime-drama tough guy getting hauled into court over a barely-there speeding infraction is pure irony bait - it's the kind of absurd, low-stakes celebrity brush with the law that's made for a quick laugh and a debate about overzealous enforcement.",
+    "bullets": [
+      " A Peaky Blinders cast member has pleaded guilty to speeding",
+      " He was clocked doing 24mph in a 20mph zone",
+      " Four miles an hour over the limit lands you in court - rule's a rule, or have we gone too far with these 20mph zones?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.lbc.co.uk/article/peaky-blinders-star-joe-cole-john-shelby-speeding-charge-5HjdjRG_2/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Debra Messing facing intense backlash over support of Trump-backed politician: \u2018Is someone playing a joke?\u2019",
+    "angle": "A Hollywood A-lister known for being vocally anti-Trump just got caught backing a Trump-backed candidate, and her own fans can't believe it - that whiplash is exactly the kind of celebrity-politics collision that gets phone lines lit up.",
+    "bullets": [
+      " Debra Messing is facing intense backlash online over her support for a Trump-backed politician",
+      " Critics are reacting with disbelief, including the reaction quote: 'Is someone playing a joke?'",
+      " Should celebrities even weigh in on politics anymore, or does it just blow back on them every time?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.independent.co.uk/arts-entertainment/tv/news/debra-messing-bruce-blakeman-republican-new-york-b3062938.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "In Oval Office, Trump says he can do whatever he wants, \u201cif I want.\u201d",
+    "angle": "The President dropped that line on camera from the Oval Office, and it's instantly the kind of soundbite that fuels a week of debate about executive power and tone.",
+    "bullets": [
+      " Quote came straight from the Oval Office: \"I can do whatever I want, if I want.\"",
+      " No further context given in the source \u2014 just the quote itself making the rounds.",
+      " Is that just classic Trump bravado, or should a line like that actually worry people?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/qknky9tp73uh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Saint-Denis Mayor Bally Bagayoko marched with and shielded student protestors from riot police before being tear gassed. The mayor of Paris\u2019s largest suburb joined students protesting poor school conditions, overcrowding, and a lack of funding.",
+    "angle": "Saint-Denis Mayor Bally Bagayoko marched with and shielded student protestors from riot police before being tear gassed. The mayor of Paris\u2019s largest suburb joined students protesting poor school conditions, overcrowding, and a lack of funding.",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/vgzwxnswy1uh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "British police charge member of Royal Navy under National Security Act",
+    "angle": "A serving member of the UK's Royal Navy is facing spy charges \u2014 and nobody's saying which country he's accused of working for, which is exactly the kind of real-life espionage mystery that gets people talking.",
+    "bullets": [
+      " A serving member of the Royal Navy has been charged under Britain's National Security Act",
+      " He's set to appear in a London court on Thursday",
+      " Accused of spying for an undisclosed foreign power \u2014 officials aren't naming the country",
+      " They won't say which country he allegedly spied for \u2014 who's your guess?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/royal-navy-charged-9.7373678?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Canada yanks sponsorship of disinformation conference discussing U.S. as a threat",
+    "angle": "Canada's government quietly pulled its name off a European disinformation conference after panels there floated the idea that the U.S. itself is a foreign interference risk \u2014 a politically awkward moment given how touchy Canada-U.S. relations already are.",
+    "bullets": [
+      " Canada's federal government withdrew its sponsorship of a European disinformation conference.",
+      " Is it fair to call the U.S. a 'disinformation threat,' or did Canada just dodge a diplomatic grenade by backing out?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/gac-disinformation-united-states-lithuania-9.7187116?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Polymarket offering bets on next produce that gives everyone diarrhea",
+    "angle": "Prediction markets have officially jumped the shark \u2014 now you can put real money on which produce item causes the next mass tummy-trouble outbreak, and that absurd mashup of gambling culture and grocery-aisle paranoia is exactly the kind of 'wait, what?' story that gets a studio talking.",
+    "bullets": [
+      " Polymarket - the same site people use to bet on elections and crypto - now has a market on which produce item causes the next widespread case of diarrhea.",
+      " If you had to put money down right now, which produce aisle regular is your 'safe bet' to cause the next outbreak - and which one would you never trust again? ON-AIR BIT BREAKDOWN - Step 1: Set the Odds - Cold open the bit -> Read the premise straight-faced - Polymarket has a real-money market on the next produce item to cause mass diarrhea - and let the absurdity of that sentence land on its own. - Step 2: Audience Picks - Phones/social mid-segment -> Ask listeners to call or text their 'safe bet' produce pick - lettuce, cucumbers, onions, cantaloupe - and explain why they'd wager on it. - Step 3: React and Rank - Wrap-up -> Run through a few listener picks on air, rank the funniest or most paranoid answer, and riff on how unhinged it is that this market even exists."
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thebeaverton.com/2026/10/polymarket-offering-bets-on-next-produce-that-gives-everyone-diarrhea/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Canadian poet and essayist Anne Carson awarded Nobel Prize in Literature",
+    "angle": "Anne Carson, the celebrated Canadian poet and essayist, has taken home literature's biggest prize - a rare moment of national pride on the world literary stage worth a quick toast on air.",
+    "bullets": [
+      " Anne Carson is Canadian, known for blending poetry, essay, and classical scholarship",
+      " She's been awarded the Nobel Prize in Literature",
+      " Can you name another Canadian who's won a Nobel Prize - or is Anne Carson's win news to you too?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/nobel-literature-prize-9.7372580?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Is it better to buy or rent?",
+    "angle": "Every Canadian renter and homeowner has had this argument at a dinner party \u2014 CBC built a calculator using 20 years of real housing data to actually answer it, which is perfect fuel for hosts to argue their own case live.",
+    "bullets": [
+      " It's designed to answer the classic question: rent or buy \u2014 which actually wins long-term?",
+      " Comes from CBC, aimed at helping Canadians run their own numbers instead of guessing.",
+      " Phone lines open: are you Team Rent or Team Buy, and what made you pick a side? ON-AIR BIT BREAKDOWN - Step 1: Pick your city - 30 seconds -> Each host names a Canadian city and guesses whether renting or buying wins there. - Step 2: Run the numbers - 1 minute -> Plug a sample scenario into the calculator on air and see who guessed right. - Step 3: Make it personal - 1-2 minutes -> Hosts share their own rent-vs-buy story and why they landed where they did. - Step 4: Open the phones - ongoing -> Take calls from listeners defending their own housing choice."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/business/rent-or-buy-calculator-canada-9.7370950?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Alberta premier says \u2018ridiculous\u2019 for separatists to offer royalties, water to Americans",
+    "angle": "A sitting Canadian premier is publicly slamming her own province's separatist movement for trying to bribe Washington with Alberta's water and resource royalties in exchange for help breaking away \u2014 a story that mixes sovereignty, secession talk, and \"wait, they offered our WATER?\" outrage.",
+    "bullets": [
+      " Danielle Smith, premier of Alberta, called the offer \"absurd\" and \"ridiculous.\"",
+      " Prominent Alberta separatists reportedly offered the U.S. government access to fresh water and resource royalties.",
+      " Would you trust a separatist movement willing to hand over Canadian water to a foreign government just to get its own country?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/edmonton/danielle-smith-reaction-alberta-separatists-american-meeting-9.7373472?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Fog warning issued for B.C.\u2019s Lower Mainland",
+    "angle": "A fresh fog warning for B.C.'s Lower Mainland is a heads-up for commuters and anyone flying in or out of YVR this week, and it's the kind of local weather quirk that's always good for a quick \"did you see your street this morning\" chat.",
+    "bullets": [
+      " Call in if you white-knuckled it through pea-soup fog on your drive in today. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "lSnJkY2tfeFBHcXp0Q2VF?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSElyaXJOaTdzc3ZhUC12RzFHV01HZXhFbkZEaHZNVUJtVGU0V0dLZUF",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Loblaw chatbot ads sprayed onto Ottawa sidewalks \u2018unauthorized\u2019, city says",
+    "angle": "A grocery giant allegedly used sidewalk spray ads to push its chatbot, and now Ottawa's calling it unauthorized \u2014 it's a classic 'how far can guerrilla marketing go' debate that writes itself.",
+    "bullets": [
+      " Loblaw is linked to chatbot ads sprayed directly onto Ottawa sidewalks",
+      " Story comes via CTV News, with city officials pushing back on the stunt",
+      " Clever guerrilla marketing or just defacing public property \u2014 where do you draw the line? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "WFvYlNzMlBtS1lfRngxSGMwNXBBWG1iTzAzTUR2Q2FrX2c3MGNFS0RoTFRiWEFLa1NR?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUTd2eXk1S0RDaXgteGk4M3J6T1FBREg3a1NfNXZ5WjZGNjdRV2FOekZ",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "CBSA seizes prohibited firearms at all three Windsor border crossings",
+    "angle": "This is a border security win hosts can sink their teeth into - prohibited firearms getting caught not at one checkpoint, but at all three Windsor crossings, one of the busiest corridors between Canada and the U.S.",
+    "bullets": [
+      " CBSA (Canada Border Services Agency) seized prohibited firearms",
+      " Windsor is one of the busiest Canada-U.S. trade and travel corridors, so multiple hits there is notable",
+      " Does this make you feel safer about border security, or more worried about how much is actually getting through undetected? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "QZWphSC1UdWE4cjVUN2lEMnAzYkFlZnFYOHZuamkyS3JKdl9zOTlXZF9qVzBzUEdaOVE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbF9fZHcyclRWcGJYRGtyMHNLbTJuY0hEZVdjMVRZRXltc3Q4WGlaX2Ux",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Anne Carson wins the Nobel prize in literature 2026",
+    "angle": "Anne Carson, the Toronto-born poet and classicist, just took home literature's biggest prize \u2014 a huge moment for Canadian arts and a great \"wait, who?\" conversation since she's a giant in literary circles but not exactly a household name.",
+    "bullets": [
+      " Anne Carson has won the 2026 Nobel Prize in Literature",
+      " She's a Toronto-born poet, essayist, and classics scholar",
+      " Known for blending ancient Greek themes with modern poetry in works like \"Autobiography of Red\" and \"Nox\"",
+      " She joins a very short list of Canadians to ever win a Nobel in Literature",
+      " Be honest \u2014 did you know who Anne Carson was before this story broke?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Paramore\u2019s Hayley Williams unleashes profanity-filled response after DHS tells her to \u2018thank\u2019 ICE",
+    "angle": "A rock star going toe-to-toe with a federal agency on social media is exactly the kind of celebrity-vs-government clash that gets people talking, especially with immigration such a hot-button issue right now.",
+    "bullets": [
+      " Paramore frontwoman Hayley Williams fired back after DHS told her to \"thank\" ICE",
+      " Her response was reportedly profanity-laced and unfiltered",
+      " Puts a major music star directly at odds with a federal agency in public",
+      " Should celebrities use their platform to call out government agencies directly, or does it just add noise to an already divisive issue?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.the-independent.com/arts-entertainment/music/news/hayley-williams-ice-dhs-paramore-response-b3062326.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Ben Affleck finally confirms whether he wore a prosthetic for full-frontal \u2018Gone Girl\u2019 shower scene",
+    "angle": "Twelve years of internet debate, finally settled by the man himself \u2014 this is the kind of pop culture mystery fans never let go of, and now there's a real answer to argue about.",
+    "bullets": [
+      " Ben Affleck addressed the long-running question about his full-frontal shower scene in 'Gone Girl'",
+      " Fans have debated for over a decade whether a prosthetic was used in the scene",
+      " Twelve years of fan theories, settled by Affleck himself \u2014 did it live up to the hype?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/08/entertainment/ben-affleck-finally-confirms-whether-he-wore-a-prosthetic-for-full-frontal-gone-girl-sho",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Sean \u2018Diddy\u2019 Combs\u2019 release date takes major hit after reports of lavish life behind bars",
+    "angle": "Diddy was set to walk free in 2028 \u2014 but word that he's been living large behind bars is reportedly pushing that date back, and nothing gets listeners talking like a celebrity inmate allegedly gaming the system.",
+    "bullets": [
+      " Sean 'Diddy' Combs was originally scheduled for release from FCI Fort Dix in New Jersey on Jan. 21, 2028.",
+      " New reports of a 'lavish life' behind bars are reportedly putting that release timeline in jeopardy.",
+      " Should extra privileges behind bars actually cost an inmate time off their sentence?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Dancing With the Stars\u2019 Mariah Carey Night Ends With Another Unexpected Elimination, Season 35\u2019s Highest Score Yet: See the Scores, Who Went Home - The Hollywood Reporter",
+    "angle": "Dancing With the Stars threw an entire night at Mariah Carey and somehow still delivered a shocking boot, plus the season's best score yet \u2014 classic reality TV whiplash that fans will be arguing about.",
+    "bullets": [
+      " Season 35 just posted its highest score of the season on this episode.",
+      " A previous Tuesday's Yacht Rock Night saw Taylor Hanson and partner Britt Stewart get shockingly eliminated.",
+      " Hollywood Reporter flags this as another in a string of surprise eliminations this season.",
+      " Were these judges' scores legit, or is DWTS just handing out big numbers for the Mariah tribute? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-mariah-carey-week-4-recap-scores-elimination-1236723985/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "'I Get Turned On': Jesse Watters Reveals What He Does Around A Certain Kind Of Guy",
+    "angle": "Watters is getting dragged online for a bizarre quote about his own reaction to a specific 'type' of man, and the internet's confused reaction is half the fun.",
+    "bullets": [
+      " Jesse Watters is quoted saying \"I get turned on\" when describing how he acts around a certain kind of guy.",
+      " Story is circulating via HuffPost, framed as another odd Watters soundbite.",
+      " What's the weirdest thing a public figure has ever admitted on air without blinking?"
+    ],
+    "debate": "The quote is blowing up online, with one X commenter asking \"Why are these people so weird?\"",
+    "source": "www.huffpost.com (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD",
+    "url": "https://www.huffpost.com/entry/jesse-watters-deep-voice-rant_n_6ac6c83fe4b0e825de123794",
+    "score": "77/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Behold! Jason Momoa\u2019s \u2018Street Fighter\u2019 Toy Has Been Revealed",
+    "angle": "Jason Momoa playing the feral, electric-skinned Blanka in the live-action Street Fighter movie was already a head-turner, and now the action figure's out there for everyone to judge before the film even drops.",
+    "bullets": [
+      " Jason Momoa ('Aquaman,' 'Minecraft') is playing Blanka in the new Street Fighter movie",
+      " A toy/action figure based on Momoa's Blanka design has just been revealed online",
+      " Does Momoa's Blanka look awesome or absolutely ridiculous \u2014 hosts weigh in before fans flood the lines. gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/behold-jason-momoas-street-fighter-toy-has-been-revealed-2000823287",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Crime Thriller \u2018Side Effects\u2019 Debuts First-Look Photos and Warns About the \u2018Real Killer on the Loose\u2019: Deadly Opioids (EXCLUSIVE)",
+    "angle": "A splashy new Danish crime drama with exclusive first-look photos is leaning hard into the opioid crisis as its true villain, giving hosts a pop-culture hook into a very real, very serious issue.",
+    "bullets": [
+      " Josephine Park (\"The Ox,\" \"Baby Fever\") stars as Chief Investigator Nora S\u00f8by",
+      " She leads Denmark's top crime unit in the series",
+      " Variety is debuting exclusive first-look images of the show",
+      " Is Hollywood onto something using a crime thriller to smuggle in a real public-health warning about opioids? variety.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/global/crime-thriller-side-effects-first-look-opioids-1236904628/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Union Town,\u2019 \u2018The Hummingbird Paints Fragrant Songs\u2019 and More Among DOC NYC 2026 Lineup",
+    "angle": "DOC NYC is one of the biggest documentary festivals in the country, and this year's lineup leads with a global art-world crossover story that's genuinely compelling even if you've never watched a documentary in your life.",
+    "bullets": [
+      " DOC NYC returns for its 17th year, running Nov. 11-19 in Manhattan, with an online extension through Nov. 29",
+      " It follows Sara Flores, a 75-year-old Indigenous artist who steps out of the Peruvian Amazon and into the global contemporary art scene",
+      " A 75-year-old artist going from the Amazon rainforest to the global art world in one film \u2014 that's a premise worth a watch on its own. variety.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/festivals/doc-nyc-2026-lineup-1236904728/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "25+ star-worthy October Prime Day fashion deals you can still shop today",
+    "angle": "Celebrity-approved fashion finds are still discounted even though Prime Day's over, giving listeners a reason to check their carts before the deals disappear for good.",
+    "bullets": [
+      " What's the one \"too late\" sale you actually caught in time? pagesix.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/style/amazon-prime-big-deal-days-clothing-fashion-deals-october-2026/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "'It hurts a lot': Couple speaks out after woman tells camera crew to 'go back to Mexico' during Laguna Beach mariachi proposal - ABC7 Los Angeles",
+    "angle": "A romantic beach proposal turned into a national flashpoint after a bystander was caught on camera hurling a racist remark at the crew \u2014 now the couple's speaking out, and it's exactly the kind of clip that blows up because everyone has an opinion.",
+    "bullets": [
+      " Proposal happened at Laguna Beach, with a mariachi band and camera crew hired to capture the moment",
+      " A woman confronted the crew and told them to 'go back to Mexico' \u2014 caught on video",
+      " Call in: have you ever had a perfect moment ruined by a total stranger \u2014 and how did you handle it? KABC-TV (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://abc7.com/post/hurts-lot-couple-speaks-woman-tells-camera-crew-go-back-mexico-during-laguna-beach-proposal/19916127/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Do Cats Really Love Us?",
+    "angle": "Every cat owner has wondered if they're loved or just a glorified vending machine - this one's pure watercooler bait because everybody in the building has an opinion and a cat story.",
+    "bullets": [
+      " Call in and settle it: does your cat actually love you, or are you just room and board? ON-AIR BIT BREAKDOWN - Step 1: Dog People vs. Cat People - Quick 60-second face-off to open the segment -> Hosts pick sides - one defends dogs as obviously more affectionate, the other defends cats as 'loving on their own terms' - then let callers vote - Step 2: Read the Receipts - 2-3 minutes, listener call-ins -> Ask listeners to call in with the weirdest thing their cat does that 'proves' it loves them - slow blinks, head-butts, bringing dead bugs as gifts gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/do-cats-really-love-us-2000817878",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "She had no running shoes, no sports gear, and ran barefoot in a saree. This lady cleared the Jharkhand Home Guard physical test with 4 minutes to spare to feed her family",
+    "angle": "This is the definition of an underdog story - a widow with no money for shoes or training gear out-running a government physical test by four minutes, just to get a job and feed her kids. It's the kind of story that makes you want to stand up and clap.",
+    "bullets": [
+      " She's a widow raising two young children and supporting her elderly in-laws entirely on her own.",
+      " No running shoes, no tracksuit, no coach - she trained on public roads at 4 a.m. every morning, in a saree.",
+      " She crossed the finish line with 4 minutes to spare.",
+      " What's the most resourceful thing you've ever seen someone do just to provide for their family?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.etvbharat.com/en/offbeat/jharkhand-ramgarh-kavita-barefoot-saree-run-for-home-guard-recruitment-enn26100701055",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Man discovers his parents\u2019 coffee machine used 1TB of data in 10 days",
+    "angle": "Man discovers his parents\u2019 coffee machine used 1TB of data in 10 days",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "ADHD is associated with > 4x higher risk for late-life cognitive impairment.",
+    "angle": "A new study is linking ADHD to a much higher risk of cognitive decline as we age, which hits home for the huge wave of adults only now getting diagnosed - this isn't just a 'kids in school' conversation anymore.",
+    "bullets": [
+      " New research finds adults with ADHD face a more than 4x higher risk of late-life cognitive impairment.",
+      " Shared via Reddit's r/science community, where health and research findings often go viral before mainstream pickup.",
+      " Adds to the growing conversation around adult ADHD diagnoses and what the condition means over a full lifetime, not just childhood.",
+      " If you or your partner got diagnosed with ADHD as an adult, does news like this freak you out or just confirm what you already suspected?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2854889",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "CLOSER: THROWBACK THURSDAY",
+    "title": "Ganni and Lululemon Team Up for \u2018Flashdance\u2019-Inspired Collection, With Jennifer Beals and Mette-Fronted Campaign",
+    "angle": "Lululemon just teamed up with hot Copenhagen label Ganni for an '80s dance-movie capsule collection \u2014 leg warmers, boleros, headbands and all \u2014 fronted by the original 'Flashdance' star herself. It's peak throwback bait: a brand known for yoga pants suddenly cosplaying Jennifer Beals.",
+    "bullets": [
+      " Lululemon and Danish label Ganni are dropping a 22-piece collection together.",
+      " It launches October 15.",
+      " Would you actually wear leg warmers to the gym in 2026, or is this one '80s trend that should stay dead? variety.com (Tier 2) | Score: 69/90 (40 fit + 8 source + 21 quality) -> STRONG"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/shopping/news/lululemon-ganni-workout-collection-shop-online-1236905495/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "CLOSER: THROWBACK THURSDAY",
+    "title": "Video: Israelis come together to mourn on anniversary of Oct. 7 attack",
+    "angle": "A full year later, communities across Israel are marking the anniversary of the Oct. 7 attack with vigils and memorials - a moment that still resonates globally given how much the world's attention has been fixed on the region since.",
+    "bullets": [
+      " Video out of Israel shows communities gathering publicly to mourn on the one-year anniversary of the Oct. 7 attack",
+      " Memorial gatherings mark one of the most consequential dates in recent Middle East history",
+      " Coverage comes via The Globe and Mail, reflecting continued international attention on the anniversary",
+      " Where were you when you first heard about Oct. 7, and how differently do you see the world a year later?"
+    ],
+    "debate": "hZS1dKZVJRcXVfcWFSX3o0VlRCVEg3cGdvem9fZFhqUjNHU2toakhSYlVTemcxUEE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdkNPblVBbk0yOENtNzhEZDd1dEVNVXNUVzNHb2VkSkhrYk9hYkYxUm",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Cancer drugs prices could fall by 70% as government plans profit margin caps | Health and Wellness News",
+    "angle": "A government price cap could slash the cost of some of the most expensive cancer medications by up to 70% - huge news for anyone who's dealt with the sticker shock of a cancer diagnosis in the family.",
+    "bullets": [
+      " Some maximum retail prices could drop by as much as 70%",
+      " Builds on a 2019 pilot that already capped margins on 42 cancer medicines",
+      " Covers expensive drugs including some patented medications",
+      " Ever had a family member's cancer treatment bill wreck your budget - would a 70% price drop actually change the calculus for people delaying care?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://indianexpress.com/article/health-wellness/government-cap-trade-margins-cancer-drugs-price-mrp-10912604/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Kawhi Leonard gets free \u2018Kraft Dinner' for life",
+    "angle": "A deadpan NBA superstar getting a lifetime supply of Kraft Dinner is pure r/nottheonion gold \u2014 it's the kind of absurd, low-stakes headline that's tailor-made for a quick on-air laugh.",
+    "bullets": [
+      " Kawhi Leonard is reportedly set for free Kraft Dinner for life",
+      " Story's blowing up on r/nottheonion for how random it is",
+      " Kraft Dinner is basically a national obsession in Canada \u2014 so pairing it with an NBA star is comedy gold",
+      " What's the one free-for-life item you'd want attached to your name?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/toronto/video/shows/ctv-news-at-noon/2026/10/05/kawhi-leonard-gets-free-kraft-dinner-for-life/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Finland Orders Google to Halt Data Centre Work Over Missing Environmental Reviews",
+    "angle": "A European government is literally telling Google to stop building - that's a rare power move against Big Tech, and it taps into the growing global fight over AI's massive energy and environmental footprint.",
+    "bullets": [
+      " Finland ordered Google to halt data centre construction",
+      " Comes amid a broader global reckoning over data center energy use",
+      " Should countries be slamming the brakes on Big Tech's data center boom before the environmental math gets done?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gadgetreview.com/finland-orders-google-to-halt-data-centre-work-over-missing-environmental-reviews",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "LSD reconfigures cortical dynamics through faster brain rhythms and increased fractal dimension | Communications Biology",
+    "angle": "A new neuroscience study found LSD speeds up brain rhythms and makes brain activity more complex - a legit science story with a trippy, watercooler-ready hook for a lifestyle chat.",
+    "bullets": [
+      " Study published in the journal Communications Biology looked at how LSD reshapes brain activity.",
+      " Researchers found the drug speeds up certain brain rhythms (cortical oscillations).",
+      " Brain patterns also showed an increased 'fractal dimension' - basically, more complexity and self-similarity in how the brain fires.",
+      " Does hearing 'scientists studied this in a lab' make psychedelics feel more legit to you, or does the science just not move the needle either way?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nature.com/articles/s42003-026-10629-7",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "A study of 179 men found higher levels of neonicotinoid insecticides in semen were associated with lower sperm counts, with each quartile increase in combined exposure linked to a 27% reduction in sperm concentration, suggesting potential risks to male reproductive health.",
+    "angle": "A new study links common pesticide residue to lower sperm counts in men, and the 'why should I care' is simple: these chemicals are on produce most people eat daily, not some obscure industrial exposure.",
+    "bullets": [
+      " Researchers studied 179 men and measured neonicotinoid insecticides directly in their semen.",
+      " Each step up in combined pesticide exposure was linked to a 27% reduction in sperm concentration.",
+      " Neonicotinoids are the most widely used insecticides in the world, common in agriculture.",
+      " Does a headline like this actually change what you eat, or is pesticide news just white noise at this point?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2026.1871388/full",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-10-07",
     "slot": "pm",
     "category": "THE LIST",
