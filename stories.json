@@ -1,6 +1,599 @@
 [
   {
     "date": "2026-10-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Letitia James\u2019s GOP opponent for attorney general Saritha Komatireddy trounces in fiery NY AG debate",
+    "angle": "This isn't just a local AG race - James built her national brand prosecuting Trump, so any crack in her armor is instant political theater, and her opponent just landed some real shots on live TV.",
+    "bullets": [
+      " Saritha Komatireddy is the GOP challenger taking on incumbent AG Letitia James",
+      " Komatireddy called James a \"political hack\" over her prosecution of President Trump",
+      " James's main comeback was branding Komatireddy a \"Trump puppet\" - repeatedly",
+      " Debate was widely described as fiery, with James reportedly short on substantive answers",
+      " Was James actually rattled, or is \"Trump puppet\" a strong enough closing argument to win New Yorkers over anyway?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/09/us-news/letitia-jamess-gop-opponent-for-attorney-general-saritha-komatireddy-trounces-in-fiery-ny-ag-",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "China\u2019s thorium-229 nuclear clock beats Vienna\u2019s on stability, studies show",
+    "angle": "It sounds like a nerdy lab footnote, but this is actually a global bragging-rights race over who controls the next generation of ultra-precise timekeeping - the tech that underpins GPS, satellites, and basically every synced system on Earth.",
+    "bullets": [
+      " China has built a next-gen nuclear clock using the isotope thorium-229",
+      " New studies reportedly show it's more stable than a rival clock based in Vienna",
+      " Nuclear clocks are considered the potential successor to today's atomic clocks - even more precise",
+      " Is this actually a big deal, or just two labs arguing over who has the fancier stopwatch?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.scmp.com/news/china/science/article/3370006/chinas-thorium-229-nuclear-clock-beats-viennas-stability-studies-show",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Furious Trump rails against Canadian Anne Carson winning Nobel Prize in Literature",
+    "angle": "Furious Trump rails against Canadian Anne Carson winning Nobel Prize in Literature",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thebeaverton.com/2026/10/furious-trump-rails-against-canadian-anne-carson-winning-nobel-prize-in-literature/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Seth Meyers on Trump: \u2018Speaks in mangled, incoherent half-sentences that no one can understand\u2019",
+    "angle": "Seth Meyers on Trump: \u2018Speaks in mangled, incoherent half-sentences that no one can understand\u2019",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/culture/2026/oct/08/seth-meyers-jimmy-kimmel-trump-iran-camp-david",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Lost Florida dog shows up at police station \u2014 as officer helps reunite \u2018K-9 applicant\u2019 with tearful owner",
+    "angle": "Lost Florida dog shows up at police station \u2014 as officer helps reunite \u2018K-9 applicant\u2019 with tearful owner",
+    "bullets": [],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/09/us-news/florida-lost-dog-reports-himself-missing-at-tampa-police-station-reunites-with-tearful-owner/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Michigan Republican faces pressure during heated debate on Trump's Canada tariffs",
+    "angle": "Trump's tariff fight with Canada keeps spilling into Republicans' own backyard - watching a GOP lawmaker squirm on camera over it is exactly the kind of party-splits-on-policy moment that gets people talking.",
+    "bullets": [
+      " Are these tariffs protecting American jobs or just jacking up prices on everything from Canada - call in and tell us which side you're on. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQWZnZ01xc2ZKbFR6OVlRbDdSb2h5QUlENGlkZ3BUVVhwSHVjZjJhYmN",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Fact File: Headlines falsely claim woman approved for MAID because she couldn't cook",
+    "angle": "A wild claim about Canada's assisted-dying program went viral for all the wrong reasons - and it's a perfect excuse to talk about how fast misinformation spreads before anyone checks the facts.",
+    "bullets": [
+      " CTV News ran a 'Fact File' debunking headlines claiming a woman was approved for MAID (Medical Assistance in Dying) simply because she couldn't cook.",
+      " MAID eligibility is governed by strict medical and psychological criteria - not lifestyle complaints like cooking ability.",
+      " Be honest - have you ever shared a headline before checking if it was even true? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "NBSHB1RHlkQVAzVlpCWmszckwyY3J1aE54RzYxSU1NMEY4MFBBRWxhSWh1bUdkNjNQd3I0SEZIZVQ3eVFFakgxRkNR?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLUxheXFEZG05YW53RVhPR21vQm5nUjJDZXcxOGxLc0JLdXVsQ1pHYn",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "WARMINGTON: OSAP cut off hurts woman with baby while international students still get funding",
+    "angle": "WARMINGTON: OSAP cut off hurts woman with baby while international students still get funding torontosun.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "https://torontosun.com/news/local-news/osap-cut-off-hurts-woman-with-baby-while-international-students-still-get-funding",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "The Pentagon Plans to Execute the Fort Hood Shooter on Livestream",
+    "angle": "This isn't a routine execution story \u2014 word is the Pentagon is weighing broadcasting the execution live, which instantly reignites the whole 'does the public have a right to watch' debate in a way most death penalty cases never do.",
+    "bullets": [
+      " Reports indicate the Pentagon is exploring a livestream of the execution itself.",
+      " Critics are already branding it 'the new low' \u2014 with one take calling it 'somehow worse than the old low.'",
+      " Does the public have a right to watch an execution happen live, or is broadcasting it crossing a line that shouldn't exist? gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/the-pentagon-plans-to-execute-the-fort-hood-shooter-on-livestream-2000824008",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Live Updates From New York Comic Con 2026",
+    "angle": "New York Comic Con is one of pop culture's biggest stages, and it's exactly the kind of event where a surprise trailer, casting bombshell, or cosplay moment goes viral within hours \u2014 worth flagging now so the hosts can chase whatever breaks today.",
+    "bullets": [
+      " What's the one NYCC announcement \u2014 movie, show, or game \u2014 you're hoping drops today? gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/new-york-comic-con-2026-news-updates-live-2000823325",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Fan Bingbing Says Young Chinese Audiences \u2018Aren\u2019t Being Fed Very Well\u2019 as AI Microdramas Boom",
+    "angle": "AI-generated 'microdramas' are exploding in China, and now a major star is publicly calling them out for feeding young viewers junk content \u2014 it's a preview of the AI-content debate that's about to hit every market, including ours.",
+    "bullets": [
+      " Fan Bingbing says young Chinese audiences \"aren't being fed very well\" by the AI microdrama boom.",
+      " She made the comments at a press conference for the Busan International Film Festival.",
+      " She was there presenting Wayne Wang's film *Diary of a Mad Old Man*, screening in the \"A Window on Asian Cinema\" strand.",
+      " Would you rather binge a fast, cheap AI-made show or wait months for the real, human-made version? variety.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/festivals/fan-bingbing-ai-microdramas-park-chan-wook-busan-1236906307/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Big tech can\u2019t \u2018tell us what to do,\u2019 Carney says on Musk\u2019s separatism talk",
+    "angle": "Canada's own Prime Minister is firing back at the world's richest man after Elon Musk started weighing in on Canadian separatist talk \u2014 a billionaire-vs-PM standoff that taps into real anxiety about tech moguls meddling in national politics.",
+    "bullets": [
+      " Mark Carney publicly pushed back on Elon Musk wading into talk of Canadian separatism.",
+      " Carney's message: big tech billionaires don't get to \"tell us what to do\" on Canadian sovereignty.",
+      " Comes amid ongoing chatter about Western separatist sentiment that Musk has been commenting on from the sidelines.",
+      " Should foreign billionaires even get a vote in the conversation about Canada's unity \u2014 or is Carney just feeding the story by clapping back?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://globalnews.ca/news/12092822/big-tech-carney-musk-separatism/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Anne Carson wins the Nobel prize in literature 2026",
+    "angle": "Anne Carson, a poet and classicist from Canada, taking home literature's biggest prize is a genuine national bragging-rights moment \u2014 and a chance to talk about the one Canadian nobody outside poetry circles has heard of until today.",
+    "bullets": [
+      " Anne Carson has been named winner of the 2026 Nobel Prize in Literature.",
+      " She's Canadian \u2014 a poet, essayist, and classics scholar known for blending ancient Greek influences with modern verse.",
+      " Her best-known work, \"Autobiography of Red,\" is a genre-bending verse novel that made her a literary cult favorite long before today.",
+      " Be honest \u2014 had you heard of Anne Carson before this popped up, or is this the first time Canada's literary flex has made it onto your radar?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/books/2026/oct/08/wins-the-nobel-prize-in-literature-2026",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Ottawa to provide $2B in rebates for homeowners who install heat pumps",
+    "angle": "Ottawa to provide $2B in rebates for homeowners who install heat pumps",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/heat-pumps-replacement-emergency-program-9.7374054",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "In 2020, Pamela Anderson Returned to Her Family\u2019s Canadian Estate and Built a Massive Garden. Today, the Harvest Feeds Her Community",
+    "angle": "A Hollywood bombshell turned small-town farmer is pure watercooler gold - and it's got a Canadian hometown hook, which makes it a perfect fit here.",
+    "bullets": [
+      " Pamela Anderson moved back to her family's estate in Canada in 2020",
+      " She built a massive garden on the property since returning",
+      " Which celebrity would you least expect to find elbow-deep in dirt growing your dinner?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/in-2020-pamela-anderson-returned-to-canada-and-built-a-massive-garden-that-feeds-her-community-12164807",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "B.C. teen rescued from 'Widowmaker' mountain trail says AI isn't to blame",
+    "angle": "A 16-year-old gets stranded on one of B.C.'s most notorious climbing routes and needs a helicopter rescue \u2014 and the twist everyone's talking about is the AI angle he's pushing back on. It's a perfect gateway into the bigger question of how much we're trusting apps and AI with our safety.",
+    "bullets": [
+      " Bryce Gowryluk, 16, was rescued by helicopter from Crown Mountain on Saturday",
+      " He accidentally ended up on the infamous \"Widowmaker\" climbing route",
+      " Would you trust an app or AI to route your next hike \u2014 or is this exactly why you shouldn't?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/hiker-ai-stuck-mountain-9.7373964?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Everyone loves Anne Carson \u2014 even if it took some time for Canada to get her",
+    "angle": "She's one of the most celebrated poets and classicists writing in English today, but this piece digs into why Canada was slow to embrace a literary icon who's adored everywhere else.",
+    "bullets": [
+      " Why does Canada always sleep on its own geniuses until the rest of the world tells us they're great?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/anne-carson-canadian-literature-nobel-prize-9.7374614?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "What we know about Ottawa's $2B rebate plan for heat pumps",
+    "angle": "A $2 billion federal rebate for heat pumps means real money back for homeowners switching off gas and oil heat - and with winter bills top of mind, this is the kind of program listeners will actually want details on.",
+    "bullets": [
+      " Have you looked into a heat pump for your place, or does the upfront cost scare you off even with a rebate?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/canada-heat-pump-retrofit-faq-9.7374613?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Nobel Prize in Literature goes to Canadian poet and essayist",
+    "angle": "The Nobel Prize in Literature went to a Canadian poet and essayist this year, putting Canadian letters on the world's biggest literary stage - a point of national pride worth marking, even if most listeners have never read their work.",
+    "bullets": [
+      " Be honest - had either of you heard of this writer before today? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "X2ZsZkdfbTlPNENrVnVlN3MyRDY2MDJrVHNPLTR5WlFF?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSUYxd3JMZVo4SFlSN2ZFVjFtV1BxeVpWNDFrenc5SnBHdFZWb3pTNX",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Rosal\u00eda Shuts Down Kenan Thompson\u2019s Idea for a Pop-Classical Album in Hilarious \u2018SNL\u2019 Promo: \u2018That\u2019s LUX\u2019",
+    "angle": "A quick promo clip is going viral because it doubles as a sneaky plug for Rosal\u00eda's new album 'LUX' - the punchline only lands once you know that's the record's actual name.",
+    "bullets": [
+      " Kenan Thompson pitches Rosal\u00eda on making a pop-classical crossover album in the promo clip.",
+      " She shuts it down instantly with the line: 'That's LUX' - a nod to her real album title.",
+      " Clip was flagged by @Billboard on X.",
+      " It's basically a 10-second commercial disguised as a joke - ask listeners if they caught the album-title gag before Billboard pointed it out. X/Twitter @Billboard (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2108370899942441182",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Audrey Hobert says she \u201cnever intended to become a songwriter\u201d and originally aspired to be a screenwriter.",
+    "angle": "Audrey Hobert's breakout song wasn't even supposed to be a song - it started as an inside joke, which is exactly the kind of accidental-fame story that makes for easy, relatable entertainment chat.",
+    "bullets": [
+      " Audrey Hobert says she \"never intended to become a songwriter\" - she originally wanted to be a screenwriter.",
+      " Hobert says: \"We repeated it to each other in song, and then sat down that day and wrote a song for fun.\"",
+      " Her own words: \"Then we just kept playing it\" - turning a joke into an actual career pivot.",
+      " Ask listeners: what's the dumbest inside joke with a friend that somehow turned into something real? X/Twitter @Variety (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Variety/status/2108374387347136551",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Aaron Sorkin Tells 'Morning Joe' Everyone Should Be Concerned About Meta's Power: 'This Isn't a Fake Problem'",
+    "angle": "Aaron Sorkin Tells 'Morning Joe' Everyone Should Be Concerned About Meta's Power: 'This Isn't a Fake Problem'",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thewrap.com/media-platforms/journalism/morning-joe-aaron-sorkin-social-reckoning-facebook-dangers-video/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Matthew Lillard Says Hollywood Still Doesn\u2019t \u2018Understand\u2019 Him After 40 Years: \u2018Nobody Ever Equates Me with Greatness\u2019",
+    "angle": "The Shaggy and Scream star is dropping some surprisingly raw career honesty after four decades in the business, and that kind of 'I'm still underrated' confession from a beloved cult-favorite actor is prime watercooler talk.",
+    "bullets": [
+      " Matthew Lillard says after 40 years in Hollywood, the industry still doesn't \"understand\" him.",
+      " His quote: \"Nobody ever equates me with greatness.\"",
+      " Lillard is best known for roles like Shaggy in the live-action *Scooby-Doo* movies and Stu in *Scream*.",
+      " Is Matthew Lillard actually underrated, or does he get exactly the cult love he deserves?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/matthew-lillard-hollywood-doesnt-understand-40-years-nobody-equates-greatness-exclusive-12159512",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Journey drummer Deen Castronovo suffers medical emergency during Oklahoma concert",
+    "angle": "A classic rock giant's gig gets cut short by a scary medical moment \u2014 the kind of story fans immediately start texting each other about.",
+    "bullets": [
+      " Deen Castronovo, Journey's drummer, suffered a medical emergency onstage",
+      " It happened at the BOK Center in Oklahoma",
+      " He was helped offstage as the concert was interrupted",
+      " Have you ever been at a show when it got stopped for something like this \u2014 what was that moment like?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'I Get Turned On': Jesse Watters Reveals What He Does Around A Certain Kind Of Guy",
+    "angle": "Jesse Watters dropped a line weird enough that it's gone viral for all the wrong reasons - the internet is already picking it apart and asking the obvious question: what on earth was he trying to say?",
+    "bullets": [
+      " Jesse Watters made the comment describing how he reacts around \"a certain kind of guy\"",
+      " One commenter on X summed up the reaction: \"Why are these people so weird?\"",
+      " Clip is circulating and picking up steam online as people react to the phrasing",
+      " Play the clip cold and let the hosts guess what Watters was actually trying to say before the reveal."
+    ],
+    "debate": "",
+    "source": "www.huffpost.com (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD",
+    "url": "https://www.huffpost.com/entry/jesse-watters-deep-voice-rant_n_6ac6c83fe4b0e825de123794",
+    "score": "77/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Celebrity Traitors fans go wild as James Blunt strips off for 'hilarious' shower scene as he becomes the latest star at risk of being murdered",
+    "angle": "Celebrity Traitors just delivered its own wardrobe malfunction moment, and fans are comparing it to last year's Tom Daley fan-favorite scene \u2014 a little harmless chaos that gets people talking about who's getting \"murdered\" next on the show.",
+    "bullets": [
+      " James Blunt, 52, is the latest star to strip off on Celebrity Traitors",
+      " Fans called the shower scene \"hilarious\"",
+      " Tom Daley delighted viewers with a similar moment last year",
+      " Blunt is now in the running to be the next \"murdered\" contestant on the show",
+      " Who's the one celebrity you'd actually want to see do a shower scene on this show?"
+    ],
+    "debate": "tar-risk-murdered.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "source": "www.dailymail.co.uk (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16193195/Celebrity-Traitors-fans-wild-James-Blunt-strips-hilarious-shower-scene-latest-s",
+    "score": "77/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist",
+    "angle": "A billionaire tech titan is literally giving lectures branding AI regulation as a tool of the Antichrist \u2014 it's the kind of Silicon Valley-meets-doomsday-cult headline that's too wild not to talk about.",
+    "bullets": [
+      " Peter Thiel reportedly held an 'Antichrist' lecture series in Nashville",
+      " Thiel is a co-founder of PayPal and Palantir, and a major conservative political donor",
+      " Is this just billionaire-brain cosplay, or is there something actually unsettling about tying AI safety rules to apocalyptic prophecy? gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Everything Crunchyroll Announced at New York Comic Con 2026",
+    "angle": "Anime fans are buzzing because Crunchyroll used New York Comic Con to unload a wave of news, and the title that's stopping scrolls is a trailer for a show literally called 'The Guy She Was Interested in Wasn't a",
+    "bullets": [
+      " Crunchyroll made its big announcements at New York Comic Con 2026.",
+      " Could you say that show's title three times fast on air without cracking up? gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/everything-crunchyroll-announced-at-new-york-comic-con-2026-2000823950",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Italy\u2019s RAI Inks Major Deal for High-Profile, Female-Led Titles With Beta Film Ahead of Mipcom (EXCLUSIVE)",
+    "angle": "It's inside baseball on the global TV trade, but the actual shows \u2014 a vet-family rescue drama and a thriller about a mom hunting her missing daughter \u2014 are the kind of bingeable premises that'll have North American streamers circling soon.",
+    "bullets": [
+      " RAI, Italy's public broadcaster, acquired a slate of international female-led dramas from Beta Film ahead of the Mipcom TV market.",
+      " \"Barton Vet\" follows a veterinarian and her family-run team saving animals in the countryside.",
+      " \"A Guilty Affair\", a French thriller, centers on a high school principal desperately searching for her missing daughter.",
+      " Vet-family rescue show or missing-daughter thriller \u2014 which one are you bingeing first? variety.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/global/italy-rai-beta-film-barton-vet-mozart-mozart-mipcom-1236905546/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'Ted Lasso' Co-Creator & Star Brendan Hunt Explains Season 4 Ending - Deadline",
+    "angle": "Ted Lasso fans are buzzing over the Season 4 finale's big 'passing the torch' moment, and co-creator Brendan Hunt is breaking down who might be walking away from AFC Richmond right as renewal chatter heats up.",
+    "bullets": [
+      " Finale episode is titled \"Being Alive\"",
+      " Brendan Hunt (co-creator/star) is personally explaining the ending in this breakdown",
+      " Episode features a \"passing the torch\" moment tied to a coaching team shakeup",
+      " Comes amid active Season 5 renewal buzz for the Apple TV show",
+      " Who do you think is walking away from Richmond - and are you actually on board with a Season 5? Deadline (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://deadline.com/2026/10/ted-lasso-season-4-ending-explained-brendan-hunt-1237149060/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Britney Spears brings sons Sean and Jayden to Dollywood: \u2018Family outing!\u2019 - Page Six",
+    "angle": "After a rocky stretch that included a DUI arrest back in March, Britney's showing off a genuine reconciliation with her sons Sean and Jayden - and she's doing it in the most on-brand way possible, at Dolly Parton's theme park.",
+    "bullets": [
+      " Britney Spears brought sons Sean and Jayden Federline to Dollywood for what she called a \"family outing\"",
+      " She posted about the trip on Instagram on Tuesday",
+      " After everything with Britney this year, does a Dollywood family photo actually move the needle on how fans see her? Page Six (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/07/parents/britney-spears-brings-sons-sean-and-jayden-to-dollywood-family-outing/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Tropical Storm Isaias tracker: Map and projected storm path - The Washington Post",
+    "angle": "A tropical storm is forecast to strengthen into a hurricane right before it hits land Friday night, which means millions along the Southeast coast need to start paying attention now, not later.",
+    "bullets": [
+      " Isaias is the ninth named storm of this Atlantic hurricane season",
+      " Forecasters expect it to strengthen into a hurricane before making landfall",
+      " Landfall is projected for late Friday in the southeastern United States",
+      " Threats include flooding, storm surge, and possible tornadoes",
+      " Anyone got family or plans in the storm's path for this weekend?"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.washingtonpost.com/weather/2026/10/07/tropical-storm-isaias-tracker-map-projected-storm-path/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Adults with ADHD often struggle with choices that require weighing potential rewards against negative consequences. A new experiment reveals that a common stimulant medication improves these choices specifically by helping individuals pay more attention to the potential costs of their actions.",
+    "angle": "Decision-making struggles are one of the most relatable, least-talked-about parts of living with ADHD, and this gives listeners a concrete 'here's actually why' to chew on.",
+    "bullets": [
+      " Adults with ADHD often struggle with choices that weigh rewards vs. consequences",
+      " A new experiment found a common stimulant medication improves those decisions",
+      " If you're on ADHD meds (or know someone who is) \u2014 have you noticed yourself actually pausing to think about consequences more? Call in."
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/medication-helps-adults-with-adhd-weigh-the-negative-consequences-of-their-decis/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "People who favor group-based inequality tend to have less gray matter in an empathy-linked brain region",
+    "angle": "A new brain-scan study links believing some groups deserve more power than others to literally less gray matter in a region tied to empathy \u2014 it's the kind of \"is prejudice wired in?\" headline that makes for great watercooler debate.",
+    "bullets": [
+      " Researchers found people who score higher on that belief tend to have less gray matter in a brain region linked to empathy.",
+      " It's a correlation from brain-imaging research, not proof that one causes the other \u2014 but it's got people talking nature vs. nurture.",
+      " Nature or nurture: do you buy that empathy \u2014 or the lack of it \u2014 shows up in your actual brain structure, or is this just science finding a fancy way to say \"some people are jerks\"?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/people-who-favor-group-based-inequality-tend-to-have-less-gray-matter-in-an-empathy-linked-brain-region/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Autism and ADHD traits appear to follow different social paths to mental health problems. Autistic traits were linked to peer difficulties, internalizing problems, but not to academic struggles. ADHD traits were linked to externalizing problems and higher levels of academic difficulties.",
+    "angle": "Autism and ADHD traits appear to follow different social paths to mental health problems. Autistic traits were linked to peer difficulties, internalizing problems, but not to academic struggles. ADHD traits were linked to externalizing problems and higher levels of academic difficulties.",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/autism-and-adhd-traits-appear-to-follow-different-social-paths-to-mental-health-problems/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-08",
+    "slot": "pm",
+    "category": "CLOSER: THROWBACK THURSDAY",
+    "title": "Daughter Of Dead BBC & \u2018Paddington\u2019 Star Accuses Royal Mail Of Resurrecting Her Father\u2019s Voice Using AI: \u201cIt\u2019s Outrageous\u201d",
+    "angle": "An AI voice clone of a deceased BBC star just blindsided his own daughter on live TV, and it taps straight into the biggest ethical gray area in entertainment right now \u2014 who gets to bring back a dead person's voice, and does anyone have to ask first?",
+    "bullets": [
+      " Lucy Wynne is the daughter of a late BBC and 'Paddington' star.",
+      " She heard her dead father's voice come out of her TV in November 2025 \u2014 11 years after he passed.",
+      " She accuses Royal Mail of using AI to recreate his voice for an ad.",
+      " Her reaction: \"It's outrageous.\"",
+      " Should companies need a family's permission before AI-cloning a dead celebrity's voice for an ad? deadline.com (Tier 2) | Score: 44/90 (40 fit + 8 source + 6 quality - 10 penalty (Depressing/negative tone)) -> BACKUP"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://deadline.com/2026/10/paul-vaughan-bbc-paddington-ai-royal-mail-1237149879/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-08",
     "slot": "am",
     "category": "THE LIST",
     "title": "\"Software is over\": Developer uses AI to build free Adobe clones after frustration with cancellation fees",
