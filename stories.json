@@ -1,5 +1,695 @@
 [
   {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "\u2018When there is no smoke, we send oxygen\u2019 \u2013 Indonesian government communications chief",
+    "angle": "A line so absurd it landed on r/nottheonion \u2014 Indonesia's top government spokesperson basically admitting they'll manufacture good news out of thin air. It's a perfect jumping-off point for the hosts to riff on political doublespeak everywhere.",
+    "bullets": [
+      " What's the most ridiculous piece of political spin you've ever heard a government official say with a straight face?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sinardaily.my/article/741997/focus/world/when-there-is-no-smoke-we-send-oxygen-ndash-indonesian-government-comm",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "A college in Illinois tried to cancel its Flock contact and it refused / Flock refused to take its cameras down so Elgin Community College covered them. The company snuck back to undue it.",
+    "angle": "A surveillance company allegedly refused to take its cameras down after a college canceled the contract \u2014 and snuck back to undo the school's own cover-up job. It's a real \"who's actually in control here\" story that taps into growing unease about surveillance tech operating on autopilot.",
+    "bullets": [
+      " Elgin Community College in Illinois tried to cancel its contract with camera company Flock",
+      " Flock reportedly refused to remove its cameras from the property",
+      " If a company won't take its own cameras down after you cancel the contract, who actually owns your campus - you or the vendor?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Ukraine Struck Yandex Data Centers, Russian Bots Went Silent\u2014Now Questions Are Mounting",
+    "angle": "Ukraine reportedly struck Yandex data centers deep in Russia, and almost immediately, swarms of pro-Russian bot accounts online went quiet - a direct line between a military strike and the online disinformation war that's got people asking how connected the two really are.",
+    "bullets": [
+      " Ukraine reportedly struck Yandex data centers inside Russia",
+      " Online researchers reportedly noticed Russian bot activity going silent right after the strike",
+      " If one strike can silence an army of bots, how much of what we argue about online is even real people?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Bill Gates warns cyberattacks most imminent AI threat",
+    "angle": "Bill Gates just put a timeline on it \u2014 AI-powered cyberattacks ramping up within the year \u2014 and that's the kind of warning that hits different when it's not some random analyst, it's the guy who built Microsoft.",
+    "bullets": [
+      " Bill Gates issued the warning on Sunday",
+      " He says unregulated AI poses a growing threat",
+      " He's predicting an escalation in AI-powered cyberattacks within the coming year",
+      " Does a warning like this from Bill Gates actually change how careful you are online, or is 'AI is coming for your data' just background noise at this point?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.france24.com/en/live-news/20261011-bill-gates-warns-cyberattacks-most-imminent-ai-threat",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "\u2018SNL\u2019 Weekend Update Brutally Mocks Trump for Losing Nobel Peace Prize",
+    "angle": "Weekend Update went straight after Trump for missing out on the Nobel Peace Prize, and it's the kind of sketch that gets instantly clipped and argued about online.",
+    "bullets": [
+      " Saturday Night Live's Weekend Update segment targeted Trump directly over the Nobel Peace Prize snub.",
+      " Is SNL still the cultural referee on political comedy, or has it lost its bite?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/snl-weekend-update-mocks-trump-losing-nobel-peace-prize-1236907971/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Nobel memorial prize in economics awarded to Robert E. Hall and Michael Woodford",
+    "angle": "This is the actual Nobel Prize - the real deal, not some made-up corporate award - and it's going to the guys whose math quietly shapes every interest rate decision that hits your mortgage and your grocery bill.",
+    "bullets": [
+      " Robert E. Hall and Michael Woodford, both American-born economists, share this year's Nobel Memorial Prize in Economic Sciences",
+      " Awarded by the Royal Swedish Academy of Sciences",
+      " Their models help governments and central banks manage economic shocks",
+      " Next time the Fed moves on interest rates, this is the math behind that call - so is it working, or does it feel like the economy's peaks and troughs are smoother on paper than in your bank account?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/hall-woodford-nobel-economics-9.7377888?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Judge orders Trump administration to end taxpayer-funded TV ads",
+    "angle": "A federal judge just ordered the White House to stop running political ads paid for with public money \u2014 a rare direct legal smackdown that raises the \"is this even allowed\" question everyone's been asking.",
+    "bullets": [
+      " A federal judge ordered the order Sunday night",
+      " Should taxpayer money ever be allowed to fund ads that read like a political pitch?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/judge-orders-trump-ads-end-9.7377818?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Woman stabs 2 in Times Square \u2013 then charges NYPD | Behind the Bodycam",
+    "angle": "A deadly, out-of-nowhere knife attack in the most famous tourist strip in America is already unsettling on its own \u2014 add in raw NYPD bodycam footage breaking down the police response, and it's the kind of true-crime watercooler story that pulls people in.",
+    "bullets": [
+      " Pamela Cisneros, 49, allegedly stabbed two total strangers in random attacks in Times Square",
+      " Erin Piacenti, 32, was killed in the attack; a 68-year-old man was also wounded",
+      " Responding NYPD officers found Cisneros still armed with two [weapons] when they arrived",
+      " A totally random knife attack in the middle of Times Square \u2014 does this change how safe you feel in crowded tourist spots?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/video/woman-stabs-2-in-times-square-then-charges-nypd-behind-the-bodycam/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Trump must cancel taxpayer-funded promotional TV ads, judge orders",
+    "angle": "A federal judge just ordered the Trump administration to kill a self-promotional TV ad campaign paid for with public money - a story with real national political stakes that hits the always-juicy question of who's footing the bill for a politician's image.",
+    "bullets": [
+      " A judge has ordered the Trump administration to cancel a taxpayer-funded promotional TV ad campaign",
+      " Story is developing via CTV News - administration response and next steps still to come",
+      " Where's the line between a 'public service announcement' and a taxpayer-funded campaign ad - and should any president get to make that call themselves? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "OEQxazhjRHFFREFVOFVkV2Z0Q3RXdXZwbkZUOEFFbEVMd2pCMEwtY3R0ZjB3?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQS0wal94VDhqWXZUTU5IWmRSdnlzYmh4Q3dUVWdiYkVDQmFnd3dq",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "California\u2019s Wallis Annenberg Wildlife Crossing, the world\u2019s largest, is on track to open this December, creating a safe route across 10 lanes of Highway 101. Planted with 6,000 native plants, it will reconnect isolated mountain lions with potential mates and help protect the population from extinct",
+    "angle": "This is the kind of absurd-but-wholesome story that writes itself: the world's biggest wildlife crossing is going up over a 10-lane freeway so California's inbred, isolated mountain lions can finally meet new mates. It's a feel-good science story with a built-in punchline.",
+    "bullets": [
+      " It gives animals a safe path over 10 lanes of Highway 101 - no more risking it in traffic.",
+      " Crews are planting it with 6,000 native plants so it actually blends into the landscape.",
+      " A $100-million dating app for mountain lions - would you have guessed that's where your tax dollars (or a nonprofit's) would go?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.latimes.com/environment/story/2026-10-08/wallis-annenberg-wildlife-crossing-is-on-track-to-open-this-winter-unless-el-ni",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "How a loophole in Canada's species-at-risk law can leave wildlife in limbo",
+    "angle": "A new study says the law meant to protect at-risk wildlife has a built-in loophole - and more than half the species waiting on protection are stuck in bureaucratic limbo, some for years.",
+    "bullets": [
+      " New study digs into Canada's Species at Risk Act and finds a legal gap that stalls protections",
+      " 153 of 288 cases are overdue and still unresolved as of January 2025",
+      " That's over half the species in the system just... waiting, with no legal deadline forcing action",
+      " A law that's supposed to save endangered species but has a loophole that leaves them waiting years - should there be a hard deadline, no exceptions?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/legal-loophole-undermining-species-at-risk-act-9.7368066?cmp=rss",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Arrests and detentions of Canadians spike in the U.S. Travel registrations surge, too",
+    "angle": "Cross-border travel between Canada and the U.S. is practically a national pastime, so any spike in Canadians getting arrested or held up at the border hits close to home \u2014 and the fact that travel registrations are climbing anyway says a lot about where people's heads are at.",
+    "bullets": [
+      " Anyone had a dicey border crossing lately, or changed travel plans because of what you're hearing?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/canada/article/arrests-and-detentions-of-canadians-spike-in-the-us-travel-registrations-surge-too/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "\u2018I think they could actually win\u2019: Low turnout could favour separatists in Alberta referendum, Kenney worries",
+    "angle": "A real separatist referendum is brewing in Alberta, and even a former premier is sounding the alarm that low voter turnout could let the separatists sneak out a win \u2014 this is the kind of \"wait, could this actually happen\" story that gets the whole country talking.",
+    "bullets": [
+      " Former Alberta premier Jason Kenney is warning separatists have a real shot at winning the referendum.",
+      " His blunt quote: \"I think they could actually win.\"",
+      " Comes amid growing \"Alberta sovereignty\" chatter that's been simmering for months.",
+      " Would you actually bother voting in a referendum like this \u2014 or is low turnout exactly how these things get hijacked?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/canada/alberta-referendum/article/i-think-they-could-actually-win-low-turnout-could-favour-separatists-in-albe",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "B.C.: Conservatives Lead NDP 43% to 37% as Eby Approval Falls",
+    "angle": "B.C.: Conservatives Lead NDP 43% to 37% as Eby Approval Falls",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://press.liaisonstrategies.ca/bc-conservatives-lead-ndp-43-to-37-as-eby-approval-falls/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Fisher River Cree Nation students hunt for higher learning through land-based program",
+    "angle": "It's a feel-good flip on what school can look like \u2014 grades take a back seat to culture, spirit and connection to the land, and that's a conversation starter for any parent wondering if there's a better way to teach kids.",
+    "bullets": [
+      " Eight students from Fisher River Cree Nation traveled to a Saskatchewan provincial park as their classroom.",
+      " It's part of a land-based education program \u2014 lessons happen out on the land, not just at a desk.",
+      " Would you trade a few weeks of regular school for something like this if it meant your kid actually connected with where they come from?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/manitoba/fisher-river-cree-nation-moose-hunt-9.7374183?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "After being wiped off political map, what's next for the CAQ?",
+    "angle": "A party that won back-to-back majority governments just got shut out entirely \u2014 zero seats, no leader. It's a political collapse story people love to dissect: how does a dominant government fall apart that fast?",
+    "bullets": [
+      " Coalition Avenir Qu\u00e9bec (CAQ) won back-to-back majority governments in Quebec's last two provincial elections.",
+      " How does a party go from a dominant majority to zero seats and no leader in one election cycle?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/montreal/caq-election-results-next-steps-quebec-parti-quebecois-9.7375511?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Highway 401 reopens after transport truck incident",
+    "angle": "Highway 401 is the busiest highway in North America, so any shutdown means a brutal commute for thousands - good to flag now that it's cleared.",
+    "bullets": [
+      " Did this one wreck your drive today - call in with your 401 horror story. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "kZpalNsUzdIcjZ2Nll1VVZHVzAxX0FRZ2c?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUHNNWjk3M251bV8tSEc2Q1RJaU16YXlnWXJsdGZxek40eDFZUVpNQ1",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Turkey gravy brand sold in Canada recalled due to undeclared mustard",
+    "angle": "A turkey gravy sold across Canada is being pulled off shelves for an undeclared allergen, and with turkey season basically year-round in Canadian kitchens, this is the kind of recall people actually need to hear before they pour it on dinner.",
+    "bullets": [
+      " A turkey gravy product sold in Canada has been recalled.",
+      " Mustard is one of Canada's priority food allergens, so this isn't just a technicality - it can be a real health risk for allergic shoppers.",
+      " Quick gut check for listeners: go peek in your fridge/pantry before you drown tonight's turkey in gravy from the wrong jar. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "daNGNDQ3d4dGlaQnRPYTY5Mmp5alN1aHptekJSUkZiMkVyVHBDVERaTlRhNXg1WTREZHln?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ1lmbmJUaE0zTE1aZklWQk9rTVFLdzNGVzJyTUtTRzlmM3dCc2JVZkhv",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018SNL\u2019: Shane Gillis Shares \u201cGas Station Egg\u201d Nickname From Joe Rogan, Pete Hegseth Celebrates USS Lincoln San Diego Homecoming - The Hollywood Reporter",
+    "angle": "Gillis hosted SNL for the third time and let a Joe Rogan/Theo Von podcast insult go viral on network TV - that's the kind of crossover moment that gets comedy nerds and casual viewers both talking.",
+    "bullets": [
+      " Shane Gillis hosted SNL for the third time",
+      " Joe Rogan and Theo Von gave Gillis a new nickname: \"gas station egg\"",
+      " Rosal\u00eda served as musical guest for the second time",
+      " What's the worst nickname a friend has ever stuck you with? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/tv/tv-news/snl-pete-hegseth-lincoln-homecoming-san-diego-shane-gillis-1236727048/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Dan Levy Calls Out Shane Gillis\u2019 \u2018SNL\u2019 Monologue and Says \u2018More Men Need to Be Standing Up\u2019: \u2018Speechless That Something Like That Can Exist on Live National Television\u2019",
+    "angle": "A beloved, famously nice-guy actor publicly dragging a comedy heavyweight over an SNL monologue is exactly the kind of celebrity-vs-celebrity friction that gets social media picking sides fast.",
+    "bullets": [
+      " Dan Levy called out Shane Gillis' recent SNL monologue directly.",
+      " Levy says he's \"speechless\" that the bit was allowed on live national television.",
+      " He argued \"more men need to be standing up\" in response to it.",
+      " Is Dan Levy right to call this out publicly, or should he have let it go?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/dan-levy-slams-shane-gillis-snl-monologue-more-men-stand-up-1236908799/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Michael Douglas says he sold almost 200 pounds of weed to pay for his college tuition",
+    "angle": "A Hollywood legend just casually dropped a drug-dealer origin story about his own college years \u2014 the kind of confession that instantly makes hosts ask \"wait, WHAT did you do to pay tuition?\"",
+    "bullets": [
+      " Michael Douglas claims he sold almost 200 pounds of weed to cover his college tuition.",
+      " What's the craziest thing YOU did to pay for school \u2014 call in, we want the real stories."
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ew.com/michael-douglas-sold-almost-200-pounds-of-weed-to-pay-for-college-tuition-12160497",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Hayley Williams: \u201cPlease fucking vote in November. Fuck all these people, these fucking MAGA pieces of shit, KKK look different and they will not win. Until I see you again, take care of you, and take care of each other.\u201d",
+    "angle": "Paramore's Hayley Williams went full unfiltered on stage or online, telling fans to vote and ripping into MAGA supporters with a KKK comparison - it's blowing up on r/fauxmoi and it's the kind of celebrity-politics moment that instantly splits a room.",
+    "bullets": [
+      " Hayley Williams: \"Please f***ing vote in November.\"",
+      " She didn't mince words, calling out \"these f*ing MAGA pieces of s*\" by name.",
+      " She closed it with a softer note - \"take care of you, and take care of each other.\"",
+      " When a rock star goes nuclear on politics mid-show, does it fire up the fanbase or just torch half of it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/0hw4urjzevuh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Mayor Mamdani's ad on how New Yorkers can file a complaint if companies don't let you cancel a subscription with one click",
+    "angle": "Everyone has a streaming or gym subscription they couldn't quit without a fight, so a mayor making an ad about it is instant relatable material and a little bit funny coming from a politician.",
+    "bullets": [
+      " Mayor Mamdani put out an ad aimed at New Yorkers stuck in subscription traps",
+      " It's going after the classic \"easy to sign up, nearly impossible to cancel\" business move",
+      " Call in: what's the subscription that took you forever (or a fake phone call) to cancel?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/s31pqkk71xuh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Practical Magic 2\u2019 Comes to Digital, But When Will \u2018Practical Magic 2\u2019 Be Streaming Free on HBO Max?",
+    "angle": "Nearly 30 years after the original, 'Practical Magic 2' is out \u2014 but it just dropped digitally, not on HBO Max, so fans are confused about when they can actually stream it free.",
+    "bullets": [
+      " Practical Magic 2 is now available to buy/rent digitally.",
+      " Fans expecting it on HBO Max right away are left waiting on a streaming date.",
+      " Who's actually re-watching the original before diving into the sequel \u2014 and does this franchise still have the magic?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://decider.com/2026/10/12/practical-magic-2-streaming-release-date-hbo-max-digital/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "John Stamos gives heartbreaking update on Beach Boys singer Mike Love\u2019s \u2018serious\u2019 health issues",
+    "angle": "Beach Boys legend Mike Love is facing serious health problems, and John Stamos' raw, emotional tribute to him is striking a nerve with fans who grew up on both Full House and Good Vibrations.",
+    "bullets": [
+      " John Stamos called Mike Love his \"beloved friend, father figure, musical hero and mentor\"",
+      " Stamos says Love is \"facing serious health challenges\"",
+      " Mike Love is a founding member and longtime lead singer of The Beach Boys",
+      " Who's the mentor figure in your life you'd want to publicly thank like Stamos just did?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/12/celebrity-news/john-stamos-gives-heartbreaking-update-on-beach-boys-singer-mike-loves-serious-he",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Rosal\u00eda Performs an Entire Number En Pointe on \u2018SNL,\u2019 Then Cools Off With a Nice Shower - Variety",
+    "angle": "Rosal\u00eda turned her SNL musical slot into a performance-art moment, standing en pointe through one song before a rain-drenched finale on the next \u2014 it's the kind of bold, divisive TV moment that gets people talking the next morning.",
+    "bullets": [
+      " Rosal\u00eda performed 'Reliquia' on SNL while standing completely still \u2014 en pointe the entire time",
+      " She followed it up with a rain-drenched performance of 'Magnolias'"
+    ],
+    "debate": "Genius artistic statement or just a gimmick \u2014 what did you think of Rosal\u00eda's SNL stunt?",
+    "source": "",
+    "url": "https://variety.com/2026/music/news/rosalia-snl-en-pointe-performance-reliquia-magnolias-1236907983/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Netflix Has Used AI on About 300 Titles, but \u201cHuman Touch Is Critical,\u201d Exec Says in Busan - The Hollywood Reporter",
+    "angle": "Netflix execs just confirmed AI has quietly touched roughly 300 titles already \u2014 this is the Hollywood AI debate moving from hypothetical to 'it's already happening to stuff you've watched.'",
+    "bullets": [
+      " Netflix's Asia-Pacific production chief Sung Q Lee revealed AI has been used in some capacity on about 300 titles",
+      " 'The Outlaws' director Kang Yun-sung and WItI FX's Kimball Thurston joined the panel on AI's creative limits",
+      " Execs stressed AI is for savings and tools, but 'human touch is critical' to the final product",
+      " 300 Netflix titles already used AI without you noticing \u2014 does that freak you out, or do you not care as long as the show's good? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/business/business-news/netflix-ai-300-titles-busan-film-fest-1236727138/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018RuPaul\u2019s Drag Race UK All Stars\u2019 Will Still Be Produced In Britain Once Show Leaves BBC",
+    "angle": "BBC pulled the plug on 'RuPaul's Drag Race UK,' but the All Stars spinoff isn't packing up and moving overseas \u2014 it's staying British, just under a new streaming roof. Great excuse to talk about the show's wild run and what losing the BBC actually means.",
+    "bullets": [
+      " BBC has dropped RuPaul's Drag Race UK",
+      " RuPaul's Drag Race UK All Stars launches next fall",
+      " Production is staying local in the UK rather than moving international",
+      " Why do you think BBC walked away from a hit like Drag Race UK \u2014 budget, or did the show just run its course for them? deadline.com (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://deadline.com/2026/10/rupauls-drag-race-uk-all-stars-production-stays-uk-1237150933/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Brooklyn store Art of Play defends viral \u2018misunderstanding\u2019 with Kelly Clarkson after being branded a \u2018liar\u2019",
+    "angle": "A pop star going scorched-earth on a small curiosity shop over X is exactly the kind of mismatched-fight drama that blows up online fast, and everyone loves picking a side.",
+    "bullets": [
+      " Kelly Clarkson tore into the shop, calling it \"rude\" and \"condescending\" in a statement posted over the weekend.",
+      " Things escalated online after the shop got branded a \"liar\" mid-feud.",
+      " Whose side are you on \u2014 the pop star or the little Brooklyn shop she just dragged online?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/12/celebrity-news/brooklyn-store-art-of-play-defends-viral-misunderstanding-with-kelly-clarkson/",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "The Major Social Media Platforms Are All Rejecting Paid Ads for Alex Gibney's 'Musk' (Exclusive) | YouTube, TikTok and Meta have all turned down the trailer for the Oct. 9 doc, citing \"political\" content. X won't even take Bleecker Street's calls. The distributor is appealing.",
+    "angle": "YouTube, TikTok, Meta, and X all turned down paid ads for a new Alex Gibney documentary on Elon Musk - and X, which Musk owns, reportedly won't even take the distributor's calls. It's a juicy irony play on platform power, censorship, and whether tech billionaires protect their own image.",
+    "bullets": [
+      " YouTube, TikTok, and Meta all rejected paid ads for the trailer, citing \"political\" content.",
+      " X - the platform Elon Musk himself owns - won't even return calls from distributor Bleecker Street.",
+      " Bleecker Street says it's appealing the ad rejections.",
+      " Every major platform is refusing to promote a documentary about the world's richest man - including the one he owns himself."
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.hollywoodreporter.com/business/digital/elon-musk-documentary-trailer-rejected-tiktok-youtube-1236710259",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Hurricane Simon hits Mexico's Pacific coast, slamming towns and resorts",
+    "angle": "A massive Category 4 hurricane is tearing through Mexico's Pacific resort coast right now - prime real estate for snowbirds and spring-break trips - which makes this way more than a weather footnote for a North American audience.",
+    "bullets": [
+      " Hurricane Simon slammed into Mexico's Pacific coast as a Category 4 storm on Sunday",
+      " Communities wedged between the Sierra Madre mountains and the ocean took the worst of it",
+      " Tourist towns and resorts along the coast were directly in the storm's path",
+      " Anyone got a trip booked to that stretch of coast right now - should people be rethinking Mexico vacations this time of year?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/hurricane-simon-mexico-9.7377641?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Five marriage mistakes couples make without realizing it \u2014 and how to avoid them - New York Post",
+    "angle": "New research says it's not chemistry that makes or breaks a marriage, it's the small, invisible habits couples fall into \u2014 this is prime fodder for hosts to self-diagnose live on air.",
+    "bullets": [
+      " Study published in the journal Family Process links small communication tweaks to longer-lasting marriages.",
+      " Researchers found couples often repeat the same relationship mistakes without realizing it.",
+      " Experts say the fix isn't a big grand gesture \u2014 it's correcting everyday communication habits.",
+      " Which marriage mistake are YOU guilty of \u2014 call in and confess. Fox News (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.foxnews.com/lifestyle/marriage-mistakes-couples-make-without-realizing-how-avoid-them",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Meet Jonathan Thai, the 17-year-old from Alpharetta, Georgia whose nonprofit raised $30,000, donated 400 bikes and taught 350 children to ride",
+    "angle": "A 17-year-old turned a side project into a real nonprofit, and the numbers are the kind that make you feel good about Gen Z again \u2014 this is pure feel-good counterprogramming to the usual headlines.",
+    "bullets": [
+      " Jonathan Thai is only 17 years old and runs his own nonprofit out of Alpharetta, Georgia",
+      " His organization has raised $30,000 so far",
+      " Donated 400 bikes to kids in the community",
+      " Personally helped teach 350 children how to ride a bike",
+      " Call in: who taught YOU to ride a bike, and do you remember the moment it finally clicked?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://timesofindia.indiatimes.com/world/us/meet-jonathan-thai-the-17-year-old-from-alpharetta-georgia-whose-nonprofit-raised-3000",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Couple who have fostered 13 children say their greatest reward is hearing them call it \u201chome\u201d.",
+    "angle": "Couple who have fostered 13 children say their greatest reward is hearing them call it \u201chome\u201d.",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bbc.co.uk/news/articles/c64gvn1jl0ypo",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Gas cars fall below 50% of global new car sales for the first time",
+    "angle": "For the first time ever, gas-only cars have dropped below half of all new car sales on the planet \u2014 a quiet tipping point that says the EV shift isn't some far-off future anymore, it's actually happening.",
+    "bullets": [
+      " Ask the room: are you actually ready to buy electric, or still team gas-powered?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://electrek.co/2026/10/05/gas-cars-fall-below-50-percent-global-new-car-sales/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Chicago billionaire accused of fueling Lincoln Park rat problem",
+    "angle": "A Lincoln Park billionaire is reportedly getting pointed at as a reason the neighborhood's rat population is exploding \u2014 the kind of absurd, only-in-Chicago story that writes its own punchline.",
+    "bullets": [
+      " A Chicago billionaire is being accused of fueling a worsening rat problem in the Lincoln Park neighborhood.",
+      " So who's really to blame when a fancy neighborhood gets overrun with rats \u2014 the billionaire, the city, or just Chicago being Chicago?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.axios.com/local/chicago/2026/10/07/lincoln-park-billionaire-accused-of-fueling-rat-infestation",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Orphaned kittens meet sharks and stingrays on an aquarium field trip at the Mall of America",
+    "angle": "A batch of orphaned kittens touring an aquarium to stare down sharks and stingrays is exactly the kind of absurd, wholesome image the internet can't scroll past - pure feel-good chaos for a Monday.",
+    "bullets": [
+      " Story's blowing up on r/nottheonion for how weirdly specific and adorable it is",
+      " Which would freak YOU out more as a kitten - the shark tank or the mall crowds?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/rescue-kittens-video-mall-of-america-aquarium-4380dd682bbdd2033bbc437e613b233c",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "US military-backed cargo pod promises 90-minute orbital delivery anywhere on Earth, 10-ton Ghost vehicle gets first real-world test \u2014 Sierra Space drops radio and whiskey from 68,500 feet to test StarCraft-like supply drops",
+    "angle": "A real, military-backed cargo pod just proved it can skydive from the edge of space and deliver goods anywhere on Earth in 90 minutes \u2014 and they tested it by dropping a radio and a bottle of whiskey from 68,500 feet. It's half sci-fi breakthrough, half viral stunt, which is exactly why it's blowing up online.",
+    "bullets": [
+      " Sierra Space ran the real-world test of its Ghost cargo vehicle \u2014 a 10-ton pod designed for rapid global delivery.",
+      " Test cargo included a radio and a bottle of whiskey, straight out of a video-game-style supply drop.",
+      " If you could get ANYTHING delivered from orbit in 90 minutes, what are you ordering? ON-AIR BIT BREAKDOWN - Step 1: The Orbital Order - Quick 60-second callout bit -> Each host names one ridiculous thing they'd want dropped from space in 90 minutes, then open the phones/socials for listeners' picks. - Step 2: Whiskey or Radio? - 30-second debate -> Hosts argue which test item (the radio or the whiskey) they'd rather have survive the fall, and why."
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/space/u-s-military-backed-cargo-pod-promises-90-minute-orbital-delivery-anywhere-on-",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "AI coding agents generate more code, but not more software",
+    "angle": "Every tech company is bragging about AI writing their code now, but this story pokes a hole in the hype - more code isn't the same as more finished software. It's the perfect 'is AI actually working or just looking busy' debate.",
+    "bullets": [
+      " Is AI actually making workers more productive, or just generating more stuff to clean up later?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Artificial review: Andrew Garfield gave me chills in the scariest film of the year #####",
+    "angle": "A five-star horror review is a rare thing, and when it's Andrew Garfield headlining the scariest movie of the year, that's a pop culture watercooler moment waiting to happen.",
+    "bullets": [
+      " A critic gave it a full ##### rating",
+      " It's being called the scariest film of the year so far",
+      " Is Andrew Garfield secretly one of the best horror leading men working right now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.telegraph.co.uk/films/2026/10/11/artificial-review-andrew-garfield/?WT.mc_id=tmgoff_reddit&accesscontrol=facebookcha",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-12",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Charli XCX: \u201cI would not be the artist I am without the queer community. When the rest of the music industry didn't really get or understand my vision, the queer community did, and they uplifted me and made me feel comfortable in who I am, not only as an artist, but a person.",
+    "angle": "Charli XCX is getting real about who actually built her career \u2014 not the industry, the queer community \u2014 while using her platform to push back on HIV-prevention stigma. It's a genuine, unguarded moment from a pop star usually known for being the life of the party.",
+    "bullets": [
+      " Charli XCX says: \"I would not be the artist I am without the queer community.\"",
+      " She credits queer fans for embracing her when \"the rest of the music industry didn't really get or understand\" her vision.",
+      " She's tying the comments to an event aimed at destigmatizing HIV prevention, calling it \"a really important event to continue to amplify the cause.\"",
+      " Her bigger point: \"Looking after your sexual health is just such a normal thing to want to do, and there's still so much shame around that conversation.\"",
+      " Ask listeners: who's the one fanbase or community that made YOU feel like yourself first?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1x3rnuz",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-10-11",
     "slot": "pm",
     "category": "THE LIST",
