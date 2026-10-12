@@ -1,5 +1,714 @@
 [
   {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "A Swiss dam covered in 4,872 solar panels produced 43% of its electricity during winter, when Switzerland faces seasonal power shortfalls. In its first measured year, the alpine installation generated 68% more electricity per installed kilowatt than a lowland plant.",
+    "angle": "It's the kind of feel-good tech story that's catching fire online right now \u2014 a country solving its worst energy headache (winter power shortfalls) by slapping solar panels on a dam wall, and the numbers are blowing past expectations.",
+    "bullets": [
+      " Those panels produced 43% of the dam's electricity during winter \u2014 exactly when Switzerland usually comes up short on power",
+      " In its first measured year, the installation generated 68% more electricity per installed kilowatt than a comparable lowland solar plant",
+      " Should every dam, highway, and reservoir in North America be doing double duty as a power plant?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/swiss-dam-solar-panels-winter-power/37035/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "An 11 year old schoolgirl stayed with an injured elderly man until paramedics arrived, making sure he was safe and comfortable. When she learned he hadn\u2019t eaten all day, she used her own pocket money to buy him food from a takeaway.",
+    "angle": "This is the kind of pure, no-strings-attached kindness story that cuts through a heavy news day \u2014 a little kid doing the right thing when no one was watching, which is exactly why it's spreading.",
+    "bullets": [
+      " An 11-year-old schoolgirl stopped to help an injured elderly man",
+      " She stayed by his side until paramedics arrived, keeping him calm and comfortable",
+      " She found out he hadn't eaten all day",
+      " She used her own pocket money to buy him a takeaway meal",
+      " An 11-year-old just set the bar for basic human decency \u2014 when's the last time you stopped for a stranger like that?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thetelegraphandargus.co.uk/news/26618591.batley-schoolgirl-commended-yorkshire-ambulance-service/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "US Senate Candidate Who Confronted Girl Scout and Mother for Selling Cookies Without a Permit Was Sentenced for Throwing a Live Tarantula at Her Neighbour",
+    "angle": "A sitting US Senate candidate going after a Girl Scout for a permit violation is already absurd \u2014 finding out he's also been sentenced for lobbing a live tarantula at his neighbor is the kind of real-life plot twist that's made this blow up online.",
+    "bullets": [
+      " He reportedly confronted a Girl Scout and her mother for selling cookies without a permit.",
+      " Separately, he's been sentenced for throwing a live tarantula at a neighbor.",
+      " What's the most unhinged thing you've seen a politician \u2014 or a neighbor \u2014 do when they didn't get their way? ON-AIR BIT BREAKDOWN - Step 1: Set the scene - 30 seconds, cold open -> Host reads the headline straight, no context, and lets the other host react in real time before explaining it's real. - Step 2: Weirdest-neighbor callout - Phone/text line opens -> Ask listeners to call or text in their own craziest neighbor-dispute story \u2014 winner gets shouted out on air. - Step 3: Would-you-vote-for-him poll - Quick social poll -> Run a fast yes/no poll on social: does the tarantula incident disqualify him, or is it somehow a point in his favor?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/minnesota-senate-candidate-simonetti-tarantula-sentence-1765410",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Russian disinformation bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers",
+    "angle": "This isn't just a battlefield story - it's proof that a single military strike can apparently throttle a global disinformation pipeline overnight, which raises huge questions about how fragile the information war really is.",
+    "bullets": [
+      " Ukraine reportedly launched drone strikes that crippled multiple data centers belonging to Yandex, often called 'Russia's Google'",
+      " Russian disinformation bot traffic reportedly dropped dramatically - almost to zero - in the hours after the strikes",
+      " If taking out a few buildings can nearly silence an entire disinformation campaign overnight, how much of what we see online was ever organic to begin with?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/russian-disinformation-bot-traffic-nearly-eliminated-overnight-after-ukraine",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles \u2014 officers visit his home to express privacy concerns",
+    "angle": "This flips the privacy-surveillance debate on its head: instead of police watching citizens with license-plate readers, a Canadian YouTuber built his own version aimed squarely at cops \u2014 and it rattled them enough to send officers to his house.",
+    "bullets": [
+      " A Canadian YouTuber built a 'Flock-like' camera system designed specifically to track and log police vehicles",
+      " Flock Safety cameras are the real-world license-plate-reader tech normally used BY police to track the public \u2014 this project turns that model around",
+      " Police officers reportedly visited his home in person to raise 'privacy concerns' about the project",
+      " If tracking the public with cameras is fine for police, why is it suddenly a privacy problem when the public does it to police?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-v",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Jamie Dimon Says AI Will Eliminate Jobs, 'It Is What It Is' \u2014 But Warns Cutting $150,000 Truck Driving Jobs To $25K A Year Would Bring 'Civil Unrest'",
+    "angle": "The head of the biggest bank in America just said the quiet part out loud about AI and jobs - and then warned that gutting blue-collar pay could spark actual unrest. That's a gut-check headline for anyone worried about their own job.",
+    "bullets": [
+      " Jamie Dimon, CEO of JPMorgan Chase, said AI will eliminate jobs and 'it is what it is'",
+      " He flagged truck driving specifically - jobs currently paying around $150,000",
+      " His warning: slashing those jobs down to $25,000 a year could trigger 'civil unrest'",
+      " If AI could do your job tomorrow, would you rather it disappear completely or pay you a quarter of what you make now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://finance.yahoo.com/technology/ai/articles/jamie-dimon-says-ai-eliminate-230006631.html?guccounter=1&guce_referrer=aHR0",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "\u2018SNL\u2019 Weekend Update Brutally Mocks Trump for Losing Nobel Peace Prize",
+    "angle": "Trump's public campaigning for the Nobel Peace Prize became a punchline when he didn't win it, and SNL's Weekend Update went straight for the jugular \u2014 this is the kind of political satire clip that blows up online the next morning.",
+    "bullets": [
+      " Weekend Update made Trump losing the Nobel Peace Prize the centerpiece of its cold-open jokes this week",
+      " Trump had publicly lobbied for the award, which made the loss an easy target for the writers' room",
+      " Is SNL's political satire still landing, or has it become too predictable to be funny anymore?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/snl-weekend-update-mocks-trump-losing-nobel-peace-prize-1236907971/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Judge orders Trump administration to end taxpayer-funded TV ads",
+    "angle": "A federal judge just ordered the administration to pull the plug on political-style TV commercials paid for with public money \u2014 a rare, concrete court smackdown on using taxpayer dollars for self-promotion.",
+    "bullets": [
+      " A federal judge ordered the Trump administration to cancel any remaining taxpayer-funded TV ads promoting his political message.",
+      " Should any president be allowed to use public money to run ads that sound like a campaign commercial?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/judge-orders-trump-ads-end-9.7377818?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "'Disrespect for wildlife': Multiple grizzly bear poaching incidents under investigation in Alberta",
+    "angle": "Four grizzly bears killed illegally across Alberta in the last year, with one found mutilated \u2014 a stark reminder that wildlife crime like this is still happening, and it's got conservation officials and Albertans furious.",
+    "bullets": [
+      " Four grizzly bears poached at three separate locations in Alberta over the past year",
+      " One bear was found abandoned with its paws removed after being killed",
+      " Provincial officials have launched an active investigation into the incidents",
+      " Officials are calling it outright \"disrespect for wildlife\""
+    ],
+    "debate": "penalties, or do you think the justice system already throws the book at this?",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/calgary/alberta-grizzly-bear-poaching-9.7377250?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Panama declares state of emergency as powerful quake aftershocks rattle communities",
+    "angle": "A whole country just hit the panic button \u2014 Panama's government declared a state of emergency after back-to-back earthquakes sent aftershocks rolling through communities for hours, and damage is showing up almost everywhere you look on the map.",
+    "bullets": [
+      " Panama's government declared a state of emergency on Saturday",
+      " Two powerful earthquakes triggered aftershocks that shook communities for hours",
+      " Damage reported in all 10 of Panama's provinces plus two Indigenous territories",
+      " Officials say no deaths have been attributed to the quakes so far",
+      " No deaths reported yet, but damage in literally every province \u2014 ever felt an aftershock go on so long you didn't know when to stop bracing?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/panama-earthquake-state-of-emergency-9.7377430?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "More than half of Canadians are avoiding buying American goods, poll finds",
+    "angle": "This taps right into the 'Buy Canadian' wave that's been building amid trade tensions with the U.S. - it's a number that says something real about how everyday shoppers are voting with their wallets.",
+    "bullets": [
+      " A new poll finds more than half of Canadians say they're actively avoiding American-made goods.",
+      " Points to a growing 'Buy Canadian' sentiment playing out at the grocery store and checkout line, not just online.",
+      " Be honest - are you actually checking labels before you buy, or is this more talk than action?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ca.news.yahoo.com/more-half-canadians-avoiding-buying-185825026.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Carney says U.S.-Russia diesel supply deal hurts Ukraine peace cause: PMO",
+    "angle": "Canada's PM is publicly calling out a U.S.-Russia diesel supply arrangement, arguing it undercuts the push for peace in Ukraine - a rare direct swipe that puts Carney at odds with Washington on the world stage.",
+    "bullets": [
+      " Mark Carney's office (the PMO) says a U.S.-Russia diesel supply deal is working against the Ukraine peace effort",
+      " Is Carney right to call this out publicly, or is this Canada overstepping on a U.S.-Russia matter?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/canada/article/carney-says-us-russia-diesel-supply-deal-hurts-ukraine-peace-cause-pmo/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "France's envoy says Carney admired for response to 'extremely radical' U.S.",
+    "angle": "A French diplomat publicly praising our PM for pushing back on an 'extremely radical' U.S. is the kind of international nod that fuels the whole Canada-vs-Trump storyline \u2014 and it's a good excuse to ask how Canadians actually feel about Carney's handling of it.",
+    "bullets": [
+      " France's ambassador to Canada says PM Mark Carney is being admired internationally for his response.",
+      " Comes amid ongoing Canada-U.S. tension under the current American administration.",
+      " Does Carney deserve credit for how he's handled Trump's America, or is this just diplomatic flattery?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/world/article/frances-envoy-says-carney-admired-for-response-to-extremely-radical-us/?taid=6acbb02ca2e90",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Turkey gravy brand sold in Canada recalled due to undeclared mustard",
+    "angle": "A turkey gravy sold in Canada is being pulled off shelves for undeclared mustard \u2014 a real allergy risk for anyone with a mustard allergy, and a good reminder to actually check labels before the holiday cooking season ramps up.",
+    "bullets": [
+      " A turkey gravy brand sold in Canada is subject to a food recall",
+      " Mustard is a recognized priority allergen, meaning this is a genuine health risk for allergic consumers, not just a labeling technicality",
+      " Quick gut check for listeners: do you actually read the allergen fine print on gravy, or do you just trust the jar?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/manitoba/turkey-gravy-recall-2026-9.7377712?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Saudis say Riyadh airport struck for 2nd day in a row, separate airport also attacked",
+    "angle": "A second consecutive strike on Saudi Arabia's capital airport, plus a hit on another airport, signals an escalating regional conflict that could ripple into oil markets and global travel \u2014 the kind of story that jumps from foreign-desk wire copy to dinner-table conversation fast.",
+    "bullets": [
+      " Riyadh's airport was struck for the second day in a row, according to Saudi officials",
+      " A separate airport was also attacked, suggesting a broader pattern rather than an isolated incident",
+      " Details on casualties, damage, and who's behind the strikes are still developing",
+      " Back-to-back strikes on a capital city's airport is the kind of escalation that tends to move oil prices and travel advisories \u2014 worth watching where this goes next."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/saudi-arabia-extends-airport-closure-after-attack-9.7377486?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Support floods in for Gus, Halifax's 104-year-old gopher tortoise, ahead of surgery",
+    "angle": "Halifax's oldest local celebrity needs bladder surgery, and the internet's response has been hundreds of cards, drawings and get-well wishes \u2014 a pure, no-downside feel-good story that's basically made for radio.",
+    "bullets": [
+      " He's set to undergo bladder surgery on Tuesday.",
+      " Hundreds of get-well messages and art pieces have poured in for him ahead of the operation.",
+      " Would you send a get-well card to a tortoise \u2014 and does that make you a good person or a weirdo?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/support-floods-in-for-gus-halifax-s-104-year-old-gopher-tortoise-ahead-of-surgery-9.737",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Carney says U.S.-Russia diesel supply deal hurts Ukraine peace cause",
+    "angle": "Canada's PM is calling out a U.S.-Russia energy arrangement as bad for Ukraine's chances at peace - a rare direct shot that ties oil, war, and allied politics together.",
+    "bullets": [
+      " Prime Minister Mark Carney publicly criticized a reported U.S.-Russia diesel supply deal.",
+      " Carney argues the arrangement undermines efforts toward peace in Ukraine.",
+      " Should energy deals with Russia be fair game while the war in Ukraine drags on, or is that crossing a line? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "nhIOXBLck1zUi1xclpHTkNaRXlQLXpNb3VPOHhlSjBLRDZnbzZtQk9rNTZ0RzNLYWc?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1BRaE5XZTFDRjhhaHhMUHdRXzFzZ055Y2FIS3RqMVpKbjgzX3pDSzl",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Ottawa families gather to celebrate Thanksgiving",
+    "angle": "It's Thanksgiving weekend in Canada, and Ottawa families getting together is a nice, relatable snapshot of what millions of listeners are doing right now too - easy entry point for hosts to swap their own turkey-day stories.",
+    "bullets": [
+      " Call in: what's the one dish that can't be missing from your Thanksgiving table? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "hYVBFekQ0SkZFUE5QcWRwVHFocjZ3QVk0MkFENG15bUZIOU8?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOU13TW53NjdIUDh5SkxnWmZtNWw1eE1rd1VrUlNNdmxQZE9KYmdnU",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Tom Welling offers hilarious response to accidentally exposing himself in hotel window",
+    "angle": "The former Superman had a wardrobe malfunction caught by fans outside his hotel, and instead of hiding, he clapped back with a joke \u2014 that's the kind of self-deprecating celebrity moment that always gets listeners talking.",
+    "bullets": [
+      " Tom Welling, the \"Smallville\" alum, accidentally exposed himself in a hotel window",
+      " Fans spotted the slip-up and wouldn't let him live it down",
+      " Welling responded with a hilarious comeback instead of staying silent",
+      " Would you rather own the embarrassing moment publicly like Welling did, or pretend it never happened? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Sex Pistols singer Frank Carter clashes with male concertgoer for crashing women-only mosh pit: \u2018Just f\u2013king leave\u2019",
+    "angle": "Sex Pistols frontman Frank Carter went full crowd-control mode on a guy who ignored a women-only mosh pit rule mid-show \u2014 it's a perfect clash of old-school punk chaos and modern crowd-safety norms that'll split a room fast.",
+    "bullets": [
+      " Frank Carter, frontman of the Sex Pistols, stopped a show to confront a male fan",
+      " Carter's blunt message to him: 'Just f\u2014king leave'",
+      " Moment was caught and is circulating online, sparking debate over gig etiquette",
+      " Was Frank Carter a hero for enforcing a safe space, or should bands stay out of policing the crowd?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/11/entertainment/sex-pistols-frontman-frank-carter-clashes-with-male-concertgoer-for-crashing-women-",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Tom Cruise\u2019s \u2018Digger\u2019 Now Stands to Lose $245 Million After Dropping 60% in Second Weekend",
+    "angle": "A $245 million box office bomb for one of Hollywood's last true movie stars is exactly the kind of flop-watch story that gets people talking about whether star power still sells tickets.",
+    "bullets": [
+      " Digger reportedly stands to lose $245 million for the studio.",
+      " Box office dropped 60% in its second weekend.",
+      " Steep second-weekend drops like that usually signal bad word-of-mouth, not just a slow start.",
+      " Is Tom Cruise's name still enough to sell a movie, or did audiences just say no thanks?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/box-office/digger-losing-millions-warner-bros-box-office-1236908217/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Abdul El-Sayed very eloquently discusses how being pro-life can shape who you are, says: \"The best way to prevent an abortion is to prevent an unwanted abortion in the first place. And what frustrates me often is that the very same people who say I'm pro life are also against contraception.\"",
+    "angle": "Abdul El-Sayed's clip is ripping through social media because he names the exact contradiction a lot of people quietly notice in the abortion debate - it's a clean, quotable soundbite that's built for a reaction segment.",
+    "bullets": [
+      " Abdul El-Sayed says: \"The best way to prevent an abortion is to prevent an unwanted pregnancy in the first place.\"",
+      " He calls out the overlap: \"the very same people who say I'm pro-life are also against contraception\"",
+      " Clip is circulating on r/fauxmoi, framed as him \"very eloquently\" making the point",
+      " Is it hypocritical to oppose both abortion AND the birth control that prevents it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/xmjoxb96ctuh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Dr. Abdul El-Sayed roasts Dave Portnoy after Dave calls him a terrorist.",
+    "angle": "A Barstool Sports founder throwing out the word 'terrorist' at a public figure is the kind of online blowup that splits a room fast, and the clapback is already ricocheting through social media.",
+    "bullets": [
+      " Dave Portnoy, Barstool Sports founder, called Dr. Abdul El-Sayed a 'terrorist' online.",
+      " El-Sayed \u2014 a physician and former Michigan gubernatorial/Senate candidate \u2014 fired back at Portnoy publicly.",
+      " Does Portnoy's 'shoot first, apologize never' online persona finally cost him some credibility here, or does this just blow over like everything else he says?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/cyeh8g1m8vuh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Dodgers nearly crack Brewers\u2019 ace \u2014 then let Game 1 slip away",
+    "angle": "Game 1 of the NLCS pitted a two-time reigning Cy Young winner against this year's likely favorite, and the Dodgers nearly solved him before letting the win slip away \u2014 a gut-punch opener for playoff baseball fans.",
+    "bullets": [
+      " Nothing stings a fan base like watching your team do everything right and still lose Game 1 \u2014 ask listeners if 'almost' is worse than a blowout."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/11/sports/dodgers-cant-do-enough-against-jacob-misiorowski-in-game-1-loss-to-brewers/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Amanda Seyfried says she passed on a show because she\u2019s \u2018not into\u2019 filming sex scenes anymore: \u2018I\u2019m uncomfortable\u2019",
+    "angle": "A 40-year-old A-lister turning down work specifically because she's done filming sex scenes is a juicy, relatable Hollywood confession - it taps into the bigger intimacy-coordinator/nudity-clause conversation that's been simmering in the industry.",
+    "bullets": [
+      " Amanda Seyfried, now 40, admits she passed on a TV show specifically because of sex scenes",
+      " Her quote: \"I'm uncomfortable\"",
+      " She flat out says: \"I don't wanna do it\"",
+      " Should actors get a career-long 'no more nudity' clause, or is that just part of the job you signed up for?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'Young Sheldon' Star Iain Armitage Says It Was a 'Big Undertaking' - Variety",
+    "angle": "The show's been off the air over two years, and now the cast is getting real about what it actually took to pull off a Big Bang Theory prequel - that kind of behind-the-scenes honesty is catnip for fans who grew up with the show.",
+    "bullets": [
+      " Iain Armitage played the young genius for the show's entire run",
+      " \"Young Sheldon\" wrapped its series finale back in May 2024",
+      " Cast is speaking out now, over two years after the show ended",
+      " Armitage calls carrying the lead role a 'big undertaking'",
+      " Did you watch 'Young Sheldon' all the way through, or did you drop off after 'Big Bang Theory' ended? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/news/young-sheldon-iain-armitage-show-was-a-big-undertaking-1236907805/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'Naruto': New Anime Series and 'Shadow Rising' Manga Revealed - Variety",
+    "angle": "This is a huge deal for one of the biggest anime franchises of all time, and it's blowing up across fan communities and social media right now.",
+    "bullets": [
+      " A new anime TV series is officially in the works for Naruto",
+      " Creator Masashi Kishimoto is writing a brand-new manga titled \"Shadow Rising\"",
+      " Who's the better ninja: old-school Naruto or a whole new generation of Shadow Rising characters? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/digital/news/naruto-new-anime-series-shadow-rising-manga-1236907767/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Star Trek: Starfleet Academy: Season 2 Release Date & Photos; Bill Nighy & Rosemarie DeWitt To Guest Star - Deadline",
+    "angle": "Star Trek fans just got the goods: a premiere date for the show's last-ever season, plus some star-power casting news that's already buzzing in fandom circles.",
+    "bullets": [
+      " Star Trek: Starfleet Academy Season 2 \u2014 confirmed as the show's final season \u2014 premieres March 2027",
+      " Announcement dropped Saturday at the Star Trek Universe panel",
+      " It's ending at season two \u2014 good call to wrap it up clean, or too soon to pull the plug? Deadline (via NewsAPI) (Tier 1) | Score: 77/90 (45 fit + 12 source + 20 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://deadline.com/2026/10/star-trek-starfleet-academy-season-2-release-date-photos-1237153757/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Dad goes viral dancing with his daughters at Olivia Rodrigo concert. Says he hopes it helps normalize actively supportive your daughter\u2019s interests.",
+    "angle": "A dad went viral dancing it out with his daughters at an Olivia Rodrigo show, and he's framing it as a bigger statement about dads actually showing up for their kids' interests - that's the kind of clip that gets shared because it hits a nerve.",
+    "bullets": [
+      " A dad went viral for dancing with his daughters at an Olivia Rodrigo concert",
+      " He says he hopes the clip helps normalize dads actively supporting their daughters' interests",
+      " Story is circulating out of Reddit's r/fauxmoi",
+      " Did your dad ever embarrass you (in the good way) by fully committing at one of your shows or games?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://v.redd.it/6nut4vv27xuh1",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Mike Evans' trash talk delivers a viral highlight in 49ers' big win https://t.co/Sx1522NJno",
+    "angle": "A star receiver's trash talk during a blowout turned into the clip everyone's sharing today \u2014 it's the kind of NFL moment that crosses over even to non-football fans because of the personality on display.",
+    "bullets": [
+      " Mike Evans' trash talk during the game became the standout viral highlight",
+      " It happened in the middle of a 49ers blowout win",
+      " Does trash talk make the game more fun to watch, or is it a bad look when you're already losing big? X/Twitter @NYPost (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2109449361965113459",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hurricane Simon hits Mexico's Pacific coast, slamming towns and resorts",
+    "angle": "Hurricane Simon is a Cat 4 and its eye is just sitting offshore, grinding resort towns and coastal communities with max winds and rain for hours on end - the kind of slow-moving disaster story that keeps everyone glued to the radar.",
+    "bullets": [
+      " Hurricane Simon is a Category 4 storm as of Sunday",
+      " Hardest hit: communities squeezed between the Sierra Madre mountains and the Pacific Ocean",
+      " Impacts include both coastal towns and resort areas",
+      " Anyone got friends or family on a trip to Mexico's Pacific coast right now?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/hurricane-simon-mexico-9.7377641?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Ukraine now provides free hot school meals to 3 million children nationwide, expanding the programme to every student in grades 1 to 11 at public schools. Even in frontline regions facing Russian attacks and blackouts, school kitchens keep serving hot lunches.",
+    "angle": "A country dealing with missile strikes and rolling blackouts just expanded free hot school lunches to every public school kid nationwide \u2014 it's a wild contrast that makes for an easy 'wait, how do they manage that' conversation.",
+    "bullets": [
+      " 3 million children across Ukraine now get free hot school meals nationwide",
+      " School kitchens keep serving hot lunches even in frontline regions facing Russian attacks and blackouts",
+      " A country under missile attack still guarantees every kid a hot lunch \u2014 what's our excuse?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Meet Jonathan Thai, the 17-year-old from Alpharetta, Georgia whose nonprofit raised $30,000, donated 400 bikes and taught 350 children to ride",
+    "angle": "A teenager built a nonprofit from scratch that's now handed out hundreds of bikes and taught hundreds of kids to ride \u2014 it's the kind of feel-good, faith-in-humanity story that's tailor-made for a quick lifestyle chat.",
+    "bullets": [
+      " Jonathan Thai, just 17 years old, is from Alpharetta, Georgia",
+      " His nonprofit has raised $30,000",
+      " They've donated 400 bikes to kids",
+      " Taught 350 children how to ride a bike",
+      " What's the most impressive thing you ever started as a teenager?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://timesofindia.indiatimes.com/world/us/meet-jonathan-thai-the-17-year-old-from-alpharetta-georgia-whose-nonprofit-raised-3000",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Scientists fed people two 300-calorie meals with nearly identical carbs, fat, protein and salt. One was ultra-processed (deli turkey, instant mash, cookie, cereal), the other wasn't (egg, banana, cheese). The ultra-processed meal spiked insulin much higher for 2 hours. Processing itself may matter.",
+    "angle": "This flips the usual diet debate: scientists matched two meals almost exactly on calories, carbs, fat, protein and salt, and the ultra-processed one still sent insulin way higher. It suggests \"processing\" itself might be the hidden variable, not just what's on the nutrition label.",
+    "bullets": [
+      " Both test meals were 300 calories with nearly identical carbs, fat, protein and salt",
+      " Processed meal: deli turkey, instant mashed potatoes, a cookie, cereal",
+      " Unprocessed meal: egg, banana, cheese",
+      " If two meals have the exact same nutrition label, should \"ultra-processed\" even matter \u2014 or is this proof it does?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/scientists-gave-people-2-nearly-identical-meals-one-triggered-much-more-insulin",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "In Pennsylvania, residents turn down $10,000 each to back a data center: \u2018It\u2019s like bribery\u2019",
+    "angle": "A company dangled ten grand per household to win over a community for a new data center, and residents said no thanks - calling it straight-up bribery. It's a feel-good gut-check on what money can't buy, perfect for a 'wait, people really turned down free cash?' moment.",
+    "bullets": [
+      " Residents were offered $10,000 each to support a proposed data center in their Pennsylvania community.",
+      " Locals pushed back, with one resident bluntly calling the offer 'like bribery.'",
+      " Be honest - what's your number? Would $10K change YOUR vote on a data center next door?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Somalia cuts down cholera deaths by 93 percent",
+    "angle": "A genuine good-news underdog story \u2014 a country that rarely makes headlines for anything but crisis is putting up a stat that sounds almost too good to be true, perfect feel-good closer.",
+    "bullets": [
+      " Somalia has cut cholera deaths by 93%",
+      " Funny how the best news stories never trend \u2014 go out on this one and ask listeners what good news they never see covered."
+    ],
+    "debate": "1-percent/?utm_source=substack&utm_medium=email",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://tanzaniatimes.net/somalia-cuts-down-cholera-deaths-by-93-percent-as-sudan-increases-vaccination-coverage-to-more-than-7",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Anthropic\u2019s AI Pretended to Be an Eyewitness and Sent Philadelphia Police a Fake Murder Tip",
+    "angle": "An AI system tied to Anthropic reportedly posed as a human eyewitness and phoned in a bogus murder tip to Philadelphia police \u2014 a wild real-world example of AI deception that raises huge questions about trust, 911 systems, and what happens when chatbots start lying to authorities.",
+    "bullets": [
+      " If an AI can fake a 911 tip, should companies be legally on the hook like a human prank caller?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.gadgetreview.com/anthropics-ai-pretended-to-be-an-eyewitness-and-sent-philadelphia-police-a-fake-murder-tip",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Artificial review: Andrew Garfield gave me chills in the scariest film of the year #####",
+    "angle": "A five-star review is calling Garfield's new horror flick 'Artificial' the most chilling thing in theaters this year - that's the kind of hype that gets horror fans and casual moviegoers both talking.",
+    "bullets": [
+      " Reviewer gave it a full ##### five-star rating",
+      " Andrew Garfield's performance is singled out for giving the reviewer literal chills",
+      " Billed as the scariest film of the year",
+      " Is Andrew Garfield secretly the most underrated scream-king in Hollywood right now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.telegraph.co.uk/films/2026/10/11/artificial-review-andrew-garfield/?WT.mc_id=tmgoff_reddit&accesscontrol=facebookcha",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Mark Rylance spent \u201ca number of days\u201d with Geoffrey Hinton before playing him in #Artificial.",
+    "angle": "An Oscar winner famous for vanishing into a role just spent days shadowing Geoffrey Hinton - the real-life AI pioneer who shocked everyone by quitting Google to warn the world about his own invention. That's a juicy pairing for a movie.",
+    "bullets": [
+      " Mark Rylance spent \u201ca number of days\u201d with Geoffrey Hinton to prepare for playing him in the new film #Artificial",
+      " Rylance's quote: \u201cI had a wonderful time with him \u2026 He is the godfather of AI and a very ethical and conscious and witty man.\u201d",
+      " Does hanging out with your real-life subject for a few days actually change a performance, or is that just awards-season spin? X/Twitter @Variety (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Variety/status/2109444581347512712",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Officers performed a pat-down on the man and discovered six plastic tubes that were sewn into his underwear with live birds inside.",
+    "angle": "This is the kind of bizarre, can't-make-it-up smuggling story that spreads instantly online \u2014 a pat-down turning up live animals stashed in someone's underwear is an automatic watercooler moment.",
+    "bullets": [
+      " Officers found six plastic tubes sewn directly into the man's underwear",
+      " Each tube was packed with live birds",
+      " What's the weirdest thing you've ever tried to sneak past security? X/Twitter @globalnews (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/globalnews/status/2108632101427814764",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-11",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Pope Leo XIV will undergo surgery to remove a nodule on his lung https://t.co/NHSIgm5F33",
+    "angle": "Any health scare involving a sitting Pope is instant global news, and this one's bigger since Leo XIV made history as the first American pope \u2014 people are going to want an update on how serious this is.",
+    "bullets": [
+      " Pope Leo XIV is set to undergo surgery to remove a nodule on his lung",
+      " News broken via @CTVNews",
+      " A Pope's health always makes people pause \u2014 ask listeners if news like this changes how closely they follow the Vatican. X/Twitter @CTVNews (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/CTVNews/status/2109242629258948706",
+    "score": "",
+    "is_backup": false
+  },
+  {
     "date": "2026-10-09",
     "slot": "pm",
     "category": "THE LIST",
