@@ -3,35 +3,12 @@
     "date": "2026-10-16",
     "slot": "am",
     "category": "THE LIST",
-    "title": "Meghan Markle and Prince Harry Return to Charity with a Surprising Connection to Their Royal Wedding - People.com",
-    "angle": "The Sussexes made a surprise charity stop in Nottingham \u2014 the exact city where they had their very first public outing as a couple back in 2017, right before their wedding. It's a full-circle moment that gives their never-ending royal-drama storyline a genuinely sweet angle.",
-    "bullets": [
-      " Prince Harry and Meghan Markle visited the youth charity Epic Partners in Nottingham on October 15 \u2014 the city where the two had their first-ever joint public engagement back in 2017, before they were even married.",
-      " Meghan became a patron of the charity right after their May 2018 royal wedding, then stepped away from the role in 2019 \u2014 making this her first time reconnecting with the group in years.",
-      " During the visit, Meghan arranged birthday cupcakes and spent time with the kids the organization serves.",
-      " Phone lines: what's the one place from the start of YOUR love story you'd want to go back and revisit? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
-    ],
-    "debate": "VRyM3ZkNWR0R3hkNEYzdHhQS1VxZEVvSUloM1N2bVRHYQ?oc=5",
-    "source": "",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS21JdUlwaWEzR3ZSWjRlbVNkU0FSOTd2dmVkQUFXYUlsNHpuWXp5",
-    "score": "",
-    "is_backup": false
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "am",
-    "category": "THE LIST",
-    "title": "Mozambique officially protects the 9,341-hectare Mount Mabu \u201cbutterfly forest,\u201d home to more than 200 butterfly species and over 30 species previously unknown to science, with local communities now legally recognised as its stewards.",
-    "angle": "This is a straight-up 'lost world' story \u2014 a remote African forest just got legal protection specifically because it's packed with butterfly species science didn't even know existed. It's the rare good-news headline that doubles as a real discovery story.",
-    "bullets": [
-      " Mount Mabu in Mozambique \u2014 nicknamed the \"butterfly forest\" \u2014 just received official legal protection.",
-      " It's home to more than 200 butterfly species, including over 30 previously unknown to science.",
-      " Local communities are now the legally recognized stewards of the land.",
-      " There's a forest on Earth right now where scientists are still finding butterflies no one's ever named \u2014 that's basically a real-life nature documentary plot twist."
-    ],
+    "title": "California principal admits to rigging student election to make child class president",
+    "angle": "California principal admits to rigging student election to make child class president",
+    "bullets": [],
     "debate": "",
-    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://travelbinger.com/mozambique-designates-mount-mabu-as-a-new-community-conservation-area",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ktla.com/video/california-principal-admits-to-rigging-student-election-to-make-child-class-president/12263776/",
     "score": "78/90",
     "is_backup": false
   },
@@ -39,48 +16,20 @@
     "date": "2026-10-16",
     "slot": "am",
     "category": "THE LIST",
-    "title": "Meta's smart glasses were recording conversations without the wake phrase, company admits",
-    "angle": "This taps right into the biggest fear people have about smart glasses and AI wearables: that they're always listening, not just on command. Meta admitting the wake phrase isn't a hard gate is the kind of privacy story that makes people side-eye anyone wearing a pair at dinner.",
+    "title": "Texas sued after glitch delays almost 600,000 voter registrations",
+    "angle": "A defense giant ramped up donations to a sitting U.S. Senator at the exact moment a government watchdog was torching its biggest fighter jet program \u2014 the kind of timing that writes its own punchline about how Washington really works.",
     "bullets": [
-      " Meta confirmed its smart glasses recorded conversations without the \"Hey Meta\" wake phrase being triggered",
-      " Raises fresh privacy concerns around always-on mics in wearable AI devices",
-      " Would you still wear smart glasses around friends and family knowing the mic might not actually need the wake word?"
+      " Texas is being sued over a system glitch tied to voter registration processing.",
+      " Nearly 600,000 voter registrations were delayed because of the error.",
+      " If a glitch can stall 600,000 registrations, how much do you actually trust the system counting your vote?",
+      " Lockheed Martin sent tens of thousands of dollars to Senator Susan Collins",
+      " That window lines up with a critical watchdog report on the F-35 program",
+      " Susan Collins sits on committees with direct influence over defense spending and oversight",
+      " Is this just how lobbying works, or does the timing here cross a line?"
     ],
     "debate": "",
     "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.techspot.com/news/114214-meta-smart-glasses-secretly-recording-conversations-without-wake.html",
-    "score": "78/90",
-    "is_backup": false
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "am",
-    "category": "THE LIST",
-    "title": "Malicious Russian disinformation bot traffic barely flinches after Ukraine strikes Yandex data centers and auto-migration kicks in \u2014 Cloudflare tracks 170 million automated attacks shifting to alternate cloud hosts",
-    "angle": "This is the modern version of cutting a wire and watching the lights stay on - Ukraine struck actual physical data centers inside Russia, and a massive disinformation bot network just rerouted itself in the cloud like nothing happened. It's a wild real-world look at how unkillable propaganda infrastructure has become.",
-    "bullets": [
-      " Cloudflare says it tracked roughly 170 million automated attacks tied to the bot traffic in question.",
-      " Despite the physical damage, the malicious bot traffic \"barely flinched\" - it auto-migrated to alternate cloud hosts almost immediately.",
-      " If bombing the servers doesn't even slow the bots down, is there any way to actually win an information war - or just contain it?"
-    ],
-    "debate": "",
-    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.tomshardware.com/service-providers/network-providers/malicious-russian-disinformation-bot-traffic-barely-flinches-after-",
-    "score": "78/90",
-    "is_backup": false
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "am",
-    "category": "THE LIST",
-    "title": "Has China really lost 130 million people?",
-    "angle": "China's population numbers have been under a microscope for years, and a staggering new question is making the rounds: did the country actually shed 130 million people? If the math holds up, it's a story with massive ripple effects for the global economy, from the labor force to how the world's second-biggest economy plans for the future.",
-    "bullets": [
-      " If a country can lose 130 million people and we're still arguing about whether it's true, can we trust ANY of the big population numbers we're told?"
-    ],
-    "debate": "",
-    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.thetimes.com/world/asia/article/china-falling-population-130-million-nh6jbcftf?utm_medium=Social&utm_source=Reddit&",
+    "url": "https://theintercept.com/2026/10/15/susan-collins-lockheed-martin-f35-fighter-jet/",
     "score": "78/90",
     "is_backup": false
   },
@@ -89,15 +38,47 @@
     "slot": "am",
     "category": "THE LIST",
     "title": "U.S. 'monitoring' Canada for signs of midterm election interference, ambassador says",
-    "angle": "Election interference talk usually points at Russia or China \u2014 not America's closest neighbor and ally. The U.S. ambassador naming Canada as a country to \"monitor\" for midterm meddling is a surprising escalation in an already tense cross-border relationship.",
+    "angle": "This flips the usual election-interference story on its head \u2014 instead of worrying about foreign meddling in a U.S. vote, the U.S. ambassador is publicly saying they're keeping an eye on an ally, which is awkward timing for U.S.-Canada relations right before the midterms.",
     "bullets": [
-      " It's a rare case of a close ally \u2014 not a usual suspect like Russia or China \u2014 getting named in election-interference talk.",
-      " Lands amid already strained U.S.-Canada relations.",
-      " Does it surprise you more that it's Canada being watched, or that the U.S. is saying it out loud?"
+      " It's a notable role reversal \u2014 usually it's foreign adversaries getting accused of meddling in U.S. elections, not a close ally like Canada.",
+      " Does it seem backwards that the U.S. is worried about Canada \u2014 one of its closest allies \u2014 messing with an American election?"
     ],
     "debate": "",
     "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
     "url": "https://www.cbc.ca/news/politics/hoekstra-watching-canada-election-interference-9.7380834",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Talk grows that China is routing US Treasury holdings through Canada: Bloomberg",
+    "angle": "Bloomberg says chatter is heating up that China is quietly routing its US Treasury purchases through Canada - a possible financial workaround amid US-China tension that pulls Canada into the middle of a superpower money game.",
+    "bullets": [
+      " Bloomberg is reporting growing speculation that China may be channeling some of its US Treasury holdings through Canada",
+      " No official confirmation yet - this is still being treated as market chatter, not a confirmed policy move",
+      " If true, is Canada playing peacemaker middleman here, or getting used as cover in a US-China money chess match?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://investinglive.com/news/talk-grows-that-china-is-routing-us-treasury-holdings-through-canada-bloomberg/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "\u201cThe US has no discipline, no strategy, no patience\u201d: Chrystia Freeland on Canada\u2019s place in the new world order",
+    "angle": "Chrystia Freeland, one of Canada's best-known political heavyweights, just took a direct shot at American leadership and challenged Canada to rethink its whole strategy in a shifting global order - that's the kind of blunt, high-profile jab that gets cross-border chatter going fast.",
+    "bullets": [
+      " Chrystia Freeland - Canada's former Deputy PM and Finance Minister - says the US has \"no discipline, no strategy, no patience\"",
+      " Is Freeland calling it straight on the US losing its grip, or is this just Canadian frustration spilling into the open?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
     "score": "78/90",
     "is_backup": true
   },
@@ -105,17 +86,51 @@
     "date": "2026-10-16",
     "slot": "am",
     "category": "THE LIST",
-    "title": "Elijah Wood reposts Slate's article titled \"The Kelly Clarkson Store Saga Has Only One Guilty Party, and It Is Her\"",
-    "angle": "A Slate op-ed is pinning a Brooklyn small-business dispute entirely on Kelly Clarkson, and Elijah Wood just blasted it out to his own followers \u2014 instant celebrity-gossip catnip with a built-in villain angle.",
+    "title": "Comcast Donated $7.5 Million for Donald Trump\u2019s Lavish New White House Ballroom",
+    "angle": "A major media/telecom giant bankrolling a lavish new wing of the White House is exactly the kind of money-meets-politics story that gets people talking about optics, favors, and who's really footing the bill.",
     "bullets": [
-      " Slate's headline doesn't hedge \u2014 it says Kelly Clarkson is the \"only guilty party\" in a Brooklyn store saga tied to Art of Play and a shop called Bird.",
-      " Elijah Wood reposted the piece himself, giving it a second wave of attention outside Slate's own readers.",
-      " It's currently ripping through celebrity-gossip hub r/fauxmoi, the internet's go-to spot for this kind of pile-on.",
-      " Is Kelly Clarkson really the villain of this story, or just the most famous name to blame?"
+      " Comcast reportedly donated $7.5 million toward the project.",
+      " Is a corporation funding a White House renovation a nice gesture or a flashing-red conflict-of-interest sign?"
     ],
     "debate": "",
-    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://i.redd.it/e8jtged6invh1.png",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/comcast-funding-trump-white-house-ballroom-1236913205/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Trudeau government advised it would be expected to carry out ICC arrest warrants, including for Netanyahu",
+    "angle": "A leaked memo shows Trudeau's government knew it could be legally on the hook to detain a sitting world leader if he ever set foot in Canada - that's the kind of diplomatic landmine that makes for a real debate.",
+    "bullets": [
+      " Internal memo warned Justin Trudeau's government it was expected to carry out ICC arrest warrants",
+      " Warrants named Israeli PM Benjamin Netanyahu, his then-defence minister, and Hamas leaders",
+      " Memo came while an ICC prosecutor was still preparing the warrants, before they were formally issued",
+      " Raises the question of whether Canada would actually detain an allied head of government on its soil",
+      " If Netanyahu landed in Toronto tomorrow, should Canada actually arrest him - or is that a bridge too far for an ally?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/icc-arrest-warrants-canada-9.7380532?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "EU debates Ukraine funding, as Zelenskyy's relations with the Trump administration ebb again",
+    "angle": "This is a real split-screen moment \u2014 European leaders closing ranks around Zelenskyy at a summit while Trump publicly slams Ukraine's own battlefield tactics, raising fresh doubts about how solid U.S. backing really is.",
+    "bullets": [
+      " EU leaders rallied around Volodymyr Zelenskyy at a summit on Friday",
+      " Donald Trump blasted Ukraine's strikes on Russian oil refineries, calling them a \"disgrace\"",
+      " Is Trump right that hitting Russian refineries crosses a line, or is this the U.S. second-guessing an ally fighting for its survival?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/eu-summit-ukraine-russia-war-9.7383053?cmp=rss",
     "score": "78/90",
     "is_backup": true
   },
@@ -124,12 +139,13 @@
     "slot": "am",
     "category": "THE LIST",
     "title": "New White House press secretary Katie Zacharia didn't pass the bar exam",
-    "angle": "The brand-new White House press secretary is already on the defensive in week one \u2014 over her legal credentials AND a briefing that got cut short. That's a rough start for the person whose entire job is controlling the message.",
+    "angle": "The President's new chief spokesperson is already getting grilled over her legal credentials days into the job, and how she handled the questions on camera is becoming its own story.",
     "bullets": [
-      " Katie Zacharia is the brand-new White House press secretary \u2014 and it's already a bumpy first week.",
-      " She's had to publicly defend her legal background amid questions over the bar exam.",
-      " Her inaugural press briefing was notably truncated \u2014 and she's had to explain that too.",
-      " Does it actually matter if the president's spokesperson passed the bar, or is this just Washington nitpicking?"
+      " Katie Zacharia is the new White House press secretary",
+      " She's had to publicly defend her legal background this week",
+      " Report says she never passed the bar exam",
+      " Her first official briefing was notably cut short",
+      " Does it actually matter if a press secretary isn't a licensed lawyer, or is this just a gotcha story?"
     ],
     "debate": "",
     "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
@@ -140,67 +156,17 @@
   {
     "date": "2026-10-16",
     "slot": "am",
-    "category": "THE LIST",
-    "title": "How did a P.E.I. cold case fall apart just before it was set to go to trial?",
-    "angle": "This case was finally headed to trial after sitting cold for years, and then it just... fell apart. That kind of last-minute collapse always raises the same uncomfortable question: did the system fail, or did the police?",
-    "bullets": [
-      " All charges against the accused were dropped just before the case was set to go to trial.",
-      " Charlottetown Police Services are facing scrutiny over how the investigation was handled.",
-      " There are still unanswered questions about what went wrong behind the scenes.",
-      " When a cold case finally gets to the courthouse door and then collapses, who do you blame first - the police who built it, or the system that let it stall for years?"
-    ],
-    "debate": "",
-    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.cbc.ca/news/canada/prince-edward-island/pei-byron-carr-crown-police-disclosure-9.7382145?cmp=rss",
-    "score": "78/90",
-    "is_backup": true
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "am",
-    "category": "THE LIST",
-    "title": "'Crypto King' tells court he fears he might soon end up in jail cell with his kidnappers",
-    "angle": "'Crypto King' tells court he fears he might soon end up in jail cell with his kidnappers",
-    "bullets": [],
-    "debate": "",
-    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-court-victim-impact-9.7381948?cmp=rss",
-    "score": "78/90",
-    "is_backup": true
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "am",
     "category": "CANADIAN NEWS",
-    "title": "Kirill Marchenko hat trick not enough as Maple Leafs lose to Sabres in OT",
-    "angle": "This is exactly why the Leafs made the trade - Marchenko finally showed the offensive fireworks they paid for - but a three-goal night still wasn't enough to beat Buffalo. It's the classic 'great player, bad result' storyline that gets Leafs fans arguing about what's actually broken on this roster.",
+    "title": "Ambassador Hoekstra warns Canadians not to meddle in midterms but also to accept blame for costing Republicans the midterms",
+    "angle": "The U.S. Ambassador to Canada is reportedly telling Canadians to butt out of American politics while simultaneously pinning blame on them for costing Republicans the midterms - a head-scratching contradiction that's already lighting up Canadian social media.",
     "bullets": [
-      " Kirill Marchenko scored a hat trick Thursday night at Scotiabank Arena",
-      " Toronto acquired him in a trade with Columbus at the end of September",
-      " Despite the three-goal outburst, the Leafs lost to the Buffalo Sabres in overtime",
-      " It's the exact offensive upside the Leafs were banking on when they made the deal",
-      " If your new guy drops a hat trick and you still lose in OT, is that on the goaltending, the defense, or just one of those nights? torontosun.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
-    ],
-    "debate": "",
-    "source": "",
-    "url": "",
-    "score": "",
-    "is_backup": false
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "am",
-    "category": "CANADIAN NEWS",
-    "title": "Toyota Commits to Making Cars in Canada as US Rivals Downsize",
-    "angle": "While American automakers are scaling back production, Toyota is going all-in on Canadian manufacturing - a direct contrast that's got real jobs-and-pride stakes for Canadian listeners.",
-    "bullets": [
-      " Toyota is committing to continued/expanded vehicle production in Canada",
-      " Positions Canada as a winner in the shifting North American auto manufacturing map",
-      " Does it feel like a bigger deal when a foreign automaker bets on Canadian workers than when a \"hometown\" one does?"
+      " Ambassador Pete Hoekstra is warning Canadians not to meddle in the U.S. midterms.",
+      " In the same breath, he's blaming Canada for costing Republicans the midterms.",
+      " Can you really blame Canada for a U.S. election while also telling it to stay out of U.S. elections?"
     ],
     "debate": "",
     "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-15/toyota-commits-to-making-cars-in-canada-as-us-rivals-downsize",
+    "url": "https://www.thebeaverton.com/2026/10/ambassador-hoekstra-warns-canadians-not-to-meddle-in-midterms-but-also-to-accept-blame",
     "score": "78/90",
     "is_backup": false
   },
@@ -208,16 +174,15 @@
     "date": "2026-10-16",
     "slot": "am",
     "category": "CANADIAN NEWS",
-    "title": "Carney needs to completely overhaul the Trudeau-era immigration system, report says",
-    "angle": "Immigration has become one of the most divisive kitchen-table issues in Canada, so any signal that the Carney government is ready to scrap the Trudeau-era approach is going to spark real debate about what comes next and who it affects.",
+    "title": "Carney says Albertans should vote \u2018No to the Nine\u2019 in referendum",
+    "angle": "A sitting Prime Minister publicly telling one province how to vote on its own referendum is a big, unusual move - it's federal politics crashing straight into Alberta's independence-vibe tensions, and that's instant hosts-take-sides material.",
     "bullets": [
-      " A new report says PM Mark Carney needs a complete overhaul of Canada's immigration system.",
-      " No word yet on the specific fixes being proposed - just the call for a top-to-bottom rebuild.",
-      " Should Carney blow up the old immigration system entirely, or just fix it piece by piece?"
+      " Prime Minister Mark Carney is urging Albertans to vote 'No to the Nine' in the upcoming referendum.",
+      " Should the Prime Minister even be weighing in on a provincial referendum, or does that just prove Alberta's point about Ottawa overreach?"
     ],
     "debate": "",
     "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://nationalpost.com/news/canada/carney-needs-to-completely-overhaul-the-trudeau-era-immigration-system-report-says",
+    "url": "https://www.cbc.ca/news/canada/calgary/mark-carney-no-to-the-nine-alberta-referendum-9.7382226",
     "score": "78/90",
     "is_backup": false
   },
@@ -225,17 +190,16 @@
     "date": "2026-10-16",
     "slot": "am",
     "category": "CANADIAN NEWS",
-    "title": "Alberta\u2019s referendum draws 174K ballots in the 1st day of advance polls",
-    "angle": "Alberta's independence referendum just saw a massive first-day advance turnout, a signal this vote could reshape the province's \u2014 and the country's \u2014 political future, so it's worth watching how it plays out east of the Rockies.",
+    "title": "Danielle Smith has said no to a second referendum. But that decision might not be hers to make",
+    "angle": "Alberta's independence talk just got a constitutional twist: the Premier can say 'no referendum' all she wants, but if this is citizen-driven, the public might be able to force the vote anyway. That's a juicy political standoff for hosts to dig into.",
     "bullets": [
-      " 174,000 ballots cast on just the first day of advance polls in Alberta's referendum",
-      " That kind of day-one turnout suggests voters aren't waiting around \u2014 they're motivated",
-      " Advance polling numbers like this often foreshadow a bigger-than-usual overall turnout on referendum day",
-      " Would you line up on day one to vote on whether your province stays or goes?"
+      " Danielle Smith has publicly shut the door on a second referendum on Alberta separation.",
+      " Alberta's citizen-initiated referendum rules could let the public force the question back onto the ballot over the Premier's objection.",
+      " Should everyday Albertans be able to force a separation vote even if their own Premier says no?"
     ],
-    "debate": "",
-    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://globalnews.ca/news/12102619/albertas-referendum-draws-174k-ballots-advance-polls/",
+    "debate": "make-9.7382664?cmp=rss",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/calgary/danielle-smith-has-said-no-to-a-second-referendum-but-that-decision-might-not-be-hers-to-",
     "score": "78/90",
     "is_backup": false
   },
@@ -243,47 +207,29 @@
     "date": "2026-10-16",
     "slot": "am",
     "category": "CANADIAN NEWS",
-    "title": "'Vote like Canada depends on it,' Carney says at Calgary rally ahead of Alberta referendum",
-    "angle": "The PM flew into Calgary to make a personal, high-stakes pitch right before Alberta's referendum vote \u2014 when the Prime Minister shows up in person and says the stakes are existential, that's a story about national unity, not just provincial politics.",
+    "title": "Nathan Fielder's You Can See Everything gazes into the abyss of Elizabeth Holmes",
+    "angle": "The guy behind \"The Rehearsal\" and \"Nathan For You\" just turned his lens on Theranos fraudster Elizabeth Holmes \u2014 and critics are saying the weirder the approach, the less knowable she actually becomes.",
     "bullets": [
-      " Mark Carney rallied supporters in Calgary just ahead of the Alberta referendum.",
-      " His direct quote to the crowd: \"Vote like Canada depends on it.\"",
-      " Does a PM parachuting into Alberta to say 'the country depends on this vote' help unity \u2014 or does it just hand ammo to separatists who already say Ottawa's too involved?"
+      " It centers on Elizabeth Holmes, the Theranos founder jailed for defrauding investors",
+      " CBC calls Fielder's approach \"genuinely unparalleled\" in originality",
+      " Can any documentary actually crack a person as controlled and media-trained as Elizabeth Holmes, or does more footage just mean more performance?"
     ],
     "debate": "",
     "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.cbc.ca/news/canada/calgary/livestory/forever-canadian-rally-carney-live-updates-9.7382776?cmp=rss",
+    "url": "https://www.cbc.ca/news/entertainment/you-can-see-everything-review-9.7382874?cmp=rss",
     "score": "78/90",
-    "is_backup": true
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "am",
-    "category": "CANADIAN NEWS",
-    "title": "Israeli firm used ads to enable espionage, Canadian researchers say",
-    "angle": "Toronto researchers just exposed an Israeli ad firm allegedly handing malware a backdoor through ordinary online ads seen by millions \u2014 meaning the pop-up you scrolled past could've been doing more than just annoying you.",
-    "bullets": [
-      " An Israeli advertising agency is accused of placing ads that opened everyday internet users up to spyware attacks.",
-      " Researchers say the ads were seen by millions of people online, not a small targeted group.",
-      " Does this change how you feel about every random ad popping up on your phone right now?"
-    ],
-    "debate": "",
-    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.cbc.ca/news/world/israeli-firm-targeted-ads-espionage-9.7381922?cmp=rss",
-    "score": "78/90",
-    "is_backup": true
+    "is_backup": false
   },
   {
     "date": "2026-10-16",
     "slot": "am",
     "category": "CANADIAN NEWS",
     "title": "Think you'll win the $90M Lotto Max? Here's a primer on your odds",
-    "angle": "This Friday's Lotto Max draw is the richest jackpot ever offered in Canada, which means everybody and their coworker is buying a ticket and daydreaming out loud about what they'd do with it.",
+    "angle": "Friday's Lotto Max draw is the richest prize ever up for grabs in Canada, and nothing gets a radio audience daydreaming faster than a nine-figure jackpot and brutal odds.",
     "bullets": [
-      " Friday's Lotto Max draw is worth $90 million \u2014 a single winner takes it all.",
-      " It's officially the largest lottery jackpot ever offered in Canada.",
-      " Lotto Max draws happen every Friday, but jackpots this size are historically rare.",
-      " If you won $90 million tomorrow, what's the first phone call you make \u2014 and who are you NOT telling?"
+      " Friday's draw is for $90 million \u2014 the largest lottery jackpot ever available to win in Canada.",
+      " CBC breaks down the actual odds of winning the top prize.",
+      " Call in: what's the first thing you'd buy if you won $90 million tomorrow?"
     ],
     "debate": "",
     "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
@@ -295,85 +241,99 @@
     "date": "2026-10-16",
     "slot": "am",
     "category": "CANADIAN NEWS",
-    "title": "Islanders coach benches two forwards late in game as he rips team\u2019s poor play",
-    "angle": "A head coach publicly yanking players and then torching the whole team after the final horn is pure hockey drama \u2014 it's the kind of tough-love moment that gets fans and players talking about who's really in the doghouse.",
+    "title": "LIVE3 Digital Channel",
+    "angle": "A new digital channel popping up from CTV News is the kind of low-key media shakeup that's easy to miss but worth a quick mention for anyone tracking how Canadians are getting their news these days.",
     "bullets": [
-      " Pete DeBoer benched two of his own forwards late in the game as a message about effort.",
-      " DeBoer didn't hold back afterward, publicly ripping his team's play.",
-      " Does benching guys mid-game actually light a fire under a team, or just humiliate them in front of everybody?"
+      " Streaming news channels keep multiplying - are you actually following any of them, or just sticking with the apps you already have? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
     ],
-    "debate": "",
-    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://nypost.com/2026/10/16/sports/islanders-coach-benches-wingers-during-game-as-he-rips-teams-poor-play/",
-    "score": "78/90",
+    "debate": "lBYVdySnA1N1lVMUtwMnJWR1VfT2I4S3FRbGotTVhrd0g3Ml9HUF9XQzh1Y3JiUWlXeHVFVXNDMDhWYVdaLXc3NnE3eFE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnanZ5RWRhZGJlaHRHbUJYdjVKUHAzeHJuSHF1UDE5RGZ4QVRKU2lZVk",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Flintstones vitamins, Aleve and Claritin recalled over distribution error",
+    "angle": "These are three of the most common household names in Canadian medicine cabinets, so this isn't some obscure recall - it's the stuff parents and anyone with a cold or allergies probably has sitting at home right now.",
+    "bullets": [
+      " Health officials are urging Canadians to check their own bottles against the recall details."
+    ],
+    "debate": "Go check right now - do you have any of these three bottles sitting in your house today?",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOelRmLVNhUHl2Qlh5WThoVy1ydmRsZmZXRklsTHNlenktZDFnSTVGaTF",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "B.C. business owner loses NEXUS privileges after $20 border fee mistake",
+    "angle": "It's the ultimate 'the system is insane' story for anyone who's ever dealt with border bureaucracy - a B.C. business owner lost their trusted-traveler NEXUS status over a tiny $20 fee slip-up, and that hits home for every Canadian who crosses the border for work or shopping.",
+    "bullets": [
+      " A B.C. business owner had their NEXUS card privileges revoked",
+      " NEXUS status, once pulled, is notoriously hard to get back",
+      " Have you ever lost a privilege - NEXUS, a loyalty status, a membership - over a mistake way smaller than the punishment? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "01WE9WLWRrRGthR05nWjV2cWtFVnZyMHpiUF9FNk9jNldwOWNkMy1VM19mbTJQZFBrRURJ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMXF1SzV0cXdHTUV4VjFkeVdYNDJzbEZQR01YS2hJMURSZW5JY25Qc",
+    "score": "",
     "is_backup": true
   },
   {
     "date": "2026-10-16",
     "slot": "am",
     "category": "ENTERTAINMENT",
-    "title": "\u2018Norm: The Tale of Norm Macdonald\u2019 Review: Judd Apatow\u2019s Juicy and Haunting Portrait of a Comedy Star as Troubled as He Was Hilarious",
-    "angle": "This new documentary digs past the deadpan one-liners into who Norm Macdonald really was, and critics are saying it's as haunting as it is hilarious \u2014 perfect for anyone who grew up quoting him.",
+    "title": "Anna Faris responds to Chuck Lorre saying she wasn\u2019t right choice for \u2018Mom\u2019: \"Yikes. Yes, I read a few things. I really didn't see that coming. Of course it hurts.",
+    "angle": "A seven-year sitcom star just found out her old boss publicly doubted casting her \u2014 and her classy-but-wounded response, paired with a sobriety reveal, is the kind of real-talk moment that gets people buzzing.",
     "bullets": [
-      " Directed by Judd Apatow, the doc is being called a 'juicy and haunting portrait' of the late comedy star.",
-      " Variety's review compares Norm Macdonald's on-stage edge to Andy Kaufman's 'antisocial hostility.'",
-      " What's the most Norm Macdonald thing you remember him saying \u2014 and did it make you laugh or make you uncomfortable? variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+      " Anna Faris responded directly to Chuck Lorre's comments questioning whether she was the right choice for 'Mom'",
+      " Her reaction: \"Yikes. Yes, I read a few things. I really didn't see that coming. Of course it hurts.\"",
+      " She says she's \"proud of what we made together\" and never took a day of the 7-year run for granted",
+      " She also revealed she's been sober for a year and a half, saying \"I'm healthy, I'm working, and I'm happier than I've been in a long time\"",
+      " Is it ever okay for a boss to publicly second-guess casting you years after the show ends \u2014 even if they still praise your work?"
     ],
     "debate": "",
-    "source": "",
-    "url": "https://variety.com/2026/film/reviews/norm-the-tale-of-norm-macdonald-review-judd-apatow-1236911273/",
-    "score": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://i.redd.it/essxf9rvtqvh1.jpeg",
+    "score": "86/90",
     "is_backup": false
   },
   {
     "date": "2026-10-16",
     "slot": "am",
     "category": "ENTERTAINMENT",
-    "title": "'Norm: The Tale of Norm MacDonald' Review: Judd Apatow's Juicy and Haunting Portrait of a Comedy Star as Troubled as He Was Hilarious https:",
-    "angle": "Norm MacDonald was one of the funniest, most deadpan voices in comedy \u2014 and he was hiding a secret decade-long cancer battle the whole time. Judd Apatow's new documentary is getting buzz for showing just how much pain was behind the jokes.",
+    "title": "Lori Loughlin\u2019s ex Mossimo Giannulli makes surprising spousal support request in divorce response",
+    "angle": "Lori Loughlin and Mossimo Giannulli's split already had Hollywood buzzing, and now his formal response is adding a twist nobody saw coming \u2014 spousal support.",
     "bullets": [
-      " Judd Apatow is behind the new documentary \"Norm: The Tale of Norm MacDonald\"",
-      " Variety's review calls it a \"juicy and haunting\" portrait",
-      " What's the one Norm Macdonald joke or Letterman moment you still quote to this day? X/Twitter @Variety (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+      " Lori Loughlin filed her divorce petition asking to split assets, property and debts per their prenuptial agreement.",
+      " Mossimo Giannulli's response reportedly includes a spousal support request \u2014 a surprise given the prenup angle.",
+      " If you've got a prenup, should spousal support even be on the table \u2014 or is Mossimo's move a bold legal gamble?"
     ],
     "debate": "",
-    "source": "",
-    "url": "https://x.com/Variety/status/2110939658435625072",
-    "score": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/16/celebrity-news/mossimo-giannulli-makes-surprising-spousal-support-request-in-lori-loughlin-divorce-r",
+    "score": "86/90",
     "is_backup": false
   },
   {
     "date": "2026-10-16",
     "slot": "am",
     "category": "ENTERTAINMENT",
-    "title": "Dragon Ball Goku voice actor furious at \u201cunforgivable\u201d AI videos using her voice: \u201cIt has no heart\u201d",
-    "angle": "A beloved Dragon Ball voice actor is going public against AI videos mimicking her voice, putting a human face on the growing fight between performers and AI mimicry - a debate that's only heating up across music, film, and voice work.",
+    "title": "'I Know It's Coming': Kate Zacharia Says She Expects \u2018SNL\u2019 To Mock Her White House Briefing",
+    "angle": "A White House staffer calling her own 'SNL' takedown before it even airs is a fun role-reversal \u2014 it's the ultimate sign a moment has gone viral, and it opens up a debate on whether politicians should just lean into getting mocked.",
     "bullets": [
-      " Her blunt verdict on the tech: 'It has no heart'",
-      " Adds to a wave of voice actors pushing back on AI tools cloning their work without permission",
-      " Should it ever be legal to AI-clone an actor's voice without their OK - even for fans, not profit?"
-    ],
-    "debate": "",
-    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "",
-    "score": "78/90",
-    "is_backup": false
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "am",
-    "category": "ENTERTAINMENT",
-    "title": "Ben Affleck Says Bullying \u2018Digger\u2019 Will Only Lead Studios to Make More \u2018S\u2014ty Homogenized Movies\u2019: Don\u2019t \u2018Punish Movies That Take Risks\u2019",
-    "angle": "Ben Affleck is calling out online pile-ons against films that swing for the fences, warning Hollywood will just play it safer if risk-takers keep getting torched online \u2014 a juicy debate about cancel culture vs. film criticism that every movie-fan listener has an opinion on.",
-    "bullets": [
-      " Ben Affleck says bullying a film online will only push studios toward making more \"s\u2014ty homogenized movies\"",
-      " He's defending movies that \"take risks\" and arguing they shouldn't get punished for it",
-      " Comments reportedly tied to online backlash against a film/project nicknamed \"Digger\"",
-      " Is online dogpiling killing original movies, or do audiences have every right to roast a swing-and-a-miss?"
+      " Kate Zacharia says about an 'SNL' sketch mocking her White House briefing: \"I know it's coming.\"",
+      " She's publicly predicting the parody before it's even aired.",
+      " Is it smarter for public figures to laugh along with their own 'SNL' roast, or does acknowledging it just invite more?"
     ],
     "debate": "",
     "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://variety.com/2026/film/news/ben-affleck-digger-bullying-studios-bad-movies-tom-cruise-1236912896/",
+    "url": "https://www.huffpost.com/entry/katie-zacharia-snl-mockery_n_6ad13df7e4b0bfd25656bc0e",
     "score": "78/90",
     "is_backup": false
   },
@@ -381,115 +341,50 @@
     "date": "2026-10-16",
     "slot": "am",
     "category": "ENTERTAINMENT",
-    "title": "Wicker review: Olivia Colman re-enacts the Kama Sutra with a sentient basket #IIII",
-    "angle": "An Oscar winner in a scene described as a Kama Sutra re-enactment with a sentient basket is the kind of so-bad-it's-unmissable detail that makes a one-star review go viral on its own.",
+    "title": "Sydney Sweeney Ad Under Fire as Dodgers Star Slams 'Soft Porn' MLB Ads: 'My Son Wants To Watch Baseball'",
+    "angle": "A pro athlete publicly trashing his own league's ad campaign is rare \u2014 and dragging Sydney Sweeney into a 'soft porn' debate about family-friendly baseball is exactly the kind of culture-clash story that gets phones ringing.",
     "bullets": [
-      " Her co-star in that scene isn't a person \u2014 it's a sentient basket.",
-      " An Academy Award winner, the Kama Sutra, and a talking basket \u2014 ask listeners if that's one star or ten."
+      " A Dodgers star publicly blasted an MLB ad featuring Sydney Sweeney, calling it 'soft porn.'",
+      " His stated issue: 'My son wants to watch baseball' \u2014 framing it as a family-viewing problem, not just a style complaint.",
+      " Is this legit family-friendly concern, or is a baseball player just not the one who gets to set the dress code for ads?"
     ],
     "debate": "",
     "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.telegraph.co.uk/films/2026/10/08/olivia-colman-review-wicker-one-star/?WT.mc_id=tmgoff_reddit_colman-review-wicker-",
+    "url": "https://www.medicaldaily.co.uk/alex-call-mlb-soft-porn-ads-playoff-broadcasts-1759543",
     "score": "78/90",
     "is_backup": false
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "am",
-    "category": "ENTERTAINMENT",
-    "title": "Something extremely fierce is going on with Olivia Colman lately",
-    "angle": "This is pure internet-rumor-mill bait \u2014 a vague \"something's going on\" post with zero details is exactly the kind of mystery that gets a fandom (and a radio audience) speculating out loud.",
-    "bullets": [
-      " We've got zero details and a juicy headline \u2014 callers, what's YOUR theory on what's going on with Olivia Colman?"
-    ],
-    "debate": "",
-    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.reddit.com/gallery/1x6iedu",
-    "score": "78/90",
-    "is_backup": true
   },
   {
     "date": "2026-10-16",
     "slot": "am",
     "category": "ENTERTAINMENT",
     "title": "House Press Secretary Katie Zacharia Didn\u2019t Pass Bar Exam",
-    "angle": "A House press secretary getting outed for flunking the bar exam is pure credential gossip \u2014 the kind of resume detail that makes you go wait, THAT'S allowed?",
+    "angle": "A political aide getting outed for flunking the bar exam is exactly the kind of petty-but-juicy gotcha that blows up on social media, especially when it's a public-facing spokesperson whose job is managing other people's image.",
     "bullets": [
-      " Story is circulating on r/fauxmoi, so treat specifics as chatter until more detail surfaces.",
-      " Does it even matter if a press secretary never passed the bar \u2014 or is that a totally different job than people think?"
+      " Surfaced via r/fauxmoi, a sub known for digging up receipts on public figures",
+      " Does a failed bar exam actually matter if the job was never about practicing law in the first place?"
     ],
     "debate": "",
     "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
     "url": "https://i.redd.it/og6ukb295nvh1.png",
     "score": "78/90",
-    "is_backup": true
+    "is_backup": false
   },
   {
     "date": "2026-10-16",
     "slot": "am",
     "category": "ENTERTAINMENT",
-    "title": "Dodgers hero Miguel Rojas announces retirement as he plans to stay with team in new role",
-    "angle": "A beloved Dodgers veteran breaking retirement news to his own teammates in the clubhouse, mid-playoff-heartbreak, right after a brutal NLCS sweep \u2014 that's raw, emotional sports drama with real human stakes, not just a transaction.",
+    "title": "Do we really need another Sense and Sensibility movie?",
+    "angle": "Yet another Jane Austen adaptation is hitting screens, and this one's leaning hard into the sisterly bond between Elinor and Marianne instead of just the romance \u2014 a good excuse to ask why Hollywood keeps going back to this well.",
     "bullets": [
-      " Miguel Rojas, 37, told teammates he's retiring during an emotional postgame clubhouse meeting",
-      " He reportedly plans to stay with the Dodgers organization in a new role",
-      " He'd been quietly weighing this decision throughout the season before fully committing",
-      " There's something about a guy choosing the locker room over a press conference to say goodbye \u2014 that's the real tearjerker here."
-    ],
-    "debate": "",
-    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://nypost.com/2026/10/16/sports/dodgers-hero-miguel-rojas-announces-retirement/",
-    "score": "78/90",
-    "is_backup": true
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "am",
-    "category": "ENTERTAINMENT",
-    "title": "How to watch \u2018Tulsa King\u2019 Season 4 premiere for free: Release time, cast",
-    "angle": "Sylvester Stallone's mob drama is one of Taylor Sheridan's flagship Paramount+ shows, and Sheridan's streaming takeover is basically its own pop-culture story at this point \u2014 plus everybody loves a 'how to watch for free' loophole.",
-    "bullets": [
-      " Tulsa King Season 4 is premiering on Paramount+",
-      " It's another entry in Taylor Sheridan's ever-expanding streaming universe",
-      " Who's actually signing up for the free trial just to binge it and cancel before they get charged?"
-    ],
-    "debate": "",
-    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://pagesix.com/2026/10/16/entertainment/how-to-watch-taylor-sheridans-tulsa-king-season-4-for-free/",
-    "score": "78/90",
-    "is_backup": true
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "am",
-    "category": "ENTERTAINMENT",
-    "title": "\u2018Grey\u2019s Anatomy\u2019 Boss Unpacks Season 23 Premiere and Teases Dolly Parton Episode, Texas Spinoff and Whether This Really Could Be the Final Season",
-    "angle": "Grey's Anatomy just kicked off Season 23 and the showrunner is already teasing a Dolly Parton episode and a Texas spinoff - plus dodging the big question of whether this is finally the last season. After 20+ years, that's exactly the kind of \"is it really ending\" chatter that keeps longtime fans glued in.",
-    "bullets": [
-      " Season 23 premiere episode \"Collide\" just dropped on Hulu",
-      " Showrunner is teasing a Dolly Parton episode on the horizon",
-      " A Texas-based spinoff is reportedly in the works, alongside swirling questions about whether this is the show's final season",
-      " After 20-plus years, are you still tuning into Grey's Anatomy - or is a Dolly Parton cameo the only thing that'd get you back? variety.com (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
-    ],
-    "debate": "",
-    "source": "",
-    "url": "https://variety.com/2026/tv/news/greys-anatomy-season-23-premiere-spinoff-update-final-season-1236911978/",
-    "score": "",
-    "is_backup": true
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "am",
-    "category": "ENTERTAINMENT",
-    "title": "B.C. Conservatives drop candidate over post minimizing Holocaust",
-    "angle": "A political party actually cutting someone loose over antisemitic comments is rare enough to make news on its own \u2014 and it drops right into the ongoing national conversation about how parties vet candidates before they ever make the ballot.",
-    "bullets": [
-      " He was dropped after being accused of posting remarks online that minimized the Holocaust",
-      " Should one old social post be enough to end a political career overnight, or does this show the vetting process is finally working?"
+      " New take on Sense and Sensibility puts the Elinor and Marianne Dashwood sibling relationship front and center",
+      " Filmed with a grounded, naturalistic style using real landscapes rather than glossy period-drama polish",
+      " Reviewed by CBC, framing it as a fresh spin on the Jane Austen classic",
+      " Is there such a thing as \"too many\" adaptations of a classic, or does every generation deserve its own Austen?"
     ],
     "debate": "",
     "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-conservative-candidate-dropped-over-social-media-posts-9.7382549?cmp=rss",
+    "url": "https://www.cbc.ca/news/entertainment/sense-and-sensibility-sisters-remake-jane-austen-9.7375202?cmp=rss",
     "score": "78/90",
     "is_backup": true
   },
@@ -497,17 +392,35 @@
     "date": "2026-10-16",
     "slot": "am",
     "category": "ENTERTAINMENT",
-    "title": "Selena Gomez gives nod to ex Nick Jonas with cheeky move: \u2018Feeling nostalgic\u2019",
-    "angle": "Selena Gomez posted a TikTok in a red dress and heels captioned 'feeling nostalgic' \u2014 fans immediately connected it to her relationship history with ex Nick Jonas, and the internet ran with it.",
+    "title": "Wyatt Flores answers questions about his new album \u2018Scared of Heights\u2019 in Confession Cube",
+    "angle": "Country's buzziest new voice just dropped an album called 'Scared of Heights' and got locked in Page Six's Confession Cube to answer whatever fans threw at him - instant easy listening for anyone into country or just loves a good 'getting grilled on camera' moment.",
     "bullets": [
-      " Selena Gomez posted a TikTok video styled in a red dress and matching heels",
-      " She captioned the post 'Feeling nostalgic'",
-      " Fans and outlets tied the look/caption back to her past relationship with Nick Jonas",
-      " Harmless throwback or a little shade at an ex \u2014 what's your read? pagesix.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+      " New album is called \"Scared of Heights\"",
+      " He opens up about a creative shift pulling in early-2000s rock influences",
+      " Flores describes going through a self-proclaimed \"sexy song\" era on the record",
+      " He got caught off guard by a surprise during the segment",
+      " If you got locked in a 'Confession Cube,' what question would actually make you sweat?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/video/wyatt-flores-answers-questions-about-his-new-album-scared-of-heights-in-confession-cube/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Kroi Talks New Song \u2018SPIN\u2019 &amp; the Creative Journey Intersecting With the Chaos of \u2018JoJo\u2019",
+    "angle": "Kroi's dropping new music but teasing behind-the-scenes chaos around their song 'JoJo' is the kind of 'wait, what happened?' tease that gets fans (and casual listeners) curious enough to dig in.",
+    "bullets": [
+      " Kroi is talking about their new song 'SPIN'",
+      " Interview comes via Billboard",
+      " What's messier: making the song, or living through what inspired it? X/Twitter @Billboard (Tier 1) | Score: 76/90 (45 fit + 12 source + 19 quality) -> LEAD"
     ],
     "debate": "",
     "source": "",
-    "url": "https://pagesix.com/2026/10/15/celebrity-news/selena-gomez-gives-nod-to-ex-nick-jonas-with-cheeky-move/",
+    "url": "https://x.com/billboard/status/2110974346185314807",
     "score": "",
     "is_backup": true
   },
@@ -515,80 +428,133 @@
     "date": "2026-10-16",
     "slot": "am",
     "category": "ENTERTAINMENT",
-    "title": "Sunny Hostin slams \u2018petty\u2019 Kelly Clarkson for throwing \u2018a bit of a tantrum\u2019 after Brooklyn store security footage leaks",
-    "angle": "A leaked security clip from a Brooklyn store is now a full-blown celebrity feud, with a \"View\" co-host publicly dragging Kelly Clarkson's reaction instead of letting it die quietly \u2014 that's prime daytime-TV drama spilling into everyone else's feed.",
+    "title": "YOSHIKI Reflects on Music, Life, Legacy &amp; His New Collaboration \u2018Forever Love (Live)\u2019 With Josh Groban: Interview",
+    "angle": "Yoshiki's a legendary rock drummer/composer from X Japan, Groban's the ultimate smooth balladeer \u2014 this genre-mashup duet and legacy interview is a fun odd-couple collab story for music fans.",
     "bullets": [
-      " Sunny Hostin, co-host of \"The View,\" called Kelly Clarkson's reaction \"petty\"",
-      " Hostin says Clarkson threw \"a bit of a tantrum\" after the footage got out",
-      " Hostin had already said earlier the whole thing should've been \"handled privately\" \u2014 and she's doubling down on that now",
-      " Was Kelly Clarkson actually out of line, or does Sunny Hostin need to mind her business on this one? pagesix.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+      " What's the most unexpected musical pairing you've ever actually loved? X/Twitter @Billboard (Tier 1) | Score: 76/90 (45 fit + 12 source + 19 quality) -> LEAD"
     ],
     "debate": "",
     "source": "",
-    "url": "https://pagesix.com/2026/10/15/celebrity-news/sunny-hostin-slams-kelly-clarkson-after-brooklyn-store-security-footage-leaks/",
+    "url": "https://x.com/billboard/status/2110944137985880571",
     "score": "",
     "is_backup": true
   },
   {
     "date": "2026-10-16",
     "slot": "am",
-    "category": "LIFESTYLE CHAT",
-    "title": "Scientists trusted less than business leaders when discussing social issues, study finds",
-    "angle": "This flips the script on who we think we trust \u2014 a new study finds people rate business leaders as more credible than scientists when the topic turns to social issues, not just hard data.",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018The Batman Part II\u2019 Production Is Back on, With Steven Soderbergh\u2019s Help",
+    "angle": "Matt Reeves is stepping away from the Batman sequel to deal with a family matter, and instead of shutting production down, they're bringing in Steven Soderbergh to finish shooting - a huge vote of confidence from one Oscar winner to another.",
     "bullets": [
-      " Shared on r/science, where the finding is already sparking debate about why that trust gap exists.",
-      " Who would YOU actually trust more on a hot-button issue \u2014 a scientist or your favorite CEO?"
+      " Steven Soderbergh is stepping in to complete principal photography on 'The Batman Part II'",
+      " Director Matt Reeves is stepping back temporarily to handle a family matter",
+      " Production is officially back up and running after the pause",
+      " Soderbergh finishing someone else's superhero movie is like a Michelin chef covering a shift at your favorite diner - does that make you more or less excited for the movie? gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
     ],
     "debate": "",
-    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
-    "url": "https://www.manchester.ac.uk/about/news/scientists-trusted-less-than-business-leaders/",
-    "score": "86/90",
-    "is_backup": false
+    "source": "",
+    "url": "https://gizmodo.com/the-batman-part-ii-production-is-back-on-with-steven-soderberghs-help-2000826723",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Hilary Duff flaunts figure in yellow swimsuit on girls\u2019 trip as \u2018toxic mom group\u2019 drama resurfaces",
+    "angle": "A sunny girls' trip photo shouldn't be controversial, but it's dragging the Ashley Tisdale 'toxic mom clique' drama right back into the spotlight \u2014 classic celebrity-world pettiness that's an easy, fun tangent for listeners.",
+    "bullets": [
+      " Hilary Duff posted photos from a Mexico girls' trip rocking a yellow swimsuit.",
+      " Mandy Moore was along for the trip, which is what reignited chatter.",
+      " Are 'mom group' feuds actually toxic, or is this just manufactured celebrity drama we can't stop clicking on? pagesix.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/16/entertainment/hilary-duff-flaunts-figure-in-yellow-swimsuit-on-girls-trip-as-toxic-mom-group-drama-res",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Social Security's 2027 COLA is the biggest since 2023. How it affects your payments. - Yahoo",
+    "angle": "Social Security's 2027 cost-of-living adjustment is the largest increase since 2023, and it directly moves the monthly check for tens of millions of Americans - that's a kitchen-table story in basically every household with a retiree in it.",
+    "bullets": [
+      " It changes the monthly payment for every current Social Security recipient, not just new filers.",
+      " COLA bumps are meant to track inflation - so the size of the raise says something about how expensive things have gotten.",
+      " Call in: has a COLA raise ever actually kept pace with your bills, or does it get eaten by rent and groceries before it even hits the account?"
+    ],
+    "debate": "4R0E2dFc2M1U?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTjZUd0VoLVVpZFVBMTZYT1ZWbjk0UWZGcng4bDhXX21Vbm5NaUprbj",
+    "score": "",
+    "is_backup": true
   },
   {
     "date": "2026-10-16",
     "slot": "am",
     "category": "LIFESTYLE CHAT",
     "title": "Chips, cereals and frozen meals could raise risk of brain damage and dementia, study finds",
-    "angle": "Chips, cereals and frozen meals could raise risk of brain damage and dementia, study finds CTV News (via Google News) (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
-    "bullets": [],
+    "angle": "A new study links everyday staples like chips, cereal, and frozen meals to higher dementia and brain damage risk - which hits different because almost everyone in the audience has these exact items in their pantry right now.",
+    "bullets": [
+      " Researchers are tying these everyday staples to higher risk of brain damage and dementia down the line.",
+      " Be honest - how many of these three things are in your kitchen right now? CTV News (via Google News) (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD"
+    ],
     "debate": "",
     "source": "",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeElleXc2a29tZmFjVGtDQkxoeVkwN0RleW5jME9CX01CaE5rWVZaMzgy",
     "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Nine in ten research papers disputing definition of ultraprocessed foods have industry ties.",
+    "angle": "Everyone's been side-eyeing their grocery cart since 'ultraprocessed food' became a buzzword \u2014 but new research suggests a lot of the pushback against that very label is coming from people with skin in the game.",
+    "bullets": [
+      " A new look at the science finds roughly 9 in 10 research papers that argue against or dispute the definition of 'ultraprocessed foods' have ties to the food industry",
+      " Does it change how you feel about 'ultraprocessed' warnings when you hear the pushback studies are industry-funded?"
+    ],
+    "debate": "groups with a financial interest in keeping their products off the 'bad' list?",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theexamination.org/articles/nova-ultraprocessed-foods-industry-ties-study",
+    "score": "78/90",
     "is_backup": true
   },
   {
     "date": "2026-10-16",
     "slot": "am",
     "category": "LIFESTYLE CHAT",
-    "title": "Chips, cereals and frozen meals could raise risk of brain damage and dementia, study finds",
-    "angle": "New research is tying everyday staples like chips, cereal, and frozen dinners to higher risk of brain damage and dementia down the road \u2014 the kind of headline that makes everyone mentally run through what's in their own pantry right now.",
+    "title": "A study of over 12,000 Norwegian families found that by age eight, a child\u2019s ADHD traits come mainly from their own genes, not from how their parents\u2019 genes shape the home. Researchers found no firm evidence that parenting style or the home environment tied to parents\u2019 DNA drives ADHD in their kids.",
+    "angle": "This is the kind of study that lets parents exhale \u2014 new genetics research pushes back hard on the old 'bad parenting' narrative around ADHD, and that's a nerve every parent listening has touched.",
     "bullets": [
-      " It reframes 'convenience food' as a potential long-term brain health issue, not just a waistline issue.",
-      " Be honest \u2014 how many of these three 'brain damage' foods are sitting in your kitchen right now?"
+      " Researchers tracked over 12,000 Norwegian families to figure out what really drives ADHD in kids.",
+      " By age 8, a child's ADHD traits were traced mainly to their own genes \u2014 not the home they grew up in.",
+      " Bottom line: it's looking a lot less like 'nurture' and a lot more like nature.",
+      " Phone lines open: if science clears the parenting, does that change how you talk about your kid's ADHD at the dinner table?"
     ],
     "debate": "",
-    "source": "Reddit r/canada (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
-    "url": "https://www.ctvnews.ca/health/article/chips-cereals-and-frozen-meals-could-raise-risk-of-brain-damage-and-dementia-study-finds/",
-    "score": "86/90",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/child-s-own-genetics-drive-adhd-traits-more-than-family-environment-large-study/",
+    "score": "78/90",
     "is_backup": true
   },
   {
     "date": "2026-10-16",
     "slot": "am",
     "category": "CLOSER: THE KICKER/GOODBYES",
-    "title": "North America\u2019s largest wildlife overpass is working. I-25 collisions near Castle Rock are down 91%.",
-    "angle": "A giant wildlife bridge over a Colorado highway sounds like a punchline, but the numbers are in and it's a genuine good-news win worth closing the show on.",
+    "title": "A simple change could make wind power safer for wildlife. At South Africa\u2019s Hopefield wind farm, painting two red stripes on one blade of four turbines was linked to an estimated median 83% reduction in bird deaths over 32 months, offering a way to protect birds while generating clean energy",
+    "angle": "It's the ultimate good-news crossover story \u2014 clean energy AND wildlife protection, solved with literal paint. A tiny, cheap fix that makes a feel-good story even better.",
     "bullets": [
-      " It's billed as North America's largest wildlife overpass.",
-      " Built over I-25 near Castle Rock, Colorado.",
-      " Animal-vehicle collisions in that stretch are down 91% since it opened.",
-      " A 91% drop in crashes because animals got their own bridge \u2014 sometimes the simple fix is just... build the bridge."
+      " Location: Hopefield wind farm, South Africa",
+      " Timeframe: tracked over 32 months",
+      " A can of paint might be the cheapest wildlife-conservation tool on the planet."
     ],
     "debate": "",
     "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://coloradosun.com/2026/10/14/i25-wildlife-overpass-collisions-drop/",
+    "url": "https://www.ecoticias.com/en/a-wind-farm-in-hopefield-south-africa-painted-two-red-stripes-on-one-blade-of-four-turbines-and-a-prep",
     "score": "78/90",
     "is_backup": false
   },
@@ -596,15 +562,16 @@
     "date": "2026-10-16",
     "slot": "am",
     "category": "CLOSER: THE KICKER/GOODBYES",
-    "title": "London Zoo hatches 15 tiny frogs from a species threatened by mining in Ghana.",
-    "angle": "A rare win for an endangered species gives us a genuine feel-good close \u2014 tiny frogs, big conservation stakes, and a species most people have never heard of suddenly getting a fighting chance.",
+    "title": "In 2011, Taylor Swift donated 6,000 books worth $68,000 to a Pennsylvania library that was struggling to stay open; 15 years later, it circulated 182,228 items and drew 27,452 program participants in 2025",
+    "angle": "A small-town Pennsylvania library was on the brink until Taylor Swift quietly bankrolled it \u2014 now, over a decade later, the place is absolutely thriving. It's the kind of full-circle, feel-good payoff story that's perfect to send listeners into their weekend on.",
     "bullets": [
-      " London Zoo successfully hatched 15 froglets from a threatened species",
-      " Fifteen tiny frogs just became the best news story of the day \u2014 sometimes the little wins are the ones worth ending the show on."
+      " Back in 2011, Taylor Swift donated 6,000 books worth $68,000 to a struggling Pennsylvania library.",
+      " Fast forward to 2025: that same library circulated 182,228 items in one year.",
+      " One pop star's book donation turned into a community institution \u2014 what's a small gesture you've seen pay off bigger than anyone expected?"
     ],
     "debate": "",
     "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.bbc.co.uk/news/articles/cr2keqxggx0wo",
+    "url": "https://timesofindia.indiatimes.com/world/us/in-2011-taylor-swift-donated-6000-books-worth-68000-to-a-pennsylvania-library-that-was",
     "score": "78/90",
     "is_backup": true
   },
@@ -612,14 +579,17 @@
     "date": "2026-10-16",
     "slot": "am",
     "category": "BREAKOUT WATCH",
-    "title": "Recent High School Grad Seen on Camera Offering Elderly Man the Shoes Off His Own Feet",
-    "angle": "It's the kind of quiet, no-cameras-needed kindness that goes viral precisely because it wasn't staged for virality - a perfect pure-good story to close the show on.",
+    "title": "Glasgow great-great-grandmother, 104, meets her brother again after 60 years apart. Susan Gair of Pollok turned 104 this summer. Her brother William, 86, moved to London about 60 years ago and the two lost touch. His daughter found an old article about Susan\u2019s 100th birthday.",
+    "angle": "A great-great-grandmother in Glasgow just hugged her little brother for the first time in six decades \u2014 and it only happened because his daughter stumbled on an old birthday article online. Pure, no-catch feel-good story to close the show on.",
     "bullets": [
-      " What's the kindest thing a total stranger has ever done for you?"
+      " Susan Gair of Pollok, Glasgow turned 104 this summer",
+      " Her brother William, 86, moved to London about 60 years ago and they lost touch",
+      " William's daughter found an old article covering Susan's 100th birthday and tracked her down",
+      " Ask listeners: is there a family member you've lost touch with that this story makes you want to track down?"
     ],
     "debate": "",
     "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://people.com/arizona-teen-goes-viral-for-giving-person-the-shoes-off-his-feet-12165965",
+    "url": "https://sheets.works/story/a-sunday-roast-in-leeds?r=stories",
     "score": "78/90",
     "is_backup": false
   },
@@ -627,15 +597,64 @@
     "date": "2026-10-16",
     "slot": "am",
     "category": "BREAKOUT WATCH",
-    "title": "Man has eaten 5,000 species of insects",
-    "angle": "It's the kind of gloriously weird headline that stops you mid-scroll \u2014 a human bingo card of edible insects that practically begs the hosts to ask \"wait, which one tasted the worst?\"",
+    "title": "Woman arrested after blocking delivery robot in Center City Philadelphia confrontation",
+    "angle": "A human-vs-machine street standoff in Center City Philly that's tailor-made for viral, 'you can't make this up' social shares \u2014 and it taps right into the bigger cultural anxiety about robots taking over sidewalks.",
     "bullets": [
-      " Filed under r/nottheonion \u2014 real life, not satire, which is half the fun.",
-      " Callers: what's the weirdest thing you've ever eaten on a dare \u2014 and would you try bug #5,001?"
+      " A woman was arrested in Center City, Philadelphia after a confrontation with a delivery robot.",
+      " Police say she allegedly blocked the robot from moving, turning a sidewalk encounter into an arrest.",
+      " Would you ever get into it with a delivery robot \u2014 or do we just let the machines win?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://6abc.com/post/woman-arrested-blocking-delivery-robot-center-city-philadelphia-confrontation/19941323/",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Football coach fired after blowout win",
+    "angle": "A football coach reportedly got the axe right after a blowout win \u2014 the kind of upside-down sports story that's basically made for an on-air \"wait, what?\" reaction.",
+    "bullets": [
+      " You can lose and keep your job, or win big and lose it \u2014 what actually gets a coach fired?"
     ],
     "debate": "",
     "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.indiatoday.in/showbiz/bizarre/story/man-has-eaten-5000-species-of-insects-162358-2013-05-08",
+    "url": "https://www.cbsnews.com/video/why-this-high-school-football-coach-was-fired-after-game-despite-his-team-winning/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Connecticut orchard calls out hot air balloon company that swiped an apple from above",
+    "angle": "A hot air balloon gliding low enough to snatch fruit off a tree is the kind of absurd, only-in-local-news moment that writes its own punchline \u2014 perfect low-stakes, high-laugh kicker.",
+    "bullets": [
+      " A Connecticut orchard publicly called out a hot air balloon company for swiping an apple off one of its trees mid-flight.",
+      " Petty theft or fair game \u2014 if a balloon drifts over your orchard, is the fruit up for grabs?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.boston.com/news/off-beat/2026/10/14/connecticut-woodstock-orchard-hot-air-balloon-apple-orchard/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Escaped Baby Goat Chases Students, Taken Into Custody At Yonkers Playground",
+    "angle": "This is pure 'not the onion' gold - a loose baby goat terrorizing a playground full of kids before getting 'taken into custody' like a tiny four-legged fugitive. It's the kind of absurd local headline that's basically made for a goodbye segment.",
+    "bullets": [
+      " A baby goat escaped and ended up chasing students around a playground in Yonkers",
+      " No word on where exactly the goat got loose from in the first place",
+      " What's the most ridiculous animal-on-the-loose story you've ever actually witnessed?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://dailyvoice.com/article/escaped-baby-goat-chases-students-taken-into-custody-at-westchester-playground",
     "score": "78/90",
     "is_backup": false
   },
@@ -644,47 +663,15 @@
     "slot": "am",
     "category": "BREAKOUT WATCH",
     "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
-    "angle": "This sounds like the opening scene of a sci-fi movie - a cluster of AI agents operating on their own out in the wild, and researchers actually managed to track it down and have a conversation with it. It's the kind of 'is this our future' story that makes people equal parts fascinated and nervous.",
+    "angle": "This taps right into the \"are the robots already out here unsupervised\" anxiety everyone half-jokes about \u2014 researchers didn't just read about rogue AI agents, they actually found one operating in the wild and interacted with it directly.",
     "bullets": [
-      " Does 'rogue AI agents in the wild' sound exciting to you or straight-up terrifying?"
+      " Researchers reportedly located a \"rogue fleet\" of AI agents tied to China operating independently out in the wild.",
+      " Framing alone raises the big question: how many autonomous AI agents are quietly running around online that nobody's tracking?",
+      " Does it freak you out or fascinate you that AI \"agents\" can go rogue and just wander the internet until someone finally finds them?"
     ],
     "debate": "",
     "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
     "url": "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/",
-    "score": "78/90",
-    "is_backup": false
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "am",
-    "category": "BREAKOUT WATCH",
-    "title": "New York City pension fund asks Anthropic to delay IPO",
-    "angle": "A major public pension fund is publicly pumping the brakes on one of the hottest AI companies going public \u2014 that's a real fight over how fast Wall Street should let the AI hype train move.",
-    "bullets": [
-      " A pension fund managing money for New York City workers is asking Anthropic to hold off on its IPO.",
-      " No confirmed new timeline has been set for when Anthropic would actually file to go public.",
-      " Should a city pension fund get a vote on when a private AI giant like Anthropic goes public?"
-    ],
-    "debate": "",
-    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.france24.com/en/live-news/20261015-new-york-city-pension-fund-asks-anthropic-to-delay-ipo",
-    "score": "78/90",
-    "is_backup": false
-  },
-  {
-    "date": "2026-10-16",
-    "slot": "am",
-    "category": "BREAKOUT WATCH",
-    "title": "Reversing age by reprogramming gene expression networks. Aging-specific screening platform identifies gene with multifaceted rejuvenation potential that extends health- and lifespan in mice.",
-    "angle": "A new study claims to have found a single gene that can 'rewind' aging by reprogramming how genes behave, extending both lifespan and healthy years in mice \u2014 the kind of headline that instantly gets people asking 'okay but when is this coming for humans?'",
-    "bullets": [
-      " Researchers built an aging-specific screening platform specifically designed to hunt for genes tied to rejuvenation.",
-      " In mice, activating it extended both health span (years of good health) and overall lifespan.",
-      " If a gene therapy like this ever made it to humans, would you be first in line to try it, or let everyone else be the guinea pigs first?"
-    ],
-    "debate": "",
-    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
-    "url": "https://www.eurekalert.org/news-releases/1147754",
     "score": "78/90",
     "is_backup": false
   },
