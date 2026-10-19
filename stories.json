@@ -1,6 +1,687 @@
 [
   {
     "date": "2026-10-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "North Texas man finds $128,514 on top of a bank's ATM \u2014 and returns every dollar",
+    "angle": "A North Texas man stumbled on a six-figure pile of cash just sitting on top of a bank ATM \u2014 and instead of walking away rich, he handed over every dollar. It's the kind of good-news-in-a-bad-news-world story that's made for a gut-check debate.",
+    "bullets": [
+      " A man in North Texas found $128,514 in cash stacked on top of a bank's ATM.",
+      " He turned around and returned the entire amount to the bank \u2014 not a dollar missing.",
+      " Story's catching fire online in the r/upliftingnews crowd as a rare win for honesty.",
+      " Be honest: six figures in cash, no one watching \u2014 do you really make that call?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbsnews.com/texas/news/texas-man-finds-120000-dollars-bank-atm-returns-every-dollar-092926/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Brazil: Amazon deforestation lowest in nearly 40 years",
+    "angle": "The Amazon is one of the planet's biggest climate stories, and for once it's a genuinely good-news headline \u2014 Brazil says forest loss has dropped to levels not seen in nearly four decades.",
+    "bullets": [
+      " Brazil's Amazon deforestation rate has fallen to its lowest level in almost 40 years.",
+      " When's the last time you heard actual good climate news \u2014 does this restore any faith?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Would you really give up ChatGPT to shut down data centers? Tech CEO highlights the hypocrisy of some AI critics",
+    "angle": "Would you really give up ChatGPT to shut down data centers? Tech CEO highlights the hypocrisy of some AI critics",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/114234-would-you-really-give-up-chatgpt-shut-down.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "AI bubble could burst and take global economy with it, IMF warns",
+    "angle": "This isn't some niche tech story - the IMF is warning that if AI stocks are a bubble, bursting it could ripple through the entire global economy, which should worry anyone with a 401(k) or a pension tied to the market.",
+    "bullets": [
+      " Feeds into a growing chorus of economists questioning whether AI valuations have gotten ahead of reality.",
+      " Are you quietly pulling money out of AI-heavy investments, or riding the hype till it pops?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "South Korea removes safety barriers to let humanoid robots work alongside humans in factories",
+    "angle": "South Korea is tearing down the safety cages that usually separate humans from industrial robots so humanoid machines can work right next to factory workers - a real step toward the sci-fi future everyone jokes about, and a legit \"wait, is that safe?\" conversation starter.",
+    "bullets": [
+      " South Korea is removing traditional safety barriers that normally separate robots from human workers on factory floors",
+      " It signals a broader shift in how factories are being redesigned around next-gen robotics",
+      " Would you feel safe clocking in next to a robot with no cage between you - or is this exactly how every robot uprising movie starts?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/114215-south-korea-removes-safety-barriers-humanoid-robots-work.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Former CSIS chief warns that China 'will acquire' all information about you in Chinese EVs",
+    "angle": "Chinese EVs are flooding into North American driveways right as a former top Canadian intelligence official says China will scoop up everything that car knows about you - it's the kind of national-security-meets-everyday-life story that makes people look twice at their own garage.",
+    "bullets": [
+      " A former CSIS chief is publicly warning about Chinese-made electric vehicles.",
+      " His claim: China 'will acquire' all the personal data these cars collect on their owners.",
+      " Would a cheaper Chinese EV be worth it to you if it means Beijing could be riding shotgun with your data?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nationalpost.com/news/politics/former-csis-chief-warns-that-china-will-acquire-all-information-about-you-in-chinese-evs",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "WAVY News 10 reporter Chris Horne insists Robert F. Kennedy Jr. address measles after a Trump administration staffer interrupts his questions to say they're not talking about measles: \"He's the highest-ranking health official in the country. He can answer that question. He's a Cabinet Secretary.\"",
+    "angle": "The country's top health official got blocked from answering a basic measles question by his own staffer, caught on camera - and the reporter refused to let it slide. It's the kind of 'wait, what?' clip that's tailor-made for a public trust debate.",
+    "bullets": [
+      " WAVY News 10 reporter Chris Horne tried to ask Robert F. Kennedy Jr. directly about measles",
+      " A Trump administration staffer jumped in mid-question to say they're \"not talking about measles\"",
+      " Horne pushed back on camera: \"He's the highest-ranking health official in the country. He can answer that question. He's a Cabinet Secretary.\"",
+      " If you're the Health Secretary, should your own staff ever be allowed to answer a measles question for you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/xq730r1awtvh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump pauses sanctions package targeted at Russian economy",
+    "angle": "A president putting the brakes on sanctions against a country at war is a geopolitical head-scratcher with real stakes \u2014 it's the kind of move that fuels debate about what's really happening behind closed doors on Ukraine.",
+    "bullets": [
+      " Trump signed an executive order Friday pausing a new sanctions package",
+      " Trump told Congress the pause was in the \"national interest\"",
+      " Is this a smart diplomatic chess move or the US going soft on Russia \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/trump-waiver-russia-sanctions-ukraine-9.7385045?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "\u2018Crypto King\u2019 spent $16.3M of investor funds on cars, credit cards, jets, security, accountant testifies",
+    "angle": "A Toronto man who called himself the 'Crypto King' allegedly torched half of the $36 million investors handed him on his own lifestyle \u2014 while using the other half just to keep paying off earlier investors, classic Ponzi-style. It's a wild real-life scam story with real numbers that'll make listeners' jaws drop.",
+    "bullets": [
+      " Aiden Pleterski, self-styled the \"Crypto King,\" allegedly spent $16.3 million of investor money on himself.",
+      " Investors reportedly handed him $36.3 million total between 2020 and 2022.",
+      " He allegedly spent it on cars, credit cards, private jets, and security.",
+      " A forensic accountant testified he paid out roughly the same amount back to investors as fake \"returns.\"",
+      " Would you ever hand your savings to someone who calls himself a 'king' on social media?"
+    ],
+    "debate": "ifies-9.7384413?cmp=rss",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-spent-16-3m-of-investor-funds-on-cars-credit-cards-jets-security-accountant-test",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "White House press secretary Katie Zacharia leaving her role a week after starting it: official",
+    "angle": "A White House press secretary lasting barely seven days is wild even by this administration's turnover standards \u2014 it's a window into West Wing chaos that always gets people talking.",
+    "bullets": [
+      " Katie Zacharia was installed as White House press secretary only about a week ago",
+      " A White House official confirms to CBC News that she's already on her way out",
+      " No replacement or reason has been officially detailed yet",
+      " A one-week press secretary \u2014 is this the fastest exit in West Wing history, or just business as usual for this White House?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/trump-zacharia-press-secretary-future-9.7383948?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path",
+    "angle": "The PM is accusing Washington of actively trying to fracture the country, right as Alberta inches toward an actual vote on separation \u2014 that's not political spin, that's a national unity story with real stakes for every Canadian listener.",
+    "bullets": [
+      " Mark Carney says the United States is trying to \"break Canada\"",
+      " Alberta is voting on a path toward separation from Canada",
+      " Is Alberta separation a real threat to the country or just leverage in a bigger fight with the US?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/canada-alberta-carney-separation-vote-referendum-4e39eb0f5bda2438b3c2fedbf6088d09",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Prime Minister Carney\u2019s increased immigration proposal risks fracturing Canada further",
+    "angle": "Prime Minister Carney\u2019s increased immigration proposal risks fracturing Canada further",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thehub.ca/2026/10/16/prime-minister-carneys-increased-immigration-proposal-risks-fracturing-canada-further/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "He followed a debunked conspiracy theory to claim a tax refund. So why did the CRA agree to a $40M payout?",
+    "angle": "This is the kind of story that makes you scream at your radio - a fringe, long-debunked \"you don't legally have to pay taxes\" theory somehow worked on the CRA to the tune of $40 million, and every Canadian who's ever been audited over a $200 discrepancy is going to have feelings about it.",
+    "bullets": [
+      " Story is circulating out of r/canada, with details still thin on how it got approved",
+      " If one guy with a fringe theory can get $40 million out of the CRA, why does everyone else get flagged for rounding errors?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/sovereign-citizens-tax-refunds-9.7381911",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Ontario toddler survives rattlesnake bite, partly thanks to 18 doses of antivenom",
+    "angle": "A toddler bitten by a venomous snake at a family cottage is the kind of cottage-country nightmare every Canadian parent fears, and the happy ending with a wild number attached makes it an easy watercooler story.",
+    "bullets": [
+      " A 15-month-old boy from Sarnia, Ont. was bitten by an eastern massasauga rattlesnake \u2014 Ontario's only venomous snake",
+      " He needed treatment at two different hospitals and a total of 18 doses of antivenom",
+      " He's now recovering at home",
+      " Ever had a close call with wildlife at the cottage \u2014 call in with your scariest Ontario-outdoors story."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/london/snake-bite-toddler-bruce-peninsula-9.7383551?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "High-profile legionnaire apologizes following profanity-laced outburst at Carbonear, N.L., wedding reception",
+    "angle": "A decorated veteran going off on a bride mid-wedding is exactly the kind of small-town-Canada, you-can't-make-this-up story that gets phones ringing - especially once the apology drops and everyone wants to know what actually set him off.",
+    "bullets": [
+      " Berkley Lawrence, described as a high-profile Royal Canadian Legion member and veteran, confronted the bride just as she was about to throw her wedding bouquet.",
+      " It happened at a reception inside the Royal Canadian Legion branch in Carbonear, N.L.",
+      " Lawrence has since publicly apologized for the outburst.",
+      " What's the most unhinged thing you've ever seen someone pull at a wedding reception?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/legion-wedding-outburst-9.7383382?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Nova Scotia to host massive data centre to power Anthropic's AI assistant Claude",
+    "angle": "A massive data centre is coming to Nova Scotia to help power Anthropic's AI assistant Claude \u2014 a huge tech investment landing somewhere you wouldn't expect, which means real jobs, real power demands, and bragging rights in the AI race.",
+    "bullets": [
+      " Nova Scotia has been chosen as the site for a major new data centre.",
+      " It's a sign East Coast Canada is becoming a real player in the global AI infrastructure boom.",
+      " Big tech investment and jobs vs. the strain on local power grids \u2014 which side wins the argument where you live?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/nova-scotia-to-host-massive-data-centre-to-power-anthropic-s-ai-assistant-claude-9.73",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada\u2019s immigration levels could soon be increased. Here\u2019s why",
+    "angle": "After years of tightening the taps to ease housing and cost-of-living pressure, word is Ottawa could reverse course on immigration targets - a flashpoint topic that touches jobs, housing, and national identity for basically every Canadian listener.",
+    "bullets": [
+      " Should Canada be raising immigration levels right now, or is the country still catching its breath from the last wave? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "d1dFpFQ1JiVVRUMUotMGY4UFFZNFhhQ01STG5STV8xMHpoSjdGaXlQamo5dGVscEc3NGdnYkhGYUJISFJiR3otaTAtSHdRR3hWZw?",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa2d4RkllV2dFSWZBZ2xRV19XLWpRcHhpOTkxLXdmWC1MbWF4Wldx",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "LIVE3 Digital Channel",
+    "angle": "CTV News is expanding where you can actually find them, launching a new digital channel called LIVE3 \u2014 worth a quick mention for anyone who's cut the cord and gets their news online now. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "bullets": [],
+    "debate": "lBYVdySnA1N1lVMUtwMnJWR1VfT2I4S3FRbGotTVhrd0g3Ml9HUF9XQzh1Y3JiUWlXeHVFVXNDMDhWYVdaLXc3NnE3eFE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnanZ5RWRhZGJlaHRHbUJYdjVKUHAzeHJuSHF1UDE5RGZ4QVRKU2lZVk",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "James McAvoy Reveals Which Film Paid Him \u201cBonkers\u201d Residuals - The Hollywood Reporter",
+    "angle": "Everyone wonders how actors actually get paid after a movie leaves theaters \u2014 McAvoy's wildly uneven checks are a fun, relatable peek behind the Hollywood money curtain.",
+    "bullets": [
+      " James McAvoy said one film paid him \"bonkers\" residuals, on the Happy Sad Confused podcast",
+      " He admitted he also sometimes gets checks for \"like 25 cents\"",
+      " What's the smallest paycheck you've ever gotten for work you were genuinely proud of? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/movies/movie-news/james-mcavoy-film-split-paid-bonkers-residuals-1236733475/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Who's to blame for Dodgers' shocking NLCS loss vs. Brewers? Five places to point fingers - CBS Sports",
+    "angle": "The defending-powerhouse Dodgers just got swept out of the NLCS, and that kind of collapse always needs a villain \u2014 giving the hosts a classic sports-radio blame game to referee.",
+    "bullets": [
+      " CBS Sports points fingers at stars including Freddie Freeman and Shohei Ohtani for sharing the blame.",
+      " It's the Brewers' first-ever trip to the Series as a National League team \u2014 they were still in the American League the last time they made it.",
+      " Who's really at fault when a stacked team like the Dodgers gets swept \u2014 the superstars, the manager, or just bad timing? CBS Sports (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.cbssports.com/mlb/news/whos-to-blame-dodgers-shocking-nlcs-letdown-brewers/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Paramore\u2019s Hayley Williams Urges Sold-Out Crowd to Support Independent Music: \u201cGo to Little Shows at Independent Venues. Find Your People, Find Your Favorite Music, and Support That.\u201d",
+    "angle": "Paramore's frontwoman used a massive sold-out show to push fans toward the opposite experience \u2014 tiny indie venues \u2014 which taps right into the \"touring is too expensive now\" conversation everyone's already having.",
+    "bullets": [
+      " Hayley Williams told a sold-out crowd to \"go to little shows at independent venues\"",
+      " Her exact pitch: \"find your people, find your favorite music, and support that\"",
+      " Packed arena with pyro and jumbotrons, or sweaty 100-cap dive bar where you discover your next favorite band \u2014 which one actually hits harder?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tvfandomlounge.com/hayley-williams-support-independent-music/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'I Lost a $3 Million Deal': Zara Larsson Stands by Political Views Despite Costing Herself Lucrative Brand Deals",
+    "angle": "A pop star openly admitting she torched a seven-figure brand deal over her political views is the kind of celebrity-money-meets-principles story that practically begs for a 'would you do it?' debate.",
+    "bullets": [
+      " Zara Larsson says she turned down or lost a brand deal worth $3 million.",
+      " She says the deal fell apart specifically because of her political views.",
+      " Despite the massive payout lost, she says she stands by her stance.",
+      " Would you walk away from $3 million to stay true to your politics?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/zara-larsson-lost-business-opportunities-outspoken-views-1765860",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018No one was coming to save me\u2019: How Reese Witherspoon built a $900 million company from a problem Hollywood wouldn\u2019t fix",
+    "angle": "Reese Witherspoon says nobody in Hollywood was going to fix the lack of good roles and stories for women, so she built her own empire instead \u2014 a classic underdog-to-mogul story that doubles as a gut-punch quote about the industry.",
+    "bullets": [
+      " Reese Witherspoon built her company, now valued at $900 million, to solve a problem Hollywood refused to fix.",
+      " Her quote on the grind: \"No one was coming to save me.\"",
+      " Is 'no one's coming to save you' the best career advice out there, or just survivor's-bias hustle talk?"
+    ],
+    "debate": "ood-wouldnt-fix/?utm_source=reddit/",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://fortune.com/article/reese-witherspoon-buys-back-hello-sunshine-how-she-built-a-900-million-company-from-a-problem-hollyw",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Katie Zacharia has been dismissed as White House Press Secretary after just 5 days in the role",
+    "angle": "Katie Zacharia has been dismissed as White House Press Secretary after just 5 days in the role",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html?smid=nytcore-ios-share",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Students from North Carolina A&T can be seen marching back to their HBCU after voting on the first day of early voting in the state. The Guilford County Board of Elections voted to remove the school\u2019s on-campus polling site. (video via Todd Simmons)",
+    "angle": "Guilford County pulled North Carolina A&T's on-campus polling site right as early voting kicked off, and students responded by turning their walk back to campus into a viral moment. It taps straight into the national debate over voting access at HBCUs.",
+    "bullets": [
+      " North Carolina A&T students were filmed marching back to campus after voting on the first day of early voting.",
+      " Video of the march was shared by Todd Simmons.",
+      " Pulling a polling site off an HBCU campus during early voting - logistics call or voter-access problem?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/a0hqewdocxvh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Baywatch\u2019 alum Nicole Eggert still horrified by \u2018mistreatment\u2019 during 1995 Howard Stern interview",
+    "angle": "The 'Baywatch' star is dredging up a decades-old Howard Stern interview she calls mistreatment, and it's landing right as Stern's under fire for layoffs while reportedly banking $8K a minute himself.",
+    "bullets": [
+      " Nicole Eggert says she's still 'horrified' by how she was treated in a 1995 Howard Stern interview",
+      " Stern is reportedly pulling in an estimated $8,000 per minute on air while trimming his team",
+      " Does this old clip deserve a pile-on now, or is it just Stern's shock-jock era getting judged by today's rules? pagesix.com (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/16/celebrity-news/baywatch-alum-nicole-eggert-still-horrified-by-mistreatment-during-1995-howard-stern",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Street Fighter\u2019 Eyes Box Office Victory as Buzzy Elizabeth Holmes Doc Heads for Strong Launch - The Hollywood Reporter",
+    "angle": "A video-game movie going toe-to-toe with a buzzy Elizabeth Holmes documentary is the kind of mismatched box-office fight that's actually fun to call - action movie vs. true-crime prestige doc, same weekend, same screens.",
+    "bullets": [
+      " Street Fighter is chasing a \"muscular\" opening weekend at the box office",
+      " Its biggest competition: A24's Elizabeth Holmes documentary 'You Can See Everything'",
+      " Other new releases crowding the weekend include 'Whalefall' and 'Sense and Sensibility'",
+      " Who you got this weekend - roundhouse kicks or the Theranos scandal? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/movies/movie-news/street-fighter-box-office-whalefall-you-can-see-everything-1236733042/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Fourth Wing\u2019 TV Series Casts Esther McGregor and Emilio Sakraya as Violet Sorrengail and Xaden Riorson - Variety",
+    "angle": "This is the biggest book-to-screen adaptation in the romantasy world right now, and the fanbase has been obsessing over casting rumors for months - so whoever got picked is about to get the internet's full attention, good or bad.",
+    "bullets": [
+      " Esther McGregor has been cast as Violet Sorrengail, the series' lead",
+      " Emilio Sakraya will play love interest Xaden Riorson",
+      " \"Fourth Wing\" is one of the biggest romantasy franchises going, so this casting news hits a built-in fandom hard",
+      " Book fans always have strong opinions on casting - do these two match the mental image from the page? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/news/fourth-wing-tv-series-xaden-riorson-emilio-sakraya-1236905893/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Jon Gosselin speaks out in defense of son Collin\u2019s bombshell memoir, threatens legal action - Page Six",
+    "angle": "The Gosselins were one of the biggest reality TV families ever, and now their adult son's bombshell memoir has cracked the family wide open again \u2014 with dad publicly siding with him and threatening to sue.",
+    "bullets": [
+      " Jon Gosselin is publicly defending son Collin, 22, after Collin's new memoir made shocking allegations against mom Kate Gosselin",
+      " Jon says he's 'proud' of Collin for writing the book",
+      " Jon is firing back at Kate's claim that Collin is mentally ill, calling it out directly",
+      " Jon is now threatening legal action over the fallout",
+      " Whose side are you on in this family blowup \u2014 Team Jon or Team Kate? Page Six (via NewsAPI) (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Tonight\u2019s Lotto Max jackpot hits record-breaking $90 million. What are the odds you\u2019ll win?",
+    "angle": "Tonight\u2019s Lotto Max jackpot hits record-breaking $90 million. What are the odds you\u2019ll win? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "bullets": [],
+    "debate": "ZGxEMmxHMF9ERF9WMmRWWXJlbHFabENOcHFNdEZIM01BT1d0c2JFVFBNd2s4WEU1clNKQWJTczVJbmRO?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOTJCeWdjT0ZianhHamZBLU1tQlM3QVlWd2JEYVYxQkNEdUwwaExsTlJ",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Vogue Williams criticises Kelly Clarkson for 'naming and shaming' a small business as she weighs into \u00a311k singing bird row",
+    "angle": "Kelly Clarkson publicly called out a small business over a pricey singing bird, and now Vogue Williams is piling on saying that's not a fair fight. It's the classic celebrity-vs-small-business debate that always gets phones ringing.",
+    "bullets": [
+      " Vogue Williams called out Kelly Clarkson for \"naming and shaming\" a small business online.",
+      " At the center of it all: a viral \u00a311,000 singing bird dispute.",
+      " Is it fair game for a celebrity to publicly drag a small business, or is Kelly Clarkson in the right if she got burned?"
+    ],
+    "debate": "",
+    "source": "www.dailymail.co.uk (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16213959/Vogue-Williams-criticises-Kelly-Clarkson-singing-bird-row.html?ns_mchannel=",
+    "score": "77/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Large study finds no link between ultra-processed food and colorectal cancer",
+    "angle": "Ultra-processed food has been Public Enemy No. 1 in health headlines for years, so a big study pumping the brakes on the colorectal cancer link is the kind of myth-busting that gets people talking about their own guilt trips over snacking.",
+    "bullets": [
+      " A large-scale study reportedly found no link between eating ultra-processed foods and developing colorectal cancer",
+      " Does this news make you feel less guilty about your snack drawer, or do you still not trust 'processed' food?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://doi.org/10.1371/journal.pmed.1005251",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A family of barn owls has become Manhattan\u2019s newest celebrities after nesting in a water tower near Central Park, in what experts believe is the first documented nest in the borough\u2019s modern history. At least five fledglings are drawing delighted crowds each night.",
+    "angle": "A family of barn owls nested in a Central Park-area water tower \u2014 reportedly the first documented nest like it in the borough's modern history \u2014 and now crowds are showing up nightly just to watch them. It's pure feel-good, 'nature invades the city' content that's made for a quick chat.",
+    "bullets": [
+      " A family of barn owls nested in a water tower near Central Park",
+      " Experts believe it's the first documented nest of its kind in Manhattan's modern history",
+      " At least five fledglings have hatched from the nest",
+      " Crowds are reportedly gathering every night to watch the owls",
+      " Would you brave the Central Park crowds at night just to spot an owl family?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.independent.co.uk/news/world/americas/barn-owls-upper-west-side-nyc-central-park-b3068099.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Plastic isn't as inert as we'd thought: Scientists found that tiny everyday microplastics sitting in plain water spontaneously make reactive oxygen, a damaging chemical that made proteins clump and burst red blood cells in lab tests. The more water-repelling the plastic, the stronger it was.",
+    "angle": "We've all been told microplastics are everywhere, but new lab research says they're not just sitting there inert - they're chemically active, generating damage on their own. It's a creepy, relatable 'wait, what's actually in my water' moment that's made for a lifestyle chat.",
+    "bullets": [
+      " Scientists found tiny microplastics sitting in plain water spontaneously produce reactive oxygen - a damaging chemical byproduct.",
+      " In lab tests, that reactive oxygen made proteins clump together and caused red blood cells to burst.",
+      " Ask listeners: does this change how you feel about that plastic water bottle on your desk right now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nature.com/articles/s41586-026-11141-y",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "CLOSER: WHAT THE FRIDAY",
+    "title": "Bizarre reason woman went overboard on a Royal Caribbean cruise ship revealed",
+    "angle": "A cruise passenger spent nearly a full day lost at sea before a cargo ship crew pulled her out alive \u2014 and the reason she ended up in the water is the real hook here, the kind of stranger-than-fiction twist that's made for a Friday wildcard segment.",
+    "bullets": [
+      " Passenger went overboard from a Royal Caribbean cruise ship",
+      " Survived a 20-hour ordeal adrift in open water",
+      " Rescued by crew aboard the cargo ship MSC Rossella III",
+      " Pulled from the sea in the early hours of Oct. 10",
+      " She survived 20 hours in open water \u2014 guess the 'bizarre reason' before we tell you how she actually ended up overboard."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 73/90 (40 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/16/world-news/bizarre-reason-woman-went-overboard-on-a-royal-caribbean-cruise-ship-revealed/",
+    "score": "73/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "CLOSER: WHAT THE FRIDAY",
+    "title": "The Elizabeth Holmes documentary \"You Can See Everything\" has one WTF moment after the next.",
+    "angle": "A new Elizabeth Holmes documentary just dropped and it's reportedly packed with bizarre, can't-look-away moments \u2014 exactly the kind of pop culture trainwreck that makes for easy Friday chat.",
+    "bullets": [
+      " Variety says it has 20 buzziest moments, from full-frontal nudity to a surprise Charlie Kirk shoutout",
+      " One moment reportedly shows Holmes watching \"The Dropout\" \u2014 the Hulu show already made about her",
+      " Which is weirder: Elizabeth Holmes watching the show about herself, or the random Charlie Kirk cameo? ON-AIR BIT BREAKDOWN - Step 1: Guess the WTF Moment - 30 seconds, before reveal -> Hosts each guess what the single weirdest moment in a 20-moment list could be before reading any of them off - Step 2: Reveal the Real Ones - 1 minute -> Read the nudity, Charlie Kirk, and \"watching The Dropout\" moments out loud and react live - Step 3: Rank Them - 30 seconds -> Hosts argue which of the three is the most unhinged and pick a winner on air X/Twitter @Variety (Tier 1) | Score: 67/90 (40 fit + 12 source + 15 quality) -> STRONG"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Variety/status/2111259900253012249",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Homeless man insults Erdogan to get bed in jail: report",
+    "angle": "A homeless man reportedly trash-talked Turkey's president specifically to get arrested, because jail beat sleeping outside - a wild reminder of how far people will go when they've got nowhere else to sleep.",
+    "bullets": [
+      " Would you rather risk jail time than another night outside - what's the most desperate move you've heard of someone pulling just to get a roof over their head?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.france24.com/en/live-news/20261016-homeless-man-insults-erdogan-to-get-bed-in-jail-report",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "\"the blob\" has 720 sexes, solves mazes without a brain, and can merge seamlessly with fellow blobs",
+    "angle": "A brainless, genderless-but-not slime mold is out-thinking humans at a Paris zoo, and it's exactly the kind of bizarre nature story that makes for easy, fun watercooler chat.",
+    "bullets": [
+      " \"The Blob\" is a slime mould currently on display at a zoo in Paris",
+      " It has no brain and no nervous system \u2014 yet it can still solve mazes",
+      " Scientists estimate it has around 720 distinct sexes",
+      " Multiple blobs can merge seamlessly into one, blurring the idea of it even being a single creature",
+      " A creature with no brain and 720 sexes can solve a maze \u2014 what's everyone's excuse for Mondays?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.abc.net.au/news/2019-10-17/paris-zoo-unveils-blob-organism-with-720-sexes/11610804",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
+    "angle": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Micro Center now lists GeForce RTX 5090 cards as 'Not Carried'",
+    "angle": "The RTX 5090 is the hottest (and priciest) GPU on the market, and now a major retailer isn't even pretending to stock it \u2014 that's a real signal for anyone building or upgrading a PC this holiday season.",
+    "bullets": [
+      " Micro Center \u2014 one of the biggest electronics retailers in the US \u2014 is now listing the RTX 5090 as 'Not Carried'",
+      " Story is circulating on Reddit's r/technology, fueling fresh chatter about GPU shortages and pricing",
+      " Is anyone actually paying retail for a top-tier GPU anymore, or has the whole market gone scalper-only?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://videocardz.com/newz/micro-center-now-lists-geforce-rtx-5090-cards-as-not-carried",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "MapQuest's new tool can help you avoid Flock cameras",
+    "angle": "MapQuest is reportedly adding a feature that helps drivers steer clear of Flock Safety cameras - the automated license plate readers police departments use for surveillance - which taps right into the growing national fight over privacy, tracking, and how much Big Brother belongs on your commute.",
+    "bullets": [
+      " Smart privacy move or a tool for dodging accountability - which side are you on?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.androidauthority.com/mapquest-flock-cameras-3724529/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-16",
     "slot": "am",
     "category": "THE LIST",
     "title": "California principal admits to rigging student election to make child class president",
