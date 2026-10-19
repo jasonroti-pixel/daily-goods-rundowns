@@ -1,5 +1,634 @@
 [
   {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Ina Garten Shares Her Secret to Perfect Scrambled Eggs - WSJ",
+    "angle": "Ina Garten is basically America's cooking grandma, so when the Barefoot Contessa reveals her go-to trick for scrambled eggs, people actually try it that same morning - easy, relatable content that gets everyone comparing notes on their own method.",
+    "bullets": [
+      " Ina Garten, aka the Barefoot Contessa, is sharing her go-to method for scrambled eggs",
+      " Billed as her personal \"secret\" - exact technique not detailed in the wire snippet",
+      " Low and slow or hot and fast - how do YOU make your scrambled eggs, and is Ina's way about to change your mind?"
+    ],
+    "debate": "RenlVVE03UjhmN1NCeEduS050VjBJV21JUG9tMjV3MDFXcWxINg?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXJMSDZFY01CdXZQQXdrNkZIclNkalJ1Nk9FLXlqVmN6R0VibHZEV1Vx",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "A Savannah police officer gave her Flock login to her ICE agent husband / SPD officer Amber Harpe was fired for sharing her Flock access with her ICE agent husband.",
+    "angle": "This one's got everything: a badge, a marriage, and federal immigration agents getting backdoor access to local surveillance data. It taps straight into the national fight over ICE reach and who's watching your license plate.",
+    "bullets": [
+      " Amber Harpe, an officer with the Savannah Police Department, was fired over the incident.",
+      " She allegedly shared her personal login for Flock, the license-plate-reading surveillance system, with her husband.",
+      " Her husband works as an ICE agent \u2014 meaning federal immigration enforcement may have had a side door into local police surveillance data.",
+      " Flock's camera network is used by thousands of police departments across the U.S., so this isn't a one-city problem.",
+      " Should a local cop's login ever be ICE's backdoor into tracking cars nationwide?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Drone Strike Hits Russia\u2019s VKontakte Data Center, Knocking Services Offline as St. Petersburg Faces Blackouts",
+    "angle": "A drone strike just hit the data center running VKontakte \u2014 basically Russia's version of Facebook \u2014 knocking it offline while St. Petersburg deals with blackouts. It's a reminder that this war is now hitting the internet and the power grid, not just the battlefield.",
+    "bullets": [
+      " A drone strike reportedly hit a data center running VKontakte, Russia's dominant home-grown social network.",
+      " St. Petersburg \u2014 one of Russia's biggest cities \u2014 is also facing blackouts in the aftermath.",
+      " Does knocking out a country's social media feel like a bigger escalation than knocking out its power \u2014 or is it all the same fight now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://united24media.com/war-in-ukraine/drone-strike-hits-russias-vkontakte-data-center-knocking-services-offline-as-st-petersburg-f",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Friends don\u2019t let friends feed their data to AI agents",
+    "angle": "AI assistants like Muse don't just use your data - they can scoop up info about everyone in your contacts, texts, and photos who never signed up or agreed to anything, and that's sparking a real privacy backlash online.",
+    "bullets": [
+      " It's part of a growing online backlash questioning how much personal data AI agents quietly absorb about bystanders.",
+      " Have you ever found out an app had your info because a FRIEND gave it access - not you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Solar surpasses nuclear power globally for first time",
+    "angle": "For the first time ever, solar power has pulled ahead of nuclear in total global electricity generation - a real tipping-point moment in the clean energy race that's got people arguing over which power source actually gets us to a carbon-free future.",
+    "bullets": [
+      " Solar power has officially overtaken nuclear energy in global electricity generation for the first time on record.",
+      " It's being flagged as a milestone moment in the shift away from fossil fuels and traditional power grids.",
+      " Solar panels or nuclear reactors - which one do you actually trust to power the next 50 years?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Trump faces humiliation as Elizabeth Holmes doc doubles Melania box office debut",
+    "angle": "Trump faces humiliation as Elizabeth Holmes doc doubles Melania box office debut",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.irishstar.com/culture/entertainment/melania-box-office-elizabeth-holmes-37785437.amp",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Inflation rises to 3.1%, as fuel prices push higher: StatsCan",
+    "angle": "Cost-of-living pain is creeping higher again, and it's hitting everyone right where they feel it most: filling up the tank. That's an easy, relatable number for listeners to measure against their own receipts.",
+    "bullets": [
+      " Canada's annual inflation rate climbed to 3.1% in September, according to Statistics Canada.",
+      " It's a reversal of the trend \u2014 cost-of-living pressure ticking up instead of cooling off.",
+      " Call in: how much more are you paying at the pump this month than last?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/business/inflation-september-2026-9.7386437?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Inconsistent guidelines for AI use in N.S. classrooms fuel calls for provincewide policy",
+    "angle": "Every parent with a school-age kid has wondered if ChatGPT is helping or hurting homework - and it turns out Nova Scotia schools don't even agree on the rules, which is basically the whole country's problem too.",
+    "bullets": [
+      " Nova Scotia has no provincewide policy on AI use in classrooms",
+      " Parents and educators are pushing back, demanding consistency and real guardrails",
+      " Should AI in the classroom be banned, embraced, or somewhere in between - and who should actually be deciding that, the province or the school?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/artificial-intelligence-nova-scotia-schools-9.7378965?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "CJ Gardner-Johnson ejected after spitting on Raiders\u2019 Brock Bowers \u2014 with further punishment possible",
+    "angle": "An NFL player got ejected mid-game for spitting on an opponent and is already defending himself publicly \u2014 that's a controversy with a villain, a victim, and a league ruling still to come, which is exactly the kind of thing that gets phone lines lit up.",
+    "bullets": [
+      " CJ Gardner-Johnson was ejected Sunday for spitting on Raiders tight end Brock Bowers",
+      " Spitting on another player \u2014 ejection-worthy or should the NFL suspend him outright?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/19/sports/cj-gardner-johnson-ejected-after-spitting-on-raiders-brock-bowers/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Officials say catastrophic base fire was known ahead of time, allowed to burn",
+    "angle": "A catastrophic base fire wasn't a surprise \u2014 officials reportedly saw it coming and chose to let it burn anyway, which turns this from a disaster story into an accountability scandal.",
+    "bullets": [
+      " If officials knew this fire was coming and let it happen, who should actually be held responsible?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/edmonton/article/officials-say-catastrophic-base-fire-was-known-ahead-of-time-allowed-to-burn/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "When it comes to the cars we drive, Canadians would rather be a little more European",
+    "angle": "A new trend suggests Canadian drivers are shifting away from classic North American rides toward European makes - a fun gearhead debate about taste, price, and maybe a little cross-border pride.",
+    "bullets": [
+      " Call in: are you Team European ride or Team good ol' North American muscle?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thestar.com/opinion/contributors/when-it-comes-to-the-cars-we-drive-canadians-would-rather-be-a-little-more-european/a",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "French \"lyc\u00e9e\" protests spread to Quebec as Montreal students take to streets in solidarity",
+    "angle": "A wave of student unrest in France's 'lyc\u00e9es' has crossed the Atlantic, with Montreal students hitting the streets in solidarity - a sign this isn't just a local campus issue but a trend worth watching in Canadian cities too.",
+    "bullets": [
+      " Protests reportedly began among lyc\u00e9e (high school) students in France",
+      " Montreal students have now taken to the streets in a show of solidarity",
+      " Would you want your own kid walking out of class to join a protest like this - and does solidarity with a cause overseas justify skipping school at home?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/montreal/french-lycee-student-protests-spread-quebec-9.7385998",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Calgary Opera Removes Singer Gabriel Sanchez-Ortega from Production After He Displays a Palestinian Flag During Curtain Call",
+    "angle": "An opera singer getting yanked from a show over a political gesture mid-bow is the kind of arts-world-meets-Mideast-politics collision that's lighting up social media right now \u2014 free expression on stage versus a venue trying to stay neutral.",
+    "bullets": [
+      " Singer Gabriel Sanchez-Ortega was removed from a Calgary Opera production",
+      " He displayed a Palestinian flag during the curtain call",
+      " Should an opera house be able to boot a performer for a political gesture on stage, or is that just an overreaction?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Bank fraud victims ask: Why aren't Canadian banks held more liable?",
+    "angle": "Bank fraud victims across Canada are speaking out, asking why banks here don't have to cover losses the way some other countries require - it's a real gut-punch story that taps into money anxiety almost everyone can relate to.",
+    "bullets": [
+      " Have you or someone you know ever gotten scammed and had the bank basically shrug?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/gopublic/bank-fraud-legislation-9.7382518?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Rising use of AI-staged real estate photos raises questions about misleading homebuyers",
+    "angle": "AI-staged photos are popping up all over Ontario real estate listings, and buyers are starting to notice the furniture looks... off. It's a fresh wrinkle in an already brutal housing market where trust in listings matters a lot.",
+    "bullets": [
+      " Homebuyers browsing Ontario listings are spotting furniture that \"doesn't look quite right\" in photos",
+      " Experts say the tool has both upsides and downsides for buyers house-hunting online",
+      " Would you feel misled if you toured a house and the \"staged\" living room you fell in love with online never actually existed?"
+    ],
+    "debate": ".7382211?cmp=rss",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/toronto/rising-use-of-ai-staged-real-estate-photos-raises-questions-about-misleading-homebuyers-9",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "This baseball team has lost every game for 6 years. But they feel like winners",
+    "angle": "A Nova Scotia high school baseball team is on a six-year losing streak, but instead of quitting, the players say it's exactly why everyone gets to play and have fun. It's a feel-good underdog story that flips the whole 'winning is everything' sports narrative on its head.",
+    "bullets": [
+      " Players say the losing streak means everyone gets a chance to play, not just the top athletes.",
+      " CBC's Meig Campbell went out to meet the team and see the 'winning spirit' firsthand.",
+      " Would you rather play every inning on a team that never wins, or ride the bench on a championship squad?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/player/play/9.7384073?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "LEGO Scotia Place admired by thousands at annual LEGO convention",
+    "angle": "A fan-built LEGO replica of Edmonton's Scotia Place tower was a showstopper at a major LEGO convention, drawing huge crowds \u2014 a fun local-pride moment about the patience it takes to build a skyscraper brick by brick.",
+    "bullets": [
+      " A LEGO model of Scotia Place was a featured attraction at an annual LEGO convention",
+      " Organizers say thousands of attendees stopped to admire the build",
+      " Would you have the patience to build a skyscraper out of LEGO, brick by brick? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "DY0dE85bGNIYkJsRmh0QXlTVnU3NWtSRnVpMDdjRGJIeEY5LTRyenhxVQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONWtCbGt5QzgyT2QySncydHRUaWtOdUhiaF9IUjI2Tnd2YjBUX05ZTzdU",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Barbara Palvin, who gave birth a month and a half ago, walking the 2026 Victoria's Secret Fashion Show",
+    "angle": "A Victoria's Secret Angel strutting the big show just six weeks postpartum is instant watercooler talk about body image, the 'snapback' pressure on new moms, and how fast celebrity culture expects women to bounce back.",
+    "bullets": [
+      " Barbara Palvin gave birth about six weeks before hitting the runway.",
+      " She walked in the 2026 Victoria's Secret Fashion Show.",
+      " Story is circulating out of the r/fauxmoi community on Reddit.",
+      " Is six weeks postpartum on a runway empowering - or just more pressure on new moms to 'bounce back' fast?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://v.redd.it/2t3zgbhadbwh1",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Model Alexandria Morgan speaks out against Victoria\u2019s Secret.",
+    "angle": "A model going public against the brand that made her famous is instant drama - it taps into the bigger conversation about how fashion brands treat the faces that sell their image.",
+    "bullets": [
+      " Do models owe brands loyalty, or does speaking out take real guts?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://i.redd.it/0dtgd7xrpbwh1.jpeg",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Bella Hadid opens Victoria\u2019s Secret Fashion Show 2026 in floral wings",
+    "angle": "The Victoria's Secret Fashion Show is a cultural reset button, and Bella Hadid opening it for a sixth time is the kind of recurring pop-culture moment that always gets people talking fashion, nostalgia, and the show's comeback era.",
+    "bullets": [
+      " Bella Hadid opened the Victoria's Secret Fashion Show 2026",
+      " She wore elaborate floral wings for the runway opener",
+      " It marked her sixth time opening the show",
+      " Is Bella Hadid the new permanent face of the VS runway, or is it time to pass the wings to someone else? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/18/style/bella-hadid-opens-victorias-secret-fashion-show-2026-in-floral-wings/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Gigi Hadid spreads her wings on the Victoria\u2019s Secret Fashion Show 2026 runway",
+    "angle": "Victoria's Secret's fashion show comeback keeps building buzz, and landing a name like Gigi Hadid as the very first confirmed model signals they're going all-in on star power for the LA return.",
+    "bullets": [
+      " This year's show is set in LA",
+      " Victoria's Secret roping in Gigi first says everything about how hard they're pushing to make this comeback feel like a real cultural moment again. pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/18/style/gigi-hadid-spreads-her-wings-on-the-victorias-secret-fashion-show-2026-runway/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "The Best, Worst and Oops Moments from the 2026 Victoria\u2019s Secret Fashion Show -",
+    "angle": "The Victoria's Secret Fashion Show is back in the cultural conversation, and these year-in-review 'best/worst/oops' recaps are tailor-made for hosts to riff on wardrobe malfunctions, surprise cameos, and runway drama.",
+    "bullets": [
+      " Ask listeners: what's the most iconic Victoria's Secret runway moment ever, and did this year's show live up to it? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "Tk3M2ctSUlyajc0dTJmV2VJOA?oc=5",
+    "source": "People.com",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc2tkbFNneWlCYU0zRkhHM19MT3BtSGc3ODNmVk4yZjFvV081a1p3aXJL",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Barbara Palvin Says It\u2019s \u2018Not That Big of a Deal\u2019 to Walk Victoria\u2019s Secret Runway at 6 Weeks Postpartum (Exclusive) - People.com",
+    "angle": "A supermodel walking a major runway show six weeks after giving birth is instant watercooler material - it taps into the ongoing debate about postpartum pressure and what new moms 'should' be doing with their bodies.",
+    "bullets": [
+      " Barbara Palvin walked the Victoria's Secret runway just six weeks after giving birth.",
+      " In an exclusive with People.com, Palvin brushed off the milestone, calling it 'not that big of a deal.'",
+      " Her comments push back on the idea that new moms need to 'bounce back' on any particular timeline.",
+      " Six weeks postpartum on a runway - empowering comeback or unrealistic pressure dressed up as 'no big deal'? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "aVVySUtLVTlmTXV2M09uOTk4cXRQMFZvbGJadksyOW1aNG96dw?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeU40Vi1CRnNLVC1oa3hDLXlxdG84SUpVZGVWVU55eWh4QjZpVDZPZ",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Trinity Tatum Shares Her Love Island Villa Fashion Inspiration &amp; What\u2019s Next For Her | Victoria Secret Fashion Show 2026",
+    "angle": "Love Island fans are obsessed with villa fashion, and Trinity Tatum breaking down her looks plus teasing what's next for her \u2014 right as Victoria's Secret Fashion Show buzz heats up \u2014 is exactly the pop-culture crossover that gets listeners talking.",
+    "bullets": [
+      " Trinity Tatum is opening up about her Love Island villa fashion inspiration",
+      " She's also teasing what's next for her career-wise",
+      " Shared via Billboard on X/Twitter",
+      " Who had the best villa wardrobe this season \u2014 and does Trinity's style translate to a runway career? X/Twitter @Billboard (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2112159374873358523",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Trinity Tatum Shares Her Love Island Villa Fashion Inspiration &amp; What\u2019s Next For Her | Victoria Secret Fashion Show 2026",
+    "angle": "Reality stars turning fashion moments into real careers is a pop-culture staple, and Trinity Tatum name-checking the Victoria's Secret Fashion Show buzz has fans wondering if she's about to level up from villa fashion to the big leagues.",
+    "bullets": [
+      " Which reality star's wardrobe deserves its own fashion line? X/Twitter @Billboard (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2112033108769812857",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "The iconic Bigfoot video from 1967 is officially confirmed to be a hoax after new archival footage was found for an upcoming documentary",
+    "angle": "This grainy clip has fueled Bigfoot believers for nearly 60 years \u2014 now newly surfaced archival footage made for an upcoming documentary reportedly proves it was staged all along, which is the kind of childhood-myth-buster that gets everyone talking.",
+    "bullets": [
+      " New archival footage surfaced during production of an upcoming documentary",
+      " Filmmakers say the material officially confirms the famous clip was a hoax",
+      " Does proving this one's fake kill Bigfoot for you, or do true believers never actually need the tape to be real?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/reviews/capturing-bigfoot-review-an-amazing-doc-uncovers-the-truth-1236915797/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Jesse Eisenberg Says He \u2018Couldn\u2019t Get Movie Studio Parts Anymore\u2019 After Winning A Razzie For \u2018Batman v Superman\u2019: \u2018The Industry Did Not Want Me to Be in a Superhero Movie\u2019",
+    "angle": "He played Lex Luthor, won a Razzie for it, and says Hollywood quietly blacklisted him from superhero movies ever since \u2014 a rare, blunt admission about how brutal awards-season mockery can actually follow an actor around.",
+    "bullets": [
+      " Jesse Eisenberg says he \"couldn't get movie studio parts anymore\" after his run in 'Batman v Superman'",
+      " He won a Razzie Award (the anti-Oscar for the industry's worst) for his performance as Lex Luthor",
+      " His quote: \"The industry did not want me to be in a superhero movie\" \u2014 framing it as a direct career consequence",
+      " Does a Razzie actually tank your career, or is Eisenberg giving himself an easy excuse for going indie?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/global/jesse-eisenberg-razzie-batman-v-superman-1236915876/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Outrage after Meta suspends No Kings Instagram account during protests",
+    "angle": "The 'No Kings' protests have been some of the biggest nationwide demonstrations in years, and now the main organizing account just got suspended by Instagram right in the middle of it \u2014 cue every conspiracy theory about Big Tech playing favorites.",
+    "bullets": [
+      " Meta suspended the No Kings Instagram account during active nationwide protests",
+      " No Kings has been one of the largest recurring protest movements in the country this year",
+      " Is this just an algorithm glitch, or is Big Tech putting a thumb on the scale during a political movement?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/us-news/2026/oct/18/no-kings-instagram-account-suspended-during-protests?CMP=Share_AndroidAp",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Georgia students staged a fake fight to lure Principal Bobby Davis into breaking it up on his birthday, then erupted into \u201cHappy Birthday\u201d and lifted him into the air. The student behind the prank said Davis had changed his life for the better.",
+    "angle": "A Georgia school pulled off an elaborate birthday prank on their principal, and it's blowing up online because of the twist ending \u2014 pure feel-good content that's perfect for a trending segment.",
+    "bullets": [
+      " Students at a Georgia school staged a fake fight to lure Principal Bobby Davis into breaking it up",
+      " Did a teacher or principal ever pull off something for you that you still think about?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.today.com/parents/teachers/georgia-viral-birthday-prank-principal-bobby-davis-rcna603185",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "European diplomats attacked by Israeli settlers in West Bank - BBC",
+    "angle": "An international incident involving diplomats getting caught up in West Bank settler violence is the kind of story that ripples well past the region \u2014 it touches foreign policy, international relations, and the broader Israel-Palestine tension that's constantly in the news cycle.",
+    "bullets": [
+      " BBC is reporting that Israeli settlers attacked a group of European diplomats while they were in the West Bank.",
+      " Details on exactly who was involved and the extent of the incident are still limited \u2014 more specifics are expected as the story develops.",
+      " Does an attack on diplomats change how the world responds to West Bank settler violence, or does it just become another headline in an already tense region?"
+    ],
+    "debate": "BaSldicVlKYzY5b25LN0hBOE9LTi1UcU51Z2xwWVVwX2kxTXZnWm1xVEU?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6MTJzVzlOQ3h3T3UweTdNRjRrUlRhcUhhVWlGZ2EwWG84SnRxRkNFQV",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "'It was jaw-dropping': The shocking lessons from an infamous experiment in obedience - BBC",
+    "angle": "New replications of the infamous Milgram obedience experiment show almost everyone caves to authority - only a tiny fraction refuse. It's a great \"what would you actually do\" gut-check for listeners.",
+    "bullets": [
+      " Researcher Caspar says \"people are extremely obedient\" in her modern replications.",
+      " Out of roughly 800 volunteers across multiple countries, only 21 people (2.6%) refused to deliver the shocks.",
+      " Be honest - if someone in a lab coat told you to keep going, would you actually stop? BBC News (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.bbc.com/future/article/20261016-the-shocking-truths-about-an-infamous-experiment-in-obedience",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "New state law allows Californians ages 80 and older to opt out of jury service permanently due to a medical condition, without needing a note from a health care provider",
+    "angle": "New state law allows Californians ages 80 and older to opt out of jury service permanently due to a medical condition, without needing a note from a health care provider",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.aol.com/articles/california-law-allows-residents-permanently-172601000.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "A single dose of psilocybin eased depression within days, but its edge over placebo faded within a year. The effects appeared as early as the second day after dosing and lasted for more than three months, although by one year the difference between groups had faded.",
+    "angle": "A single dose of psilocybin kicked in almost immediately for depression, which is wild given antidepressants can take weeks \u2014 but the catch is it's not a cure, just a head start.",
+    "bullets": [
+      " Just one dose of psilocybin eased depression symptoms within days",
+      " Effects showed up as early as day two after dosing",
+      " By the one-year mark, the gap between psilocybin and placebo had faded",
+      " Would you try a single mushroom trip for a few months of relief, even knowing it fades \u2014 or is that just kicking the can down the road?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/a-single-dose-of-psilocybin-eased-depression-within-days-but-its-edge-over-placebo-faded-within-a-year/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "In 1999, an off-duty nurse saved a boy's life by giving him CPR when his heart stopped after he was hit in the chest with a baseball bat during a Little League game. In 2006, that same boy saved the nurse's life by giving her the Heimlich maneuver after she started choking in a restaurant.",
+    "angle": "This is the full-circle story radio was made for \u2014 a random act of lifesaving kindness comes back around seven years later, and it's the kind of goosebumps tale that makes a great note to end the show on.",
+    "bullets": [
+      " 1999: a boy's heart stopped after getting hit in the chest with a baseball bat during a Little League game.",
+      " An off-duty nurse happened to be there and gave him CPR on the spot \u2014 saving his life.",
+      " 2006, different scene: that same nurse starts choking in a restaurant.",
+      " Ask listeners: have you ever crossed paths again with someone whose life you saved \u2014 or who saved yours?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbsnews.com/news/nurse-saves-boy-boy-saves-nurse/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Nvidia RTX 5090 shipment worth $470,000 goes missing in Brazilian airport \u2014 two pallets disappear, distributor seeks explanations but met with zero answers",
+    "angle": "Someone in Brazil pulled off the cleanest heist of the year \u2014 two entire pallets of brand-new Nvidia RTX 5090s gone, no cameras, no answers, no suspects. It's a real-life mystery with a price tag gamers will feel in their bones.",
+    "bullets": [
+      " Two full pallets of Nvidia's flagship RTX 5090 cards disappeared at a Brazilian airport.",
+      " RTX 5090s are already scarce and pricey \u2014 making this shipment an especially tempting target.",
+      " Call in with your theory: inside job, airport workers, or full-blown heist crew?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-shipment-worth-usd470-000-goes-missing-in-brazilian-airport-t",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Xbox Senior Business Strategy Manager Confirms Xbox Is Using AI: \u201cIf I\u2019m Fired Tomorrow It Will Be Because I Told You The Truth That Nobody Wants You To Know\u201d",
+    "angle": "An actual Xbox strategy manager just went public admitting the company's leaning on AI \u2014 and dropped a line about possibly getting fired for telling the truth. It taps straight into the AI-is-coming-for-jobs anxiety that's buzzing across every industry right now.",
+    "bullets": [
+      " His quote: \"If I'm fired tomorrow it will be because I told you the truth that nobody wants you to know.\"",
+      " Does it freak you out more when a company uses AI quietly, or when an employee has to risk their job just to admit it out loud?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gamesradar.com/games/xbox-business-manager-says-devs-not-using-ai-shouldnt-be-in-the-business-of-being-a-busines",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "What are self-replicating \u2018AI worms\u2019, and why is Anthropic worried about them? | Technology",
+    "angle": "Anthropic, the company behind Claude, is sounding the alarm on self-spreading AI programs that could hop from device to device - and says the tech needed to pull it off could be ready within months. It's a sci-fi villain plot turning into a real cybersecurity headline.",
+    "bullets": [
+      " \"AI worms\" are self-replicating AI programs designed to spread themselves across systems without a human pushing the button each time.",
+      " Anthropic says the real danger kicks in once a worm can run serious AI capability on weaker, everyday devices - not just big data-center hardware."
+    ],
+    "debate": "Genuine next-level cyber threat, or just AI doom-talk dressed up as a headline?",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Support for Alberta separation \u2018remarkably stable\u2019 and low federalist turnout could make final referendum outcome closer than expected, say politicos",
+    "angle": "This isn't fringe talk anymore \u2014 insiders say separatist support in Alberta has held steady, and if federalists don't show up to vote, the referendum could land way closer than anyone expected. That's a real national-unity story, not just prairie chatter.",
+    "bullets": [
+      " Support for Alberta separation is described as 'remarkably stable' heading into the referendum.",
+      " Political insiders flag low turnout among federalists as a key risk to the 'no' side.",
+      " If Alberta actually votes to separate, does Canada as we know it just... end?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.hilltimes.com/2026/10/05/support-for-alberta-separation-remarkably-stable-and-low-federalist-turnout-could-make-final-re",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-10-18",
     "slot": "pm",
     "category": "THE LIST",
