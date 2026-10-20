@@ -1,6 +1,696 @@
 [
   {
     "date": "2026-10-19",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "\u2018RHONY\u2019 star Carole Radziwill shares surprising news after The Post\u2019s parking scam expos\u00e9",
+    "angle": "A 'Real Housewives' alum getting caught gaming the system with a bogus fire department placard is pure reality-TV irony \u2014 and the $8,000 unpaid tab makes it even juicier.",
+    "bullets": [
+      " Carole Radziwill, former RHONY star, racked up roughly $8,000 in traffic violations since 2020",
+      " She allegedly used an expired FDNY placard in her windshield to dodge parking enforcement",
+      " Among the violations: 17 tickets for missing alternate side street cleaning",
+      " She played a 'real' housewife on TV \u2014 does getting busted faking an FDNY pass make her more relatable or just more busted? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://nypost.com/2026/10/19/us-news/rhony-star-carole-radziwill-shares-surprising-news-after-the-posts-parking-scam-expose/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Kylie Jenner models $50 million Fantasy Bra at Victoria's Secret Show - USA Today",
+    "angle": "A 15-year-old kid became a real-life hero in six minutes flat \u2014 and now he wants to turn it into a community CPR program. It's the kind of good-news story that makes you want to actually learn CPR yourself.",
+    "bullets": [
+      " Kylie Jenner wore the historic Fantasy Bra during the Victoria's Secret Fashion Show on Sunday, Oct. 18",
+      " It's famously known as Victoria's Secret's crown jewel and the \"world's dreamiest bra\"",
+      " Its runway return was treated as a surprise moment for the crowd",
+      " Would you rather wear $50 million in diamonds for ten minutes or just take the cash? USA Today (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD",
+      " Ethan, 15, from Nottinghamshire, found a neighbour unconscious and not breathing",
+      " He performed up to 800 chest compressions in just six minutes to keep them alive",
+      " Ethan's next move: launching community CPR workshops to teach others how to do what he did",
+      " Be honest \u2014 if someone collapsed in front of you right now, would YOU know what to do?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nottinghampost.com/news/local-news/nottinghamshire-student-facing-nightmare-scenario-11203593",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Meta says it shut No Kings account because it suspected bots activity",
+    "angle": "A Big Tech platform shutting down the account behind a nationwide protest movement is instant conflict \u2014 free speech vs. bot-cleanup, and it's blowing up on r/technology right now.",
+    "bullets": [
+      " Meta says it shut down the 'No Kings' account over suspected bot activity.",
+      " 'No Kings' is the name tied to the wave of large anti-Trump protests seen across the US.",
+      " Exact platform, scale, and timeline of the takedown haven't been detailed yet.",
+      " Is this Meta cleaning up real bots, or Big Tech quietly burying a protest movement?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.businessinsider.com/meta-says-suspending-no-kings-account-was-done-in-error-2026-10",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Big Tech Will Not Broadcast Your Dissent",
+    "angle": "This taps into the ongoing national fight over content moderation and free speech online \u2014 a debate that resurfaces every few weeks and always gets people fired up about who controls what you see and say.",
+    "bullets": [
+      " Have you ever felt your own post or video got buried for saying something unpopular \u2014 call in and tell us."
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.motherjones.com/politics/2026/10/meta-x-no-kings-elections-protests-midterms-free-speech-us-brazil/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "As the coding boom fades, computer science grads focus on AI skills in choppy job market",
+    "angle": "Computer science used to be THE guaranteed-job degree, but new grads are hitting a wall as the coding boom cools - now they're scrambling to bolt on AI skills just to stay competitive, which says a lot about how fast this industry is moving under everyone's feet.",
+    "bullets": [
+      " Would you still tell a kid today to major in computer science?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/ai-computer-science-jobs-college-degree-99416cc8981d701e3674cf3dfa501491",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Landmark China trial gets 84% efficacy in treating cancer with cue from waste water tech",
+    "angle": "A landmark Chinese clinical trial is reportedly using a method borrowed from wastewater treatment tech to fight cancer with striking results \u2014 the kind of 'science is wild' story that gets people talking about how breakthroughs come from the strangest places.",
+    "bullets": [
+      " A landmark clinical trial in China is being reported with an 84% efficacy rate treating cancer",
+      " Story is circulating out of r/futurology, early buzz stage with limited detail so far",
+      " If the cure for cancer is hiding in sewage tech, what other 'gross' industries might be sitting on the next big breakthrough?"
+    ],
+    "debate": "ch?utm_source=Reddit&utm_medium=Social",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.scmp.com/news/china/science/article/3370996/landmark-china-trial-gets-84-efficacy-treating-cancer-clue-waste-water-te",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "One-quarter of the world\u2019s data centers are located in areas where water demand exceeds supply for at least one month each year. Unlike energy, which can come from far away, water for these facilities comes from nearby rivers, lakes, and aquifers whose levels vary seasonally or annually.",
+    "angle": "Everyone's obsessing over how much power AI data centers burn, but almost nobody's talking about the water \u2014 and it turns out these facilities can't just truck it in from somewhere else like they can electricity.",
+    "bullets": [
+      " One-quarter of the world's data centers sit in regions where water demand already outstrips supply for at least one month every year.",
+      " Unlike power, which can be piped in from a grid far away, data center water has to come from nearby rivers, lakes, and aquifers.",
+      " Those local water sources rise and fall with the seasons \u2014 so a facility can be fine in spring and bone-dry by summer.",
+      " Should your city get a say before a massive data center moves in and starts competing with your tap water?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.acs.org/pressroom/presspacs/2026/october/many-data-centers-are-located-where-water-resources-are-limited.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Alberta Separatists confident of victory due to \u201cCanadians\u2019 overwhelming love for USA and Trump\u201d",
+    "angle": "Alberta's separatist movement is feeling bold, and their reasoning is the real story \u2014 they're claiming Canadians secretly love the U.S. and Donald Trump, a take that flies in the face of the current chill in U.S.-Canada relations.",
+    "bullets": [
+      " Alberta separatists say they're confident of winning support \u2014 pointing to what they call Canadians' \"overwhelming love\" for the U.S. and Donald Trump.",
+      " Do Canadians secretly love Trump \u2014 or are the separatists completely out of touch?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Jon Stewart to stay at \u2018The Daily Show\u2019 through the 2028 election",
+    "angle": "Stewart just committed to riding out an entire presidential cycle behind the Daily Show desk, which matters because he's arguably the most trusted political voice in late night \u2014 this is him betting the next three years of American politics are going to need him.",
+    "bullets": [
+      " Jon Stewart has agreed to stay at 'The Daily Show' through the 2028 election",
+      " He returned to the anchor desk after years away, now hosting on a part-time weekly basis",
+      " Is Jon Stewart still the sharpest voice in political comedy, or is he coasting on nostalgia at this point?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cnn.com/2026/10/19/media/jon-stewart-daily-show-2028-skydance-comedy-central?utm_medium=social&utm_campaign",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Toronto man accused of driving rental car 30,000 kms in just 7 days",
+    "angle": "That's basically driving across Canada and back multiple times in seven days - the math alone makes this a classic 'wait, how is that even possible' water cooler story.",
+    "bullets": [
+      " A Toronto man is accused of racking up 30,000 kilometres on a rental car in just 7 days.",
+      " That works out to roughly 4,285 km per day - like driving from Toronto to Vancouver and back, more than once, every single day.",
+      " Story originated on Reddit's r/nottheonion, flagged for its sheer 'is this even real' factor.",
+      " Call in: what's the longest road trip you've ever crammed into a week, and did your car survive it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://toronto.citynews.ca/2026/10/19/toronto-man-rental-car-30-thousand-kms-avis-seven-days/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Norwegian undersea cable builder pitches 2,800-mile transatlantic data link between Canada and Europe to bypass the U.S \u2014 Canadian majority partner sought to help fund and build new $620 million fiber connection to reduce reliance on American routes",
+    "angle": "A Norwegian company wants to build a brand-new undersea internet cable straight from Canada to Europe \u2014 no U.S. detour required \u2014 and it's shopping for a Canadian partner to help pay for it. With all the 'reduce reliance on America' talk lately, this feels like that sentiment showing up in literal infrastructure.",
+    "bullets": [
+      " Price tag for the project: $620 million",
+      " They're looking for a Canadian majority partner to help fund and construct it, specifically to cut dependence on U.S.-routed internet traffic",
+      " Should Canada be spending big to make sure its internet doesn't have to run through America?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/norwegian-undersea-cable-builder-pitches-2-800-mile-transatlantic-data-li",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Norwegian Company Pitches 2,800-Mile Undersea Cable Linking Canada and Europe to Bypass the US",
+    "angle": "A Norwegian firm is pitching a 2,800-mile undersea cable connecting Canada directly to Europe, deliberately routing around the United States \u2014 a literal infrastructure project born out of wanting to cut America out of the loop.",
+    "bullets": [
+      " It's being pitched by a Norwegian company.",
+      " Is this just smart data infrastructure, or a sign allies are starting to route around the US on purpose?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://finance.yahoo.com/technology/articles/norwegian-company-pitches-2-800-175614209.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Rising use of AI-staged real estate photos raises questions about misleading homebuyers",
+    "angle": "AI tools can now digitally stage, repaint, or even redesign a house in listing photos before a buyer ever walks in - raising the question of where \"staging\" ends and \"false advertising\" begins for Canadian homebuyers.",
+    "bullets": [
+      " Ever shown up to a house that looked nothing like its listing pics - should realtors have to disclose when photos are AI-touched?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/toronto/rising-use-of-ai-staged-real-estate-photos-raises-questions-about-misleading-homebuyers-9",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Americans Are Meddling in the Alberta Referendum",
+    "angle": "A Canadian provincial referendum on independence getting outside American interference raises real sovereignty questions - it's the kind of cross-border political story that gets both Canadian and US listeners talking about where the line is on foreign influence.",
+    "bullets": [
+      " It taps into the broader, ongoing Alberta sovereignty debate and its friction with the federal government in Ottawa.",
+      " Foreign involvement in a provincial vote - even alleged - is the kind of thing that raises eyebrows on both sides of the border.",
+      " Should outsiders - even just opinionated neighbors to the south - have any say in how a Canadian province decides its own future?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://macleans.ca/politics/americans-are-meddling-in-the-alberta-referendum/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Prime Minister of The Netherlands, Rob Jetten, and Argentinian field hockey player, Nicolas Keenan, are expecting their first child.",
+    "angle": "The Dutch Prime Minister and his partner, an Argentine Olympic field hockey player, just announced they're expecting their first baby \u2014 a feel-good political crossover story with real international reach.",
+    "bullets": [
+      " Rob Jetten, Prime Minister of The Netherlands, and his partner Nicolas Keenan, an Argentine field hockey player, are expecting their first child together.",
+      " A sitting head of government starting a family in office is rare, wholesome news \u2014 worth a quick \"good for them\" moment on air."
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1x9xp79",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada-wide support grows for CFB Wainwright victims as 50 investigators probe deadly fire",
+    "angle": "A deadly fire at Canadian Forces Base Wainwright has triggered a massive investigation and a wave of nationwide support \u2014 the kind of story that cuts through because it hits a military community, and Canadians love to rally behind the Forces.",
+    "bullets": [
+      " 50 investigators are now working the scene to figure out what caused it.",
+      " Support for the victims is reportedly pouring in from across the country, not just the local area.",
+      " When something hits a military base like this, the whole country tends to feel it \u2014 ask listeners if they've got ties to CFB Wainwright or know someone affected."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/edmonton/livestory/cfb-wainwright-fire-deaths-carney-9.7386478?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canadian who stole a Las Vegas flamingo after drinking '30 to 40' beers convicted of animal cruelty",
+    "angle": "A Canadian guy got convicted of animal cruelty in Vegas after swiping a hotel's living mascot bird on a bender \u2014 it's the kind of absurd, so-dumb-it's-funny crime story that's tailor-made for Canadian News banter.",
+    "bullets": [
+      " Mitchell Fairbarn, a man from Ontario, was convicted of animal cruelty charges in a Las Vegas court on Monday.",
+      " He snatched a flamingo named Peachy right out of its habitat at the Flamingo Las Vegas Hotel and Casino.",
+      " Fairbarn told authorities he'd had \"30 to 40\" beers; prosecutors called the theft a \"drunken and malicious act.\"",
+      " Thirty to forty beers \u2014 is that even physically possible, or is this guy just taking the fall for the whole country's reputation?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/canadian-flamingo-las-vegas-9.7386697?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Dylan Sprouse Praises New Mom Barbara Palvin for Walking the 2026 Victoria\u2019s Secret Fashion Show - People.com",
+    "angle": "Dylan Sprouse Praises New Mom Barbara Palvin for Walking the 2026 Victoria\u2019s Secret Fashion Show - People.com PEOPLE (via NewsAPI) (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "All the Stars at the 2026 Victoria\u2019s Secret Fashion Show: Nicole Kidman, Law Roach & More - Vogue",
+    "angle": "The Victoria's Secret Fashion Show is making its splashy comeback tonight in Culver City, and the red carpet is pulling in A-list names like Nicole Kidman alongside stylist Law Roach \u2014 perfect watercooler fodder for who showed up and who wore it best.",
+    "bullets": [
+      " Tonight's show kicks off at Sony Studios in Culver City, California.",
+      " Nicole Kidman is among the stars walking the red carpet.",
+      " Stylist Law Roach also made an appearance on the carpet.",
+      " Callers \u2014 who actually served tonight, Kidman or the Angels? Vogue (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.vogue.com/slideshow/victorias-secret-fashion-show-red-carpet-10-18-2026",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Bari Weiss Exposed for Pushing CBS to Smear Democratic Candidates",
+    "angle": "This is blowing up on Reddit as a 'gotcha' claim against Bari Weiss, a media figure who's already a lightning rod for bias accusations from both sides - that alone makes it a juicy watercooler topic even before anyone confirms the details.",
+    "bullets": [
+      " Bombshell scoop or partisan pile-on dressed up as journalism - which is this?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://newrepublic.com/post/216774/bari-weiss-cbs-smear-democratic-candidates-talarico-el-sayed",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Bono hits out at \"unconscionable\" Elon Musk",
+    "angle": "A rock legend taking a direct shot at the world's richest man is instant celebrity-feud gold, and it taps into the bigger ongoing debate about Musk's influence and behavior.",
+    "bullets": [
+      " Is Bono right to call out Musk, or should musicians stay out of billionaire beef?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://faroutmagazine.co.uk/bono-hits-out-elon-musk-unconscionable-doge-cuts/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "A protester standing directly behind Vance stood up and shouted, \"Release the Epstein files!\" during a political rally in Hendersonville.",
+    "angle": "A protester popping up right behind a sitting VP mid-rally is the kind of split-second viral moment that's made for clips and reaction threads, and the Epstein files chant keeps that story alive in pop culture even when the news cycle moves on.",
+    "bullets": [
+      " A protester positioned directly behind Vance on stage during the rally.",
+      " They stood up and shouted, \"Release the Epstein files!\"",
+      " Story is circulating via Reddit's r/fauxmoi, where it's being treated as a viral clip-worthy moment.",
+      " Is heckling a sitting VP mid-speech a legit protest tactic or just a stunt for the clip?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/9vbtct75hhwh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Israeli television personality Lior Schleien has to explain to 17 year-old Tel Aviv high school students why killing everyone in Palestine is bad",
+    "angle": "A viral clip of Israeli TV personality Lior Schleien fielding - and having to argue against - a question from Tel Aviv high schoolers about wiping out Palestine is blowing up for what it reveals about where some young people's heads are at right now.",
+    "bullets": [
+      " Lior Schleien, an Israeli TV personality, is the one put in the position of having to make the case",
+      " Clip is circulating on Reddit's r/fauxmoi, framed around the sheer fact that this conversation had to happen at all",
+      " Should it really take a TV host to explain basic morality to a room full of teenagers?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/jlih1hgt6gwh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'You Can See Everything' sells out theatres, and people can't stop talking about it",
+    "angle": "There's a new movie everyone's buzzing about but refusing to spill details on, and that secrecy is exactly what's driving sold-out crowds to see it for themselves.",
+    "bullets": [
+      " 'You Can See Everything' is selling out theatres right now",
+      " It's pulling in big numbers at the box office",
+      " Are you Team No-Spoilers-Ever, or Team Just-Tell-Me-So-I-Can-Decide?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/you-can-see-everything-box-office-9.7386841?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Homer-happy Rays finish off Guardians to set up small-market World Series matchup with Brewers",
+    "angle": "The Tampa Bay Rays are headed to just their third World Series ever, and they're doing it against another small-market underdog in the Brewers \u2014 a matchup that's got baseball purists buzzing about two scrappy front offices outsmarting the big spenders.",
+    "bullets": [
+      " Rays beat the Guardians 7-3 in Game 6 of the ALCS at Tropicana Field",
+      " It's Tampa Bay's third World Series appearance in franchise history",
+      " Their last trip was back in 2020",
+      " They'll face the Brewers in an all-small-market Fall Classic",
+      " Small-market World Series, no superstar-stacked lineups \u2014 is this the most lovable Fall Classic in years, or a ratings nightmare for baseball?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/19/sports/rays-finish-off-guardians-to-set-up-world-series-matchup-with-brewers/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "God\u2019s Love We Deliver Golden Heart Awards 2026 red carpet: Olivia Munn, Paige DeSorbo, Nicky Hilton and more",
+    "angle": "A star-studded red carpet moment for a good cause \u2014 these are the names you follow on Instagram, now all in one room for charity, which is prime gossip-and-fashion fodder.",
+    "bullets": [
+      " Olivia Munn stepped out for the God's Love We Deliver Golden Heart Awards 2026",
+      " Paige DeSorbo and Nicky Hilton also hit the red carpet to support the cause",
+      " Who do you think brought the best red carpet look \u2014 Munn, DeSorbo, or Hilton?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/19/photos/gods-love-we-deliver-golden-heart-awards-2026-red-carpet-olivia-munn-paige-desorbo-nicky-",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Jesse Eisenberg Says He \u2018Couldn\u2019t Get Movie Studio Parts Anymore\u2019 After Winning A Razzie For \u2018Batman v Superman\u2019: \u2018The Industry Did Not Want Me to Be in a Superhero Movie\u2019 - Variety",
+    "angle": "A legit Hollywood star saying an infamous flop and a Razzie win tanked his studio career for years is the kind of insider confession audiences eat up \u2014 it's gossip with real stakes about how brutal the industry actually is.",
+    "bullets": [
+      " Jesse Eisenberg played Lex Luthor in Zack Snyder's \"Batman v Superman: Dawn of Justice\"",
+      " He won a Razzie (Golden Raspberry Award) for the role",
+      " Eisenberg says he \"couldn't get movie studio parts anymore\" after the loss",
+      " His quote: \"The industry did not want me to be in a superhero movie\"",
+      " Is it fair that one bad superhero role can quietly end an actor's studio career? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/global/jesse-eisenberg-razzie-batman-v-superman-1236915876/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Indiana Democrat Jaime West reveals how many beers she downed before trainwreck interview",
+    "angle": "A county council candidate's slurring, rambling local interview blew up online \u2014 and instead of apologizing, she went on national TV to defend her drinking and her rant. That combo of booze, politics, and zero regret is pure watercooler gold.",
+    "bullets": [
+      " Jaime West, a Democratic county council candidate in Fayetteville, Indiana, admitted she drank \"three beers\" before the interview",
+      " In that rant, she pledged to \"fire all Republicans\"",
+      " Defending herself on \"Piers Morgan Uncensored,\" she insisted she \"wasn't that intoxicated\"",
+      " Three beers deep and vowing to fire half the government on camera \u2014 callers, what's your personal cutoff before you'd never do a live interview?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 90/90 (45 fit + 12 source + 33 quality) -> LEAD",
+    "url": "",
+    "score": "90/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Influencer Hit in Face by Lisa Rinna\u2019s Massive Hat Feather at Victoria\u2019s Secret Fashion Show - People.com",
+    "angle": "A chaotic, only-at-fashion-week moment from the Victoria's Secret show is already a viral clip - celebrity accessory meets innocent bystander, and it's exactly the kind of silly, visual story that blows up online.",
+    "bullets": [
+      " Lisa Rinna was wearing an oversized feathered hat at the Victoria's Secret Fashion Show.",
+      " Is a giant runway hat worth the risk of clotheslining someone next to you - callers, what's the most ridiculous accessory you've ever seen cause chaos? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "I3SDhGTnB1N3VHTUd5VHpoUkR0VkxUakltc19UalZvQmFKSl8tU3BYWUFVa01nd0hDbUpPSHVabjJpZEExQ2c?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSThlZTRXSnlVa2NPRUNKY1RUaFVQTFNDUDV3elZPTDdad0xnOGx3R",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018The Simpsons\u2019 Surprise: Apu Is Heard for the First Time in Nearly a Decade, as Sunil Malhotra Takes Over for Hank Azaria (EXCLUSIVE) - Variety",
+    "angle": "This closes the loop on one of the biggest pop-culture controversies of the last decade \u2014 Apu went silent after accent criticism, and now Springfield just brought him back with a new voice. It's a built-in nostalgia-meets-cancel-culture conversation.",
+    "bullets": [
+      " Apu is heard on 'The Simpsons' for the first time in nearly 10 years",
+      " Azaria stepped away from voicing Apu in 2017 amid backlash over the character's stereotyped accent",
+      " Was bringing Apu back the right call, or should Springfield have just left that storyline retired? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/news/the-simpsons-apu-new-voice-sunil-malhotra-hank-azaria-1236915177/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "New eye-tracking study finds men spend longer looking at attractive faces only if they're the sex they're attracted to, but women look longer at attractive faces of both men and women. And being in a long-term relationship didn't stop people from lingering on good-looking faces either.",
+    "angle": "An eye-tracking study on attraction just gave couples a new thing to argue about at dinner - and it confirms what a lot of partners have suspected for years.",
+    "bullets": [
+      " Men only lingered longer on attractive faces when it matched who they're attracted to",
+      " Women, on the other hand, spent more time looking at attractive faces of both men and women",
+      " Being in a long-term relationship did NOT stop people from lingering on good-looking faces",
+      " Partners, be honest: does this study track with what you've caught your other half doing?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.psypost.org/womens-attention-to-beauty-isnt-limited-to-the-sex-theyre-attracted-to-eye-tracking-study-finds/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A new study found that HSV-1, the virus that causes cold sores, can reprogram the brain\u2019s immune cells, potentially linking viral infection to chronic inflammation and increased vulnerability to Alzheimer\u2019s disease.",
+    "angle": "Cold sores feel like a minor annoyance, but new research says that same virus might be quietly rewiring brain immune cells and nudging the door open for Alzheimer's \u2014 a wild 'wait, what?' story that hits almost everyone since most adults carry this virus.",
+    "bullets": [
+      " Virus in question: HSV-1, the common virus behind cold sores",
+      " Researchers say it can reprogram the brain's immune cells",
+      " Study ties this process to increased vulnerability to Alzheimer's disease",
+      " Raise your hand if you've ever had a cold sore \u2014 because this study just made that a brain story, not a lip story."
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://news.cuanschutz.edu/news-stories/common-cold-sore-virus-may-reprogram-the-brains-immune-defenses?utm_campaign=HS",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A clinical trial has found that hydrodissection, injecting saline to separate a trapped nerve from surrounding tissue, provides carpal tunnel relief lasting up to 6 months, outperforming standard steroid injections.",
+    "angle": "Anyone who types, scrolls, or works with their hands has flirted with carpal tunnel pain, and this trial suggests a simple saline injection could beat the standard steroid shot for lasting relief - that's a real watercooler health tip.",
+    "bullets": [
+      " A clinical trial found relief lasting up to 6 months",
+      " It reportedly outperformed standard steroid injections, the current go-to treatment",
+      " Who on the show or in our listener base has dealt with carpal tunnel - and would you try a saline shot over steroids or surgery?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/a-saline-injection-could-offer-longer-relief-from-carpal-tunnel-pain",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Why \u2018Office Space\u2019 Actor Richard Riehle Was the Quintessential Actor\u2019s Actor (Guest Column)",
+    "angle": "He's the guy with the stress ball in Office Space \u2014 a cult classic every office worker quotes. This is a heartfelt send-off from someone who actually worked with him, the kind of 'actor's actor' story that hits different than a standard obit.",
+    "bullets": [
+      " Richard Riehle is best remembered for his role in the cult office comedy \"Office Space\""
+    ],
+    "debate": "",
+    "source": "variety.com (Tier 2) | Score: 86/90 (45 fit + 8 source + 33 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/people-news/office-space-actor-richard-riehle-an-actors-actor-1236917003/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Angelina Jolie\u2019s foundation has protected 150,720 acres of Cambodian forest for 20 years, where elephants and pangolins still roam; its rangers removed more than 4.8 miles of illegal snares in 2025, helping keep the forest safe for wildlife.",
+    "angle": "It's a feel-good wildlife win hiding in plain sight - a Hollywood A-lister quietly running conservation work for two decades while elephants and pangolins still roam free because of it.",
+    "bullets": [
+      " Angelina Jolie's foundation has protected 150,720 acres of forest in Cambodia for 20 years",
+      " Rangers pulled over 4.8 miles of illegal snares out of the forest in 2025 alone",
+      " Twenty years of quiet work nobody was clapping for - that's the kind of celebrity story we actually like."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/angelina-jolies-foundation-has-spent-20-years-in-a-150720-acre-cambodian-forest-where-elephants-an",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Napoleon Bonaparte has died",
+    "angle": "This one's pure r/nottheonion gold - a headline so stale it's somehow news again. Perfect two-second laugh for the goodbyes segment before we move on.",
+    "bullets": [
+      " Somewhere, an editor just discovered the internet has a 200-year delay."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://go.kompas.com/read/2026/10/18/154635474/former-kadiv-hubinter-of-the-national-police-napoleon-bonaparte-passes-away",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Florida DMV hacked after police dept insecurely stored login info | Florida issues alerts after statewide DMV data breach linked to ShinyHunters.",
+    "angle": "A massive state driver database breach traces back to one police employee storing login credentials on a personal device \u2014 a notorious hacker group called ShinyHunters is now claiming 200,000+ driver records, including an FBI agent's account.",
+    "bullets": [
+      " Florida's DAVID driver database was breached after credentials from a Plant City Police Department employee were improperly stored on a personal electronic device",
+      " Extortion group ShinyHunters claims it stole more than 200,000 driver records \u2014 Florida hasn't confirmed that number",
+      " Hackers claim they also exploited a password-reset flaw to access multiple accounts, including one belonging to an FBI agent, using predictable security-question answers",
+      " Florida's Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed the breach but disputes parts of the hackers' version of events",
+      " One cop's phone, one weak password-reset system, and your driver's license info is in a hacker's hands \u2014 whose fault is that, really?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Nathan Fielder\u2019s Surprise Call From Elizabeth Holmes: \u2018I Trust You\u2019",
+    "angle": "Nathan Fielder is the king of cringe-comedy weirdness, so when he says convicted Theranos fraudster Elizabeth Holmes rang him up out of nowhere, the internet's demanding details \u2014 it's the kind of bizarre celebrity crossover that writes its own headlines.",
+    "bullets": [
+      " Elizabeth Holmes reportedly called comedian Nathan Fielder completely out of the blue.",
+      " Her message to him, according to Fielder: \"I trust you.\"",
+      " What on earth would Elizabeth Holmes want from Nathan Fielder \u2014 and would YOU trust her?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wired.com/story/nathan-fielder-tells-us-everything/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Sober house where Presley Gerber died had a previous suspected OD call earlier this year: report https://t.co/C0c9YOp2HG https://t.co/NoSrm5",
+    "angle": "Presley Gerber \u2014 Cindy Crawford's son \u2014 died at a sober living facility, and now reports say that same house had a suspected overdose call earlier this year. That's a real accountability angle: how does a place meant to keep people sober have a track record like that?",
+    "bullets": [
+      " Presley Gerber, son of Cindy Crawford and Rande Gerber, died at a sober living house, according to the report.",
+      " If a sober house already had an OD scare on record, should it have been allowed to keep operating? X/Twitter @NYPost (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2112361780378742831",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Trump calls on New Mexico to change its name to \u2018New America\u2019 https://t.co/ik42XqAvku",
+    "angle": "The President is pushing to rename an entire U.S. state, and it's the kind of wild, out-of-nowhere proposal that's tailor-made for social media debate and a split-room reaction on air.",
+    "bullets": [
+      " Donald Trump is calling on New Mexico to change its name to 'New America'",
+      " Would New Mexicans actually go for this, or is 'New America' dead on arrival? X/Twitter @CTVNews (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/CTVNews/status/2112312901876740474",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Finland gripped by national broadcaster\u2019s puppies live stream https://t.co/Ay9n8XAl6U",
+    "angle": "Finland gripped by national broadcaster\u2019s puppies live stream https://t.co/Ay9n8XAl6U X/Twitter @CTVNews (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/CTVNews/status/2112272752107237520",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-19",
     "slot": "am",
     "category": "THE LIST",
     "title": "Ina Garten Shares Her Secret to Perfect Scrambled Eggs - WSJ",
