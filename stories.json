@@ -1,6 +1,683 @@
 [
   {
     "date": "2026-10-20",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Kylie Jenner's Fantasy Bra moment draws criticism from Victoria's Secret fans - USA Today",
+    "angle": "Victoria's Secret brought back its biggest, most iconic tradition for the comeback show, handed the crown jewel moment to Kylie Jenner, and longtime fans are furious she got it instead of an actual VS Angel - that's a built-in generational/brand-loyalty fight.",
+    "bullets": [
+      " Kylie Jenner wore the Fantasy Bra at the 2026 Victoria's Secret Fashion Show on Sunday, Oct. 18",
+      " Fans flooded social media with criticism, saying the moment wasn't \"too dreamy\"",
+      " Should the Fantasy Bra go to a celebrity for the buzz, or stay with an actual VS model as a reward for loyalty? USA Today (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.usatoday.com/story/entertainment/style/2026/10/19/kylie-jenner-victorias-secret-fantasy-bra-backlash/92330204007/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Volunteers have planted almost 500,000 trees across Lancashire, UK in two planting seasons, creating new woodlands, orchards and havens for wildlife.",
+    "angle": "In an era of doom-scrolling climate news, this is the opposite \u2014 an army of regular people planting almost half a million trees by hand, no government mandate required, just because they wanted new woods and wildlife habitat.",
+    "bullets": [
+      " Volunteers planted almost 500,000 trees across Lancashire, UK",
+      " Organizers say the goal was building havens for wildlife, not just hitting a tree count",
+      " Would you actually show up on a Saturday to plant trees for free \u2014 or is this a 'cheer from the couch' kind of good news?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bbc.co.uk/news/articles/cxp8gdzj606zo",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+    "angle": "A massive hack dumped over 400,000 internal emails from Germany's AfD party, and it's reigniting the global conversation about rising far-right movements, data security, and what happens when a political party's private playbook goes public.",
+    "bullets": [
+      " 421,179 hacked emails tied to Germany's far-right AfD party are now circulating publicly.",
+      " Does a hack like this expose the truth about a political party, or just become a weapon used against it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Anthropic logged net loss of over $80 billion in first half of 2026",
+    "angle": "The company behind Claude just posted one of the biggest corporate losses ever logged for a half-year \u2014 a staggering number that's reignited the \"is the AI boom actually a bubble\" debate everyone's having right now.",
+    "bullets": [
+      " Anthropic, the company behind the Claude chatbot, reported a net loss of more than $80 billion for the first half of 2026.",
+      " That's one of the largest half-year losses ever reported by a private tech company.",
+      " Is AI the smartest bet in tech right now, or the biggest money pit we've ever seen?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reuters.com/business/anthropic-recorded-net-loss-over-80-billion-first-half-this-year-wsj-reports-2026-10-20/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "In Europe data centers are hitting a roadblock. Microsoft has pulled out of Britain's largest data center project, as it can't be supplied with electricity until the 2030s.",
+    "angle": "AI's biggest bottleneck isn't chips anymore, it's electricity \u2014 Microsoft bailed on a $2.7 billion UK supercomputer project because the power grid can't deliver until the 2030s, a real check on the AI boom's momentum.",
+    "bullets": [
+      " Nscale pledged \u00a32bn to build the UK's largest AI data centre in Loughton, Essex",
+      " Microsoft had agreed to fund a supercomputer at the site \u2014 and has now pulled out entirely",
+      " Power was supposed to connect by the end of this year; now it's delayed until the 2030s",
+      " Nscale says it's still moving forward with the project despite losing Microsoft",
+      " If the smartest companies on Earth can't get the lights turned on for their own AI buildout, how real is this 'AI revolution' timeline actually?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/r/Futurology/comments/1xarwfu/in_europe_data_centers_are_hitting_a_roadblock/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Guillermo del Toro: \u2018It Pains Me Deeply to See Past Generations Fail the Next, We\u2019re Handing Down a World in Ruins\u2019",
+    "angle": "The Oscar-winning director just dropped a gut-punch quote about generational failure, and it's the kind of blunt, no-spin take that gets people fired up whether they love him or think he's being dramatic.",
+    "bullets": [
+      " His exact words: we're \"handing down a world in ruins\"",
+      " Do you agree with del Toro - are we really leaving the next generation worse off, or is this just doom-and-gloom talk?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/global/guillermo-del-toro-pans-labyrinth-morelia-film-festival-1236917004/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "TALARICO: Elon Musk is trying to buy this Senate seat in Texas. He wants our land, he wants our water, and he wants his own personal U.S. senator. He\u2019s trying to buy Texas. But on November 3rd, we\u2019ll deliver a clear message to the world\u2019s first trillionaire -Texas is not for sale!",
+    "angle": "The world's richest man wading into a Senate race isn't just local politics \u2014 it's a flashpoint on money, power, and who actually gets a vote, which makes it easy watercooler bait beyond Texas.",
+    "bullets": [
+      " Texas lawmaker Talarico accuses Elon Musk of trying to buy a U.S. Senate seat.",
+      " Direct quote: Musk \"wants our land, he wants our water, and he wants his own personal U.S. senator.\"",
+      " Talarico calls Musk the \"world's first trillionaire\" in the attack.",
+      " He points to November 3rd as the date voters \"deliver a clear message\" that \"Texas is not for sale.\"",
+      " Should a billionaire be allowed to personally bankroll a Senate seat \u2014 where's the line between donor and owner?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/x35e9bksrnwh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "In their first debate before the runoff election, Flavio Bolsonaro asks Lula why 73% of inmates voted for him. Lula replies, \"I want 100%, even your dad. *walks toward the camera* Vote for me, Bolsonaro.\"",
+    "angle": "A debate zinger is going viral out of Brazil's presidential runoff, and it's the kind of mic-drop moment that travels well beyond the country's borders - a prison-vote jab turned into a walk-up-to-the-camera comeback aimed straight at his rival's family.",
+    "bullets": [
+      " Flavio Bolsonaro confronted Lula on stage, asking why 73% of prison inmates reportedly voted for him.",
+      " Lula's response: \"I want 100%, even your dad.\"",
+      " He then walked toward the camera and added, \"Vote for me, Bolsonaro.\"",
+      " Is a cold, calculated one-liner like that the most devastating thing you can do to an opponent on a debate stage?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/xl950e4wfmwh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Former Blue Jay, wife charged with fraud linked to Ontario youth baseball program fees: police",
+    "angle": "A former big leaguer trading on his MLB name to allegedly rip off kids' baseball families is exactly the kind of betrayal-of-trust story that gets people talking - pro athlete cred used as a con.",
+    "bullets": [
+      " Richard Butler, a former Toronto Blue Jay, and his wife Michelle are facing fraud charges",
+      " Durham police say the program allegedly collected thousands of dollars in fees for training that was never delivered",
+      " Investigation was led by Durham Regional Police",
+      " A former MLB name was supposed to be the selling point - instead it's the alleged scam?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/toronto/former-mlb-player-charged-youth-baseball-9.7388143?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "How \u2018Dancing With the Stars\u2019 acknowledged Val Chmerkovskiy\u2019s suspension drama on \u2018Dedication Night\u2019",
+    "angle": "A pro dancer getting suspended mid-season for defending his wife on social media is the kind of backstage drama that spills right into the live broadcast - and fans have been waiting to see if the show would even acknowledge it.",
+    "bullets": [
+      " Val Chmerkovskiy was at the center of suspension drama after a controversial post",
+      " He was firing back at criticism from judge Carrie Ann Inaba",
+      " Was Val right to go to bat for his wife online, or did he just make it worse for himself?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/20/entertainment/how-dwts-acknowledged-val-chmerkovskiys-suspension-on-dedication-night/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "LeBron James says it was \u2018pretty special\u2019 for 76ers to spoil the Knicks\u2019 ring night",
+    "angle": "The Knicks were supposed to have their big championship-ring moment, and LeBron and the Sixers crashed the party instead \u2014 that's the kind of pettiness-meets-greatness storyline that keeps the NBA's rivalry chatter alive.",
+    "bullets": [
+      " LeBron James called it \"pretty special\" that the 76ers spoiled the Knicks' ring night.",
+      " Is spoiling a rival's big night the ultimate NBA flex, or just bad sportsmanship?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/20/sports/lebron-james-pretty-special-for-76ers-to-spoil-knicks-ring-night/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canadian who stole a Las Vegas flamingo after drinking '30 to 40' beers convicted of animal cruelty",
+    "angle": "A Canadian tourist's blackout bender in Vegas ended with a stolen flamingo and an animal cruelty conviction \u2014 it's the kind of absurd, so-Canadian-it-hurts headline that writes its own punchline.",
+    "bullets": [
+      " A Canadian man has been convicted of animal cruelty for stealing a flamingo while in Las Vegas.",
+      " He reportedly told authorities he'd had somewhere between 30 and 40 beers before the theft.",
+      " Is '30 to 40 beers' the greatest unintentional confession in Canadian crime history?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/canadian-flamingo-las-vegas-9.7386697",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Nation shocked as Alberta makes good decision",
+    "angle": "A sarcastic Reddit headline mocking Alberta's government is blowing up on r/canada, and the joke itself is the story - it's tapping into how shocked people are whenever Alberta politics makes news for the right reasons.",
+    "bullets": [
+      " We want to know - what's the one \"good decision\" that would actually shock you coming out of your province's government?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thebeaverton.com/2026/10/nation-shocked-as-alberta-makes-good-decision/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "U.S. government accuses Canada of meddling in Alberta referendum",
+    "angle": "An accusation like this from the U.S. government aimed at Canada over an internal Alberta referendum is a genuine cross-border political flashpoint \u2014 it touches sovereignty, separatism, and U.S.-Canada relations all at once, which makes it easy watercooler territory for hosts on both sides of the border.",
+    "bullets": [
+      " It centers on an Alberta referendum and claims of foreign meddling.",
+      " Details are still thin \u2014 this is breaking/developing, so expect more specifics soon.",
+      " Is this real election interference, or just the U.S. poking its nose into Canadian politics?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thebeaverton.com/2026/10/us-government-accuses-canada-of-meddling-in-alberta-referendum/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "EU and Canada to Flesh Out Closer Associate Membership by 2027",
+    "angle": "With trade tensions and tariff threats from the US still simmering, Canada deepening ties with Europe is the kind of hedge-your-bets move that fits the current mood - and it's a chance to talk about where Canada's loyalties are headed.",
+    "bullets": [
+      " Canada and the EU are working toward a tighter \"associate membership\" style relationship, with details to be hammered out by 2027.",
+      " Should Canada be leaning harder into Europe instead of its old reliance on the US?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-20/eu-and-canada-to-flesh-out-closer-associate-membership-by-2027",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Satellite images reveal Wainwright, Alta., fire devastation",
+    "angle": "Nothing gets a traveler's heart racing like the words \"tower evacuation\" \u2014 and with Pearson being Canada's busiest airport, a smoke scare there tonight means ripple-effect delays for anyone flying in or out of Toronto.",
+    "bullets": [
+      " Four service members died in the blaze on Saturday",
+      " New satellite imagery shows the burned land is large enough to be seen from space",
+      " Sometimes the biggest story of the day isn't a debate - it's just taking a second to acknowledge four people who didn't come home.",
+      " Reports of smoke triggered the evacuation of a tower that manages aircraft traffic at gates and loading zones",
+      " Anyone stuck on the tarmac at Pearson tonight \u2014 call in, what's the scene like on the plane right now?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/toronto/delayed-flights-toronto-pearson-airport-9.7389523?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Pamela Wallin says it was simply 'time to move on' after surprise resignation from Senate",
+    "angle": "A familiar face from Canadian TV news stepping down from the Senate always raises eyebrows - no scandal attached here, just a blunt 'time to move on,' which is its own kind of story.",
+    "bullets": [
+      " Pamela Wallin resigned from the Canadian Senate, calling it simply 'time to move on'",
+      " She was appointed Consul General of Canada to New York after 9/11 by then-PM Jean Chr\u00e9tien",
+      " She's one of Canada's best-known broadcast journalists, having hosted CTV's Canada AM",
+      " She also served as CTV's Ottawa bureau chief",
+      " When someone with a career like hers just walks away with zero drama, do you buy the simple explanation or figure there's more to it?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/saskatchewan/pamela-wallin-senate-resignation-9.7389209?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "We asked Canadians 55 years and older what it\u2019s like to look for employment. Here\u2019s what they said",
+    "angle": "Age discrimination in hiring is one of those things everyone suspects is real but rarely hear detailed firsthand - and with more Canadians working later in life out of necessity, this hits a huge chunk of our audience directly or through a parent.",
+    "bullets": [
+      " Have you or someone you know been passed over for a job because of your age - call in and tell us what happened. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "RDdjVXdkOGY2NDA?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ2cwWHcxaFc3TjI0LVB5RG5uNUZVemhmVVNmX0MwLXh5WWRvLUk2",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "The Secret Lives of Mormon Wives: Orange County Cast Deals with \u2018Moral Divides\u2019 in First Trailer (Exclusive) - People.com",
+    "angle": "The hit 'Secret Lives of Mormon Wives' franchise is expanding to Orange County, and the first trailer is already teasing cast drama over clashing values \u2014 classic reality TV bait for anyone who devoured the original season.",
+    "bullets": [
+      " No premiere date or full cast details given yet \u2014 just the exclusive first look.",
+      " Can you stay close with friends whose values are totally opposite yours \u2014 or does it always blow up eventually? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "BmeG5wN0lqdGZEQVpHRktXc0tiU21fc095Nkl1RkNoclpLNV9obEVz?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV1ZERVJFdlNuc0NxU2Y2cXgyVTlqSnN2Mm9yYmNsdTY2eS1OZ0VGN",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Robert Pattinson Was Bribed Into Starring in 'Primetime' With 200 Canisters of Zyn Addressed to 'Chris Han-Zyn'",
+    "angle": "This is the kind of absurd Hollywood trivia that writes itself for radio \u2014 a serious actor like Robert Pattinson getting talked into a role with a novelty nicotine-pouch bribe is pure watercooler gold.",
+    "bullets": [
+      " Robert Pattinson reportedly signed on to star in the film 'Primetime' after a very unusual bribe.",
+      " What's the weirdest 'gift' that could actually talk you into saying yes to a job?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/robert-pattinson-200-zyn-primetime-role-1766025",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Christina Applegate Reveals She Was Misdiagnosed With MS: \u2018I\u2019m Back at Square One\u2019 and It\u2019s a \u2018Mindf\u2014\u2019",
+    "angle": "Applegate became one of Hollywood's most public faces of multiple sclerosis \u2014 now she's saying that diagnosis itself may be wrong, which flips her whole health journey upside down and is exactly the kind of gut-punch update fans are reacting to right now.",
+    "bullets": [
+      " Christina Applegate says she was misdiagnosed with MS",
+      " Her reaction in her own words: \"I'm back at square one\"",
+      " She calls the whole situation a \"mindf\u2014\"",
+      " Imagine publicly living with a diagnosis for years only to find out it might not even be the right one \u2014 that's a heavy one to sit with on air."
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/christina-applegate-misdiagnosed-ms-1236917323/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Seinfeld actor Jason Alexander says he feared visiting Palestine as a Jewish person\u2026 but when he got there, Palestinians protected him from an Israeli army raid in Ramallah",
+    "angle": "Jason Alexander just told a story nobody saw coming \u2014 he was scared to even set foot in Palestine as a Jewish man, and instead the locals ended up shielding him during an Israeli military raid in Ramallah. It's a wild human moment sitting right on top of one of the most divisive topics in the world.",
+    "bullets": [
+      " Jason Alexander \u2014 yes, George Costanza himself \u2014 says he was nervous to visit Palestine as a Jewish person.",
+      " He claims that fear flipped once he got there: locals reportedly looked out for him.",
+      " Alexander says Palestinians protected him during the raid rather than the other way around.",
+      " Does a celebrity's personal, feel-good anecdote change anyone's mind on a conflict this heavy, or does it just get him dragged online from both sides?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/natl47u73pwh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "You Can See Everything eyes Oscars history",
+    "angle": "A24 is going all-in on a documentary with a campaign built around how strange the movie actually is - a gamble that's got Oscars watchers talking, and it's the kind of under-the-radar awards buzz hosts can get ahead of.",
+    "bullets": [
+      " A24 is running the Oscars push for the documentary You Can See Everything",
+      " Industry chatter now has it in real Oscars contention",
+      " Does a bizarre ad campaign make you more curious about a movie, or does it feel like a red flag?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/you-can-see-everything-oscars-campaign-9.7388336?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Selena Gomez says vaping nicotine changed her voice",
+    "angle": "Fans have been buzzing for years about why Selena Gomez's voice sounds different, and she just addressed it head-on \u2014 blaming nicotine vaping and admitting it's permanent. It's a candid celebrity health moment that doubles as a real cautionary tale.",
+    "bullets": [
+      " Selena Gomez posted a video Sunday responding to ongoing chatter about her changing voice",
+      " Her quote: \"I'm not going to be able to change my voice. I vaped nicotine a lot.\"",
+      " She's framing the change as permanent, not temporary",
+      " Does hearing a star like Selena admit vaping changed her voice forever actually scare people straight, or does nobody care until it's their own voice?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/selena-gomez-vaping-changed-voice-instagram-video-9.7388559?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Which \u2018Dancing With the Stars\u2019 couple went home on \u2018Dedication Night\u2019?",
+    "angle": "It's \"Dancing With the Stars\" elimination news, which always sparks fan debate about whether the right couple got cut \u2014 plus there's a teaser for next week's Horror Movie Night that'll have viewers guessing.",
+    "bullets": [
+      " A couple was eliminated on \"Dedication Night\" on Dancing With the Stars",
+      " Producers also dropped a twist for next week's \"Horror Movie Night\" theme",
+      " Call in: was this the right couple to go home, or did DWTS get it wrong again?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/20/entertainment/which-dancing-with-the-stars-couple-went-home-on-dedication-night/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Wicker\u2019 LA premiere red carpet: Olivia Colman, Alexander Skarsg\u00e5rd, Elizabeth Debicki and more",
+    "angle": "A stacked cast premiere is easy, fun entertainment chatter \u2014 great for talking fashion, buzz, and who's teaming up with who on screen.",
+    "bullets": [
+      " Olivia Colman walked the red carpet for the LA premiere of 'Wicker'",
+      " Alexander Skarsg\u00e5rd also turned out for the big night",
+      " Elizabeth Debicki rounded out the star-studded lineup",
+      " Which of these three is the real draw for you \u2014 Colman, Skarsg\u00e5rd, or Debicki?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/20/photos/wicker-la-premiere-red-carpet-olivia-colman-alexander-skarsgard-elizabeth-debicki-and-more/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Costume Designer Sandy Powell to Present Film London Jarman Award \u2013 Film News in Brief",
+    "angle": "Sandy Powell's one of the most recognizable names in costume design, and this is a nice full-circle moment \u2014 she's honoring the mentor who helped shape her career.",
+    "bullets": [
+      " Sandy Powell, the Oscar-winning costume designer, will present this year's Film London Jarman Award on Nov. 24",
+      " Powell isn't just presenting \u2014 she's also the guest of honor at the ceremony",
+      " She was mentored by and frequently collaborated with filmmaker Derek Jarman",
+      " Sandy Powell's costumes have defined some unforgettable movie looks \u2014 ask listeners which film costume has stuck with them the longest. variety.com (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/artisans/news/film-news-in-brief-oct19-2026-1236916412/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018You Can See Everything\u2019 Sets Oscar Campaigns for Best Picture, Supporting Actress and More Categories - Variety",
+    "angle": "Nathan Fielder is one of the weirdest, most divisive guys in comedy, and now his Elizabeth Holmes doc 'You Can See Everything' is chasing Best Picture - that's a wild swing from 'Nathan For You' to actual awards season heat.",
+    "bullets": [
+      " Nathan Fielder is campaigning his documentary 'You Can See Everything' across multiple Oscar categories",
+      " Variety flags the campaign is pushing Best Picture and Best Supporting Actress, among other categories",
+      " Does Nathan Fielder going full awards-bait on Elizabeth Holmes feel like genius or like he's trolling the Oscars themselves? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/awards/you-can-see-everything-oscars-eligibility-awards-1236916699/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'How hard could it be?': Kelowna candidate with viral signs gets elected",
+    "angle": "A candidate in Kelowna leaned into cheeky, self-deprecating signs ('How hard could it be?') instead of typical politician-speak \u2014 and it worked well enough to get them elected. It's a fun litmus test for how much internet virality now matters in real elections.",
+    "bullets": [
+      " Would a funny sign actually get YOUR vote, or is that just a gimmick?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/brady-rogers-satire-kelowna-campaign-win-9.7387848",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hunter Schafer Reveals She Underwent Gender-Affirming Bottom Surgery - Rolling Stone",
+    "angle": "The Euphoria and Blade Runner 2099 star just got candid about a major personal milestone, giving fans a rare, unfiltered look at her transition journey - the kind of celebrity openness that always sparks conversation.",
+    "bullets": [
+      " Hunter Schafer stars in Blade Runner 2099",
+      " She underwent gender-affirming bottom surgery last December",
+      " Hunter's openness about something so personal is exactly why fans love her - she's turned her own story into representation on a massive stage. Rolling Stone (via NewsAPI) (Tier 1) | Score: 77/90 (45 fit + 12 source + 20 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/hunter-schafer-bottom-surgery-1235645043/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "\u2018Wales\u2019s oldest man\u2019 recommends fish and chip diet ahead of 107th birthday",
+    "angle": "Everyone's got a theory about living to 100+, and this guy's answer is the most relatable one yet - no kale, no juice cleanse, just good old fish and chips. It's a fun, feel-good tangent for a longevity chat.",
+    "bullets": [
+      " A man reported to be Wales's oldest man is about to turn 107.",
+      " His go-to longevity tip: a steady diet of fish and chips.",
+      " Story's making rounds for how refreshingly simple (and unhealthy-sounding) his advice is.",
+      " What's YOUR unconventional 'secret' to a long life - be honest, callers."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.hellorayo.co.uk/hits-radio/south-wales/news/wales-oldest-man-fish-chips",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Scientists turned blood cells from donors aged newborn to 101 directly into brain stem cells, and the new cells kept getting biologically younger over time, shedding about 60 years of cell age in 50 days and acting like young cells, which may one day help treat brain diseases like dementia.",
+    "angle": "Researchers turned ordinary blood cells into brain stem cells and watched them get biologically younger as they grew - a real step toward fighting dementia, and a wild 'anti-aging' hook that'll get any room talking.",
+    "bullets": [
+      " Donors ranged from newborn to 101 years old - blood cells from across that entire age range were converted into brain stem cells.",
+      " If scientists could knock 60 years off your cells, would you actually want to feel that young again - or is there a reason you wouldn't touch it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/old-blood-cells-have-been-transformed-into-brain-stem-cells-that-get-younger-as-they-age",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A 1970s heart treatment that squeezes your legs with inflatable cuffs improved memory and thinking in 84% of people with early Alzheimer\u2019s in a 190-person trial. Most patients actually got better than where they started, not just slower decline, and 75% still had gains 6 months after treatment ended",
+    "angle": "This isn't a fancy new drug - it's a decades-old device that squeezes your legs like a blood pressure cuff, and it's showing real cognitive improvement, not just slowed decline. That twist is exactly the kind of 'wait, what?' health story that gets people talking.",
+    "bullets": [
+      " In a 190-person trial, 84% of early Alzheimer's patients showed improved memory and thinking",
+      " Most patients didn't just decline slower - they actually got better than their starting point",
+      " 75% of patients still had those gains 6 months after treatment ended",
+      " If a decades-old leg-squeezing device could genuinely improve a loved one's memory, would you care that it sounds weird - or just want it ASAP?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/this-heart-treatment-from-the-1970s-could-also-improve-memory-in-alzheimers-patients",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "El Paso\u2019s first-day early voting turnout jumps 90% over 2022",
+    "angle": "Turnout numbers are usually a snooze, but a 90% jump in one city on day one is the kind of civic-engagement stat that's actually good news - and it's a nice excuse to talk about whether your own town could use a wake-up call like that.",
+    "bullets": [
+      " El Paso saw first-day early voting turnout climb 90% compared to 2022",
+      " Would a 90% jump in your city's turnout actually surprise you - or does it feel like everyone's finally paying attention?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://elpasomatters.org/2026/10/19/el-paso-texas-early-voting-turnout-2026-midterm-election/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Colorado\u2019s wildlife crossing system cut wildlife collisions on Interstate 25 by 91%. A stretch that averaged 32 crashes a year has seen just two in 10 months, while a 200 foot wide bridge covered in grass reconnects 39,000 acres of habitat with five underpasses and miles of fencing.",
+    "angle": "It's the rare infrastructure story with a feel-good payoff: a massive wildlife bridge on I-25 slashed animal collisions by over 90%, which means fewer totaled cars, fewer vet bills for deer, and a genuinely cool visual to picture on air.",
+    "bullets": [
+      " That's a 91% drop in wildlife collisions.",
+      " It reconnects 39,000 acres of habitat, backed by five underpasses and miles of fencing.",
+      " A giant grass bridge over a highway for deer \u2014 would you want one of these built near you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.autonocion.com/us/200-foot-wildlife-bridge-colorado-interstate-two-animals/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "5-Year-Old Boy with Neurological Condition Affecting His Balance Raises $100K for Charity by Walking Laps Around His House",
+    "angle": "A little kid with a balance disorder turning his own backyard into a fundraising marathon is exactly the kind of underdog, feel-good story that spreads fast online and gives hosts an easy, no-downside win to talk up on air.",
+    "bullets": [
+      " He raised the money by walking laps around his own house rather than any organized race.",
+      " His effort brought in roughly $100,000 for charity.",
+      " Call it out as today's reminder that you don't need a stadium or a sponsor to make a real difference - just a driveway and enough laps."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/5-year-old-boy-with-neurological-condition-raises-usd100-000-for-charity-walking-laps-around-house-12181574",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Man accused of stealing flamingo found guilty",
+    "angle": "A flamingo theft conviction is pure \"you can't make this up\" radio - it's the kind of absurd local crime story that's basically made for a quick laugh and a \"weirdest things people have stolen\" tangent.",
+    "bullets": [
+      " What's the dumbest thing you've ever heard someone get arrested for stealing?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.kgns.tv/2026/10/20/man-accused-stealing-flamingo-found-guilty/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Bono Believes Republican Party Has Been \u201cHijacked\u201d and Wants \u201cTo Invite Them Back\u201d",
+    "angle": "A rockstar weighing in on American politics always gets people talking, and this one's a classic 'wait, did he really say that?' r/nottheonion moment that's custom-built for a show close.",
+    "bullets": [
+      " Bono says the Republican Party has been \"hijacked\"",
+      " His fix: he wants \"to invite them back\" rather than write them off",
+      " Does a U2 frontman lecturing the GOP land as wisdom or just another celebrity who should stay in his lane?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://consequence.net/2026/10/bono-talks-about-republican-party/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Brain implant lets people with paralysis speak and gesture at the same time",
+    "angle": "This is the kind of sci-fi-meets-real-life story that stops people mid-scroll - a brain implant that doesn't just restore speech, it lets someone gesture while they talk, which is basically how we actually communicate as humans.",
+    "bullets": [
+      " Ask listeners: if tech could restore ONE ability you take for granted, what would you pick first - talking, walking, or something else entirely?"
+    ],
+    "debate": "ture-at-the-same-time-a11?utm_source=reddit&utm_medium=social&utm_campaign=content_explore_brain-implant",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.zinio.com/explore/free/new-scientist/26-september-2026-i736775/brain-implant-lets-people-with-paralysis-speak-and-ges",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "'You Can See Everything' has already broken a new record among fans online",
+    "angle": "Something called 'You Can See Everything' is suddenly setting records with fans online \u2014 the kind of out-of-nowhere viral moment that's worth a quick temperature check on who's actually in on it.",
+    "bullets": [
+      " Who in the audience has actually seen this \u2014 explain the hype to the rest of us?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.indy100.com/showbiz/you-can-see-everything-letterboxd-reviews",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
     "slot": "am",
     "category": "THE LIST",
     "title": "Boy, 9, burns 70% of his body in terrifying, viral \u2018fire challenge\u2019",
