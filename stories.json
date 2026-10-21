@@ -1,5 +1,682 @@
 [
   {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Boy, 9, burns 70% of his body in terrifying, viral \u2018fire challenge\u2019",
+    "angle": "This is the nightmare scenario parents warn about with viral social media dares \u2014 a child nearly killed trying to recreate an online trend, and it's sparking fresh outrage over platforms letting this content spread to kids.",
+    "bullets": [
+      " A 9-year-old boy suffered burns to 70% of his body after attempting the viral 'fire challenge'",
+      " New Orleans' police superintendent publicly addressed the incident",
+      " Quote: \"It's very dangerous. It is not fun, and it is not funny.\"",
+      " Call in: do you check what 'challenges' your kids are watching online, or is this the wake-up call?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/20/us-news/boy-9-burns-70-of-his-body-in-terrifying-online-fire-challenge/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Meet \u2018Ted Lasso\u2019 Season 4\u2019s Youngest Stars, Orion And North, The Real-Life Brothers Playing Lizzie\u2019s Sons",
+    "angle": "Ted Lasso Season 4 is one of the most anticipated streaming returns in years, and the casting twist that Lizzie's on-screen sons are real-life siblings is exactly the kind of behind-the-scenes nugget that gets fans buzzing before premiere day.",
+    "bullets": [
+      " Orion and North Ginsburg Chan are real-life brothers cast to play Lizzie's sons in Ted Lasso Season 4.",
+      " They sat down for their first-ever interview, talking to Decider about landing the roles.",
+      " Both brothers opened up about their shared love of acting, not just one chasing the family hobby.",
+      " Real siblings playing on-screen siblings - ask listeners if that casting trick actually makes shows feel more believable."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://decider.com/2026/10/20/ted-lasso-orion-north-ginsburg-chan-interview-lizzie-sons-archie-sean/",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Maine model wins \"Angels Among Us,\" named Victoria's Secret newest angel - WMTW",
+    "angle": "A 21-year-old originally from Cameroon who's been grinding on the Maine modeling circuit just got crowned the newest Victoria's Secret Angel - a massive, life-changing contract that's basically the fashion world's Cinderella story.",
+    "bullets": [
+      " Solange Omon, 21, is the winner",
+      " She's originally from Cameroon but has been modeling locally in Maine",
+      " She won the \"Angels Among Us\" competition",
+      " A hometown underdog from Maine just landed one of the biggest titles in fashion - who's got a local-girl-makes-it-big story of their own? WMTW Portland (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.wmtw.com/article/maine-model-victorias-secret-angel-among-us-competition-winner/74177964",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Greg Abbott raked in $9 million from data center donors",
+    "angle": "Greg Abbott raked in $9 million from data center donors",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.texastribune.org/2026/10/19/greg-abbott-data-center-donors-texas/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Developers Are Using AI to Strip Ads and Tracking From Smart TVs",
+    "angle": "Smart TVs have turned into ad-and-data-tracking machines, and now a wave of developers is building tools to gut that tech entirely - it's the ultimate 'cord-cutter revenge' story that taps into everyone's shared annoyance with being spied on by their own living room.",
+    "bullets": [
+      " Would you void your TV's warranty to finally kill the ads and tracking for good?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://tech.yahoo.com/ai/meta-ai/articles/developers-using-ai-strip-ads-185856468.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "One-quarter of the world\u2019s data centers are located in areas where water demand exceeds supply for at least one month each year. Unlike energy, which can come from far away, water for these facilities comes from nearby rivers, lakes, and aquifers whose levels vary seasonally or annually.",
+    "angle": "AI and cloud computing are exploding, and this story's the hidden cost nobody talks about \u2014 a quarter of the world's data centers are sitting in places that literally run short on water every year, because unlike electricity, you can't just pipe water in from far away.",
+    "bullets": [
+      " One in four data centers worldwide sits in a region where water demand outstrips supply for at least one month a year",
+      " Data centers need water on-site for cooling, pulled from nearby rivers, lakes, and aquifers",
+      " Unlike power, which can be shipped in from anywhere on the grid, water supply is strictly local and seasonal",
+      " Levels in those local water sources swing year to year, meaning the risk isn't constant \u2014 it spikes",
+      " Should tech companies have to disclose how much local water their data centers are guzzling before they build one in your town?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.acs.org/pressroom/presspacs/2026/october/many-data-centers-are-located-where-water-resources-are-limited.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Jon Stewart to stay at \u2018The Daily Show\u2019 through the 2028 election",
+    "angle": "Stewart just committed to anchoring 'The Daily Show' all the way through the 2028 presidential race, meaning the guy who defined political comedy for a generation will be front and center for another full election cycle - that's a big deal for late-night and for how America laughs its way through politics.",
+    "bullets": [
+      " Jon Stewart is staying on at The Daily Show through the 2028 election.",
+      " Is Stewart still the sharpest voice in political comedy, or has the genre passed him by?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cnn.com/2026/10/19/media/jon-stewart-daily-show-2028-skydance-comedy-central?utm_medium=social&utm_campaign",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Lieutenant-governor will skip Quebec cabinet's swearing-in at incoming premier's request",
+    "angle": "Quebec's incoming PQ government is refusing to let the King's own representative swear in the new cabinet - a symbolic shot at the monarchy that's never happened before in Canadian politics.",
+    "bullets": [
+      " Lt.-Gov. Manon Jeannotte will sit out her own province's cabinet swearing-in - a political first.",
+      " His stated reason: he won't let a representative of the British Crown preside over the ceremony.",
+      " Is snubbing the Queen's (well, King's) rep a bold political statement or just symbolic theater?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/montreal/court-oath-to-king-quebec-9.7387583?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Rubio speaks to Zelenskyy, denies U.S. is deliberately hindering Ukraine's defences",
+    "angle": "A top U.S. official had to personally call Ukraine's president to deny America is deliberately withholding intel help \u2014 that's a big, awkward admission there's real friction behind the scenes of a war the U.S. is supposedly fully backing.",
+    "bullets": [
+      " Secretary of State Marco Rubio said he had an \"extensive conversation\" with President Volodymyr Zelenskyy",
+      " Rubio directly denied any \"deliberate political directive to harm Ukraine\"",
+      " Do you believe an ally when they have to publicly deny they're sabotaging you?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/ukraine-russia-war-zelenskyy-rubio-9.7387989?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "7 players to make worlds debut as Canadian women's hockey team looks to youth",
+    "angle": "Canada's women's hockey team is handing seven newcomers their world stage debut just months after that gutting Olympic final loss to the U.S. \u2014 a youth movement storyline that's easy for casual fans to latch onto.",
+    "bullets": [
+      " 7 players will make their world championship debut for Canada",
+      " It's Canada's first major tournament since falling to the U.S. in the Olympic final in February",
+      " Canada is leaning into youth as it looks to retool the roster",
+      " Bold rebuild or risky gamble \u2014 should Canada be blooding rookies this soon after an Olympic final loss?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/sports/hockey/pwhl/canada-roster-womens-hockey-world-championship-2026-9.7386936?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Alberta referendum: Voters want province to remain in Canada, CBC News projects",
+    "angle": "This is the separatist talk finally hitting the ballot box - Albertans had their say on whether to break away, and CBC's projecting the province is staying put. It's a huge temperature check on just how deep that western alienation really runs.",
+    "bullets": [
+      " CBC News is projecting the result of the Alberta referendum",
+      " Comes after years of louder \"Alberta separatism\" talk from some corners of the province",
+      " Were you surprised Alberta separatism talk ever got loud enough to need a referendum - or did you always know it'd end like this?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/edmonton/livestory/alberta-referendum-results-live-updates-separatism-october-19-2026-9.7387777",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Americans Are Meddling in the Alberta Referendum",
+    "angle": "Alberta's separatist referendum push is already a hot-button issue up north, but now there's buzz that American voices are steering the conversation from south of the border - which raises the classic \"stay out of our politics\" debate Canadians love to have.",
+    "bullets": [
+      " Should outside voices - American or otherwise - have any say in a province's independence vote?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://macleans.ca/politics/americans-are-meddling-in-the-alberta-referendum/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Indigenous Toronto man with a criminal record of 101 break-ins gets time served",
+    "angle": "A repeat offender with over a hundred break-and-enters on his sheet getting time served instead of more jail is the kind of sentencing story that instantly splits a room \u2014 restorative justice vs. public safety, and everyone's got an opinion.",
+    "bullets": [
+      " Does a sentence like this protect the public, or does it prove the system's catch-and-release when it comes to repeat property crime?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nationalpost.com/news/canada/indigenous-toronto-man-101-break-ins-time-served",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Prime Minister of The Netherlands, Rob Jetten, and Argentinian field hockey player, Nicolas Keenan, are expecting their first child.",
+    "angle": "A sitting head of state expecting his first child with a same-sex partner is a genuine first for a lot of listeners, and it's the kind of good-news crossover story (politics meets sports meets pop culture) that's easy to smile about.",
+    "bullets": [
+      " Rob Jetten, Prime Minister of the Netherlands, is expecting his first child.",
+      " Does baby news hit different when it's a world leader instead of a celebrity?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1x9xp79",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Winnipeg teacher stripped of certificate after sending hundreds of messages to student in 'serious breach'",
+    "angle": "A professional conduct body just yanked a teacher's certification over a relationship with a student that started in middle school and kept going into high school - the kind of story that raises hard questions about oversight and why nobody caught it sooner.",
+    "bullets": [
+      " Investigators cited hundreds of messages sent to the student",
+      " A professional body called it a 'serious breach' and stripped him of his teaching certificate",
+      " Hundreds of messages over years and nobody flagged it sooner - where was the oversight?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/manitoba/teacher-certificate-suspended-student-messages-9.7386940?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Manitoba man, 84, who lost legs to MS is knitting tuques on custom-made cot",
+    "angle": "This is pure feel-good Canadiana - an 84-year-old who lost his legs to MS refused to give up his craft, so he engineered his own solution and has quietly given away over a thousand hats. It's the kind of story that makes you want to call your grandpa.",
+    "bullets": [
+      " Leonard Foidart, 84, is from Notre-Dame-de-Lourdes, Manitoba",
+      " He lost his legs decades ago due to MS and finds it hard to sit, so he built a custom cot to knit lying down",
+      " He's donated more than 1,000 tuques in the last five years",
+      " What's the most stubborn, creative workaround you've seen someone build just to keep doing what they love?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/manitoba/senior-custom-cot-knitting-tuques-9.7382128?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Canadian who stole a Las Vegas flamingo after drinking '30 to 40' beers convicted of animal cruelty",
+    "angle": "An Ontario man got convicted of animal cruelty for swiping Peachy the flamingo from the Flamingo Las Vegas after a reported 30-40 beers - it's the kind of absurd-but-real crime story that writes its own punchline.",
+    "bullets": [
+      " He reportedly admitted to drinking '30 to 40' beers before the incident last March.",
+      " A Las Vegas court convicted him on Monday of animal cruelty charges, with prosecutors calling it a drunken, malicious act.",
+      " What's the most ridiculous thing you've seen someone try to steal while drunk?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/canadian-flamingo-las-vegas-9.7386697?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Alberta referendum: What the vote means for Premier Danielle Smith",
+    "angle": "A provincial referendum result lands right in Danielle Smith's lap, and depending on which way it broke, it could either hand her a mandate or blow up in her face politically \u2014 that's a story with real national-unity stakes, not just Alberta politics.",
+    "bullets": [
+      " Does this referendum make Danielle Smith stronger heading into her next fight with Ottawa, or does it box her in? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "WRTdV9lcmxnUnlOY1BuUXFHNmVRaDRCeHdnR1JLeWpJRDJyNW5wZDdpQ3d4TmxkOHg4Zw?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbE5MOHU2VzVPbGgzVFNBNFRhcFFva0wydE9qWXdMdnQ4ZURnYXR",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Christina Applegate reveals MS misdiagnosis in shocking health update: \u2018I lost everything\u2019",
+    "angle": "Applegate went public about her MS battle years ago, so hearing her now say the diagnosis itself was botched is a gut-punch update fans weren't expecting \u2014 and it taps into a fear a lot of listeners have about trusting their own doctors.",
+    "bullets": [
+      " Christina Applegate is pushing back on the idea that she's suddenly \"better,\" saying: \"You don't get misdiagnosed and then all of the sudden I'm better.\"",
+      " Have you or someone you know ever gotten a major misdiagnosis \u2014 and what happened when you finally got the right answer?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/20/celebrity-news/christina-applegate-reveals-ms-misdiagnosis-in-shocking-health-update/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Watch Tate McRae Sing \u2018Housewife\u2019 &amp; Smolder in Angel Wings at 2026 Victoria\u2019s Secret Fashion Show",
+    "angle": "Tate McRae didn't just attend the Victoria's Secret Fashion Show, she performed her own song while strapped into actual angel wings - a pop star/runway crossover moment that's custom-made for clips and comments right now.",
+    "bullets": [
+      " Tate McRae performed her track \"Housewife\" live at the 2026 Victoria's Secret Fashion Show",
+      " She did it decked out in full angel wings, the show's signature look",
+      " Billboard flagged the moment, calling her performance a total \"smolder\"",
+      " Is performing your own hit while walking in angel wings the new power move for pop stars, or has the 'VS Angel' crown gotten a little too easy to borrow? X/Twitter @Billboard (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2112484049864229373",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Megan Thee Stallion Serves \u2018Body\u2019 During \u2018Dream Come True\u2019 2026 Victoria\u2019s Secret Fashion Show Performance",
+    "angle": "Megan Thee Stallion Serves \u2018Body\u2019 During \u2018Dream Come True\u2019 2026 Victoria\u2019s Secret Fashion Show Performance X/Twitter @Billboard (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2112408512567316519",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Florida Gambling Helpline Director Jailed for Embezzlement to Fund Gambling Addiction",
+    "angle": "The irony writes itself: the guy whose literal job was helping Floridians quit gambling got caught embezzling funds to feed his own habit, and now he's heading to jail. It's a built-in 'you can't make this up' moment for the show.",
+    "bullets": [
+      " Prosecutors say the stolen money was used to fund his own gambling addiction.",
+      " Call in: what's the most 'physician, heal thyself' story you've ever heard?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gamblingnews.com/news/florida-gambling-helpline-director-jailed-for-embezzlement-to-fund-gambling-addiction/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Two Negative Reviews Prevent \u2018You Can See Everything\u2019 From Matching Rotten Tomatoes\u2019 Documentary Record",
+    "angle": "Near-perfect critical consensus is basically a unicorn in film criticism, so a documentary getting THIS close to the all-time Rotten Tomatoes record \u2014 and getting blocked by just two holdout critics \u2014 is the kind of 'so close' story movie fans love to argue about.",
+    "bullets": [
+      " You Can See Everything was on pace to tie Rotten Tomatoes' all-time documentary record.",
+      " Just two negative reviews were enough to keep it from matching the record.",
+      " Should two dissenting critics really get to be the thing that blocks a shot at a perfect score?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.forbes.com/sites/timlammers/2026/10/19/two-negative-reviews-prevent-you-can-see-everything-from-matching-rotten-to",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Christina Applegate Reveals She Was Misdiagnosed With MS: \u2018I\u2019m Back at Square One\u2019 and It\u2019s a \u2018Mindf\u2014\u2019",
+    "angle": "Christina Applegate has been one of the most open voices on living with MS since 2021 \u2014 now she's saying that diagnosis itself was wrong, which flips the script on a story fans thought they understood.",
+    "bullets": [
+      " Christina Applegate says she was misdiagnosed with MS (multiple sclerosis)",
+      " Her reaction in her own words: 'I'm back at square one'",
+      " She calls the whole situation a 'mindf\u2014'",
+      " A misdiagnosis this public raises the real question: how often does this happen to everyday people without the platform to call it out?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/christina-applegate-misdiagnosed-ms-1236917323/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Israeli television personality Lior Schleien has to explain to 17 year-old Tel Aviv high school students why killing everyone in Palestine is bad",
+    "angle": "Israeli TV personality Lior Schleien reportedly got pulled into a jaw-dropping exchange with a room of 17-year-old Tel Aviv students arguing for wiping out Palestinians entirely - a clip that's spreading because of just how calmly extreme the kids' position was.",
+    "bullets": [
+      " Lior Schleien, a well-known Israeli TV personality, ended up face-to-face with a classroom of 17-year-old Tel Aviv high schoolers.",
+      " Clip is circulating because of how unguarded and extreme the students' stated view was for their age.",
+      " Would you know what to say if a room full of teenagers casually argued for genocide?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/jlih1hgt6gwh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Hunter Schafer Reveals She Underwent Bottom Surgery Last Year",
+    "angle": "The Euphoria star is opening up about a major, deeply personal milestone in her transition - the kind of candid celebrity disclosure that always sparks conversation about visibility and privacy in Hollywood.",
+    "bullets": [
+      " Hunter Schafer revealed she had bottom surgery last year",
+      " She's best known for playing Jules on HBO's Euphoria",
+      " Schafer has long been outspoken as a trans rights advocate",
+      " Is this the kind of personal health update stars should feel free to share, or has it become too much of a headline?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.justjared.com/2026/10/19/hunter-schafer-reveals-she-underwent-bottom-surgery-last-year/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "You Can See Everything sells out theatres, and people can't stop talking about it",
+    "angle": "It's the rare movie moment built entirely on secrecy - theatres are selling out and everyone's talking about it, but the real story is that nobody's talking about what actually happens. That's a built-in debate for the show: is spoiler-free hype the best marketing trick in Hollywood right now?",
+    "bullets": [
+      " You Can See Everything is selling out theatres right now.",
+      " Audiences are actively avoiding spoilers - word-of-mouth buzz without plot details leaking.",
+      " It's become one of the most talked-about titles at the box office this week.",
+      " Have you seen it yet - and can you actually keep the secret? ON-AIR BIT BREAKDOWN - Step 1: The No-Spoiler Pitch - 60 seconds on the clock -> Each host tries to sell the movie to listeners for 60 seconds without revealing a single plot detail. - Step 2: Three-Word Reviews - Phone lines open -> Call in if you've seen it - describe it in exactly three words, no spoilers allowed."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/you-can-see-everything-box-office-9.7386841?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Rays to face Brewers in World Series, guaranteeing a 1st-time champion",
+    "angle": "The Rays and Brewers are both franchises that have never won it all, so for the first time in a long time, baseball is guaranteed a brand-new champion this fall.",
+    "bullets": [
+      " Tampa Bay Rays beat the Cleveland Guardians 7-3 in Game 6 of the ALCS to punch their World Series ticket.",
+      " Junior Caminero and Yandy Diaz each hit a two-run homer to power the win.",
+      " Freddy Peralta battled through 5 1/3 gritty innings on the mound.",
+      " It's only the third World Series trip in the Rays' 29-season franchise history.",
+      " Rays or Brewers \u2014 who are you rooting for now that your team's out of it?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/alcs-rays-guardians-game-6-recap-9.7387928?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Barbara Palvin Says It\u2019s \u2018Not That Big of a Deal\u2019 to Walk Victoria\u2019s Secret Runway at 6 Weeks Postpartum (Exclusive) - People.com",
+    "angle": "A supermodel hitting the runway six weeks after giving birth is reigniting the whole postpartum-pressure debate \u2014 is it empowering or is it setting an unrealistic bar for new moms?",
+    "bullets": [
+      " Barbara Palvin, 33, returned to the Victoria's Secret Fashion Show just six weeks after welcoming her first child",
+      " She shares the baby with husband Dylan Sprouse",
+      " Palvin told PEOPLE in an exclusive interview that walking that soon was 'not that big of a deal'",
+      " She says motherhood so far has been 'fun'",
+      " Is 'bouncing back' at 6 weeks empowering body confidence or just another unrealistic standard for new moms? PEOPLE (via NewsAPI) (Tier 1) | Score: 90/90 (45 fit + 12 source + 33 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://people.com/barbara-palvin-not-big-deal-to-walk-victoria-secret-runway-postpartum-12181563",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "After years of backlash, Apu returns to 'The Simpsons' with a South Asian voice",
+    "angle": "After Hari Kondabolu's documentary and years of 'cancel Apu' debate, the Kwik-E-Mart owner is returning to Springfield with an actual South Asian actor voicing him \u2014 a real test of whether the show can revive a beloved character without repeating the stereotype that got him benched.",
+    "bullets": [
+      " Apu had basically vanished from The Simpsons after years of criticism over the character's accent and stereotypes",
+      " Is this a genuine fix or just Springfield checking a box \u2014 call in and tell us if Apu should've stayed retired."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/apu-simpsons-voice-hari-kondabolu-sunil-malhotra-a908773dbf9cd621178ec5de03aad5a2",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Saturday Night Live UK\u2019 takes aim at Shane Gillis\u2019 \u2018SNL\u2019 monologue with raunchy joke",
+    "angle": "Shane Gillis caught heat for his gym-attire monologue on 'SNL' \u2014 now the UK version of the show is clapping back with its own raunchy joke, turning a one-night controversy into a full-on transatlantic comedy feud.",
+    "bullets": [
+      " Shane Gillis (star of 'Tires') got backlash for an 'SNL' monologue joking about what women wear to the gym",
+      " 'Saturday Night Live UK' responded by taking a direct, raunchy shot at that same monologue",
+      " Was the original joke actually that bad, or is SNL UK just picking an easy target?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/20/celebrity-news/saturday-night-live-uk-takes-aim-at-shane-gillis-snl-monologue-with-raunchy-joke/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "A new study found that HSV-1, the virus that causes cold sores, can reprogram the brain\u2019s immune cells, potentially linking viral infection to chronic inflammation and increased vulnerability to Alzheimer\u2019s disease.",
+    "angle": "Nearly everyone's carrying the cold sore virus without knowing it, and now scientists say it could be quietly rewiring brain immune cells and raising Alzheimer's risk - the kind of 'wait, what?' health story that makes people want to go Google their own cold sore history.",
+    "bullets": [
+      " Researchers found it can reprogram the brain's immune cells, not just sit dormant",
+      " That reprogramming is tied to chronic inflammation in the brain",
+      " You've probably had a cold sore and never thought twice about it - does knowing it might mess with your brain change that?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://news.cuanschutz.edu/news-stories/common-cold-sore-virus-may-reprogram-the-brains-immune-defenses?utm_campaign=HS",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "The OG Angels Were the Hottest Part of the Victoria\u2019s Secret Fashion Show Runway - Cosmopolitan",
+    "angle": "Victoria's Secret brought back its iconic 90s/2000s Angels for the 2026 show, and fans are saying the nostalgia act stole the runway from the current lineup - a fun generational showdown for anyone who grew up on this show.",
+    "bullets": [
+      " Adriana Lima, Alessandra Ambrosio, and Heidi Klum were singled out as the standout moments of the 2026 runway show",
+      " Victoria's Secret leaned on nostalgia, bringing back faces that defined the brand's wings-and-glamour era",
+      " Do the OG Angels still have it, or are we just romanticizing the 2000s? Cosmopolitan.com (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.cosmopolitan.com/style-beauty/fashion/a74173103/victorias-secret-fashion-show-2026-og-angels/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Christina Applegate reveals MS misdiagnosis in shocking health update: \u2018I lost everything\u2019 https://t.co/RU1pwQCZZi https://t.co/ABFbax7ioj",
+    "angle": "Applegate has been candid about her multiple sclerosis battle for years, so a reveal that the diagnosis itself may have been wrong hits hard \u2014 it's a gut-punch update fans weren't expecting and taps into real fear around getting misdiagnosed.",
+    "bullets": [
+      " Christina Applegate is revealing she was misdiagnosed as part of her ongoing health journey.",
+      " Her own words on the toll it took: 'I lost everything.'",
+      " She's framing it as a 'shocking health update' in her own announcement.",
+      " Have you or someone you love ever gotten the wrong diagnosis \u2014 what did it end up costing you? X/Twitter @NYPost (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2112518095159922972",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Angelina Jolie\u2019s foundation has protected 150,720 acres of Cambodian forest for 20 years, where elephants and pangolins still roam; its rangers removed more than 4.8 miles of illegal snares in 2025, helping keep the forest safe for wildlife.",
+    "angle": "This is the good-news palate cleanser \u2014 a celebrity conservation project that's actually been grinding away for two decades with real results, not just a photo-op. Elephants and pangolins still roaming free is the kind of detail that makes a story land.",
+    "bullets": [
+      " Angelina Jolie's foundation has protected 150,720 acres of forest in Cambodia for 20 years.",
+      " Rangers pulled over 4.8 miles of illegal snares out of the forest in 2025 alone.",
+      " Twenty years, nearly 5 miles of snares pulled in one year \u2014 that's not a photo-op, that's a job."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/angelina-jolies-foundation-has-spent-20-years-in-a-150720-acre-cambodian-forest-where-elephants-an",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "After 300 bison were reintroduced to Oklahoma\u2019s tallgrass prairie in 1993, the herd has grown to around 2,700 and helped restore the ecosystem, with more wildflowers, new wildlife ponds and less grassland fuel for wildfires across the 39,000 acre preserve.",
+    "angle": "This is pure feel-good: one conservation bet in the 90s has snowballed into a thriving ecosystem, proof that sometimes nature just needs a nudge to fix itself.",
+    "bullets": [
+      " 300 bison were reintroduced to Oklahoma's tallgrass prairie back in 1993",
+      " They roam a massive 39,000-acre preserve",
+      " Their grazing has brought more wildflowers, new wildlife ponds, and less dry grass fueling wildfires",
+      " One good decision 30 years ago is still paying off today \u2014 that's the kind of ripple effect we love to end the show on."
+    ],
+    "debate": "grassland-ecosystem-f202610-n/?",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://en.as.com/latest_news/the-us-reintroduced-bison-to-tallgrass-prairie-in-1993-decades-later-the-herd-has-restored-oklahomas-",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Trapped 4-Year-Old Boy Rescued from Smoldering Wreckage of House Fire by Neighbor Searching with His Bare Hands.",
+    "angle": "This is the kind of pure, no-asterisks hero story that stops people mid-scroll \u2014 real bodycam footage of a stranger risking his own life to pull a little kid out of a fire, and it's going viral for all the right reasons.",
+    "bullets": [
+      " Neighbor Kennard Hodge searched the smoldering wreckage with his bare hands",
+      " Police bodycam caught him shouting \"Got him, got him. I got him!\"",
+      " Play the bodycam audio on air \u2014 that \"Got him, I got him!\" moment is the kind of raw, human sound that needs zero setup."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://people.com/trapped-4-year-old-boy-rescued-from-smoldering-wreckage-of-house-fire-by-neighbor-12181568",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "A Chinese rocket deorbited over Minnesota and left this in a farmer's cornfield",
+    "angle": "Space debris falling out of the sky and landing on an actual American farm is the kind of wild, visual story that spreads instantly online - it taps into real questions about who's responsible when space junk rains down on someone's property.",
+    "bullets": [
+      " A Chinese rocket reportedly deorbited over Minnesota",
+      " Debris reportedly came down in a farmer's cornfield",
+      " Raises the recurring question of liability and safety when falling rocket parts land on private land",
+      " If a chunk of a foreign rocket landed on your property, would you call the news, the government, or just keep it as a souvenir?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "MapQuest Includes Flock Camera Locations Now",
+    "angle": "MapQuest is reportedly flagging the locations of Flock Safety cameras \u2014 the AI license-plate readers police and neighborhoods use nationwide to track vehicles \u2014 turning a everyday map app into a surveillance radar and reigniting the privacy-vs-policing debate.",
+    "bullets": [
+      " Flock Safety cameras are AI-powered license-plate readers used by police departments and neighborhood groups across the U.S. to track vehicle movement.",
+      " MapQuest is reportedly now marking these camera locations directly on its maps for drivers.",
+      " Would you want every police camera marked on your route \u2014 or does that just help people dodge the law?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.jalopnik.com/2290532/mapquest-includes-flock-camera-locations-now/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-20",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Accused OpenAI spy had folder called \u201cSaudi Gov Docs,\u201d FBI says | U.S fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+    "angle": "An alleged spy inside one of the world's most powerful AI companies is wild enough on its own - but now the U.S. is worried Saudi Arabia might help him skip the country before he faces charges.",
+    "bullets": [
+      " He's a former OpenAI engineer now facing spying-related charges",
+      " U.S. officials reportedly fear the Saudi government could help him flee before trial",
+      " Should we be more worried about foreign governments recruiting from inside AI labs than we are?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-10-19",
     "slot": "pm",
     "category": "THE LIST",
