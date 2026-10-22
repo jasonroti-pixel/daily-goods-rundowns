@@ -1,6 +1,732 @@
 [
   {
     "date": "2026-10-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "\u2018860\u2019 review: Billy Crystal pays tribute to house lost in Palisades fire in hilarious, heartbreaking one-man show",
+    "angle": "A beloved comedy icon just turned personal tragedy into a Broadway hit \u2014 Billy Crystal's new one-man show tackles losing his home in the Palisades fire with both laughs and tears, which is exactly the kind of story that gets people talking.",
+    "bullets": [
+      " Billy Crystal's new one-man show, '860,' opened Wednesday night at Broadway's Imperial Theatre",
+      " Reviewers are calling it a 'feat' \u2014 somehow landing as both hilarious and heartbreaking",
+      " Billy Crystal just turned losing his home into a Broadway triumph \u2014 what's the one thing from your own house you'd be devastated to lose?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/21/entertainment/860-review-billy-crystal-pays-tribute-to-house-lost-in-palisades-fire-in-hilarious-heartbre",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Bruce Springsteen\u2019s Youngest Son Chose a Surprising Career Far from His Dad\u2019s Rock Star World - People.com",
+    "angle": "Celebrity kids usually either chase the family spotlight or run from it entirely - Bruce Springsteen's youngest son reportedly did the latter, picking a path nothing like dad's stadium-rock world, and that contrast is exactly the kind of 'wait, really?' detail that gets people clicking.",
+    "bullets": [
+      " Would you walk away from the family business if your last name was Springsteen? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "RHhRQms3YUd3TVJFU0E2ZkJORjJpWS10N2p2UkdnYmh6?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQemNLZHhZZ1hVbDRkZ2JpMERGM3N1eDVhUldBSmluLTd4MGlUUEhvR",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump presents $10,000 check to Nick Shirley, the YouTuber behind Minnesota day care fraud furor - CBS News",
+    "angle": "A conservative YouTuber's viral investigation into Minnesota day cares turned into an actual Oval Office moment - and now the White House is paying out $25 million to anyone who can sniff out fraud like he did.",
+    "bullets": [
+      " Nick Shirley, the YouTuber behind the viral Minnesota day care fraud videos, got a $10,000 check straight from President Trump in the Oval Office.",
+      " His videos triggered real-world action - visits from state regulators and federal agents to the day care centers in question.",
+      " A guy with a camera and a YouTube channel ended up influencing federal fraud enforcement.",
+      " Citizen journalist or political stunt - does it matter who exposes fraud as long as it gets exposed? CBS News (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.cbsnews.com/minnesota/news/nick-shirley-10000-check-minnesota-day-care-fraud-videos/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "New Airbnb rules ban hosts from making guests wash dishes, do laundry & other checkout chores",
+    "angle": "Anyone who's ever gotten a checkout list longer than their lease has a horror story about this - Airbnb cracking down on hosts turning guests into unpaid cleaning staff is instant relatable material for a huge chunk of the audience.",
+    "bullets": [
+      " Airbnb is rolling out new rules banning hosts from forcing guests to do checkout chores.",
+      " Checkout-chore demands have been one of the most common guest complaints about the platform.",
+      " What's the most ridiculous checkout chore a host ever made you do before you could leave?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.dexerto.com/entertainment/new-airbnb-rules-ban-hosts-from-making-guests-wash-dishes-do-laundry-other-checkout-cho",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Anthropic posts staggering $80.7 billion net loss in first half of 2026 as IPO approaches",
+    "angle": "One of the hottest names in AI just posted an eye-popping loss right before trying to go public \u2014 it's the perfect gut-check on whether the AI boom is real money or a very expensive bet.",
+    "bullets": [
+      " Anthropic reported a net loss of $80.7 billion for the first half of 2026.",
+      " It's one of the largest losses ever posted by a tech company heading into a public offering.",
+      " Would you ever buy stock in a company losing money that fast \u2014 or does a number like $80 billion scare you off for good?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://techstartups.com/2026/10/20/anthropic-posts-staggering-80-7-billion-net-loss-in-first-half-of-2026-as-ipo-approaches/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "The DoD has loaned the Dept of Homeland Secuity a military 'Heat Ray' (Active Denial System) for use at the US-Mexico Border",
+    "angle": "A military-grade weapon built for battlefield crowd control is heading to the US-Mexico border, and that blurs a pretty bright line between the military and domestic immigration enforcement \u2014 exactly the kind of story that splits a room fast.",
+    "bullets": [
+      " It's a non-lethal directed-energy weapon designed to make a target's skin feel like it's burning from a distance, without actually touching them.",
+      " It was originally developed for military crowd-control use, not domestic law enforcement.",
+      " Smart deterrent or a dangerous line to cross \u2014 should military-grade weapons be used on civilians at the border?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.military.com/dod-memo-greenlights-dhs-use-of-military-heat-ray-at-us-mexico-border",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Global emissions slow \u2014 but world hurtles towards 2 \u00b0C of warming",
+    "angle": "New global data shows the rate of emissions growth is finally slowing down \u2014 but even that slowdown isn't enough to stop the planet from blowing past the 2\u00b0C warming mark scientists have warned about for years.",
+    "bullets": [
+      " Despite that slowdown, the world is still on pace to pass 2\u00b0C of warming, the long-standing danger threshold",
+      " Does 'we're polluting less than we used to' actually count as good news if we're still headed for the same bad outcome?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nature.com/articles/d41586-026-03355-x",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Study identifies world\u2019s first corporate psychopath. The same playbook we see in toxic workplaces today appears in this case from 1629. He removed opponents, rewarded loyalists, created fear, manipulated followers and pursued power at any cost",
+    "angle": "A new study claims to have ID'd history's first documented 'corporate psychopath' - and the power-grab playbook from almost 400 years ago is basically every toxic boss story you've ever heard.",
+    "bullets": [
+      " Researchers say they traced the first documented case of a corporate psychopath all the way back to 1629",
+      " Classic manipulation tactics - manipulating followers and pursuing power at any cost - line up with what experts flag in toxic workplaces today",
+      " Have you ever worked for a boss who fits this exact playbook - and how did you survive it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.eurekalert.org/news-releases/1148675",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Carney government\u2019s new immigration policy for foreign workers a tough sell to Canadians",
+    "angle": "Immigration levels are already a nerve-touching topic in Canada with housing costs and job competition top of mind, so a brand-new PM rolling out a foreign-worker policy that's facing public pushback is exactly the kind of national flashpoint that gets phone lines lit up.",
+    "bullets": [
+      " Would you welcome more foreign workers into the job market right now, or does this feel like the wrong moment?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thehub.ca/2026/10/21/carney-governments-new-immigration-policy-for-foreign-workers-a-tough-sell-to-canadians/?hubcta=ho",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Iron Maiden\u2019s Nicko McBrain rejected round of golf with Donald Trump: \u201cShould be put in jail\u201d",
+    "angle": "A rock legend turning down a golf invite from a sitting world leader \u2014 with fighting words attached \u2014 is exactly the kind of celebrity-meets-politics collision that gets phones ringing.",
+    "bullets": [
+      " Nicko McBrain, longtime drummer for Iron Maiden, turned down a round of golf with Donald Trump.",
+      " McBrain didn't hold back on why, reportedly saying Trump \"should be put in jail.\"",
+      " Would you turn down a round of golf with a president just to make a political point \u2014 or take the invite and use it as your moment?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://faroutmagazine.co.uk/iron-maidens-nicko-mcbrain-rejected-round-golf-donald-trump-jail/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canadian Officers Don\u2019t Want to Serve in the U.S. Anymore",
+    "angle": "Cross-border policing ties between Canada and the US are usually a non-story \u2014 but a shift in officers refusing US assignments points to deeper friction over politics and safety that's got Canadians talking.",
+    "bullets": [
+      " Would you still want to work south of the border right now \u2014 or has the vibe shifted too much?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theatlantic.com/national-security/2026/10/military-cooperation-canada-trump/689057/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Rogers will be charging 1.6% fee for credit card bill payments starting Jan 17 to everyone outside of QC",
+    "angle": "Starting in the new year, Rogers customers outside Quebec will get hit with a surcharge just for paying their bill with a credit card \u2014 a classic 'junk fee' moment that's guaranteed to make listeners furious and start a vent session about corporate nickel-and-diming.",
+    "bullets": [
+      " Rogers is adding a 1.6% fee on credit card bill payments",
+      " It applies to customers outside of Quebec \u2014 Quebec is exempt",
+      " Switching to debit or pre-authorized payment is the likely workaround to dodge the fee",
+      " Would you switch banks, cards, or even providers over a 1.6% 'convenience' fee \u2014 or is this just the cost of doing business now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.rogers.com/support/billing-accounts/understanding-the-credit-card-processing-charge",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Alberta\u2019s Smith tells UCP members to get on team Canada or find new party",
+    "angle": "Alberta Premier Danielle Smith is laying down an ultimatum to her own UCP members - fall in line behind the national effort or leave the party. That's a rare public crack showing up inside her own caucus, and it's worth hosts digging into why.",
+    "bullets": [
+      " Danielle Smith, Alberta's premier, put the ultimatum directly to her own UCP members",
+      " Her message: get on board with 'Team Canada' - or find a new party",
+      " Suggests real tension inside the UCP between Smith's line and a more separatist-leaning wing",
+      " Is Smith uniting her party here, or just putting the cracks in it on display?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/edmonton/article/albertas-smith-tells-ucp-members-to-get-on-team-canada-or-find-new-party/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Toronto Crime Stoppers pauses program after CBC investigation reveals more details of data leak",
+    "angle": "Crime Stoppers only works if tipsters trust their identity stays secret - so a data leak strikes right at the heart of the whole program, and this is breaking after a CBC investigation dug up more than first reported.",
+    "bullets": [
+      " Toronto Crime Stoppers has paused its program entirely.",
+      " If anonymous tip lines can spring a leak, would you still pick up the phone to report a crime?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/investigates/toronto-crime-stoppers-pausing-program-data-leak-hack-9.7391157?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Edmonton-based video game studio BioWare shutting down after more than 30 years",
+    "angle": "BioWare is an Edmonton institution and a Canadian gaming crown jewel - this isn't some no-name studio, it's the team behind some of the most beloved RPGs ever made, and after 30+ years, EA is pulling the plug.",
+    "bullets": [
+      " BioWare is based in Edmonton and has been running for more than 30 years.",
+      " Owner Electronic Arts (EA) is the one shutting the studio down.",
+      " BioWare created Baldur's Gate and Dragon Age - two franchises with massive, loyal fanbases.",
+      " This marks the end of one of Canada's most storied video game studios.",
+      " What's your BioWare game - Baldur's Gate, Dragon Age, or Mass Effect - and does it hurt more knowing it was made right here in Canada?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/electronic-arts-shutting-bioware-edmonton-9.7391164?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Airbnb limiting the checkout chores hosts can ask guests to do",
+    "angle": "Anyone who's ever stripped beds, run the dishwasher, and hauled out the trash before an Airbnb checkout has a horse in this race - Airbnb just said hosts can't pile on the chores anymore.",
+    "bullets": [
+      " Airbnb has updated its policies to limit how much cleaning hosts can demand before guests check out",
+      " Comes amid years of guest complaints that Airbnb stays feel like unpaid housekeeping shifts on top of cleaning fees",
+      " What's the most ridiculous checkout chore an Airbnb host has ever made you do?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/airbnb-cleaning-fee-new-checkout-rules-2026-9.7390572?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Florida university shows off flying cop car",
+    "angle": "A flying police cruiser sounds like straight-up sci-fi, and it's real enough that a Florida university is showing it off - instant \"wait, what?\" factor that's begging for hosts to riff on Jetsons comparisons and whether this thing could actually patrol the streets.",
+    "bullets": [
+      " A university in Florida publicly debuted a concept flying police car.",
+      " No word yet on specs, cost, or whether this ever actually hits the road - or the sky.",
+      " Flying cop cars - genius crime-fighting upgrade or the most expensive way to get stuck in traffic above the traffic? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "1A1aXh3YmFtb2o2MmdGMg?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGFPY1VFbzFsT1M4b1RuejNTR1ctVkJ2dE9HQVdqRWdzdVduSmRGek",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Eastern seaboard Nor\u2019easter moving North, bringing rain to Nova Scotia",
+    "angle": "A Nor'easter that's been chewing up the Eastern Seaboard is now swinging north into Atlantic Canada, which means soggy plans for Nova Scotia \u2014 classic East Coast fall weather chat that every listener out there can relate to.",
+    "bullets": [
+      " A Nor'easter system is tracking up the Eastern Seaboard and pushing into Atlantic Canada.",
+      " Nova Scotia is in the direct path, with rain expected as the storm moves through.",
+      " Nor'easters are notorious for dumping heavy rain and whipping up coastal winds along this exact corridor.",
+      " Who's already rearranging their weekend plans because of this one? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "dnlyWDJhWGJmWWdSSWdLbDdfbEJvUVJDRFQ3WVZsTWJoWWNkbWJIR1NHWHBXQUE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR0JCa1JjdkNJZDlzQ0dySlE1TUVvMGs2aDFjb3oyVkF3ejBHd2pfWEs2LX",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Unpacking the \u2018Glee\u2019 curse as the show sets its shocking return",
+    "angle": "Glee is making a comeback right as fans are being reminded of the string of tragedies and scandals that have followed its original cast for over a decade \u2014 it's the kind of nostalgia-meets-dark-history story that makes people stop scrolling.",
+    "bullets": [
+      " \"Glee\" is confirmed to be making a return, reigniting interest in the show years after it ended",
+      " Would you actually watch a Glee revival, or does the show's history make that feel too heavy?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://pagesix.com/entertainment/what-to-know-about-the-glee-curse/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Olivia Cooke on Returning to \u2018Slow Horses,\u2019 On-Set Injuries and That Shocking Finale Cliffhanger: \u2018I Want a Showdown!\u2019",
+    "angle": "Apple TV's twisty spy hit just dropped its Season 6 finale, and the return of a fan-favorite agent after a four-season absence has everyone talking cliffhangers \u2014 perfect for spy-drama binge-watchers trading theories this week.",
+    "bullets": [
+      " Olivia Cooke returned to 'Slow Horses' after a four-season absence",
+      " Her MI5 agent Sidonie Baker made a comeback teased with just two words: 'Hello, River'",
+      " Cooke herself is hyped for what's next, saying 'I want a showdown!'",
+      " Who's caught up on 'Slow Horses' \u2014 and did that finale twist get you as fired up as Olivia Cooke? variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/news/slow-horses-season-6-finale-olivia-cooke-interview-1236917817/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Kylie Jenner\u2019s $50 Million Victoria\u2019s Secret Diamond Fantasy Bra Is Going Up for \u2018Private Purchase\u2019 - People.com",
+    "angle": "A literal $50 million piece of lingerie going up for private sale is the kind of absurd celebrity-meets-luxury headline that's custom-built for a quick \"wait, how much?\" moment on air.",
+    "bullets": [
+      " Kylie Jenner modeled Victoria's Secret's Diamond Fantasy Bra",
+      " It's being made available via \"private purchase\" rather than a normal retail sale",
+      " Would you even insure a $50 million bra, let alone wear one on a runway? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "M1ZBbjFrc3NKcy05ajAwSkhFOUU?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ0NfUWd2UjZLWGt2cWZEUE91RHhscmZweEUwSEVqcEg3TGQyOU9",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hunter Schafer Reveals She Underwent Gender-Affirming Bottom Surgery - The Hollywood Reporter",
+    "angle": "The Euphoria star and trans icon just opened up about a major personal milestone in a new interview, and it's the kind of candid celebrity moment that always sparks a bigger conversation about visibility and body autonomy.",
+    "bullets": [
+      " Hunter Schafer revealed she had bottom surgery in December during a new interview with Elle magazine",
+      " Her exact quote: \"I just had bottom surgery in December, which was amazing, and I love it so much\"",
+      " Hunter's been praised for how openly and joyfully she talks about her transition \u2014 why does that kind of candor from a star this famous actually matter? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/lifestyle/lifestyle-news/hunter-schafer-gender-affirming-bottom-surgery-1236736776/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "JustWatch, which tackles streaming fragmentation, launches own streaming service",
+    "angle": "JustWatch built its whole brand on helping people navigate too many streaming apps \u2014 now it's launching its own app, which is exactly the problem it promised to solve. It's a built-in irony that practically writes the joke for you.",
+    "bullets": [
+      " JustWatch is the app/site people use to figure out which streaming service has the movie or show they want to watch.",
+      " Their pitch for years has been cutting through streaming fragmentation \u2014 too many apps, too many subscriptions.",
+      " Now they're reportedly launching their own streaming service, adding one more app to the pile they built a business pointing out.",
+      " Is this JustWatch solving the problem or secretly admitting they wanted a piece of it the whole time?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Young Sheldon\u2019 Star Iain Armitage Says He Was the \u2018Most Happy\u2019 About the Show Ending:",
+    "angle": "",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Wasn\u2019t \u2018Going Home and Crying All Day\u2019",
+    "angle": "A former child star bluntly admitting he was relieved his hit show got canceled is a refreshingly honest break from the usual \"I'll miss this cast forever\" press-tour talk - it's the kind of candor that gets people talking about what kid actors actually go through.",
+    "bullets": [
+      " Iain Armitage, who played young Sheldon Cooper on the CBS hit, says he was the \"most happy\" among the cast about the show wrapping",
+      " He says he wasn't \"going home and crying all day\" like it sounds like others on set may have been",
+      " Is it refreshing or a little harsh for a young actor to openly say he was happy his show ended?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/young-sheldon-iain-armitage-show-ending-1236918379/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Sacha Baron Cohen admits Ali G is \u2018problematic\u2019 but is still bringing him back",
+    "angle": "Sacha Baron Cohen is reviving one of comedy's most divisive characters and owning the controversy upfront, which practically begs the question of whether some old-school shock comedy still has a place today.",
+    "bullets": [
+      " Sacha Baron Cohen himself calls Ali G \"problematic\"",
+      " Despite that, he's confirmed the character is making a comeback",
+      " Ali G was Cohen's breakout alter ego from the late '90s/early 2000s mockumentary era",
+      " Should comedians get a pass to revive old \"problematic\" characters if they admit it upfront, or is that just a dodge?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://metro.co.uk/2026/10/21/sacha-baron-cohen-admits-ali-g-problematic-still-bringing-back-29726842/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "After a recent taping of Subway Takes, a woman sits down and proceeds to riff with Conan O\u2019Brien (a notoriously great improviser), matching him joke for joke to his complete delight",
+    "angle": "A total unknown goes toe-to-toe with one of the fastest comedic minds alive and doesn't just survive \u2014 she delights him. It's the kind of viral clip that makes you wonder if you'd freeze or fire back.",
+    "bullets": [
+      " It happened right after a taping of Subway Takes.",
+      " Conan O'Brien \u2014 widely regarded as one of the best improvisers in comedy \u2014 sat down with her.",
+      " She matched him joke for joke, and by all accounts left him completely delighted.",
+      " Could you hold your own riffing with Conan O'Brien, or would you freeze the second the camera's on?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/te3saeuznuwh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Dolly Parton's Sister Says Her Ballot Kept Switching to Another Candidate While Voting Early in Tennessee",
+    "angle": "Election-tech jitters meet Dolly Parton's orbit \u2014 a celebrity family connection to a voting-machine glitch story is catnip for both political chatter and pop culture fans right before election season heats up.",
+    "bullets": [
+      " Dolly Parton's sister says she was voting early in Tennessee when her ballot selection kept switching to a different candidate",
+      " No word yet on which race or candidate was involved, or whether election officials have responded",
+      " Voting machine glitch or user error \u2014 have you ever had a ballot screen act weird on you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://parade.com/news/dolly-parton-sister-stella-parton-ballot-switching-votes-tennessee-early-voting",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "A Glee reboot is officially happening, and fans are buzzing",
+    "angle": "Glee defined a decade of underdog anthems and launched a wave of careers, so word of a reboot \u2014 with original cast reportedly circling back \u2014 is instant nostalgia bait for anyone who ever lived through a mashup episode.",
+    "bullets": [
+      " Several original cast members have signaled they're open to returning for the new version",
+      " Call in: what's the one Glee mashup or character you need back for the reboot to actually work?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/glee-reboot-9.7390855?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018This Is Not a Drill\u2019: Critical PHP Vulnerabilities Are Setting the Internet on Fire",
+    "angle": "PHP quietly runs a massive chunk of the internet behind the scenes, so when tech circles start calling new flaws 'not a drill,' it's worth a quick explainer for anyone who shops, banks, or scrolls online - which is everyone.",
+    "bullets": [
+      " If the internet's engineers are calling this 'not a drill,' should the rest of us be changing our passwords tonight?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wired.com/story/this-is-not-a-drill-2-php-vulnerabilities-are-setting-the-internet-on-fire/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Irish pol calls for \u2018common sense\u2019 after gov-funded PSA urged grandparents to get consent before hugging grandkids",
+    "angle": "A government-funded PSA in Ireland pushed the idea that grandparents should get consent before hugging grandkids, and it's sparked a big backlash over whether well-meaning safety messaging has gone too far into policing normal family affection.",
+    "bullets": [
+      " Irish politician Gavin Pepper publicly slammed the campaign, calling for 'common sense'",
+      " His exact line: 'A hug from a loving grandparent should not be presented as something strange or suspicious.'",
+      " Smart consent education for kids, or government overreach into a grandma's hug \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/21/world-news/irish-pol-calls-for-common-sense-after-gov-funded-psa-calls-for-grandparents-to-get-cons",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "How social media helped out a sickly Barrie fox",
+    "angle": "A feel-good, uniquely-online story out of Barrie, Ontario \u2014 social media users apparently rallied to help a sick fox get the care it needed, the kind of viral kindness story that cuts through the week's heavier headlines.",
+    "bullets": [
+      " Call in: have you ever seen social media actually mobilize real help for an animal (or a person) in trouble? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "DJZQXdGbFJQb3dNc2JmY3dBNA?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVlQ5WnA4c0NiVHNiY1ozV1Bkc0h1V1lxZ3lEaGZKRmVxOFlUa3dPX3N6b",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "How a photo of a person\u2019s face could help predict whether they\u2019ll survive cancer treatment - CNN",
+    "angle": "This is one of those 'wait, what?' science stories that's instantly relatable \u2014 everyone's taken a hundred selfies, but researchers say your face could be quietly broadcasting clues about your health and even cancer survival odds.",
+    "bullets": [
+      " Researchers at Mass General Brigham in Boston built an AI tool that reads facial photos for health clues.",
+      " Would you want an app to scan your selfie and tell you your health odds \u2014 or is that information you'd rather not have? CNN (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.cnn.com/2026/10/20/health/ai-models-cancer-survival-biological-age",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "At 100 and losing his eyesight, a WWII veteran is still handmaking wooden cars for children overseas he\u2019ll never meet. He\u2019s made over 1,000 in a decade, including more than 100 this year for Operation Christmas Child, and hopes to keep going another 10 years.",
+    "angle": "A 100-year-old WWII veteran who's losing his eyesight is still handcrafting wooden toy cars for children overseas - it's the kind of pure, no-catch good-news story that makes listeners stop and smile, and it's a perfect gut-check on what you do with the time you've got left.",
+    "bullets": [
+      " He's 100 years old and losing his eyesight - but he's not stopping.",
+      " He's handmade over 1,000 wooden cars in the last decade for kids he will never meet.",
+      " More than 100 of those came this year alone, donated to Operation Christmas Child.",
+      " He says he hopes to keep making them for another 10 years.",
+      " At 100, this guy's still clocking in to make something for a stranger - what's your excuse today?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.kplctv.com/2026/10/03/100-sulphur-man-still-building-toy-cars-children-overseas-hell-never-meet/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "1 in 3 American boys aged 13 to 17 follows Andrew Tate at least a little, and those who do are more likely to believe men should hide their emotions, be dominant and reject anything feminine. But the strongest predictor wasn\u2019t Tate at all - it was parents telling their sons to be big and tough.",
+    "angle": "Everyone wants to blame Andrew Tate for toxic attitudes in teen boys, but new research says the loudest signal isn't social media - it's parents telling their sons to 'man up.' That twist is the whole conversation.",
+    "bullets": [
+      " 1 in 3 American boys aged 13 to 17 follow Andrew Tate at least a little",
+      " Tate followers are more likely to believe men should hide their emotions, be dominant, and reject anything feminine",
+      " Study suggests the messaging kids get at home may matter more than the influencers they watch",
+      " Call in: did your parents ever tell you to 'man up' - and do you think that shaped you more than anything online ever could?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Meta ordered to pay $25 billion penalty in New Mexico Cambridge Analytica case",
+    "angle": "The Cambridge Analytica scandal feels like ancient internet history, but a New Mexico court just slapped Meta with a jaw-dropping $25 billion penalty over it - a number big enough to make anyone stop scrolling.",
+    "bullets": [
+      " Meta has been ordered to pay a $25 billion penalty",
+      " Does $25 billion even sting a company like Meta, or is that just a rounding error for them?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Texas\u2019s 5 Biggest Counties Blow Early Voting Records Out of the Water",
+    "angle": "The state's five biggest counties are shattering early voting turnout records, a feel-good civic story that cuts against the usual \"nobody votes\" narrative and gives hosts an easy good-news close.",
+    "bullets": [
+      " Texas's five largest counties are reporting their highest-ever early voting turnout numbers",
+      " Story comes via r/upliftingnews, framed as a feel-good civic engagement win",
+      " Quick gut-check for listeners: have you already voted early this year, or are you a day-of voter no matter what?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://newrepublic.com/post/216873/texas-5-biggest-counties-early-voting-records",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "McDonald\u2019s has a McHero: 11 year old Tristen Ewbank used what he learned from YouTube to save a six year old choking on a chicken nugget in the play area, patting the boy\u2019s back until it came out while his grandmother was away getting milkshakes.",
+    "angle": "A kid saves another kid's life with skills he picked up from a YouTube video \u2014 it's the exact kind of pure, feel-good, restores-your-faith-in-humanity story that makes for easy, happy chat on air.",
+    "bullets": [
+      " Tristen Ewbank, just 11 years old, jumped in when a 6-year-old boy started choking on a chicken nugget",
+      " It went down in the play area of a McDonald's, while the boy's grandmother had stepped away to get milkshakes",
+      " Tristen says he learned the technique from YouTube and patted the boy's back until the nugget came loose",
+      " Story's catching fire on Reddit's r/upliftingnews as a straight-up viral feel-good moment",
+      " Ask listeners: what's a random video you watched online that actually came in clutch in real life?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.myjournalcourier.com/news/article/roodhouse-boy-choking-child-22460215.php",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Channel 4 to recreate Nazi conditions for disabled people in new TV experiment",
+    "angle": "A UK network reportedly wants to recreate Nazi-era conditions for disabled people as a TV experiment - the kind of headline that sounds fake but apparently isn't, and it's got the internet asking who greenlit this.",
+    "bullets": [
+      " Story is circulating out of the UK via Channel 4",
+      " Picked up on r/nottheonion because it reads like satire but isn't",
+      " Is there ANY historical reenactment premise too far for reality TV at this point?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.the-independent.com/arts-entertainment/tv/news/channel-4-nazi-the-experiment-b3070016.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "South Texas House candidate Brandon Herrera says kittens should be sent to Chinese restaurants",
+    "angle": "A South Texas House candidate made a crack about shipping kittens off to Chinese restaurants, and it's blowing up specifically because people can't believe it's not a satire headline \u2014 classic r/nottheonion territory and a perfect 'did a politician really say that' closer.",
+    "bullets": [
+      " Brandon Herrera, a candidate for a US House seat in South Texas, is the one behind the comment",
+      " Is this just edgy YouTuber humor that doesn't translate to a campaign trail, or a flat-out disqualifying own-goal?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sacurrent.com/news/texas-news/south-texas-house-candidate-brandon-herrera-says-kittens-should-be-sent-to-chinese-r",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Paul Mescal, Jessie Buckley and more major names defend Sally Rooney against \u201cdraconian\u201d Palestine Action ban",
+    "angle": "When Oscar-buzz actors start publicly defending a novelist over a government ban, it's instant watercooler talk - this is Hollywood/Irish star power colliding with a real political flashpoint.",
+    "bullets": [
+      " Paul Mescal and Jessie Buckley are among the big names publicly defending author Sally Rooney.",
+      " Rooney is facing backlash tied to the UK ban on the activist group Palestine Action.",
+      " Her celebrity defenders are calling the ban \"draconian.\"",
+      " Should actors and authors be weighing in on a government ban like this - or should they stay out of it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://faroutmagazine.co.uk/paul-mescal-jessie-buckleydefend-sally-rooney-against-draconian-palestine-action-ban/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Irish pol calls for 'common sense' after gov-funded PSA calls for grandparents to get consent before hugging grandkids https://t.co/9IDbDITu",
+    "angle": "A government-funded consent PSA telling grandparents to ask permission before hugging their own grandchildren has an Irish politician publicly rolling his eyes, and it's the exact kind of \"how far is too far\" consent-culture debate that splits a room instantly.",
+    "bullets": [
+      " An Irish politician publicly pushed back, calling for \"common sense\" in response.",
+      " Story is circulating via @NYPost on X, framed as government overreach into family affection.",
+      " Phone lines open: is teaching kids body-autonomy consent smart parenting, or has \"ask before you hug grandma\" officially gone too far? X/Twitter @NYPost (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2113099694893105478",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Christa Pike talking in full sentences as she continues to recover from botched execution https://t.co/zoWFU8R0rK https://t.co/lMnDPrNdoX",
+    "angle": "A woman on death row is reportedly recovering and speaking in full sentences after her execution went wrong \u2014 a story that reignites the national debate over execution methods and whether the death penalty is being carried out humanely.",
+    "bullets": [
+      " Christa Pike is said to be talking in full sentences as she recovers, per the New York Post.",
+      " Her case is drawing fresh attention nationally to how executions are actually carried out.",
+      " Does a botched execution change how you feel about the death penalty \u2014 or does it not matter either way? X/Twitter @NYPost (Tier 1) | Score: 72/90 (45 fit + 12 source + 15 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2113099670973005987",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-21",
     "slot": "am",
     "category": "THE LIST",
     "title": "\u2018Klara and the Sun\u2019 review: Jenna Ortega plays an annoying robot in sci-fi slop",
