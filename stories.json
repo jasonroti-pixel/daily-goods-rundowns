@@ -1,6 +1,732 @@
 [
   {
     "date": "2026-10-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "The Art of the Deal: Jared Kushner\u2019s Hacked Phone Revealed His Secret Negotiations\u2014Including More Than $700 Million in Transfers",
+    "angle": "This isn't just a celebrity gossip hack \u2014 it's Trump's son-in-law, a guy with massive overseas business ties, suddenly having his private negotiations and nine-figure money moves exposed for the world to see.",
+    "bullets": [
+      " Jared Kushner's personal phone was reportedly hacked",
+      " Leaked records reportedly show more than $700 million in transfers",
+      " Raises fresh questions about how much of Kushner's business dealings were happening behind closed doors",
+      " Is this a privacy nightmare for Kushner, or the public's first real look at how deep his money actually runs?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations?utm_source=twitter&utm_medium=social&utm_ca",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "'The View' host Ana Navarro eviscerates Prince Harry over public plea for family reconciliation: 'Pick up the phone' - Page Six",
+    "angle": "Prince Harry's GQ plea for a reconciliation with William got torched a day later by 'The View's' Ana Navarro \u2014 royal family drama plus a viral TV takedown is easy, juicy tabloid fodder with broad appeal.",
+    "bullets": [
+      " Ana Navarro ripped into Prince Harry on Wednesday's episode of 'The View'",
+      " Her comments came just one day after Harry's sit-down interview with GQ pleading for reconciliation with brother Prince William",
+      " Navarro's blunt advice: 'Pick up the phone'",
+      " Is Harry's public plea for reconciliation genuine healing or just another media play \u2014 and is Ana Navarro right that he should just call his brother instead? Page Six (via NewsAPI) (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/21/entertainment/the-view-host-ana-navarro-eviscerates-prince-harry-over-public-plea-for-family-reconci",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Millions of hack attempts have been reported worldwide.",
+    "angle": "This isn't a one-company data breach \u2014 it's a global wave of hacking attempts, which means the odds someone listening right now has already been targeted are pretty high.",
+    "bullets": [
+      " Reports point to millions of hacking attempts logged across the globe",
+      " Source material is light on specifics (no named company, country, or breach details yet)",
+      " Have you ever gotten 'the call' or 'the email' that made you panic you'd been hacked \u2014 what happened? X/Twitter @globalnews (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/globalnews/status/2113279828082167918",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "New York City ends the use of carriage horses",
+    "angle": "Decades of 'get the horses off the road' campaigns in New York finally won \u2014 the city council voted it through, ending a tourist-trap tradition that animal rights groups have been fighting since forever.",
+    "bullets": [
+      " Carriage horses have reportedly collapsed in NYC streets on multiple occasions over the years",
+      " Central Park's horse-drawn carriages have been a tourist fixture for over a century \u2014 and now they're done",
+      " Is this a win for animal welfare, or just another piece of old-school NYC charm getting legislated away?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.humaneworld.org/en/blog/breaking-news-new-york-city-ends-carriage-horse-rides",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "More money is going to 25 negative U.S. Senate ads in Maine than winter heating assistance for the entire state",
+    "angle": "It's the kind of gut-punch stat that makes people furious at politics in general - a swing-state Senate race is dumping more cash into attack ads than the entire state budgets to keep its own residents warm this winter.",
+    "bullets": [
+      " 25 negative U.S. Senate campaign ads have reportedly aired in Maine",
+      " Combined spending on those attack ads outpaces the state's entire winter heating assistance program",
+      " Story's blowing up on r/nottheonion - the subreddit literally built for 'you can't make this up' headlines",
+      " Would you rather every candidate pull their attack ads and send that money straight to home heating bills instead?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://themainemonitor.org/negative-ads-senate-race/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "\u2018Pure arrogance\u2019: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+    "angle": "A tech giant accused of breaking the law to build a data center is exactly the kind of corporate-arrogance story that gets people fired up, especially with AI's environmental footprint already a hot debate.",
+    "bullets": [
+      " Locals are calling it \"pure arrogance\"",
+      " Story is sparking real anger in Finland over how a massive tech company treated local land/environmental rules",
+      " Comes amid growing global scrutiny of the environmental cost of AI/datacentre expansion",
+      " Does the AI boom get a pass on environmental rules because it's 'the future,' or should Big Tech face bigger penalties than anyone else when they break them?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Physicists Trapped a Particle of Antimatter And Kept It Caged For Months",
+    "angle": "Antimatter normally vanishes the instant it touches regular matter, so holding onto a piece of it for months instead of milliseconds is a legit breakthrough - the kind of real-life sci-fi story that gets people asking 'wait, how is that even possible?'",
+    "bullets": [
+      " Physicists successfully trapped a particle of antimatter",
+      " They managed to keep it contained for months - far longer than antimatter typically survives",
+      " Antimatter annihilates instantly on contact with normal matter, which is what makes this containment feat notable",
+      " They're basically caging the one substance in the universe that destroys itself the second it touches anything - what would you want to do with antimatter if we ever get our hands on more of it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/physicists-trapped-a-particle-of-antimatter-and-kept-it-caged-for-months",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump Must Sit for $10 Billion BBC Defamation Deposition by Early December, Judge Rules",
+    "angle": "A sitting president ordered to give sworn testimony in a massive defamation case against a major global network is the kind of legal drama that writes its own headlines - and the deadline pressure makes it feel urgent right now.",
+    "bullets": [
+      " A judge has ordered Donald Trump to sit for a deposition by early December",
+      " This is a defamation case, meaning it centers on claims the BBC misrepresented him",
+      " Does a $10 billion number sound like real damages to you, or like a message being sent?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thewrap.com/industry-news/public-policy-legal/trump-bbc-defamation-lawsuit-december-deposition-discovery/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Florida Republican \u2018Tan Mom\u2019 Torches Trump After Terrifying 'Racist' Ordeal With ICE: \u2018Because I Was So Tanned\u2019",
+    "angle": "A self-described Republican and pop-culture punchline just accused Trump's own immigration crackdown of racially profiling HER \u2014 that irony is pure radio gold and taps into the bigger national fight over how ICE operates.",
+    "bullets": [
+      " \"Tan Mom\" \u2014 the viral tanning-bed mom from over a decade ago \u2014 says she was detained by ICE",
+      " She claims the stop happened \"because I was so tanned\", calling the ordeal \"racist\"",
+      " She identifies as a Florida Republican but is now publicly going after Trump over the incident",
+      " Story is circulating out of Reddit's r/entertainment, with limited additional detail confirmed so far",
+      " A Trump-voting Republican says ICE profiled HER \u2014 does that change how you see these immigration enforcement stories?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thenerdstash.com/florida-republican-tan-mom-torches-trump-after-terrifying-racist-ordeal-with-ice-because-i-was-so-tanned/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Execution staff warned of possibility some of Christa Pike's veins had 'blown': attorney",
+    "angle": "A Tennessee execution reportedly went sideways before it even started, with staff unable to get a working IV line in \u2014 it's the kind of detail that reignites the national fight over whether lethal injection is cruel and unusual.",
+    "bullets": [
+      " Her attorney filed a court document Thursday alleging execution staff failed multiple times to establish a working IV line.",
+      " Staff reportedly warned some of her veins may have \"blown\" before the lethal drug was injected.",
+      " If the execution team can't even get the IV right, does that change how you feel about the death penalty itself?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/christa-pike-execution-staff-iv-lines-9.7392598?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Tibet earthquake kills at least 16",
+    "angle": "A 7.0 magnitude quake just leveled part of a Chinese city overnight \u2014 it's the kind of sudden, scale-of-nature story that stops people mid-scroll, especially with the death toll still climbing.",
+    "bullets": [
+      " A magnitude 7 earthquake struck China's Tibet region on Thursday evening",
+      " At least 16 people killed, according to official media",
+      " 46 people injured in the quake",
+      " Hundreds of homes collapsed in the northern city of Nagqu",
+      " Death toll's still rising and rescue crews are just getting started \u2014 this is one to watch update through the day."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/tibet-earthquake-9.7392563?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Report: Elon Musk sabotaged Ukrainian Starlink by switching them to Rogers",
+    "angle": "A Reddit report claims Elon Musk deliberately sabotaged Ukrainian Starlink terminals by shifting them onto Canada's Rogers network - if true, it's a wild collision of billionaire tech power, wartime stakes, and Canadian telecom drama all in one headline.",
+    "bullets": [
+      " Should one billionaire have this much control over a country's wartime internet access?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thebeaverton.com/2026/10/report-elon-musk-sabotaged-ukrainian-starlink-by-switching-them-to-rogers/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "MPs moving to restrict gambling ads in Canada amid mounting harms \u2014 Ontario and Alberta oppose the federal bill",
+    "angle": "Since sports betting went legal, Canadians have been drowning in gambling ads \u2014 now federal MPs are moving to clamp down, citing real harm, and it's turning into a jurisdiction fight with two of the biggest provinces pushing back.",
+    "bullets": [
+      " Federal MPs are advancing a bill to restrict gambling advertising nationwide, pointing to mounting harms from the flood of betting ads since legalization.",
+      " Ontario and Alberta are opposing the bill, arguing gambling regulation is their call, not Ottawa's.",
+      " It's shaping up as a classic federal vs. provincial showdown \u2014 public health concerns on one side, provincial turf on the other.",
+      " Should Ottawa be allowed to limit gambling ads coast to coast, or is this strictly a provincial call?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Alberta separatists propose making referendum vote best-of-seven series",
+    "angle": "Alberta's independence movement is pitching a sports-style format for a referendum \u2014 win four votes, you win the province. It's a wild mashup of hockey playoffs and constitutional crisis that practically writes its own debate.",
+    "bullets": [
+      " It mirrors the format used in NHL and NBA playoffs \u2014 first to four wins takes it.",
+      " Comes amid ongoing Alberta separatist talk and Western alienation debates with the federal government.",
+      " Would you trust a province's future to a playoff format \u2014 and does this help or hurt the separatist cause?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thebeaverton.com/2026/10/alberta-separatists-propose-making-referendum-vote-best-of-seven-series/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Rogers to charge new fee for bills paid by credit card, says practice is 'increasingly common'",
+    "angle": "Rogers to charge new fee for bills paid by credit card, says practice is 'increasingly common'",
+    "bullets": [],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/business/rogers-credit-card-fee-9.7391506?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "The haunting call of Canada's common loon is becoming less common amid widespread declines, study suggests",
+    "angle": "The loon's haunting call is basically the sound of the Canadian wilderness - so a new study showing chick numbers quietly collapsing for decades hits different, it's a loss most people haven't even noticed happening.",
+    "bullets": [
+      " New study published Thursday in the journal FACETS",
+      " Finds severe declines in loon chick populations",
+      " Decline has been happening across North America for three decades or more",
+      " Ask listeners: when's the last time you actually heard a loon call on a lake trip?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/manitoba/loon-decline-canada-9.7392013?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada Post starting weekend parcel delivery in Toronto, Montreal and Ottawa this fall",
+    "angle": "After years of financial turmoil and strikes, Canada Post is rolling out weekend parcel delivery in Toronto, Montreal and Ottawa - a sign the Crown corporation is trying to claw back ground from Amazon and courier rivals.",
+    "bullets": [
+      " Canada Post plans weekend parcel delivery for seven million households by end of 2027",
+      " First rollout cities this fall: Toronto, Montreal, and Ottawa",
+      " Move is part of a bigger restructuring push at the financially troubled Crown corporation",
+      " Does weekend delivery actually win you back from Amazon, or is it too little too late for Canada Post?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/canada-post-weekend-delivery-update-9.7391900?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Montreal hospital offers virtual ER appointments \u2014 a first in Quebec",
+    "angle": "ER wait times are everyone's horror story, so a Quebec hospital piloting virtual ER visits is the kind of practical, relatable change that gets listeners texting in their own waiting-room nightmares.",
+    "bullets": [
+      " A Montreal hospital is now offering virtual ER appointments - a first for Quebec.",
+      " Patients could potentially see a doctor without setting foot in a crowded ER.",
+      " Would you trust a virtual visit for an ER-level problem, or are you walking in no matter what? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "VBHZVlPeHFsQ0NsVVRvU0NBUHFHcGJsckhNM2g3OTh2cXYtcFg5RDNsYllrSGs?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHlMaDBVTmhTTG1oZjA3LTE2TkZxWlRmRFhPWHEzS1AyeWlEenRZN",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Habs captain Nick Suzuki could be out for a month, ends ironman streak",
+    "angle": "Nick Suzuki hasn't missed a beat for the Habs in years, so news he's out a month ends one of the NHL's quiet ironman streaks and forces Montreal to figure out life without its captain.",
+    "bullets": [
+      " Nick Suzuki, the Canadiens' captain, is expected to be out roughly a month",
+      " Leaves Montreal needing to adjust its lineup and leadership without him in the short term",
+      " Who steps up as the Habs' go-to guy while their captain's on the shelf? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "JN09rcEU4UHRaQTBpcXNKSXVabjY1bHpR?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWE1LcWxhdmdYeEZjb0JUZENyaXhTSk9UVDVqdm5rRUt4X3M0dVZWZ",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "The Dutch hacked Jared Kushner\u2019s phone and monitored as he accessed a Dubai-based bank account containing hundreds of millions of $ from Azerbaijan. Kushner appeared to have transferred large amounts from the account to multiple individuals, including a warlord, a mercenary and a one-time hit man.",
+    "angle": "This one reads like a spy thriller, not a gossip post - a bombshell Vanity Fair report claims Dutch intelligence hacked Jared Kushner's phone and watched him move Azerbaijani money to seriously shady characters. It's blowing up because it's Trump's own son-in-law tangled in a story with warlords and hitmen attached.",
+    "bullets": [
+      " Report claims Dutch intelligence hacked Jared Kushner's phone and monitored his activity",
+      " He allegedly accessed a Dubai-based bank account holding hundreds of millions of dollars tied to Azerbaijan",
+      " Money was reportedly transferred to multiple individuals - including a warlord, a mercenary, and a one-time hit man",
+      " Story comes via Vanity Fair, now ricocheting across Reddit's r/fauxmoi",
+      " A warlord, a mercenary, AND a hitman - which one gets the audience gasping loudest?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1xcwgx1",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Jenna Ortega makes shocking career announcement as fans await \u2018Wednesday\u2019 Season 3",
+    "angle": "Wednesday is one of Netflix's biggest hits and fans are already starved for Season 3 news \u2014 any surprise move from its breakout star is instant watercooler talk.",
+    "bullets": [
+      " Wednesday Season 3 is confirmed for 2027 on Netflix",
+      " Jenna Ortega made a surprise career announcement amid the wait for new episodes",
+      " What's the big move you think Jenna Ortega just made \u2014 and does it put Wednesday at risk?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/22/entertainment/wednesday-star-jenna-ortega-makes-shocking-career-announcement/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u201cWildwood\u201d director Travis Knight on the movie taking 16 years to complete:",
+    "angle": "Director Travis Knight just admitted his new fantasy epic \"Wildwood\" took so long to make that the film itself would be old enough to drive \u2014 a wild stat that opens the door to a fun \"what were YOU doing 16 years ago\" bit.",
+    "bullets": [
+      " Director Travis Knight says \"Wildwood\" took 16 years to complete",
+      " His exact quote: \"this film is old enough to have driven me to the premiere tonight\"",
+      " He calls it \"a big fantasy story... a big sweeping adventure... an epic\"",
+      " Knight says what he's proudest of is that underneath the spectacle, it's genuinely \"heartfelt\" and \"emotional\"",
+      " What were you doing 16 years ago that you're STILL not finished with? ON-AIR BIT BREAKDOWN - Step 1: Drop the stat - Cold open, 10 seconds -> Hit them with: this movie is old enough to drive. Let that land before explaining it's \"Wildwood,\" 16 years in the making. - Step 2: Hosts go first - 30 seconds -> Each host names one thing from their own life 16 years ago (a relationship, a job, a diet) that's embarrassing in hindsight. - Step 3: Open the phones - 2-3 minutes -> Ask listeners to call/text the one project, goal, or New Year's resolution they've been \"working on\" for over a decade with zero progress. X/Twitter @Variety (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Variety/status/2113415101818499528",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Zach Braff: \u2018You can be talented and good-looking, but acting success is still like winning the lottery\u2019",
+    "angle": "Zach Braff is calling out the brutal randomness of show business, and it's the kind of blunt, relatable honesty that resonates with anyone who's ever felt like success comes down to being in the right room at the right time.",
+    "bullets": [
+      " Zach Braff says acting success is \"like winning the lottery\" even if you're talented and good-looking",
+      " Comes from the Scrubs and Garden State star, who's had his own ups and downs navigating fame",
+      " Is success in ANY field more about luck and timing than talent and hard work?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/film/2026/oct/22/zach-braff-reader-interview",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'I'm Saying No, It's My Body': Sophia Bush Recalls Clashing With Boss Over 'Topless' Scene in 'One Tree Hill'",
+    "angle": "A former teen soap star opening up about pushing back on set over her own body is exactly the kind of Hollywood-power-dynamics story that gets people talking, especially years after #MeToo reshaped how we view these on-set fights.",
+    "bullets": [
+      " Sophia Bush says she clashed with a boss on 'One Tree Hill' over being asked to do a topless scene.",
+      " Her pushback, in her words: \"I'm saying no, it's my body.\"",
+      " Should actors ever have to fight this hard just to say no to a scene?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/sophia-bush-one-tree-hill-hot-tub-scene-dispute-1766150",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "James Talarico: \"There is something deeply wrong with a political system that allows one trillionaire to buy his own personal U.S. Senator.\"",
+    "angle": "A pointed one-liner from Texas state rep James Talarico is blowing up online, with the obvious subtext being Elon Musk's outsized political spending \u2014 it's the kind of quotable political jab that crosses over into pop culture chatter, especially since Talarico's getting buzz as a rising, telegenic political figure.",
+    "bullets": [
+      " He didn't name names, but the \"trillionaire\" line is widely read online as a shot at Elon Musk's political spending.",
+      " Should billionaires be allowed to bankroll a single candidate's entire campaign, or is that just politics as usual now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/vnvaq4d4z0xh1.jpeg",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Val Chmerkovskiy Returns to \u2018Dancing With the Stars\u2019 After One-Episode Suspension - The Hollywood Reporter",
+    "angle": "A one-episode timeout over a Will Smith Oscars-slap crack is exactly the kind of petty-but-juicy reality TV drama that gets people picking sides - is he back because he apologized, or because the show needs him for Jenna Dewan's run?",
+    "bullets": [
+      " Val Chmerkovskiy was benched for one episode of DWTS Season 35",
+      " He's now reinstated and continuing the season partnered with Jenna Dewan",
+      " One episode benched for a slap joke - fair punishment or Dancing With the Stars way overreacting? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/tv/tv-news/val-back-dancing-with-stars-season-35-suspension-jenna-dewan-1236736004/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hilary Swank reveals how she kept her pregnancy at 52 a secret",
+    "angle": "Swank became a mom again well into her 50s and somehow flew under the radar the whole time - that's the kind of celebrity reveal that gets everyone asking 'wait, how did nobody notice?'",
+    "bullets": [
+      " Hilary Swank is opening up about keeping her pregnancy under wraps",
+      " She was 52 at the time - a detail that's driving the whole story",
+      " Details on exactly how she concealed it are still coming out",
+      " Could you actually keep a pregnancy secret from everyone - even at a famous level - or does news like this always leak? Entertainment Weekly (via Google News) (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD"
+    ],
+    "debate": "GM1cUY5TTFiVVVqUTYwN1FGTUJ6MVREMUN1V2g5clJlc2Q1c1RvaGpveDdBX3Q0TVE1TlJIdTBSUVlENzlLUQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iSGZBck8tWEF5V09wRkhlZkxsWUh3X2lXUXlDX3hvNHk5TGFfYkxpX2ZYR",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018I Am the Night\u2019 Spotlights the Unsung Heroes Who Made \u2018Batman: The Animated Series\u2019 Iconic",
+    "angle": "A new book just cracked open the vault on 'Batman: The Animated Series' \u2014 the '90s cartoon that still gets called the best Batman adaptation ever made, animated or live-action.",
+    "bullets": [
+      " New book: \"I Am the Night: The Ultimate Unauthorized History of Batman: The Animated Series\"",
+      " Built on candid interviews with the actual creators of the show",
+      " Digs into the behind-the-scenes stories of how the series came together",
+      " Credits the team with having \"changed animation forever\"",
+      " Ask callers: what's the one cartoon from your childhood you'd argue is secretly a masterpiece? gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/i-am-the-night-spotlights-the-unsung-heroes-who-made-batman-the-animated-series-iconic-2000829383",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Biographies of John Williams and Bernard Herrmann Among Honored Works in ASCAP\u2019s Awards for Music Writing and Broadcasts",
+    "angle": "ASCAP's annual awards honor the best writing ABOUT music, and this year's list is a film-score nerd's dream, plus a nod to the YouTube guy who turned music theory into a podcast empire.",
+    "bullets": [
+      " Biographies of legendary film composers John Williams and Bernard Herrmann both took home honors",
+      " A documentary about cult R&B artist Swamp Dogg made the winners list",
+      " Frank Zappa got recognized too \u2014 for liner notes on an archival release",
+      " Rick Beato's YouTube podcasts were honored, a sign ASCAP is taking online music content seriously",
+      " Rick Beato winning an actual industry award for his YouTube channel says a lot about how 'legit' online music breakdowns have become. variety.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/music/news/ascap-writing-awards-biographies-john-williams-bernard-herrmann-1236922092/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Journalist Richard Gaisford\u2019s exchange with a 19-year-old Detroit voter who\u2019s worried about Abdul El-Sayed\u2019s name is going viral and amazing the public with just how much racism you can fit into a 30-second clip",
+    "angle": "A journalist's on-camera exchange with a young Detroit voter spiraled into a masterclass in casual bigotry over a candidate's name, and the internet can't stop passing it around.",
+    "bullets": [
+      " Journalist Richard Gaisford caught the exchange on camera in Detroit",
+      " Does a clip like this actually move the needle on how we talk about bias at the ballot box, or just give everyone five minutes of outrage before we move on?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://v.redd.it/yum3nzxo54xh1",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "What is PHP, and how did a flaw in its code lead several websites to go dark this week?",
+    "angle": "A chunk of the web went dark this week because of a flaw in PHP \u2014 the behind-the-scenes language quietly running most of the internet \u2014 and even though it looked alarming, experts say it's actually proof the system for fixing these things works.",
+    "bullets": [
+      " PHP is an open-source coding language that powers an estimated 70 per cent of the entire internet",
+      " Several websites went offline this week after a flaw was found in PHP's code",
+      " Cybersecurity experts say the quick shutdown-and-patch response actually shows the system for fixing internet-wide bugs is working as intended",
+      " Did any of your go-to sites go down this week \u2014 and did you have any idea it was one tiny piece of code behind almost the whole internet?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/business/php-cybersecurity-vulnerability-explainer-9.7392394?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "California grandpa goes on record-breaking run as he hits 300+ mph",
+    "angle": "California grandpa goes on record-breaking run as he hits 300+ mph",
+    "bullets": [],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/22/us-news/california-grandpa-breaks-speed-records-utahs-bonneville-salt-flats/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Excess weight gain during pregnancy tied to severe health complications, study finds",
+    "angle": "Pregnancy weight gain is one of those topics every expecting parent gets a dozen conflicting opinions on, and this study says going too far past the recommended range is linked to serious health complications - that's a real \"wait, how much is too much?\" conversation starter for anyone who's been pregnant or supported someone who was.",
+    "bullets": [
+      " Ask listeners: did your doctor's weight-gain number match what actually happened, and did anyone ever really explain why it mattered? CTV News (via Google News) (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD"
+    ],
+    "debate": "RrRDNzV3RsZ0NMQ1UyLXVlUlRaV2gwYWdleWlHRzlrMmdISk9ENXZlb2hBY1JOaWQxZUdEaEIwbTRCeXZqcHBiZw?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZEJFZ0hqR3QybFo3U1o3TEF4RTM2bTBaQzl1S2FVdkVRajJLc2pZaUx",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "After 44 years at Sorocaba Zoo, elephant Sandro has a new 13 acre sanctuary habitat. He used to spend 16 hours each night in a barn barely inches taller than he was, but on his second night in his new home, he chose to sleep outside under the stars.",
+    "angle": "It's the kind of story that stops you mid-scroll \u2014 a gentle, visual gut-punch about freedom and second chances that works for literally every listener, no context needed.",
+    "bullets": [
+      " Elephant named Sandro spent 44 years at Sorocaba Zoo in Brazil.",
+      " His old barn stall was barely inches taller than he was \u2014 he was cooped up there 16 hours every night.",
+      " He was just moved to a brand-new 13-acre sanctuary habitat.",
+      " On just his second night of freedom, Sandro chose to sleep outside under the stars.",
+      " What's the first thing you'd do after 44 years of finally having room to move?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/in-brazils-chapada-dos-guimaraes-asian-elephant-sandro-about-54-walked-out-of-a-crate-after-44-year",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Starting in 2027, low-income Americans on Medicaid must log 80 hours of work a month, and doctors will have to prove which patients are too sick to work. Experts writing in NEJM warn this means more paperwork, lower pay, struggling rural hospitals, and up to 10 million people losing health coverage.",
+    "angle": "Starting in 2027, millions of low-income Americans will have to prove they're working to keep their health coverage \u2014 and doctors are now warning this could backfire in a huge way, kicking healthy systems and sick patients alike to the curb.",
+    "bullets": [
+      " Starting 2027, Medicaid recipients must log 80 hours of work a month to keep coverage.",
+      " Doctors will now have to formally certify which patients are too sick to work.",
+      " Experts writing in the New England Journal of Medicine warn of a mountain of new paperwork and red tape.",
+      " Should getting health coverage ever depend on proving you're employed enough \u2014 or sick enough not to be?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.eurekalert.org/news-releases/1148526",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Tennessee early voter turnout 61% higher than 2022",
+    "angle": "Early voting numbers are a reliable sneak peek at how fired up people actually are, and Tennessee's early jump is the kind of civic good-news story that's genuinely uplifting without being heavy.",
+    "bullets": [
+      " Tennessee's early voter turnout is running 61% higher than it was back in 2022.",
+      " Early voting is often the first real signal of how engaged people are before election day even hits.",
+      " Whatever your politics, more people showing up to vote is just good news \u2014 that's a great note to end the show on."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://blackchronicle.com/southeast/tennessee/tennessee-early-voter-turnout-61-higher-than-2022/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Rogue AI Must Threaten 50 Lives Before Being Shut Down, Anthropic Suggests",
+    "angle": "It sounds like a sci-fi punchline, but it's a real AI safety guideline getting people to ask: how close to catastrophe are we actually letting these systems get?",
+    "bullets": [
+      " Fifty lives feels like a wildly specific - and wildly high - number to gamble on before hitting the kill switch, so where would YOU draw the line?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://novaramedia.com/2026/10/21/rogue-ai-must-threaten-50-lives-before-being-shut-down-anthropic-suggests/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Channel 4 to recreate Nazi conditions for disabled people in new TV experiment",
+    "angle": "This is the kind of headline that makes you read it three times to make sure you're not being pranked - a UK network allegedly staging a social experiment that recreates Nazi-era conditions targeting disabled participants, and it's blowing up because people genuinely can't believe it's real.",
+    "bullets": [
+      " Story originates from Channel 4, the UK broadcaster",
+      " Premise reportedly involves recreating Nazi-era conditions as part of a TV experiment",
+      " Participants described as disabled people",
+      " Story is circulating via r/nottheonion, a subreddit for real headlines that sound fake",
+      " Hosts should just read the headline straight and let the silence do the work - this one doesn't need embellishing."
+    ],
+    "debate": "The 'Wait, Is This Real?' Check",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.the-independent.com/arts-entertainment/tv/news/channel-4-nazi-the-experiment-b3070016.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Florida officer found dead man, impersonated him for years and renovated his home, police say",
+    "angle": "A Florida police officer is accused of finding a man dead, then quietly becoming him for years \u2014 cashing in on his identity and fixing up his house like it was their own. It's the kind of real-life plot twist that sounds too strange to be true, which is exactly why it's blowing up online.",
+    "bullets": [
+      " A Florida police officer is accused of discovering a man's dead body and never reporting it.",
+      " Instead, police say the officer impersonated the dead man for years.",
+      " Investigators are now treating it as a case of identity theft tied to a death cover-up.",
+      " Callers: how long do you think you could actually pull off being someone else \u2014 and would you ever notice if it were YOUR neighbor?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "The Face of a Denisovan: New Reconstruction Reveals How They May Have Looked.",
+    "angle": "Denisovans are one of our closest extinct relatives, but we've never had a full skull to work with - so a brand-new reconstruction of what one might have actually looked like is the kind of \"wait, that's wild\" science story people love sharing.",
+    "bullets": [
+      " Denisovans are an extinct group of ancient humans known mostly from DNA and a few bone and tooth fragments found in a cave in Siberia.",
+      " No complete skull or skeleton has ever been recovered - that's what makes a facial reconstruction such a big leap.",
+      " Millions of people today, especially in parts of Asia and the Pacific Islands, still carry traces of Denisovan DNA in their genes.",
+      " If a DNA test told you that you're part Denisovan, would that freak you out or make you kind of proud?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nature.com/articles/d41586-026-03360-0",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Retatrutide Once Weekly for Treatment of Obstructive Sleep Apnea: retatrutide resulted in significantly greater decreases in OSA than placebo.",
+    "angle": "A GLP-1-style weekly injection already known for weight loss is now shown to significantly ease obstructive sleep apnea \u2014 huge for the millions who use a CPAP machine every night and would love an alternative.",
+    "bullets": [
+      " Retatrutide, a once-weekly injectable, showed significantly greater reductions in OSA severity than placebo",
+      " Study tested it specifically for obstructive sleep apnea, not just weight loss",
+      " Findings reported via peer discussion on r/science",
+      " Would you trade your CPAP machine for a weekly shot if it actually worked?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2611477?query=featured_home",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "The Live Nation Empire That Music Fans Hate Is at Risk of a Break Up",
+    "angle": "Live Nation and Ticketmaster are the company every concertgoer loves to hate thanks to years of surprise fees and sold-out shows disappearing into resale markets, so chatter about a government-forced breakup is the kind of story that gets instant reaction from anyone who's ever bought a ticket.",
+    "bullets": [
+      " What's your worst Ticketmaster fee horror story \u2014 call in and let's hear it."
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bloomberg.com/news/features/2026-10-22/live-nation-faces-calls-to-break-up-its-music-industry-dominance",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-22",
     "slot": "am",
     "category": "THE LIST",
     "title": "In 1952, Royce Williams fought 7 Soviet MiG-15s alone for 35 minutes, downing three and damaging a fourth. His jet returned with over 260 bullet holes, but the battle was classified for 50 years. At 100, he received the Medal of Honor; at 101, Disneyland just named him an honorary citizen.",
