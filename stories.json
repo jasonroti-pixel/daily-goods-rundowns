@@ -1,5 +1,749 @@
 [
   {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Prince William playfully shades Travis Kelce 2 years after viral Taylor Swift selfie - Page Six",
+    "angle": "Two years later and the Prince of Wales is still clowning Travis Kelce about that viral Eras Tour selfie with Taylor Swift \u2014 a future king throwing playful shade at an NFL star is exactly the kind of crossover moment that gets people talking.",
+    "bullets": [
+      " Prince William, 44, surprised everyone popping up on 'The Graham Norton Show' and brought this story right back up.",
+      " He took his two eldest kids to Taylor Swift's Eras Tour show in London in 2024.",
+      " William admits he 'tried to move' Travis Kelce out of frame during his selfie with Swift.",
+      " Who wins this one \u2014 the future King of England or the Chiefs' tight end? Page Six (via NewsAPI) (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/24/royal-family/prince-william-playfully-shades-travis-kelce-over-viral-taylor-swift-selfie/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Lula defeats Trump ally Bolsonaro, keeping Brazil left as Latin America shifts right",
+    "angle": "A Trump-backed candidate just lost in Brazil while most of Latin America is sliding right - that's a genuine political surprise with ripple effects for US foreign policy chatter.",
+    "bullets": [
+      " Lula held off a comeback bid from Bolsonaro, who had Trump's backing",
+      " It bucks the regional trend: most of Latin America has been swinging right lately",
+      " Brazil and the US have had a rocky relationship under the current political alignment, making this result a talking point for US-Brazil relations",
+      " Does a US-backed candidate losing abroad say more about Trump's influence shrinking or about local politics just not translating overseas?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "California is testing a foldable solar canopy stretching 131 feet over an irrigation canal 21 feet wide. It generates clean power and shades water to potentially reduce evaporation and weed growth; it is designed to fold back on rails so crews can clear the channel with an anchor chain.",
+    "angle": "It's a wild two-for-one fix: clean power AND water conservation, folding over canals on rails like a pop-up umbrella for a river. Feels like sci-fi but it's an actual pilot project right now.",
+    "bullets": [
+      " It generates clean electricity while shading the water underneath.",
+      " It folds back on rails so crews can still clear the channel using an anchor chain."
+    ],
+    "debate": "Genius infrastructure fix or expensive science project \u2014 would you want to see these over canals near you?",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.autonocion.com/us/131-feet-solar-panels-fold-canal-anchor-chain/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads \u2014 'Finally found a company that truly listens to its customers,' says hacker",
+    "angle": "A cybersecurity researcher claims Samsung smart TVs are quietly using AI to capture audio and screenshots of what you're watching to feed targeted ads \u2014 the kind of 'your TV is spying on you' story that makes everyone go check their own living room.",
+    "bullets": [
+      " A self-described cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for advertising purposes.",
+      " Have you ever checked your smart TV's privacy settings \u2014 or did you have no idea this was even possible?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-informati",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "LG Smart TVs Caught Mapping Your Network, Logging Audio With Screen Off",
+    "angle": "Smart TV privacy fears just got a new poster child, and this one's a top-selling brand millions of North Americans already have bolted to their living room wall.",
+    "bullets": [
+      " LG smart TVs are reportedly mapping out your home network without you knowing.",
+      " Even with the screen off, the TVs are allegedly still logging audio in the background.",
+      " Does this make you want to unplug your smart TV's mic next time you're not watching it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thecybersecguru.com/news/lg-smart-tv-spying-investigation/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "How tech billionaires are buying the narrative: Elon Musk's $1B Paramount deal has suffocated an independent documentary critical of him",
+    "angle": "This taps into a bigger fear a lot of people already have - that billionaires aren't just making headlines anymore, they're buying the companies that decide which stories get told. A reported $1B Musk-Paramount deal allegedly burying a critical doc about him is the kind of story that makes people ask 'wait, can they actually do that?'",
+    "bullets": [
+      " Reports point to a $1 billion deal between Elon Musk and Paramount.",
+      " An independent documentary critical of Musk reportedly got shelved or suffocated in the fallout.",
+      " If you had $1B and a grudge against a bad documentary, would you make it disappear - or is that exactly the problem?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tvfandomlounge.com/musk-documentary-vanishes-theaters-musk-billion-skydance-investment/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "AI use leads UC Berkeley math professor to see \u2018no point\u2019 in grading homework",
+    "angle": "This is the AI-in-school panic hitting a breaking point - a math professor says ChatGPT has made homework so easy to fake that grading it is basically pointless, which is a gut-check for every parent, student, and teacher wondering if AI just broke the whole homework system.",
+    "bullets": [
+      " A UC Berkeley math professor says AI use among students has gotten so widespread there's 'no point' in grading homework anymore.",
+      " If AI can do the homework, should homework even still count toward your grade?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/arti",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "B.C. Conservatives win majority government.",
+    "angle": "A province of five million people just handed power to a party that wasn't even a serious contender a few years ago \u2014 that's the kind of political upset that gets people talking no matter what side of the border they're on, especially with populist-leaning parties surging all over North America right now.",
+    "bullets": [
+      " Is this a one-off B.C. story, or the next domino in a bigger populist wave sweeping North American politics?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/vancouver/article/bc-has-voted-and-results-are-coming-in-live-real-time-election-updates-here/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "BC Election: David Eby to resign as BC NDP leader",
+    "angle": "A sitting Canadian premier walking away from his own party's top job is a genuine political shocker, and it shakes up the leadership picture for one of the country's biggest provinces right as election chatter is heating up.",
+    "bullets": [
+      " David Eby is stepping down as leader of the BC NDP",
+      " He currently serves as Premier of British Columbia",
+      " Who do you think should take the wheel next for the BC NDP?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://vancouver.citynews.ca/2026/10/24/david-eby-steps-down-bc-ndp-leader/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Donald Trump Says Nicki Minaj Has a 'Beautiful A**' At Rally",
+    "angle": "A sitting president riffing on a pop star's body mid-rally is the kind of political-meets-pop-culture collision that's built for a viral clip and an easy debate on air.",
+    "bullets": [
+      " Donald Trump made the comment about Nicki Minaj during remarks at a campaign rally.",
+      " It's the latest example of a political rally moment crossing over into pop culture chatter.",
+      " Classic off-the-cuff Trump, or is commenting on any pop star's body from a podium just not a good look no matter who says it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tmz.com/2026/10/25/donald-trump-compliments-nicki-minaj-butt/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Lula da Silva has won Brazil's presidential election over Fl\u00e1vio Bolsonaro in the second round",
+    "angle": "Brazil just picked its next president in a nail-biter runoff, and it's a storyline North American listeners already know \u2014 Lula vs. a Bolsonaro, round two. Big geopolitical ripple for one of the world's largest economies.",
+    "bullets": [
+      " Lula da Silva has won Brazil's presidential election in the second round.",
+      " He defeated Fl\u00e1vio Bolsonaro to claim the win.",
+      " A Bolsonaro name is back on a presidential ballot \u2014 ask listeners if political dynasties ever really go away."
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1xfi2fe",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Macklemore shares a message: \u201cI don\u2019t think y\u2019all realise how important Brazil presidential election is to THE ENTIRE PLANET It\u2019s Lula vs. Israel, Trump, Meta, Evangelicals, Capitalism, Elon Musk, Google, social media algorithms. etc\u201d",
+    "angle": "A Grammy-winning rapper just waded hard into geopolitics, framing Brazil's presidential race as a proxy war between Lula and basically every major global power player \u2014 that's the kind of celebrity-meets-politics collision that always gets a studio talking.",
+    "bullets": [
+      " Macklemore posted that fans don't realize how important the Brazil presidential election is \"to THE ENTIRE PLANET.\"",
+      " He framed it as Lula going up against Israel, Trump, Meta, Evangelicals, Capitalism, Elon Musk, Google, and social media algorithms.",
+      " Should musicians use their platform to push foreign elections, or should they stay in their lane and let the music speak?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/lbs9sxyp4oxh1.jpeg",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "BC nobly sacrifices good governance to teach one man about hubris",
+    "angle": "This one's got a Reddit crowd roasting BC politics with a headline sharper than most columnists write - the idea that an entire province's governance got sacrificed just to knock one politician down a peg is exactly the kind of petty-politics drama that gets a Canadian audience fired up.",
+    "bullets": [
+      " Is this ego-driven political dysfunction actually costing BC voters, or is \"hubris\" just the price of doing politics these days?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thebeaverton.com/2026/10/bc-nobly-sacrifices-good-governance-to-teach-one-man-about-hubris/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Prime Minister Carney to host Canada-European Union Summit in Montr\u00e9al to advance an ambitious new Canada-EU partnership",
+    "angle": "Canada's PM is personally hosting a Canada-EU Summit, and the timing matters \u2014 with trade tensions still simmering south of the border, this reads like Ottawa courting new friends in Europe. It's a story about Canada's place in the world right now, not just a photo-op.",
+    "bullets": [
+      " Prime Minister Mark Carney is set to host the Canada-European Union Summit in Montr\u00e9al",
+      " Billed as a push to build an \"ambitious new Canada-EU partnership\"",
+      " Comes as Canada leans harder into diversifying its trade and political relationships beyond the U.S.",
+      " Is Canada smart to be cozying up to Europe right now, or is this just diplomatic theatre?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.pm.gc.ca/en/news/news-releases/2026/10/25/prime-minister-carney-host-canada-european-union-summit-montreal",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Liberals Gag Immigration Debate After Conservatives Accuse Carney of Letting Corporate Lobbyists Set the Numbers",
+    "angle": "A fight over who's really setting Canada's immigration targets - corporate lobbyists or elected officials - just got messier after the Liberals allegedly shut down debate on it, which only fuels the 'what are they hiding' narrative.",
+    "bullets": [
+      " Conservatives are accusing PM Mark Carney's Liberals of letting corporate lobbyists influence immigration number-setting",
+      " Story is circulating on r/canada, suggesting real grassroots traction on the claim",
+      " Should corporations have any say in how many immigrants Canada lets in each year?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.todayville.com/edmonton/liberals-gag-immigration-debate-after-conservatives-accuse-carney-of-letting-corporate-lobbyist",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Obama: \"That well-known evil empire Canada. That historical adversary of ours. Canada! *laughs* It's your neighbor. It's a few minutes' drive over the bridge! These are the people who gave us Martin Short and maple syrup. They are the nicest people! And someone we've gotten them so mad.\"",
+    "angle": "Obama's needling the US-Canada beef that's been simmering all year, and the joke only works because it's true - we've actually managed to tick off the one country on earth incapable of holding a grudge.",
+    "bullets": [
+      " Obama called Canada \"that well-known evil empire\" and \"that historical adversary of ours\" - to laughs.",
+      " His reminder of how scary the threat actually is: Canada is \"a few minutes' drive over the bridge.\"",
+      " He credited our \"adversary\" with giving us \"Martin Short and maple syrup\" and called Canadians \"the nicest people.\"",
+      " Be honest - did you know things were bad enough with Canada that this joke actually lands?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/qrzr7uo2zjxh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Who is B.C.'s new premier Lorne Doerkson?",
+    "angle": "British Columbia has a new premier in Lorne Doerkson, and odds are most listeners outside B.C. \u2014 and maybe plenty inside it \u2014 have no idea who he is. A fresh face suddenly running a province is exactly the kind of \"wait, when did THAT happen\" moment that's worth a quick catch-up on air.",
+    "bullets": [
+      " Quick gut check: could you have named the premier of B.C. before today?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/who-is-bc-premier-lorne-doerkson-9.7395130?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Is this Quebec-developed fruit the 'apple of the future'?",
+    "angle": "Is this Quebec-developed fruit the 'apple of the future'?",
+    "bullets": [],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/montreal/quebec-developed-apple-orleans-fruit-of-the-future-9.7389007?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada needs concrete results from EU summit this week, former envoy says",
+    "angle": "Canada and the EU meet this week to turn last month's friendly promises into an actual deal - and critics say Ottawa needs to walk away with real wins, not more vague talk of partnership.",
+    "bullets": [
+      " Prime Minister Mark Carney says Canada and the EU are building a \"new, ambitious alliance\"",
+      " A former Canadian envoy is warning that this week's summit needs to produce concrete results, not just more diplomatic language",
+      " Is Canada actually getting a better deal out of Europe, or just more friendly photo-ops and no real substance?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/canada-eu-summit-concrete-results-9.7395409?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Highway 3 twinning between Taber and Burdett almost complete",
+    "angle": "This is the kind of \"finally\" story that resonates with anyone who's ever been stuck behind orange cones on a road trip \u2014 the Highway 3 twinning job between Taber and Burdett is nearly done, turning a long two-lane squeeze into a proper divided highway.",
+    "bullets": [
+      " Highway 3 is being twinned between Taber and Burdett, Alberta \u2014 upgrading the route from two lanes to a divided four-lane highway.",
+      " Twinning projects like this are typically done to cut down head-on collisions and speed up travel on busy rural highways.",
+      " Anyone who's driven that stretch of Highway 3 \u2014 is this the construction zone that's had you gripping the wheel for years? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "RaUzdzMHg0Qjl6azY4U0gwcktxY0JiSFpvTkhpclhzc1g5OTNubEZvMEE?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFZDcGc0dTNQUDJGMUhjN2JMbkM4Z0VIRzFQQTV4aVd3UXlnZndyS",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018DWTS\u2019 pros Witney Carson and Mark Ballas \u2018refused to be in the same room\u2019 amid secret feud, former contestants claim - Page Six",
+    "angle": "A decade-old 'Dancing With the Stars' secret is spilling out, and it's the kind of petty backstage drama fans eat up - especially with the show back in the spotlight every season.",
+    "bullets": [
+      " Former contestants Alexa and Carlos PenaVega are the ones blowing the whistle on this.",
+      " Claim is they 'refused to be in the same room' with each other.",
+      " Ten years later - do you buy a 'secret feud' story like this, or is it just reality-TV reheated gossip for clicks? Page Six (via NewsAPI) (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/24/celebrity-news/dwts-pros-witney-carson-and-mark-ballas-allegedly-feuded-during-season-21-former-",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "New details emerge about Tom Brady and \u2018secretive\u2019 Candice Swanepoel\u2019s romance",
+    "angle": "Tom Brady dating rumors always move the needle, and this one comes with a tabloid-ready twist: the whole thing was reportedly kept under wraps until it wasn't.",
+    "bullets": [
+      " Tom Brady is reportedly linked to Victoria's Secret model Candice Swanepoel.",
+      " Would you rather date on the down-low like Brady or go Instagram-official from day one? pagesix.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/25/celebrity-news/new-details-emerge-about-tom-brady-and-candice-swanepoels-romance/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Netflix Users Are Watching Less, Not Opening the App as Often",
+    "angle": "Streaming was supposed to be the thing we couldn't quit, but new chatter suggests Netflix users are logging in less and scrolling past it more often - which hits home since almost everyone listening has a Netflix password (even if it's not technically theirs).",
+    "bullets": [
+      " Be honest - when's the last time you actually opened Netflix instead of just defaulting to it out of habit?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-25/netflix-users-are-watching-less-not-opening-the-app-as-often",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Annie Potts says that Jim Parsons returning as Sheldon in the \u2018YOUNG SHELDON\u2019 finale broke her heart. \u201cI thought the show could have ended [with young Sheldon] and not to the dreaded scene with Jim & Mayim as Sheldon & Amy revealing he was unchanged and unrepentant. That gave me a stomach ache.",
+    "angle": "The Meemaw herself is publicly trashing her own show's ending \u2014 that's a rare bit of on-set drama fans love, and it opens up the \"did they ruin the finale\" debate for anyone who watched.",
+    "bullets": [
+      " Annie Potts (Meemaw) says the 'Young Sheldon' finale \"broke her heart.\"",
+      " She says the show should've ended with young Sheldon \u2014 not the twist bringing back Jim Parsons and Mayim Bialik as adult Sheldon and Amy.",
+      " Her quote: that final scene revealed Sheldon \"was unchanged and unrepentant.\"",
+      " Her reaction in her own words: \"That gave me a stomach ache.\"",
+      " Did the 'Young Sheldon' finale nail the ending, or did bringing back grown-up Sheldon ruin it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://collider.com/young-sheldon-finale-jim-parsons-annie-potts-reaction/?utm_campaign=TrueAnthem-C&utm_medium=Social-Dist",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Lee Child confirms he has nothing to do with Jack Reacher any more: \"I just get it when the publisher gets it, and I read it out of interest.\"",
+    "angle": "Lee Child built Jack Reacher into a global franchise, and now he's admitting he's hands-off on it \u2014 a fun \"it's not my baby anymore\" moment for fans of the books and the Amazon series.",
+    "bullets": [
+      " Lee Child, the author who created Jack Reacher, says he has nothing to do with the franchise anymore",
+      " His quote: \"I just get it when the publisher gets it, and I read it out of interest\"",
+      " Reacher has carried on in books and the hit Amazon Prime series even as Child steps back",
+      " Would you want to fully let go of something you created, or does that feel like giving up your baby?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://collider.com/reacher-lee-child-confirms-departure-book-series/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Tana Mongeau as Erika Kirk for Halloween",
+    "angle": "Tana Mongeau has built a whole career on costume shock value, and picking Erika Kirk \u2014 the widow of assassinated activist Charlie Kirk \u2014 as her look is already stirring backlash online over whether this one crosses a line.",
+    "bullets": [
+      " Is this just Tana being provocative as usual, or did she pick the one costume that's actually off-limits?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/73a2pkg6rkxh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Before \u2018Obsession\u2019 and \u2018Backrooms,\u2019 \u2018Lights Out\u2019 Blazed the Trail From YouTube to Studio Hit",
+    "angle": "Every horror trend you're seeing blow up online right now \u2014 from creepypasta shorts to viral 'Backrooms' videos \u2014 owes its Hollywood pipeline to one guy who did it first a decade ago, and that's a fun 'remember when' for movie fans.",
+    "bullets": [
+      " Swedish director David F. Sandberg made the original 'Lights Out' as a short horror film, not a studio project.",
+      " It went viral 10 years ago after blowing up on Reddit.",
+      " New Line noticed the buzz and turned the short into a full theatrical horror hit.",
+      " It's now being credited as the blueprint for later viral-to-studio horror projects like 'Obsession' and 'Backrooms.'",
+      " What's the last short video or online clip you saw that you thought 'that needs to be a movie'?"
+    ],
+    "debate": "",
+    "source": "www.hollywoodreporter.com (Tier 3) | Score: 78/90 (45 fit + 4 source + 29 quality) -> LEAD",
+    "url": "https://www.hollywoodreporter.com/business/digital/lights-out-blazed-trail-youtube-to-studio-1236736287/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018You Can See Everything\u2019 surges with US$19.5M at box office; \u2018Clayface\u2019 takes No. 1",
+    "angle": "A horror reboot grabs the No. 1 spot while a lesser-known title quietly rakes in millions \u2014 a classic box office upset story that's perfect for a quick movie-money chat.",
+    "bullets": [
+      " Clayface takes the No. 1 spot at the box office this week.",
+      " 'You Can See Everything' surges with US$19.5 million, a surprise strong showing.",
+      " Limited details available beyond the headline \u2014 worth a quick look at what's packing theaters right now.",
+      " Have you even heard of 'You Can See Everything' \u2014 or is Clayface the only one on your radar? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "mRQQ0F5V0ZOYjlYbGp4eWlXVU9wb28tOGVUVUJOdmxhendUa3RWSlBnTVdqekNJMHVJcU5ScGpUWXpZT2c4WUhiUy1R?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUF9TczRTWE0yNkRMOFVrWTlEdG5WMUVCcnpiWjYyUUZZd1RhTFhX",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'Young Sheldon' Star Emily Osment Requested an Intimacy Coordinator - Variety",
+    "angle": "This one's a watercooler twist: an actress asking for an intimacy coordinator on a show with zero sex scenes, all because of an age-gap concern with her co-star. It's a window into how different the vibe really was behind the scenes of a squeaky-clean sitcom.",
+    "bullets": [
+      " Emily Osment says there were no sex scenes on *Young Sheldon* \u2014 but she still wanted an intimacy coordinator on set.",
+      " Should intimacy coordinators be standard on any set with a big age gap between co-stars \u2014 even with zero romantic scenes? Variety (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/news/young-sheldon-emily-osment-requested-intimacy-coordinator-1236930355/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Moon Knight\u2019 Star May Calamawy Fronts \u2018Night Feeds,\u2019 Opener of New Tokyo Horror Festival Yami (EXCLUSIVE)",
+    "angle": "A Marvel star trading superhero spandex for psychological horror is the kind of casting swerve genre fans eat up, and it's launching a brand-new festival dedicated entirely to dark, twisted cinema.",
+    "bullets": [
+      " May Calamawy (yes, from \"Moon Knight\") stars in \"Night Feeds,\" a psychological horror short from director Rana Roy.",
+      " \"Night Feeds\" opens the very first Yami International Film Festival \u2014 Tokyo's new horror-and-dark-genre showcase.",
+      " It all goes down Nov. 20\u201326 at Human Trust Cinema Shibuya.",
+      " A Marvel actor just became the face of a brand-new horror festival \u2014 who else would you love to see make that same genre jump? variety.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/festivals/moon-knight-star-tokyo-horror-fest-yami-opener-night-feeds-1236930653/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "People are using AI to 'dumb down' their smart TVs. Is that a good idea?",
+    "angle": "Everyone's annoyed by bloated, ad-stuffed smart TVs, so a viral trick promising an AI fix is catching fire online \u2014 but there's a real 'is this a terrible idea' debate baked right in.",
+    "bullets": [
+      " Viral posts are showing people how to use AI tools to hack their smart TVs",
+      " Some users are also using it to disable certain tracking features",
+      " Critics warn there are easier, safer ways to declutter a TV without an AI hack",
+      " Would you let AI loose inside your TV's settings to 'fix' it, or is that a one-way ticket to a brick on your wall?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/ai-coding-hack-smart-tvs-9.7392179?cmp=rss",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "68-Year-Old Bar Owner Accidentally Goes Viral After Outsmarting Conan O\u2019Brien During Subway Interview - Bored Panda",
+    "angle": "A total stranger out-joked Conan O'Brien on camera and the internet can't stop watching - it's the kind of pure, random viral moment that makes for an easy, feel-good chat segment.",
+    "bullets": [
+      " Debbie Shields, a 68-year-old Brooklyn bar owner, had never met Conan O'Brien before this encounter.",
+      " Shields reportedly held her own and out-joked Conan, which is what sent the clip viral.",
+      " She's since become an accidental internet sensation off the back of the clip.",
+      " Who's the funniest person you've randomly met out in public - could they have out-joked a late-night legend? Boredpanda.com (via NewsAPI) (Tier 1) | Score: 85/90 (45 fit + 12 source + 28 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.boredpanda.com/68-year-old-bar-owner-accidentally-goes-viral-after-outsmarting-conan-obrien/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "BYU's Sitake disputes roughing the kicker call in 2OT, but UCF 'bested us' - ESPN",
+    "angle": "BYU was riding high at No. 2 in the country after upsetting Notre Dame, and a week later they're out, done in by a controversial penalty in double overtime against UCF - that's the kind of gut-punch college football story that gets debated all week.",
+    "bullets": [
+      " BYU lost to UCF 39-31 in double overtime on Saturday night",
+      " Coach Kalani Sitake openly disagreed with a roughing the kicker penalty that set up UCF's game-winning score",
+      " Despite the heartbreaker, Sitake refused to call it a letdown game, saying UCF simply \"bested us\"",
+      " Was that roughing the kicker call a legit penalty or a flag that cost a top-2 team the game? ESPN (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.espn.com/college-football/story/_/id/50271568/ucf-stuns-no-2-byu-2ot-wild-finish-regulation",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Angry voters lean toward tough, dominant-looking leaders, while fearful voters prefer trustworthy-looking faces, a new 2026 American study finds. The effect was small (about 3 points) but worked the same way for Democrats and Republicans, though Republicans liked dominant faces more overall.",
+    "angle": "New research says your gut reaction to a leader's FACE depends on your mood - fear makes you crave trustworthy, anger makes you crave dominant. It's a fun personality-test hook buried inside a political science study, and it cuts across party lines.",
+    "bullets": [
+      " A new 2026 American study finds angry voters gravitate toward tough, dominant-looking leaders",
+      " Fearful voters lean the opposite way, preferring faces that read as trustworthy",
+      " Republicans liked dominant-looking faces more overall, regardless of mood",
+      " Call in: when you're furious vs. when you're scared, do you actually picture a different kind of leader in your head? ON-AIR BIT BREAKDOWN - Step 1: Set the Mood - 30 seconds -> Hosts each describe a recent moment they were genuinely angry, then a moment they were genuinely scared. - Step 2: Face-Off - 1 minute -> Pull up two generic leader headshots - one 'tough jaw' type, one 'warm smile' type - and have each host pick one for their angry memory, one for their scared memory. - Step 3: Phone Vote - ongoing -> Ask listeners to text in which face they'd pick for anger vs. fear, see if it splits the same way the study found."
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.psypost.org/anger-and-fear-nudge-voters-toward-different-kinds-of-leader-faces-study-suggests/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A stranger\u2019s wrong turn led him to the burning home of a Georgia couple who have fostered more than 500 children. He woke the father and helped get their 12 children out. All 14 family members survived, and their community has rallied to help them rebuild.",
+    "angle": "A total stranger got lost, ended up outside a burning home, and ended up saving an entire family \u2014 including a couple who've fostered over 500 kids. It's the kind of real-life hero story that makes for an easy, feel-good segment.",
+    "bullets": [
+      " A stranger took a wrong turn and ended up outside a burning home in Georgia.",
+      " He woke the father and helped get 12 children safely out of the house.",
+      " All 14 family members survived the fire.",
+      " Ever had a random wrong turn or small mistake end up mattering way more than you realized at the time?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.independent.co.uk/news/world/americas/georgia-house-fire-14-save-b3072170.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "\"He should not live in the sewer.\" Baltimore County mother says man living underground harasses her children",
+    "angle": "This is peak 'you can't make this up' local news - a mom going public because there's apparently a man living underground near her house bothering her kids. It's the kind of headline that makes you stop scrolling and immediately want to know more.",
+    "bullets": [
+      " A Baltimore County mother is speaking out about a man she says is living underground, in a sewer, near her home.",
+      " She says he harasses her children.",
+      " Her quote says it all: 'He should not live in the sewer.'",
+      " Call in: would you confront a neighbor like this yourself, or is this strictly a 'call the cops' situation?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbsnews.com/baltimore/news/baltimore-county-mother-says-man-living-sewer-harassed-her-children/?fbclid=IwdGRjcAV",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "A kangaroo was found 3km out to sea off South Australia. Port Lincoln fishermen brought the exhausted animal aboard, cradled it on the trip back, and watched it rest on the beach before hopping away.",
+    "angle": "This is the purest kind of goodbye-segment story - a stranded animal, a group of strangers who stop what they're doing to save it, and a happy ending with a hop into the sunset. Pure dopamine before the break.",
+    "bullets": [
+      " Fishermen off Port Lincoln, South Australia spotted a kangaroo swimming 3km (about 2 miles) out to sea.",
+      " Crew cradled the kangaroo for the ride back to shore.",
+      " Once on the beach, it rested, got its strength back, and hopped away on its own.",
+      " A kangaroo two miles out to sea, cradled like a baby by a bunch of fishermen - if that doesn't fix your day, nothing will."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.abc.net.au/news/2026-10-21/kangaroo-rescued-from-sea-boston-bay-port-lincoln/107291116",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "For 17 years, 68 year old Xuan Fengying cared for her daughter in law after a truck left her in a vegetative state. Now Xu can speak and walk again, telling the woman who never gave up on her, \u201cMum, good.\u201d",
+    "angle": "A mother-in-law spent nearly two decades caring for her daughter-in-law after a truck crash left her in a vegetative state - and now the woman can speak and walk again. It's the kind of good-news tearjerker that makes a perfect show closer.",
+    "bullets": [
+      " Xuan Fengying, 68, cared for her daughter-in-law for 17 years after a truck accident left her in a vegetative state.",
+      " Close the show on this one - no debate needed, just let it land."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.scmp.com/news/people-culture/trending-china/article/3372043/mum-good-chinese-woman-wakes-vegetative-daughter-la",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "After a fall left him paralysed from the waist down at 19, Xie Junwu spent eight years confined at home. Now 55, he holds the Guinness world record for a 25.8km wheelchair wheelie, has summited Mount Huangshan four times and shares his skateboarding skills to inspire others with spinal injuries.",
+    "angle": "This is pure underdog-comeback radio gold: a guy told he'd never walk again spends eight years shut in his house, then rebuilds his whole life around pushing limits most able-bodied people wouldn't attempt - it's the kind of story that makes you rethink your own excuses.",
+    "bullets": [
+      " Fell at 19 and was left paralyzed from the waist down - then spent 8 years largely confined to his home.",
+      " Now 55, he holds the Guinness World Record for the longest wheelchair wheelie: 25.8km.",
+      " He's summited Mount Huangshan - one of China's toughest mountains - four times, in a wheelchair.",
+      " He's also picked up skateboarding and now shares his skills to inspire others living with spinal injuries.",
+      " If someone told you 'you'll never do that again,' what's the first thing you'd go do anyway?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.scmp.com/news/people-culture/china-personalities/article/3371897/running-his-hands-chinese-world-record-holder-wows",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "On a day trip in Incheon, a group of 27 from a disability welfare centre stopped for a barbecue lunch. A fellow diner paid their entire 600,000 won ($420) bill, then quietly left before anyone could thank them.",
+    "angle": "A random act of kindness with zero strings attached and zero credit grab - the diner paid up and ghosted before anyone could even say thanks. It's the kind of feel-good mic-drop story that's perfect for ending the show on a high note.",
+    "bullets": [
+      " A group of 27 people from a disability welfare centre were on a day trip in Incheon, South Korea.",
+      " They stopped for a barbecue lunch together, running up a bill of 600,000 won (about $420).",
+      " A fellow diner at the restaurant quietly paid the entire tab.",
+      " Have you ever picked up the tab for a stranger and slipped out before they could say thanks - or been on the receiving end of it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://en.sedaily.com/society/2026/10/19/stranger-pays-600000-won-meal-tab-for-27-disabled-diners",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Start-Up Claims to Use A.I.-Created Viruses to Treat a Patient",
+    "angle": "Start-Up Claims to Use A.I.-Created Viruses to Treat a Patient",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.nytimes.com/2026/10/20/science/ai-virus-bacteria-radical-numerics.html",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Convicted murderer attending McGill law school back in custody Saturday | Globalnews.ca",
+    "angle": "A convicted murderer who talked his way into one of Canada's top law schools is suddenly back behind bars - instant watercooler material about second chances, parole oversight, and whether our rehab system just got played.",
+    "bullets": [
+      " He was taken back into custody on Saturday, according to Global News.",
+      " Does a murder conviction automatically disqualify someone from rebuilding their life as a lawyer, or did the system drop the ball letting this get as far as it did?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://globalnews.ca/news/12120147/convicted-murderer-mcgill-law-school-in-custody-saturday/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Nathan Fielder Negotiated a \u2018Kill Switch\u2019 on \u2018You Can See Everything,\u2019 Says Lance Oppenheim: \u2018If We Didn\u2019t Find Something, We Could Just Throw It All Away\u2019",
+    "angle": "Nathan Fielder's comedy is all about committing to the bit no matter how weird it gets, so hearing he built in an actual exit ramp for 'You Can See Everything' is a fun peek behind the curtain for fans who assume everything he does is fully planned.",
+    "bullets": [
+      " Director Lance Oppenheim reveals Nathan Fielder negotiated a \"kill switch\" on the project \"You Can See Everything.\"",
+      " Means the whole thing could've been scrapped if the concept didn't pan out mid-production.",
+      " Would you want a built-in escape hatch on your biggest project, or does that safety net kill the commitment that makes it good?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862/",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-25",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Creator of Super Smash Brothers Offers Blistering Takedown of AI-Generated Games",
+    "angle": "When the guy who built one of gaming's most beloved franchises calls out AI-generated games, it's not just a nerd fight - it's the human-vs-AI creativity debate landing squarely in gaming, a space millions of listeners actually play in.",
+    "bullets": [
+      " Coming from someone with his track record, the critique carries extra weight in the gaming world",
+      " Details on the specific comments are still thin - but the 'AI vs. human creativity' fight in gaming is clearly heating up",
+      " Would you trust a game you knew was AI-generated, or does knowing a human sweated over every level change how you play it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://futurism.com/artificial-intelligence/super-smash-bros-creator-ai",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-10-23",
     "slot": "pm",
     "category": "THE LIST",
