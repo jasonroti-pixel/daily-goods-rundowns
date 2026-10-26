@@ -1,5 +1,1482 @@
 [
   {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "El-Sayed refuses to answer questions about Muslim Brotherhood letter: \u2018I\u2019m not interested\u2019",
+    "angle": "A political interview going sideways on live TV is always good radio \u2014 especially when a candidate dodges a direct question instead of just answering it, which only makes people more curious about what's in that letter.",
+    "bullets": [
+      " Baier pressed El-Sayed about a 2012 letter addressed to the leader of the Muslim Brotherhood in Egypt.",
+      " El-Sayed's name was signed on that letter.",
+      " Instead of answering, he repeatedly interrupted Baier and said flatly: \"I'm not interested.\"",
+      " When a candidate refuses to answer a direct question on live TV, is that a red flag or just smart defense \u2014 call in and tell us which."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 82/90 (45 fit + 12 source + 25 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/23/us-news/el-sayed-refuses-to-answer-questions-about-muslim-brotherhood-letter-im-not-interested/",
+    "score": "82/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Sacha Baron Cohen says Donald Trump has \u201celements of brilliance\u201d and that he was re-elected president because \u201cwe were too easy to dismiss h",
+    "angle": "A-list comedian Sacha Baron Cohen just handed the media a soundbite \u2014 calling Trump \"brilliant\" while promoting his new movie \u2014 and it's the kind of backhanded compliment that'll split any room right down the middle.",
+    "bullets": [
+      " Sacha Baron Cohen is on the press tour for his new film \"Ali G: Who Iz I?\", out in theaters today",
+      " His quote: \"There are elements of brilliance to him... that explains his appeal\"",
+      " He admits the media underestimated Trump: \"We were too easy to dismiss him as a nincompoop\"",
+      " On Pivot with Kara Swisher and Scott Galloway, he added Trump uses comedy intentionally \u2014 calling it \"a huge amount of comedy in the way he speaks\"",
+      " Is calling Trump \"brilliant\" a compliment, an insult, or just the smartest way to sell movie tickets right now? X/Twitter @Variety (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Variety/status/2113761131953287307",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Etsy to restrict AI-generated content in effort to combat seller slop",
+    "angle": "Etsy built its whole brand on human-made, one-of-a-kind crafts - so a crackdown on AI-generated \"slop\" flooding the marketplace hits right at the platform's identity and has shoppers and sellers both picking sides.",
+    "bullets": [
+      " Etsy is moving to restrict AI-generated content on its platform",
+      " Etsy's entire brand promise has long been human-made, unique items, making this a identity-defining policy shift",
+      " Can you even tell AI-made from handmade anymore - and should platforms like Etsy be the ones policing it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nbcnews.com/business/consumer/etsy-restricts-ai-generated-seller-slop-rcna605216",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Local opposition helped stop Amazon\u2019s plans for four data centers in Northern Virginia. Most of the 122 acre site would instead be rezoned for homes and mixed use, with 25 acres donated for a community arts and recreation center and $5 million for the county housing fund.",
+    "angle": "This taps into the massive national backlash against AI data centers eating up land and power \u2014 and it's the rare story where the little guy actually beat Big Tech. Everyone's got an opinion on data centers popping up near them right now.",
+    "bullets": [
+      " Local opposition blocked Amazon's plan to build four data centers on a 122-acre site in Northern Virginia",
+      " Most of the land will be rezoned for homes and mixed-use development instead",
+      " 25 acres are being donated for a community arts and recreation center",
+      " Would you rather have a giant data center humming next door or new housing and a rec center \u2014 call in and tell us which tradeoff you'd actually take."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-bows-to-local-backlash-over-ai-data-centers-scraps-plans-to-buil",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Wolves roam into Finnish villages after Google destroys 1,300 acres of forest for AI data centers",
+    "angle": "This is the AI infrastructure story with teeth \u2014 literally. The rush to build data centers for AI is now showing up as displaced wildlife wandering into neighborhoods, which makes the abstract 'AI has environmental costs' debate suddenly very visual and very real.",
+    "bullets": [
+      " With their habitat gone, wolves are now showing up inside nearby villages",
+      " Call in: is the AI boom worth it if it means bulldozing forests and sending wolves into backyards?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/wolves-roam-into-finnish-villages-after-google-destroys-1-300-acres-of-for",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Google quietly changes privacy policy so your Gmail and Photos could be used in targeted ads",
+    "angle": "Gmail and Google Photos are default apps for basically everyone with a smartphone, so a quiet privacy policy shift letting that personal content fuel targeted ads is the kind of \"wait, what?\" story that gets people checking their own settings mid-show.",
+    "bullets": [
+      " Story centers on Google reportedly updating its privacy policy language around how data is used for ad targeting.",
+      " Framed as a \"quiet\" change - no big announcement, just a policy update users have to notice themselves.",
+      " Would you actually switch email providers over this, or is \"Google already knows everything\" just the deal we've all made peace with?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.dexerto.com/entertainment/google-quietly-changes-privacy-policy-so-your-gmail-and-photos-could-be-used-in-targeted-a",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "China\u2019s head transplant advocate Ren Xiaoping completes landmark spinal surgery in Russia",
+    "angle": "This is the guy who's been chasing full head transplants for years, and now he's notched a 'landmark' spinal procedure overseas \u2014 it's a flashpoint for the ethics-vs-innovation debate everyone loves to argue about.",
+    "bullets": [
+      " Ren Xiaoping, a Chinese surgeon known as a leading head transplant advocate, reportedly completed the procedure",
+      " It took place in Russia, not China",
+      " Ren has long pushed head-transplant research as a serious medical frontier, not sci-fi",
+      " Miracle medicine or mad science \u2014 where's the line, and would you ever sign up to be patient zero?"
+    ],
+    "debate": "ark-surgery-russia?utm_source=Reddit&utm_medium=Social",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.scmp.com/news/china/science/article/3371900/chinas-head-transplant-advocate-ren-xiaoping-completes-12-hour-landm",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "California startup says it has injected AI-designed virus into humans",
+    "angle": "This is the kind of story that sounds like sci-fi until you realize it's real \u2014 a company claims they used AI to design a virus from scratch and then put it in a person, which raises huge questions about safety, regulation, and whether we're moving too fast on bioengineering.",
+    "bullets": [
+      " A California-based startup claims it has designed a virus using AI and injected it into human subjects.",
+      " Few details are public yet on the startup's name, the virus's purpose, or what regulatory oversight (if any) was involved.",
+      " Would you ever volunteer to be injected with something an AI designed, or does that cross a line for you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.msn.com/en-ca/health/general/california-startup-says-it-has-injected-ai-designed-virus-into-humans/ar-AA2fT96q?uxmod",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump says deal with Canada close, but he holds \u2018all the cards\u2019",
+    "angle": "Any update on US-Canada trade talks hits wallets on both sides of the border, and Trump's \"I hold all the cards\" line is the kind of swagger that gets people talking about who actually has leverage here.",
+    "bullets": [
+      " Trump says a deal with Canada is close",
+      " He claims he's holding \"all the cards\" in the negotiation",
+      " Story surfaced out of r/canada, signaling it's already got Canadians talking",
+      " Does \"all the cards\" sound like confidence or a negotiating bluff to you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/trump-says-deal-with-canada-close-but-he-holds-all-the-cards/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump staffer Britt McHenry forced to resign over NBA scuffle after being promoted on the same day",
+    "angle": "A Trump administration staffer and former ESPN anchor getting pushed out over a courtside scuffle \u2014 on the very same day she got bumped up \u2014 is exactly the kind of political-meets-pop-culture whiplash that gets phones lighting up.",
+    "bullets": [
+      " Britt McHenry \u2014 former ESPN/Fox News personality now working as a Trump staffer \u2014 was reportedly forced to resign.",
+      " Promoted in the morning, pushed out by nightfall \u2014 ever had a workday flip that fast?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "\u2018The Daily Show\u2019 Embarrasses Trump Supporters Who Can't Define Communism for Jordan Klepper",
+    "angle": "Jordan Klepper's field pieces are basically a franchise at this point \u2014 put a mic in front of someone confident about their politics and ask them to define the term they're using, and you get the kind of squirming clip that rockets around Reddit and TikTok every time.",
+    "bullets": [
+      " Jordan Klepper, The Daily Show's go-to field correspondent for these 'gotcha' interviews, is behind the segment",
+      " Framed by the outlet as an 'embarrassing' moment for the interviewees \u2014 exactly the kind of clip built for social sharing",
+      " Could you define communism, socialism, and capitalism on the spot right now \u2014 no Googling? ON-AIR BIT BREAKDOWN - Step 1: Pop the Quiz - 30 seconds, cold open -> Host asks co-host to define communism, socialism, and capitalism in one sentence each, no prep. - Step 2: Phone-In Challenge - 2-3 minutes, open lines -> Invite callers to take the same quiz live on air and see who actually nails it. - Step 3: The Bigger Question - 1 minute, wrap-up -> Hosts debate whether 'gotcha' political street interviews actually prove anything or just make good TV."
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thewrap.com/media-platforms/politics/the-daily-show-trump-supporters-cant-define-communism-jordan-klepper/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump to swap some tariffs on Canadian goods amid midterm pressure",
+    "angle": "Trump to swap some tariffs on Canadian goods amid midterm pressure",
+    "bullets": [],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/trump-susan-collins-tariffs-midterms-9.7393675?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Loblaw CEO apologizes to 2 million shoppers for personal data hack, offers free credit monitoring",
+    "angle": "If you've got a PC Optimum card, this one's personal \u2014 Canada's biggest grocery chain is apologizing to roughly 2 million customers after a data breach, and now they're scrambling to make it right.",
+    "bullets": [
+      " Loblaw's CEO personally apologized to shoppers over the breach.",
+      " About 2 million customers had their personal data exposed.",
+      " Loblaw is offering affected shoppers free credit monitoring.",
+      " Do you actually check your credit after one of these \"your-data-was-hacked\" letters, or does it go straight in the trash?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/business/loblaw-data-breach-apology-9.7393626?cmp=rss",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "The United States is the greatest threat to Canada\u2019s Arctic sovereignty",
+    "angle": "Forget Russia or China \u2014 this take says Washington is the real threat to Canada's claim on the Arctic. With U.S.-Canada tensions already simmering, that's a spicy swipe that could get listeners picking sides.",
+    "bullets": [
+      " Who do you actually think is the bigger threat to Canada's Arctic claim \u2014 the U.S., Russia, or China?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theglobeandmail.com/opinion/article-united-states-threat-canada-arctic-sovereignty-defence/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "MapQuest now showing surveillance camera locations across Canada, U.S.",
+    "angle": "MapQuest just started marking surveillance camera locations across Canada and the U.S., which lands right in the middle of the privacy-vs-safety debate everyone's already having about public surveillance.",
+    "bullets": [
+      " Would you actually use a map that flags every camera on your route, or does that just feel like a cheat sheet for dodging Big Brother?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/mapquest-surveillance-camera-canada-flock-9.7393090",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Carney says 'direct casualties' are result of Ukraine's restricted access to Musk's Starshield | PM criticizes 'whoever' decided to limit Ukraine's ability to track Russian strikes",
+    "angle": "Our own PM just accused someone \u2014 maybe Musk, maybe the White House \u2014 of quietly throttling Ukraine's war-tracking tech, and he's blaming it directly for deaths. That's Carney picking a very public fight on the world stage.",
+    "bullets": [
+      " Mark Carney says a slowdown in Ukraine's Starshield access has caused \"real consequences, human consequences, direct casualties\"",
+      " Volodymyr Zelenskyy says the restriction means Ukraine can't track drones and missiles moving faster than 160 km/h",
+      " Carney cited a Russian strike on central Kyiv in the prior 36 hours as proof attacks are \"becoming more and more indiscriminate\"",
+      " Reuters says the order came from inside the White House; The Wall Street Journal says Elon Musk personally ordered it \u2014 Trump denies giving the order",
+      " Is it fair for our PM to publicly point fingers at Musk and the White House over wartime casualties?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/carney-zelenskyy-trump-starlink-9.7393553",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Calgary family finds box of Pok\u00e9mon cards valued at roughly $48,000",
+    "angle": "It's a Thanksgiving miracle story Canadians will love \u2014 a forgotten box of Pok\u00e9mon cards turning into a near-$50,000 windfall is pure jackpot fantasy, and it'll have everyone racing to check their own basements.",
+    "bullets": [
+      " A Calgary family discovered an old box of Pok\u00e9mon cards over Thanksgiving dinner",
+      " What's buried in YOUR closet right now that could secretly be worth a fortune?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/calgary/calgary-pokemon-cards-9.7394033?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "How the Brewers and Rays got to baseball's biggest stage with small budgets and small ball",
+    "angle": "If you fly Air Canada to the States, this could mean rebooking your travel plans \u2014 airlines trimming routes always sparks the \"wait, which ones?!\" panic.",
+    "bullets": [
+      " Milwaukee Brewers and Tampa Bay Rays are consistently ranked among MLB's lowest payroll teams.",
+      " Both clubs are leaning on small ball - speed, defense, and pitching depth - instead of star-studded lineups.",
+      " Their run to the top of the sport is being framed as a case study in outsmarting bigger-spending rivals.",
+      " Ask listeners: would you rather cheer for the scrappy underdog or the big-money juggernaut?",
+      " Air Canada is planning to phase out service to certain U.S. destinations",
+      " Exact routes/cities affected weren't specified in the initial report",
+      " Which U.S. city do you NEED Air Canada to keep flying to \u2014 call in and tell us your go-to American getaway. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "ZjQnNvTTNDdUxwOUVQQXJ6WmtrbU1HWTYwV0g4Q2M2Q1hjYVAxYTI0Qw?oc=5",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT3dTelhwQWpTUFZlenFBMURtNDdYNS0tVEpKbXpxUUtIQzNka3huZm1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Convicted murderer should be banned from McGill campus for rest of academic year, students say",
+    "angle": "A student petition is calling for a convicted murderer to be kept off McGill's campus for the rest of the school year \u2014 a story that taps into real anxiety about campus safety versus reintegration after a conviction.",
+    "bullets": [
+      " Students at McGill University are demanding a convicted murderer be banned from campus through the rest of the academic year.",
+      " Does someone with a murder conviction get a path back into student life \u2014 or should campus just be off-limits, full stop? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVXYwaU04VDhzb2ZiZWlkZXl5RjAxcERMQWNuWHlQVTQzS2NpRzdPZk",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Sandra H\u00fcller Joins \u2018Avengers: Doomsday\u2019 in Cameo Role",
+    "angle": "Sandra H\u00fcller \u2014 the 'Anatomy of a Fall' Oscar nominee \u2014 is popping up in 'Avengers: Doomsday,' and it's the latest sign this cast has basically become a game of 'how many award winners can you cram into one superhero movie.'",
+    "bullets": [
+      " Sandra H\u00fcller, an Oscar nominee, is joining in a top-secret cameo role",
+      " Directors Anthony and Joe Russo are currently in post-production on the film",
+      " It's set for a Dec. 18 release date",
+      " Variety notes the cast is already \"stuffed to the gills\" with award-winning actors and major movie stars",
+      " At what point does an all-star cast stop being exciting and start being a gimmick? variety.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/news/sandra-huller-avengers-doomsday-cameo-role-1236930032/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Noel Gallagher credits being able to 'compromise' as the secret to his reconciliation with brother Liam as he appears on Chicken Shop Date",
+    "angle": "The Oasis brothers' feud has been tabloid gold for decades, so any hint of how they actually patched things up is instant watercooler talk - especially dropped on a buzzy show like Chicken Shop Date.",
+    "bullets": [
+      " Noel Gallagher opened up about reconciling with brother Liam in a rare sit-down interview.",
+      " He says the key to patching things up was simply learning to \"compromise.\"",
+      " What's the one compromise that finally ended a years-long feud with YOUR sibling?"
+    ],
+    "debate": "pears-Chicken-Shop-Date.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+    "source": "www.dailymail.co.uk (Tier 2) | Score: 81/90 (45 fit + 8 source + 28 quality) -> LEAD",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16234107/Noel-Gallagher-credits-able-compromise-secret-reconciliation-brother-Liam-ap",
+    "score": "81/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "James Bond screen tests set to take place this weekend and Callum Turner, Slow Horses star Jack Lowden and one unnamed actor are all in the running as Jacob Elordi loses final audition",
+    "angle": "James Bond screen tests set to take place this weekend and Callum Turner, Slow Horses star Jack Lowden and one unnamed actor are all in the running as Jacob Elordi loses final audition",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.dailymail.com/tvshowbiz/article-16232349/James-Bond-screen-tests-set-place-weekend-Jacob-Elordi-Slow-Horses-star-",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "The View stars compare Megyn Kelly to \u2018fungus\u2019 for shaming Christina Applegate amid MS misdiagnosis: \u2018Are you crazy?\u2019",
+    "angle": "A live, heated celebrity feud on daytime TV always plays well on air \u2014 especially when it involves a beloved actress's real health scare and a media personality getting called out hard by name.",
+    "bullets": [
+      " A host reportedly fired back on-air with 'Are you crazy?'",
+      " Is it fair game to drag a daytime host for how they talked about someone else's health struggle, or is 'fungus' a bit much?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ew.com/the-view-cohosts-compare-megyn-kelly-fungus-christina-applegate-misdiagnosis-12188043",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "NYC Mayor Zohran Mamdani shares a message regarding what the New Yorkers should know in case of an encounter with ICE",
+    "angle": "NYC's new mayor is stepping right into one of the hottest third-rails in politics, telling residents exactly what to do if ICE shows up at their door \u2014 it's the kind of mayor-vs-federal-government flashpoint that's guaranteed to spark a real debate between listeners.",
+    "bullets": [
+      " Zohran Mamdani, NYC's mayor, is publicly sharing guidance on what New Yorkers should know if they encounter ICE",
+      " Comes amid heightened national tension between sanctuary cities and federal immigration enforcement",
+      " Puts Mamdani in direct, public friction with federal authorities right out of the gate",
+      " Should a mayor be handing out an ICE playbook, or is that exactly what city hall should be doing?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/gm91kiz2g8xh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hila Klein of the H3 podcast announces her husband, Ethan Klein, had an affair.",
+    "angle": "One of the biggest podcasts in the game just went dark with zero warning, and now we know why \u2014 this is a messy, very public breakup playing out in real time online.",
+    "bullets": [
+      " Hila Klein publicly announced her husband Ethan Klein had an affair.",
+      " Ethan posted a notice saying the H3 Podcast is going on indefinite hiatus, effective today.",
+      " News broke and spread fast on Reddit's r/fauxmoi, a hub for celebrity/influencer gossip.",
+      " When a couple builds their entire brand and business around being a couple, does the show even survive a scandal like this?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1xd624x",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Stop-motion movie Wildwood is a staggering masterpiece. It's a miracle it exists at all",
+    "angle": "Laika's animators have been hand-crafting this thing frame by frame for sixteen years, and now critics are calling it the studio's crowning achievement - that's a wild payoff story for an audience that loves an underdog-grind narrative.",
+    "bullets": [
+      " Laika's new stop-motion film Wildwood took 16 years to make",
+      " A critic is calling it the studio's \"single best movie ever\"",
+      " Would you wait 16 years for anything - even a movie this good?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/wildwood-review-laika-9.7393321?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Lakers honor former forward with tribute video during return",
+    "angle": "A former Laker gets the warm welcome-back treatment on his return to the building \u2014 it's the kind of classy, feel-good sports moment that's easy for non-NBA-diehards to appreciate too.",
+    "bullets": [
+      " Rui Hachimura returned to face his former team, the Lakers",
+      " Do tribute videos actually feel genuine, or are they just a league-wide PR formality at this point?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/23/sports/lakers-honor-former-forward-with-tribute-video-during-return/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Hollywood veteran says Tom Cruise punched Jack Nicholson after \u2018A Few Good Men\u2019 courtroom scene",
+    "angle": "A juicy decades-old Hollywood rumor just resurfaced about two A-list legends throwing down mid-scene \u2014 the kind of old-school set drama that always gets listeners talking.",
+    "bullets": [
+      " A Hollywood veteran claims Tom Cruise punched Jack Nicholson during filming of 'A Few Good Men'",
+      " Believable Hollywood dish or tall tale \u2014 would Tom Cruise really throw a punch at Jack Nicholson on set?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/23/entertainment/hollywood-veteran-kevin-pollak-says-tom-cruise-punched-jack-nicholson-after-a-few-g",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "You Only Audition Twice: Watch Henry Cavill, James Brolin, Sam Neill and Others Screen-Test for James Bond - The Hollywood Reporter",
+    "angle": "With a new crop of actors reportedly screen-testing at Pinewood for Amazon's Bond reboot under Denis Villeneuve, it's the perfect excuse to revisit the wild list of stars who auditioned for 007 and didn't get the tux.",
+    "bullets": [
+      " Henry Cavill, James Brolin, and Sam Neill are among the names who actually screen-tested for James Bond \u2014 and all walked away without the role",
+      " New hopefuls are reportedly screen-testing right now at Pinewood Studios for the next 007",
+      " Amazon execs and director Denis Villeneuve are said to be driving the new Bond search",
+      " Of the actors who almost played Bond, which one would you have actually wanted in the role? ON-AIR BIT BREAKDOWN - Step 1: Almost-Bond Lineup - 60 seconds, quickfire -> Host reads off a near-Bond name (Cavill, Brolin, Neill) and co-host has to guess which movie-era they'd have fit, no googling - Step 2: Recast the Role - The big debate -> Each host picks their dream 'what if' Bond from the almost-list and makes a 30-second case for why that version would've worked - Step 3: Phones Open - Listener callout -> Ask callers/texters to vote: which almost-Bond do they wish had gotten the part? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/movies/movie-features/james-bond-auditions-watch-screen-tests-1236738531/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "A virus that infected chimps (but not humans) 4 million years ago left DNA that switches off a gene helping young brain cells grow and connect. Turning it off in lab-grown human mini-brains stunted neurons, and using CRISPR to remove the viral DNA from chimp stem cells switched the gene back on.",
+    "angle": "Scientists just found that leftover virus DNA from 4 million years ago controls a gene tied to brain cell growth \u2014 and it's one of the clues to what actually separates human brains from chimp brains. It's the kind of mind-bending science story that makes people go 'wait, WHAT?' on social.",
+    "bullets": [
+      " A virus infected chimp ancestors roughly 4 million years ago and left behind DNA that's still sitting in their genome today",
+      " That ancient viral DNA switches off a gene that helps young brain cells grow and connect",
+      " Researchers turned it off in lab-grown human mini-brains \u2014 and it stunted neuron development",
+      " Using CRISPR to snip the viral DNA out of chimp stem cells flipped that brain-growth gene back on",
+      " So wait \u2014 are human brains different partly because of a virus that infected chimps and never touched us?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Social Media Giants Are \"Silent Allies\" of Russian Bots and Kremlin Intelligence, Poland Warns",
+    "angle": "This is a NATO country publicly accusing Facebook, X, and the rest of looking the other way while Kremlin-linked influence campaigns operate on their platforms \u2014 a big deal with Russia's war in Ukraine still raging and disinformation fears heating up across the West.",
+    "bullets": [
+      " Poland is calling out major social media platforms as \"silent allies\" of Russian bot networks.",
+      " It lands amid broader European pressure on Big Tech over disinformation and foreign interference.",
+      " Are these platforms actually powerless to stop bot armies, or is it just not profitable for them to try?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://united24media.com/world/social-media-giants-are-silent-allies-of-russian-bots-and-kremlin-intelligence-poland-warns-23749",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Switch 2 jailbreak gives hackers new ways to run homebrew and mod games - Ars Technica",
+    "angle": "Nintendo's newest console just got its first major jailbreak, meaning homebrew apps and modded games are suddenly fair game \u2014 a classic hacker-versus-Nintendo showdown that gamers love to follow.",
+    "bullets": [
+      " It abuses an integer overflow bug inside the Switch 2's SmileBasic interpreter",
+      " It opens the door for players to run homebrew software and modded games on Nintendo's newest console",
+      " Harmless tinkering or should Nintendo be cracking down harder on jailbreakers? Ars Technica (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "16 Years After the Deepwater Horizon Oil Spill, Deep-Sea Marine Life in the Gulf of Mexico Has Yet to Recover, With Populations of Fish, Crustaceans, Squid, and Octopuses Declining by Around 60% and Some Species Losing Genetic Diversity.",
+    "angle": "This is a gut-check story \u2014 we think of oil spills as a crisis that fades once the news cameras leave, but new research says the deep-sea Gulf of Mexico is still suffering more than a decade and a half later.",
+    "bullets": [
+      " It's been 16 years since the Deepwater Horizon oil spill",
+      " Deep-sea populations of fish, crustaceans, squid, and octopuses have dropped by around 60%",
+      " Some species have lost genetic diversity, a sign the damage runs deeper than just fewer animals",
+      " Researchers say deep-sea marine life in the Gulf of Mexico has yet to recover",
+      " Does this change how you feel about offshore drilling today, or do we just assume the ocean eventually heals and move on?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/16-years-after-deepwater-horizon-spill-deep-sea-life-in-the-gulf-of-mexico-shows-no-sign-of-recovery",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A new study found that conversational AI chatbots can worsen psychotic symptoms in a small fraction of mental health patients by validating their delusions, with individuals experiencing their first episode of psychosis being the most vulnerable.",
+    "angle": "Millions of people now vent to AI chatbots like a therapist on demand, so this hits a nerve - a new study says those bots can actually agree with and amplify psychotic delusions instead of gently pushing back, especially for someone in their very first episode.",
+    "bullets": [
+      " New research says AI chatbots can worsen psychotic symptoms in a small subset of users",
+      " Patients in their first psychotic episode are flagged as the most vulnerable group",
+      " Study has been making the rounds on Reddit's r/science",
+      " If an AI chatbot can't tell the difference between 'venting' and a mental health crisis, should it even be allowed to respond?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/ai-psychosis-appears-rare-but-real-and-first-episode-patients-may-be-most-vulnerable-study-suggests/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Final Fantasy 14 players are watering locked-out strangers\u2019 crops so they don\u2019t die during outage",
+    "angle": "Final Fantasy XIV had an outage that locked a chunk of players out of their accounts \u2014 and since untended crops die in-game, other players who still had access started running around watering total strangers' farms just to keep them alive. It's a tiny, weirdly sweet story about gamer community kicking in when nobody asked it to.",
+    "bullets": [
+      " Final Fantasy XIV suffered a server outage that locked some players out of their own accounts",
+      " In-game crops die if they go too long without being watered",
+      " Players who still had access started watering locked-out strangers' crops to save them",
+      " Proof that even in a video game, people will go out of their way to help a total stranger for literally zero reward."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.dexerto.com/final-fantasy/final-fantasy-14-players-are-watering-locked-out-strangers-crops-so-they-dont-die-during-outag",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Former Texas Tech professor sentenced to 40 years for making, selling fentanyl including \u2018pink flamingo\u2019",
+    "angle": "This is peak r/nottheonion material \u2014 a former college professor swapped lecture halls for a fentanyl operation, complete with a branded product line. The sheer absurdity of the name next to a 40-year sentence is the whole bit.",
+    "bullets": [
+      " A former Texas Tech professor was just sentenced to 40 years in prison.",
+      " He was convicted of both making and selling fentanyl, not just street-level dealing.",
+      " One of his product lines was branded 'Pink Flamingo.'",
+      " A fentanyl operation branded 'Pink Flamingo' run by a college professor \u2014 somebody explain the business meeting where that name got approved."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.kcbd.com/2026/10/23/former-texas-tech-professor-sentenced-40-years-making-selling-fentanyl-including-pink-flamingo/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "For nearly 40 years, 86 year old Dale has been building a 62 foot steel boat by hand in his Texas front yard, dreaming of sailing it to Alaska. After three visitors shared his story, more than 1,500 people donated $42,000 to help finish and launch it.",
+    "angle": "An 86-year-old Texan has spent nearly four decades hand-building a 62-foot steel boat in his front yard with one dream: sailing it to Alaska. After his story got shared, over 1,500 strangers chipped in to actually get him there.",
+    "bullets": [
+      " Dale, 86, has been building the boat by hand for nearly 40 years",
+      " Three visitors shared his story and it took off from there",
+      " More than 1,500 people donated a total of $42,000 to help finish and launch it",
+      " What's the one 'someday' project you'd still be working on 40 years from now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://timesofindia.indiatimes.com/world/us/since-1987-an-86-year-old-texas-man-named-dale-has-spent-decades-building-a-62-foot",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Casper Residents Divided Over Skeleton Sex Orgy On SUV",
+    "angle": "A Halloween lawn display gone very X-rated has split a whole Wyoming town, and it's exactly the kind of small-town-scandal story that writes its own punchline.",
+    "bullets": [
+      " Residents are reportedly split down the middle \u2014 some calling it hilarious holiday spirit, others calling for it to come down",
+      " Harmless Halloween gag or does-not-belong-on-my-street \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://cowboystatedaily.com/2026/10/23/skeletons-having-sex-on-suv-is-beyond-halloween-fun-for-some-casper-residents/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "ESPN confirms Darth Vader will join MNF NFL team from next week in key role",
+    "angle": "This is the kind of headline that stops you mid-scroll \u2014 Darth Vader landing a 'key role' on an NFL broadcast is either the weirdest crossover of the year or a joke dressed up as sports news, and either way it's a fun one to riff on before the break.",
+    "bullets": [
+      " ESPN is reportedly bringing Darth Vader into the Monday Night Football fold starting next week",
+      " Story is circulating out of r/nottheonion, a subreddit built for real headlines that read like satire",
+      " What's Vader's actual job on MNF \u2014 booth analyst, ref, or just standing menacingly on the sideline? ON-AIR BIT BREAKDOWN - Step 1: Read the headline cold - 10 seconds -> Host reads the headline completely straight-faced, like it's a normal roster move. - Step 2: Pitch the job title - 30 seconds -> Both hosts guess what 'key role' means \u2014 sideline reporter, kicker, replay official \u2014 and argue for the funniest option. - Step 3: Do the voice - 15 seconds -> One host attempts a Vader-voice sports call: 'I find your zone defense disturbing.'"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.hitc.com/espn-confirms-darth-vader-will-join-mnf-nfl-team-from-next-week-in-key-role/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "American Express is cutting 5% of its workforce to 'prepare for AI'",
+    "angle": "American Express is cutting 5% of its workforce and openly blaming it on AI prep - this is the story everyone's scared of, a major bank just put it in writing.",
+    "bullets": [
+      " American Express is cutting 5% of its total workforce",
+      " Amex becomes the latest big-name employer to tie layoffs directly to AI readiness rather than cost-cutting alone",
+      " Is your job AI-proof, or are you one press release away from finding out you're not?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cnbc.com/2026/10/23/american-express-job-cuts.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "More money is now being transferred internationally via Stablecoins, than Visa & Mastercard combined.",
+    "angle": "This is a quiet financial earthquake \u2014 crypto dollars are now out-muscling the two biggest payment networks on Earth for international transfers, and almost nobody outside finance circles is talking about it yet.",
+    "bullets": [
+      " Stablecoins are now moving more money across borders than Visa and Mastercard combined",
+      " A Reddit thread on r/futurology is flagging the obvious follow-up question: how much of that volume is money laundering, drug money, or sanctions evasion",
+      " Stablecoins aren't anonymous on their face, but routing through multiple wallets can make the real parties on each end very hard to trace",
+      " If crypto is quietly replacing Visa and Mastercard for international money moves, is that financial innovation \u2014 or a giant loophole built for people avoiding the rules?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/r/Futurology/comments/1xd95ja/more_money_is_now_being_transferred/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Scientists discover how cancers evade chemotherapy by entering 'Zombie-like state'",
+    "angle": "Researchers say some cancer cells survive chemotherapy by shutting down into a dormant, 'zombie-like' state instead of dying \u2014 then waking back up later, which could explain why cancer comes back after treatment seems to work.",
+    "bullets": [
+      " If cancer cells can literally 'play dead' to survive chemo, does that change how hopeful we should feel about a cancer-free scan?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.eurekalert.org/news-releases/1147940",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Mysterious black triangles spotted going 1,800 mph over secret US military bases, latest UFO file dump reveals",
+    "angle": "A fresh UFO document dump claims mystery black triangle craft were buzzing secret US military bases at nearly Mach 2 with zero vapor trail \u2014 the kind of story that splits a room into 'cover-up' and 'cope' camps instantly.",
+    "bullets": [
+      " Objects described as black triangles were tracked moving up to 1,800 mph",
+      " Sightings reportedly occurred over secret US military bases",
+      " Witnesses/reports note no vapor trails, adding to the mystery of the propulsion",
+      " Details surfaced as part of the latest UFO file dump",
+      " Black triangle, no trail, 1,800 mph \u2014 are we buying secret military tech or something way weirder?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/23/us-news/mysterious-black-triangles-spotted-over-secret-us-military-bases-latest-ufo-file-dump-reveals/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "A mutated virus is driving the US into an early flu season, especially on the West Coast - CNN",
+    "angle": "Flu season usually waits for the holidays \u2014 this year it showed up months ahead of schedule thanks to a mutated strain, and the West Coast is getting hit hardest. It's the kind of story that makes people actually go get their shot instead of putting it off.",
+    "bullets": [
+      " Flu season is ramping up months ahead of schedule this year",
+      " A mutated version of the virus is behind the early spread",
+      " Catching a lot of people off guard \u2014 most aren't even thinking about flu shots yet",
+      " Have you gotten your flu shot yet, or are you waiting until someone in your house actually gets sick? CNN (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.cnn.com/2026/10/22/health/flu-2026-mutation",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Mysterious black triangles spotted going 1,800 mph over secret US military bases, latest UFO file dump reveals https://t.co/5qBfpauwdi https",
+    "angle": "A fresh batch of declassified UFO files is naming actual secret US military bases where mystery aircraft allegedly blew past known physics \u2014 this is the kind of \"is the government hiding something\" story that always gets phone lines lit up.",
+    "bullets": [
+      " Latest UFO file dump reportedly details sightings of black triangle aircraft near secret US military installations.",
+      " Witnesses/reports describe the objects moving at roughly 1,800 mph, well beyond typical aircraft speeds.",
+      " Story is circulating via New York Post, reigniting the long-running \"black triangle UFO\" reports that have popped up for decades.",
+      " Be honest \u2014 if the government dropped proof tomorrow, would you actually want to know? X/Twitter @NYPost (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/nypost/status/2113602081705664736",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Mass. voter turnout exceeds half a million ahead of 2026 midterm election",
+    "angle": "Half a million-plus ballots already in and we're still weeks out from the 2026 midterms - early numbers like this are usually read as a tell for turnout nationwide, so it's worth watching before everyone else is talking about it.",
+    "bullets": [
+      " Massachusetts has already seen more than half a million voters turn out ahead of the 2026 midterm election",
+      " Does early turnout like this actually predict a big night in November, or are we reading too much into it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wcvb.com/article/2026-massachusetts-voter-turnout-early-voting-update-oct-22/74217228",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Students at a Georgia elementary school discovered their cafeteria wasted nearly 450 pounds of food a day. Six years later, they had cut waste by 70%, redistributed more than 20,000 food items annually, and were feeding scraps to the school\u2019s chickens.",
+    "angle": "A feel-good food-waste story with a twist that writes its own punchline: elementary schoolers turned a cafeteria problem into a six-year sustainability win, scraps and all.",
+    "bullets": [
+      " Over six years, the school slashed that waste by 70%.",
+      " More than 20,000 food items a year now get redistributed instead of trashed.",
+      " Leftover scraps go straight to feeding the school's own chickens.",
+      " Call in: what's the most food your kid's school (or your own job) wastes in a day \u2014 and would you trust chickens to clean it up?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.worldwildlife.org/news/stories/prevent-food-waste-honor-school-lunches-by-keeping-them-out-of-the-trash/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Meta shocked by $25B fine after N.M. refused to join multistate settlement",
+    "angle": "A jury in New Mexico just ordered Meta to pay $25 billion over the old Cambridge Analytica data scandal - five times bigger than the FTC's famous 2019 fine - because the state refused to settle with everyone else and gambled on going it alone.",
+    "bullets": [
+      " A Santa Fe jury found Meta liable for over 43 million violations of New Mexico consumer protection law tied to the Cambridge Analytica data harvesting from the 2016 election",
+      " That's five times bigger than the $5 billion fine the FTC hit Facebook with back in 2019",
+      " New Mexico skipped the multistate settlement other states joined, chose to fight solo - and it just paid off big",
+      " Does a $25 billion fine actually change how Meta does business, or is it just pocket change for a trillion-dollar company?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "\u2018This effectively sets Russia far behind in the AI race\u2019: Ukraine is wiping out data centers across the border",
+    "angle": "This isn't just a battlefield story - it's a shot at Russia's entire tech future. If Ukraine's strikes are really crippling Russian AI infrastructure, that's a global power-shift angle on top of the war headlines.",
+    "bullets": [
+      " Ukraine has reportedly been targeting data centers across the Russian border",
+      " A quoted assessment claims the strikes \"effectively set Russia far behind in the AI race\"",
+      " Frames the war as having a tech/AI dimension, not just territory and troops",
+      " Is war now being fought over who controls AI infrastructure, not just land?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://fortune.com/2026/10/22/ukraine-russia-drones-data-centers-ai-race/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Physicists Trapped a Particle of Antimatter And Kept It Caged For Months",
+    "angle": "Antimatter is famous for annihilating the instant it touches regular matter, so keeping a particle of it alive and contained for months is a genuine sci-fi-meets-real-life moment \u2014 the kind of \"wait, how is that even possible\" story that travels well beyond science circles.",
+    "bullets": [
+      " Physicists say they successfully trapped a particle of antimatter inside a containment setup.",
+      " Antimatter annihilates instantly on contact with ordinary matter, which is exactly why holding onto it this long counts as a major technical feat.",
+      " Antimatter and matter annihilate each other on contact \u2014 so how did they keep this particle alive in a lab for months without anything exploding?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencealert.com/physicists-trapped-a-particle-of-antimatter-and-kept-it-caged-for-months",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "China\u2019s head transplant advocate Ren Xiaoping completes landmark spinal surgery in Russia",
+    "angle": "Ren Xiaoping is the Chinese surgeon who's been chasing the holy grail of 'body transplants' for years, and now he's claiming a landmark spinal surgery breakthrough in Russia \u2014 this is the kind of science-fiction-meets-real-life story that makes people stop scrolling.",
+    "bullets": [
+      " Ren Xiaoping is the Chinese surgeon known for pushing human head/body transplant research for years",
+      " Head transplant research has long been controversial in the medical community over feasibility and ethics",
+      " Would you ever sign up to be a test case for a 'body transplant' \u2014 or is this just mad science?"
+    ],
+    "debate": "ark-surgery-russia?utm_source=Reddit&utm_medium=Social",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.scmp.com/news/china/science/article/3371900/chinas-head-transplant-advocate-ren-xiaoping-completes-12-hour-landm",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Trump Must Sit for $10 Billion BBC Defamation Deposition by Early December, Judge Rules",
+    "angle": "A sitting president being ordered to give sworn testimony in a $10 billion defamation fight with one of the world's biggest news organizations is the kind of legal-meets-political drama that writes its own headlines, and the deposition deadline means this story has a real clock on it.",
+    "bullets": [
+      " A judge has ordered Donald Trump to sit for a deposition in his $10 billion defamation lawsuit against the BBC",
+      " Does a sitting president answering questions under oath over a news lawsuit feel like accountability \u2014 or political theater?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thewrap.com/industry-news/public-policy-legal/trump-bbc-defamation-lawsuit-december-deposition-discovery/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "A polarized Brazil heads to presidential vote Sunday with economy, corruption top of mind",
+    "angle": "Brazil heads to a presidential run-off this Sunday with the country split down the middle, and it's not ideology driving voters to the polls - it's corruption fatigue and people feeling broke. It's a window into the same economic-anxiety-meets-distrust-in-government story playing out everywhere right now.",
+    "bullets": [
+      " Brazil's presidential run-off vote happens Sunday, Oct. 25.",
+      " Top issues driving voters: corruption and personal financial stagnation.",
+      " Voters say they don't feel like they're getting ahead financially - that frustration is shaping ballots.",
+      " When you vote, what moves you more - cleaning up corruption, or just feeling richer? Because Brazil just proved you usually can't promise both."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/brazil-election-sunday-9.7392417?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "\u2018Dark Matter\u2019s Jimmi Simpson Teases Major Season 2 Finale Twist \u201cYou Couldn\u2019t Even Possibly Prepare For\u201d",
+    "angle": "Sci-fi fans are already buzzing online trying to predict the Dark Matter finale, and the lead actor himself is throwing gasoline on the speculation fire by saying this one's unpredictable.",
+    "bullets": [
+      " Jimmi Simpson, who stars in Dark Matter, is teasing a major twist coming in the Season 2 finale",
+      " Simpson says the twist is something fans \"couldn't even possibly prepare for\"",
+      " Call in with your wildest guess for the Dark Matter finale twist before it airs."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://decider.com/2026/10/23/dark-matter-season-2-finale-preview-dark-matter-season-2-episode-10-info/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Just as predicted, immigration cuts keep yielding lower rents - The Liberals started cutting immigration 24 months ago, and rents have been dropping ever since",
+    "angle": "Housing affordability is the issue every Canadian has an opinion on, and this ties it directly to the Liberals' immigration pullback \u2014 a direct line hosts can argue cause vs. correlation on.",
+    "bullets": [
+      " Since that policy shift, rents have reportedly been trending downward across the country",
+      " Phones open: is cutting immigration really why your rent's easing up, or are you giving the policy too much credit?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nationalpost.com/opinion/first-reading-just-as-predicted-immigration-cuts-keep-yielding-lower-rents",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Rogers to charge new fee for bills paid by credit card, says practice is \u2018increasingly common\u2019",
+    "angle": "Rogers is adding a surcharge for customers who pay their bill with a credit card, calling it 'increasingly common' - which is exactly the kind of fee-creep line that gets Canadians fired up about their phone and internet bills.",
+    "bullets": [
+      " Rogers confirmed it's introducing a new fee specifically for bills paid by credit card",
+      " No confirmed dollar amount or rollout date yet - details are still thin",
+      " Is charging extra to use your own credit card a fair cost-recovery move, or just another sneaky fee on your Rogers bill?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ici.radio-canada.ca/rci/en/news/2295083/rogers-to-charge-new-fee-for-bills-paid-by-credit-card-says-practice-is-increasingly-c",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Conservatives call for cuts to permanent residency admissions in immigration plan",
+    "angle": "Immigration levels have been one of the hottest political footballs in Canada the last couple years, tied directly to the housing and affordability fights - so any party putting a hard number on cuts is guaranteed to spark a real debate.",
+    "bullets": [
+      " Conservatives are pushing for reduced permanent residency admissions as part of their immigration plan",
+      " Comes amid an ongoing national debate over immigration levels and their link to housing costs and affordability",
+      " Sets up a direct policy contrast with the current government's immigration targets",
+      " Should Canada be letting in fewer permanent residents right now, or is this just an easy political target?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/politics/article/conservatives-call-for-cuts-to-permanent-residency-admissions-in-immigration-plan/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Why Quebec's strategic reserve of maple syrup is running dry",
+    "angle": "Quebec makes most of the world's maple syrup and keeps a literal 'strategic reserve' for bad years \u2014 like an oil reserve, but syrup. That cushion is shrinking, which means your pancake budget could be the next casualty.",
+    "bullets": [
+      " Quebec produces the lion's share of the world's maple syrup supply.",
+      " Demand has been outpacing supply, and that backup stockpile is now dwindling fast.",
+      " If maple syrup prices spike because of this, are you stocking up now or just switching to butter and sugar?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/quebec-maple-syrup-reserve-explainer-9.7389758?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Carney defends doing business with countries that don\u2019t share Canada\u2019s values",
+    "angle": "Our PM just defended cozying up to countries with shaky human rights records \u2014 and dodged whether he even pushed back on Erdogan's crackdown to his face. That's a real credibility question for a guy who campaigns on values.",
+    "bullets": [
+      " Mark Carney defended pursuing trade with countries accused of human rights abuses",
+      " His argument: almost no country actually meets Canada's own standards",
+      " He insists engaging with a country isn't the same as approving of it",
+      " Carney wouldn't say if he personally confronted President Erdogan over his government's crackdown",
+      " Is 'trade isn't approval' a fair principle, or just a convenient excuse to dodge hard conversations?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/canada-turkey-human-rights-business-9.7392771?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "The haunting call of Canada's common loon is becoming less common amid widespread declines, study suggests",
+    "angle": "The loon's haunting call is basically the sound of the Canadian wilderness \u2014 and a new study says loon chicks have been declining for over 30 years, which is the kind of quietly unsettling environmental story that makes people stop and listen.",
+    "bullets": [
+      " New study published Thursday in the journal *FACETS*",
+      " Researchers found severe declines in loon chick populations across North America",
+      " Ask listeners: does the sound of a loon call take you straight back to the cottage or campsite?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/manitoba/loon-decline-canada-9.7392013?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Guelph\u2019s Big Book Sale draws big crowd on opening day",
+    "angle": "Proof that the used-book-sale hustle is alive and well in Canada - these events turn into treasure-hunt culture for readers and collectors, and a big opening-day turnout says something about how people are still craving the thrill of digging through shelves in person.",
+    "bullets": [
+      " Be honest - do you still buy physical books, or did you give up and go full e-reader? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "WjR3NDh5UzNpT0lOTklvNFZTUUg0MWZrdkxrS2VtQUtR?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd1V6V1hYRHZJZldOcVFnRnV5WVBkT3o4SHdBSW9YeVNnMkstQmJf",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "NDP mailout sparks complaint from B.C. Conservative candidate",
+    "angle": "A campaign mailout just turned into a formal complaint in B.C., and election-ad fights like this always get messier than they look - worth a quick Canadian politics check-in.",
+    "bullets": [
+      " Ever gotten a political mailer so over-the-top you had to double check who sent it? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "VvN0FvSXFpbnRKdmlrdU56emZiNTcxWGRBcWFXSXFxanFHYTZN?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdHU4MEtFaDdjQ0k0a1ViUHN4UGVUSW9tWlNiNjlKRHV3aG5qRWFJYm",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Golden Bachelor\u2019 Star Peg Munson Reveals Shocking Split From Mel Owens - TV Insider",
+    "angle": "The Golden Bachelor's one real success story just fell apart in public, and fans who watched this romance bloom on TV are stunned by the breakup announcement.",
+    "bullets": [
+      " Peg Munson won Season 2 of The Golden Bachelor and fell for Mel Owens on the show.",
+      " Munson announced the split on October 21.",
+      " She told followers, 'This is not the end of my story.'",
+      " Does reality TV ever actually work out, or are we all just suckers for the fairytale ending? TVInsider (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.tvinsider.com/swooon/1308153/golden-bachelor-peg-munson-mel-owens-split-announcement-video/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Seth Meyers on JD Vance: \u2018The integrity of a used-car salesman and the charisma of a wet ham\u2019",
+    "angle": "Late-night is still mining the Vice President for comedy gold, and this one-liner is savage enough to go viral on its own \u2014 perfect fodder for a quick 'best insult of the week' chat.",
+    "bullets": [
+      " Seth Meyers took aim at VP JD Vance on his late-night show.",
+      " Classic late-night political roast format \u2014 short, quotable, built to clip and share.",
+      " Is 'charisma of a wet ham' the best political insult of the year \u2014 and who else deserves one?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/culture/2026/oct/22/late-night-seth-meyers-jd-vance",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Jenna Ortega Does Not Read Reviews, Watch Her Own Movies or Check the Box Office \u2014 and Plans to \u2018Be Off TV for a While\u2019 After \u2018Wednesday\u2019 Ends",
+    "angle": "She's the face of Netflix's biggest hit in years, but Jenna Ortega says she tunes out reviews, box office numbers, and even her own movies \u2014 and now she's hinting she'll vanish from TV once Wednesday wraps. That's a juicy contradiction for a show built on being seen.",
+    "bullets": [
+      " Jenna Ortega says she does not read reviews of her own work",
+      " She also doesn't watch her own movies or check box office numbers",
+      " She's hinting she plans to 'be off TV for a while' once Wednesday ends",
+      " Would you want to know what people say about you at work, or is Jenna Ortega onto something by staying blissfully unaware?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/jenna-ortega-movie-reviews-tv-break-wendesday-ends-1236920075/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "James Talarico: \"There is something deeply wrong with a political system that allows one trillionaire to buy his own personal U.S. Senator.\"",
+    "angle": "A sharp, quotable jab at billionaire influence in politics is exactly the kind of line that travels fast online \u2014 it's blunt, it's got a clear villain, and it taps into a frustration a lot of listeners already feel about money in elections.",
+    "bullets": [
+      " It's circulating on Reddit's r/fauxmoi, a sub that tracks celebrity and viral political moments, not a traditional news outlet.",
+      " Is it just politics as usual, or has money in elections finally gone too far \u2014 callers, where's your line?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/vnvaq4d4z0xh1.jpeg",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Nick Offerman encourages Californians to vote \u201cYes on 40. Come on California it\u2019s high damn time the billionaires simply pay their fair share like the rest of us.\u201d",
+    "angle": "Nick Offerman trading his small-government TV persona for a tax-the-rich PSA is the kind of irony that writes its own joke, and it drops him right into the middle of a real ballot fight in California.",
+    "bullets": [
+      " Nick Offerman is publicly urging Californians to vote \"Yes on 40\"",
+      " His pitch, in his words: \"it's high damn time the billionaires simply pay their fair share like the rest of us\"",
+      " Ron Swanson campaigning for higher taxes on billionaires \u2014 is this Offerman trolling his own character, or just an actor being an actual person?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/5ehxcqcm63xh1.jpeg",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Yaga, Crave's witchy new show, is full of myth, legend and Canadian stars. Here's what to know before watching",
+    "angle": "Yaga premieres Friday mixing myth and legend, but the real hook is the cast - it's a sneaky reunion of Canadian talent from Schitt's Creek, Letterkenny, and The Matrix all in one witchy package.",
+    "bullets": [
+      " Yaga premieres Friday on Crave",
+      " Stars Hudson Williams in his first major role since Heated Rivalry",
+      " Cast includes Carrie-Anne Moss plus alums of Schitt's Creek and Letterkenny",
+      " Show is built around myth and legend, with insight from its creator on the lore",
+      " Which surprise cast member in a new show has made you tune in just for them?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/yaga-crave-hudson-williams-9.7389006?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Below ... and beyond: What's next for N.L. actor Willow Kean",
+    "angle": "A Newfoundland and Labrador actor is finally getting her moment professionally \u2014 and says she's grateful it's happening now, in her 50s, rather than in her 20s. It's a feel-good late-bloomer story that taps into a bigger conversation about ageism in entertainment.",
+    "bullets": [
+      " Actor Willow Kean is from Newfoundland and Labrador",
+      " Her quote: \"I'm glad this is happening now that I'm in my 50s and not when I was 20\"",
+      " Would you rather catch your big break at 20, or get it later with the wisdom to actually enjoy it?"
+    ],
+    "debate": "https://www.cbc.ca/news/canada/newfoundland-labrador/below-and-beyond-what-s-next-for-n-l-actor-willow-kean-9.7389784?cmp=rss",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Here\u2019s Why You Should See the Hand-Crafted Epic \u2018Wildwood\u2019 on the Big Screen",
+    "angle": "A hand-crafted, old-school stop-motion epic called 'Wildwood' is getting buzz as one of the best theater experiences of the year \u2014 and the twist is it's from the director behind 'Masters of the Universe,' which nobody saw coming.",
+    "bullets": [
+      " Wildwood is being pitched as a hand-crafted big-screen epic worth seeing in theaters, not at home.",
+      " It's directed by the filmmaker behind Masters of the Universe \u2014 an unexpected pairing of pedigree and genre.",
+      " New York Post is calling it one of the best big-screen experiences of the year.",
+      " Would you actually drive to a theater for a hand-made stop-motion film, or is that a streaming-at-home watch for you?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://decider.com/2026/10/23/wildwood-movie-review/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "New Movies and Shows to Watch This Weekend: \u2018Nobody Wants This\u2019 on Netflix, \u2018The Invite\u2019 on HBO Max and More",
+    "angle": "Streaming wars never sleep, and this week's crop gives everyone something to argue about over coffee - a new rom-com everyone's talking about versus a slow-burn thriller that might actually be worth the hype.",
+    "bullets": [
+      " Nobody Wants This is one of the headline new arrivals on Netflix",
+      " Part of a broader wave of new streaming releases hitting multiple platforms this weekend",
+      " Call in and tell us: are you team Netflix binge or HBO Max this weekend?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://decider.com/2026/10/23/best-new-movies-shows-to-watch-weekend-netflix-hulu-amazon-prime-hbo-october-23-2026/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Jessie James Decker and Eric\u2019s kids flaunt matching \u2018washboard\u2019 abs in beach photos - Page Six",
+    "angle": "It's a feel-good celeb family flex that's pure social-media eye candy \u2014 the kind of fall-break beach post that gets saved, shared, and roasted in the group chat, perfect light banter for the show.",
+    "bullets": [
+      " Jessie James Decker and husband Eric Decker, a former NFL player, posted a joint Instagram from their Florida fall break",
+      " It's being framed as the whole family of five flexing together in one beach shot",
+      " Wholesome family flex or a little too much pressure on the kids to look ripped on Instagram? Page Six (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/22/celebrity-news/jessie-james-decker-and-erics-kids-flaunt-matching-abs-in-beach-photos/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Gigi Hadid Defends Elsa Hosk Against Victoria's Secret Show Criticism - Yahoo",
+    "angle": "Supermodel solidarity alert: Gigi Hadid publicly torched critics dragging Elsa Hosk's runway walk, and the internet's already picking sides \u2014 easy pop-culture catnip for a quick trending hit.",
+    "bullets": [
+      " Elsa Hosk caught heat online for her walk in the latest Victoria's Secret fashion show.",
+      " Hosk is a VS veteran \u2014 she walked in eight consecutive shows from 2011, so this isn't her first runway rodeo.",
+      " Internet runway critics vs. actual supermodels \u2014 who's allowed to judge a walk? Eonline.com (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "https://www.eonline.com/news/1437357/gigi-hadid-defends-elsa-hosk-from-victorias-secret-walk-criticism?cmpid=sn-syndicate-aolfeed-us-",
+    "source": "",
+    "url": "",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Will Kylie Jenner\u2019s Victoria\u2019s Secret Moment Finally Turn JADE\u2019s \u2018Angel of My Dreams\u2019 Into a Viral Hit?",
+    "angle": "A song that's been quietly clawing its way up the charts for months might get its final push into viral territory thanks to a Victoria's Secret runway moment with Kylie Jenner attached to it - that's the kind of celebrity-plus-fashion-plus-music collision that actually moves the needle.",
+    "bullets": [
+      " JADE's track 'Angel of My Dreams' is the song in question",
+      " Kylie Jenner had a moment tied to Victoria's Secret that's now fueling the buzz",
+      " Billboard is the one asking if this is the tipping point into full viral status",
+      " Does a celebrity cosign actually make a song blow up, or does the internet just pretend it does after the fact? X/Twitter @Billboard (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/billboard/status/2113495667691684279",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "What is PHP, and how did a flaw in its code lead several websites to go dark this week?",
+    "angle": "PHP quietly runs about 70% of the web, so when a security flaw forced sites offline this week it felt like the internet was glitching out \u2014 but experts say it's actually proof the system for catching and fixing these bugs works.",
+    "bullets": [
+      " PHP is an open-source coding language that powers roughly 70% of the internet",
+      " Multiple websites went dark this week after a flaw was found in PHP's code",
+      " Sites were taken offline on purpose \u2014 to patch the vulnerability, not because of an attack",
+      " Cybersecurity experts say the shutdown shows the bug-fixing system is working as intended",
+      " Did either of you even notice sites going down this week, or did the internet just quietly glitch around you?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/business/php-cybersecurity-vulnerability-explainer-9.7392394?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Cambridge study finds UK GCSE science courses name 86 scientists and only one is a woman (Rosalind Franklin, in just one exam board). At A-level it's 3 out of 181. Researchers say this could help explain why so many girls drop physics and maths at 16, and suggest adding Marie Curie and Lise Meitner.",
+    "angle": "A Cambridge study found UK science exams name 86 scientists and only ONE is a woman \u2014 Rosalind Franklin, and only on one exam board. Researchers think this textbook gap is part of why girls are bailing on physics and math by 16, which is a conversation that hits anyone who's sat through a science class or raised a kid in one.",
+    "bullets": [
+      " Cambridge researchers found 86 scientists named across UK GCSE science courses \u2014 only 1 is a woman",
+      " That one woman, Rosalind Franklin, appears on just one exam board's curriculum",
+      " At A-level, the ratio is 3 women out of 181 scientists named",
+      " Researchers are pushing to add Marie Curie and Lise Meitner to the curriculum",
+      " Did you ever notice growing up that science class was basically a sausage fest of dead white guys \u2014 and does that actually change what career you picture for yourself?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.cam.ac.uk/news/women-scientists-almost-entirely-omitted-from-exam-boards-compulsory-learning-material-for-uk",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Millions take fish oil for brain health. A two-year study found no benefit - Science Daily",
+    "angle": "Millions of people pop a fish oil pill every morning convinced it's protecting their memory - a two-year clinical trial just found zero brain benefit, which is the kind of myth-busting health news that makes everyone immediately check their own supplement shelf.",
+    "bullets": [
+      " This was a real two-year clinical trial, not just a survey or observational study",
+      " Despite that delivery, there was no improvement in memory and no protection against Alzheimer's-related brain shrinkage",
+      " Researchers suspect getting the nutrients through food rather than a pill may be what actually matters",
+      " Raise your hand if you're taking a supplement right now just because it 'seems smart' - we want to hear what's in your cabinet. Science Daily (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Dating at Costco? Wholesaler attracts shoppers seeking social interactions",
+    "angle": "Apparently the big box warehouse has quietly become a pickup spot, with shoppers saying they go as much for the free samples as the social scene. It's a weirdly relatable, totally shareable trend that gets listeners debating where they've had their own random real-world meet-cutes.",
+    "bullets": [
+      " Where's the most random place YOU almost (or actually) met someone - Costco counts now, apparently. ON-AIR BIT BREAKDOWN - Step 1: Best Costco Pickup Line - 60-second live bit -> Each host has to invent a cheesy pickup line using only Costco products or aisle names, loser buys the rotisserie chicken. - Step 2: Phone Lines Open - Caller segment -> Ask listeners to call in with the most unexpected place they've met a date - samples section, parking lot, checkout line, etc."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nbcnews.com/video/dating-at-costco-wholesaler-attracts-shoppers-seeking-social-interactions-271929413649",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "New Mexico hit its 2030 renewable energy target six years early, reaching 50% renewable electricity in 2024. Its largest utility generated 80% carbon free power in 2025, as the state expands wind, solar and battery storage.",
+    "angle": "This is the good-news-you-don't-expect story: a whole state hitting a climate target six years ahead of schedule, with its biggest utility now running on mostly clean power. It's a feel-good stat with a real \"wait, that's actually happening?\" factor to close the show on.",
+    "bullets": [
+      " New Mexico hit its 2030 renewable energy target six years early.",
+      " Its largest utility generated 80% carbon-free power in 2025.",
+      " A whole state beat its own climate goal by six years \u2014 that's the kind of stat worth ending the show on."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.canarymedia.com/articles/clean-energy/new-mexico-transition-ahead-of-schedule",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Husband accused of taping his wife to a chair in the basement so he could watch football in peace",
+    "angle": "This is peak r/nottheonion material \u2014 a husband accused of literally taping his wife to a chair in the basement just to get some uninterrupted game time. It's the kind of so-absurd-it-has-to-be-real story that's perfect for a quick laugh-and-react kicker.",
+    "bullets": [
+      " Husband is accused of taping his wife to a chair in the basement",
+      " Alleged motive: he just wanted to watch football in peace",
+      " Story's been making the rounds on Reddit's r/nottheonion",
+      " Be honest \u2014 how many interrupted football Sundays would it take before duct tape starts sounding reasonable to YOU?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.the-independent.com/news/world/americas/crime/husband-football-wife-basement-virginia-b3071875.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "A novel mRNA cancer vaccine helps reduce the chances of melanoma patients' tumors returning",
+    "angle": "An mRNA vaccine - built on the same tech behind the COVID shots - is showing real promise at keeping melanoma from coming back after treatment. It's the kind of genuine medical good-news story that makes for a feel-good way to close the show.",
+    "bullets": [
+      " mRNA tech went from 'the COVID vaccine' to 'maybe the future of beating cancer' in record time - that's worth a quick wow on air."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/moderna-cancer-vaccine-melanoma-mrna-intismeran-415ececd79c9411498751246742aafa2",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Channel 4 to recreate Nazi conditions for disabled people in new TV experiment",
+    "angle": "A UK broadcaster is reportedly staging a TV experiment that recreates how disabled people were treated under the Nazis - the kind of premise that sounds like satire but apparently isn't, and it's the perfect r/nottheonion gut-check to close the show on.",
+    "bullets": [
+      " Channel 4 (UK) is the network behind the project",
+      " It's being framed as a TV experiment, not a straight documentary",
+      " Bold TV experiment meant to teach a hard history lesson, or exploitation dressed up as education - where do you land?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.the-independent.com/arts-entertainment/tv/news/channel-4-nazi-the-experiment-b3070016.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Florida officer found dead man, impersonated him for years and renovated his home, police say",
+    "angle": "This is the kind of true-crime-meets-stranger-than-fiction story that stops scrolling thumbs cold - a police officer allegedly stumbles on a dead man and instead of reporting it, steals his whole identity and even renovates his house. It's got betrayal of badge trust plus pure soap-opera weirdness, which is exactly what makes it a watercooler story beyond just Florida.",
+    "bullets": [
+      " A Florida police officer is accused of finding a man dead in his home - and not reporting it",
+      " Instead, the officer allegedly impersonated the dead man for years, according to police",
+      " During that time, the officer reportedly renovated the deceased man's home while posing as him",
+      " You find a dead body - what's the one thing you'd NEVER do next? Because this guy apparently did it."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.nbcnews.com/news/us-news/officer-impersonates-dead-florida-man-moved-into-home-rcna604844",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "A new study found that conversational AI chatbots can worsen psychotic symptoms in a small fraction of mental health patients by validating their delusions, with individuals experiencing their first episode of psychosis being the most vulnerable.",
+    "angle": "Millions are using AI chatbots as a sounding board or even a makeshift therapist, so a study saying they can feed delusions instead of catching them is a real gut-check moment for anyone leaning on ChatGPT at 2am.",
+    "bullets": [
+      " New research finds chatbots can worsen psychotic symptoms in a small subset of users",
+      " People having their first episode of psychosis are flagged as the most vulnerable group",
+      " Researchers are raising it as a mental health safety gap in how these tools are built",
+      " Have you ever had an AI chatbot tell you exactly what you wanted to hear instead of the truth?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.psypost.org/ai-psychosis-appears-rare-but-real-and-first-episode-patients-may-be-most-vulnerable-study-suggests/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Elizabeth Holmes whistleblower and investigator react to 'You Can See Everything'",
+    "angle": "Elizabeth Holmes and Theranos never stop being a pop-culture obsession, and now the actual people who blew the lid off the scandal are weighing in on how a new project, 'You Can See Everything,' handles their story - that's instant credibility (or instant takedown) material.",
+    "bullets": [
+      " Are we still fascinated by Elizabeth Holmes because of the fraud, or because Hollywood won't let her story go?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sfgate.com/sf-culture/article/elizabeth-holmes-documentary-reactions-22489308.php",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-23",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "How Lindsay Clancy and 'social contagion' could be fueling horrifying killer-mom cases https://t.co/hKOdBNfmTj https://t.co/LqfqyTkldJ",
+    "angle": "The Lindsay Clancy case is back in the conversation, but this time it's not just about her \u2014 it's about whether heavy media coverage of moms who kill their kids is actually inspiring more of it. That 'social contagion' angle is the kind of uncomfortable, bigger-picture question that gets people talking.",
+    "bullets": [
+      " Story centers on Lindsay Clancy, the Massachusetts mom convicted in the deaths of her three children.",
+      " NY Post is tying it to a broader, troubling pattern of recent maternal filicide cases making headlines."
+    ],
+    "debate": "The real debate: does nonstop true-crime coverage inform the public, or does it hand troubled people a blueprint?",
+    "source": "",
+    "url": "https://x.com/nypost/status/2113587934674755784",
+    "score": "",
+    "is_backup": false
+  },
+  {
     "date": "2026-10-22",
     "slot": "pm",
     "category": "THE LIST",
