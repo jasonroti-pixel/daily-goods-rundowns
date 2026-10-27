@@ -1,6 +1,716 @@
 [
   {
     "date": "2026-10-26",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Flock Didn\u2019t Reply to a City\u2019s Cancellation\u2014So Its Police Chief Unplugged the Cameras",
+    "angle": "This is a David-vs-Goliath privacy story: a city tried to cancel its contract with a surveillance camera company, got stonewalled, and the police chief literally unplugged the cameras himself. It taps into a nationwide nerve about corporate surveillance creep and who's actually in control of the cameras watching your streets.",
+    "bullets": [
+      " Flock Safety \u2014 the company behind a nationwide network of license-plate-reading cameras \u2014 is at the center of the dispute.",
+      " A city moved to cancel its contract with Flock and reportedly got no response back.",
+      " Rather than wait around, the local police chief took matters into his own hands and physically shut the cameras off.",
+      " Does this make you trust your local police more \u2014 or make you wonder how many cameras are already watching you with zero oversight?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.yahoo.com/news/us/articles/flock-didn-t-reply-city-184553749.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Morocco is turning Atlantic wind into fresh water for its arid south: a 60 MW wind farm near Dakhla is set to power a desalination plant producing 100 million litres a day for drinking water and irrigation across 5,000 hectares of farmland.",
+    "angle": "It's a wild real-world fix for a problem everyone worries about \u2014 not enough fresh water \u2014 using wind turbines to basically squeeze drinkable water out of the ocean at a massive scale.",
+    "bullets": [
+      " A 60 MW wind farm near Dakhla, Morocco is set to power a desalination plant",
+      " That water is earmarked for drinking water and irrigation",
+      " It's meant to supply farmland across 5,000 hectares in Morocco's arid south",
+      " Could a wind-to-water setup like this actually help drought zones here in North America, like the Southwest?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ecoticias.com/en/a-60-megawatt-wind-farm-is-already-running-near-dakhla-and-morocco-has-offered-35-more-farm-proj",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "An Arizona man\u2019s cruise abruptly ended when they discovered pills bearing the Tesla logo in his luggage",
+    "angle": "An Arizona man never even made it onto the boat \u2014 police allegedly found a stash of drugs, including pills stamped with the Tesla logo, in his luggage. It's got everyone's attention for the sheer absurdity of criminals branding their product like a tech company.",
+    "bullets": [
+      " An Arizona man was set to cruise from Miami to the Bahamas",
+      " His trip ended Tuesday, before he could even board the ship",
+      " Police say they found a stash of drugs in his luggage",
+      " Some of the pills were stamped with the Tesla logo",
+      " Why would a drug dealer stamp pills with a car company's logo \u2014 marketing genius or just plain dumb?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nbcmiami.com/news/local/doctor-found-with-tesla-logo-pills-while-boarding-cruise-at-portmiami-report/3875889/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+    "angle": "This isn't just a tech story \u2014 it's a corporate-ethics flashpoint where a company's own workforce is publicly revolting against who their product might end up serving, and it taps straight into the national immigration enforcement debate.",
+    "bullets": [
+      " Hundreds of Boston Dynamics employees are reportedly protesting a plan to sell the company's robot dogs to ICE.",
+      " It puts Boston Dynamics in an awkward spot \u2014 caught between a potential deal and a very vocal internal revolt.",
+      " Should tech employees get a say in who their company sells to \u2014 or is a sale just a sale?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Meta stock sinks nearly 7% as AI spend pushes free cash flow negative",
+    "angle": "This isn't just a bad trading day \u2014 it's the market saying out loud what everyone's been whispering: is Big Tech spending itself broke chasing AI? When a company Meta's size sees cash flow go negative, that's a story about whether the whole AI boom can actually pay for itself.",
+    "bullets": [
+      " Meta shares sank nearly 7% in a single move",
+      " It's the latest sign investors are getting nervous about how much Big Tech is betting on AI before it's proven to pay off",
+      " Is this the moment the AI spending spree starts looking like a bubble, or is Meta just playing the long game investors need to trust?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "'It's offensively cheap': How solar power is quietly becoming bigger than nuclear",
+    "angle": "Solar is getting so cheap, so fast, that it's sneaking past nuclear as a power source while nobody's hosting a press conference about it \u2014 a legit 'wait, really?' energy story that touches climate, bills, and the future grid.",
+    "bullets": [
+      " Solar is described as quietly becoming bigger than nuclear as a power source.",
+      " It's flagged as a trending r/futurology conversation \u2014 people are clearly surprised by how fast this shift happened.",
+      " If solar's this cheap, why does your power bill still feel like a hostage negotiation?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Finneas shares a message: \u201cLula didn\u2019t just beat Bolsonaro: He beat Trump, Netanyahu/Israel, Meta interference, algorithms, the right-wing wave taking Latin America, and the elite billionaire class... If Brasil just did it, America can too.\u201d",
+    "angle": "A famous musician wading into geopolitics always gets attention, and this take links Brazil's election straight to Trump, Netanyahu, and Big Tech algorithms - that's a guaranteed hot-button for a celebrity gossip crowd that wandered into politics.",
+    "bullets": [
+      " Finneas - Grammy-winning producer and Billie Eilish's brother - posted that Lula \"didn't just beat Bolsonaro\"",
+      " He claims Lula also beat \"Trump, Netanyahu/Israel, Meta interference, algorithms\"",
+      " His closing line: \"If Brasil just did it, America can too\"",
+      " Does a celebrity's political pep talk actually change anyone's mind, or is it just preaching to the choir?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/gbhv8rrxcrxh1.jpeg",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "This 3-year-old scored 10 goals. Then police showed up at his soccer game",
+    "angle": "A 3-year-old in Florida was so dominant on the soccer field that police showed up \u2014 not for the kid, but for a grown adult losing it on the sideline. It's a perfect, ridiculous flashpoint on youth-sports parents behaving badly.",
+    "bullets": [
+      " Police in Florida confirmed to CBC News they responded to the game this past weekend",
+      " His own parents say officers showed up simply because their son was dominating the ball",
+      " Is it the kid who's too good, or the parents who are too much \u2014 callers, which one's really the problem in youth sports?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/florida-police-soccer-game-kid-9.7396158?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump administration tries to prosecute former FBI director James Comey for 3rd time",
+    "angle": "This isn't just legal inside-baseball \u2014 it's the latest round in Trump's very public feud with the guy who ran the FBI, and the \"third time\" angle practically writes the headline itself.",
+    "bullets": [
+      " James Comey, the former FBI director, is now facing a third criminal case from the Trump administration.",
+      " This round accuses him of sharing sensitive national security information.",
+      " Third strike or political payback on repeat \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/james-comey-trump-administraion-prosecuting-9.7396837?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Freddy Peralta\u2019s stellar Rays postseason comes to crashing halt in World Series Game 3",
+    "angle": "This is the World Series, so every twist gets amplified \u2014 a pitcher who'd been the surprise story of the postseason suddenly got rocked on the biggest stage, and that kind of swing changes the whole series narrative overnight.",
+    "bullets": [
+      " Freddy Peralta had been riding a surprise turnaround through the postseason heading into Game 3",
+      " His start fell apart in Tampa Bay's Game 3 loss in the World Series",
+      " Was this the start that swings the whole World Series?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/26/sports/freddy-peralta-falls-off-hard-for-rays-in-world-series-game-3/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "California\u2019s top professors reveal how AI has revolutionized classes, massive pitfalls: \u2018Shoving it down our throats\u2019",
+    "angle": "AI cheating has gotten so bad that top professors are ripping laptops and phones out of exams entirely \u2014 this is the generation-gap debate everyone with a student in their life is already having at home.",
+    "bullets": [
+      " Some professors are banning laptops and phones during exams entirely",
+      " Other professors are going the opposite direction, building their own chatbots to help students learn",
+      " One professor says the tech is being \"shoved down our throats\"",
+      " Should schools ban AI like a cheat sheet, or teach kids to use it like a calculator?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/26/us-news/top-california-professors-expose-pitfalls-of-campus-ai-push/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Toronto driver not sure where to park after city removes bike lanes",
+    "angle": "Toronto's bike lane removals have been a running political fight, and now it's hitting drivers in a very literal way - fewer lanes means fewer places to leave the car, which is the kind of everyday annoyance that gets everyone venting.",
+    "bullets": [
+      " Toronto has been removing stretches of bike lanes on major streets as part of a provincially-pushed rollback.",
+      " Drivers are reportedly confused about where parking actually stands now that the lanes - and the curb space tied to them - are changing.",
+      " Does ripping out bike lanes actually free up parking, or does it just move the chaos around?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thebeaverton.com/2026/10/toronto-driver-not-sure-where-to-park-after-city-removes-bike-lanes/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Kinew calls on PM Carney to abolish Indian Act at meeting with chiefs",
+    "angle": "Manitoba's Premier Wab Kinew \u2014 the first First Nations premier of a Canadian province \u2014 is putting the PM on the spot in front of chiefs, pushing a decades-old demand that most politicians talk around but rarely act on.",
+    "bullets": [
+      " Wab Kinew, Manitoba's Premier, raised the call directly with PM Mark Carney",
+      " It happened at a meeting that included First Nations chiefs",
+      " Calls to repeal or replace it have come up before but never gone all the way through",
+      " Is this the moment real change happens, or just another photo-op promise politicians forget by next year?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/politics/article/kinew-tells-carney-to-abolish-the-indian-act-at-meeting-with-chiefs/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "PM Carney says it\u2019s time to move beyond Indian Act",
+    "angle": "The PM is putting one of Canada's oldest, most controversial laws on notice \u2014 any talk of replacing legislation that's governed Indigenous status and band life for nearly 150 years is guaranteed to spark a real policy debate.",
+    "bullets": [
+      " PM Mark Carney says it's time for Canada to \"move beyond\" the Indian Act",
+      " Replacing or overhauling it has been floated by past governments for decades without resolution",
+      " Is this a genuine step toward reconciliation, or just another PM talking big on a law nobody's actually replaced?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/politics/article/pm-carney-says-its-time-to-move-beyond-indian-act/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Toronto re-elects Olivia Chow as mayor, beating out challenger Brad Bradford",
+    "angle": "Canada's biggest city just had a mayoral do-over, and voters decided not to switch horses - Olivia Chow fended off a real challenge from Brad Bradford to keep her job, which says something about where Toronto's head is at right now.",
+    "bullets": [
+      " Olivia Chow wins re-election as Mayor of Toronto",
+      " Her top challenger was Brad Bradford, who came up short",
+      " Toronto is Canada's largest city - so this race carries weight beyond city hall",
+      " Would you re-elect your mayor today, or is it time for a clean break?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/toronto/livestory/2026-election-toronto-brampton-mississauga-durham-9.7396652?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Keanin Loomis declares victory in Hamilton mayoral race, with Horwath trailing in 3rd",
+    "angle": "Keanin Loomis is calling it \u2014 he's Hamilton's next mayor. The real jaw-dropper is that Andrea Horwath, the city's current mayor and a former Ontario NDP leader, didn't even crack the top two.",
+    "bullets": [
+      " Keanin Loomis has declared victory in Hamilton's mayoral race",
+      " Andrea Horwath \u2014 the sitting mayor and former Ontario NDP leader \u2014 finished in 3rd place",
+      " A sitting mayor getting knocked to third \u2014 is that a message to every incumbent watching?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/hamilton/livestory/hamilton-niagara-ontario-election-9.7396668?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "First Nations-first ministers' meeting brings funding announcements and mixed reviews",
+    "angle": "A first ministers' meeting focused on First Nations issues just wrapped with new funding commitments, but the reaction split right down the middle \u2014 some leaders calling it real progress, others saying it barely scratches the surface.",
+    "bullets": [
+      " Meeting brought together First Nations leaders and government officials specifically to address funding and priorities",
+      " New funding announcements came out of the sit-down",
+      " Reaction has been described as \"mixed\" \u2014 praise from some, skepticism from others",
+      " Is another round of funding announcements real progress, or just a photo-op until the next meeting?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/indigenous/first-nations-first-ministers-outcome-9.7396077?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "James Moore: David Eby treated B.C. voters like fools, and paid the price",
+    "angle": "A sharp opinion piece is accusing B.C. Premier David Eby of underestimating his own electorate - and arguing the backlash is already here. It's a classic political-trust story that plays everywhere, not just in B.C.",
+    "bullets": [
+      " Columnist James Moore argues Premier David Eby treated B.C. voters \"like fools\"",
+      " Do politicians who get caught spinning the truth ever actually bounce back with voters? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "VZmZVY2aXhySUQyQ1J6Tk9XTzlGQXFVZGtuYWQ2c3BDV1o0cVRNOUlpWGE1ajgwdkxB?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTERRU1RGM2plZ1NGQ29zWTRid3VhODJqS2E0ZXRJTzhsZW81RTVE",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "PM Carney says \u2018U.S. is coming closer to our position\u2019 as trade talks gain momentum",
+    "angle": "This is the first real sign of daylight in the Canada-U.S. trade standoff that's been hitting everything from groceries to jobs - if the PM's right, it could mean tariff relief is actually close.",
+    "bullets": [
+      " PM Mark Carney says \"the U.S. is coming closer to our position\" on trade",
+      " Comes as trade talks between Canada and the U.S. appear to be gaining momentum",
+      " No deal signed yet - this is Carney reading the room, not announcing an agreement",
+      " Do you actually believe this, or is it just another \"we're close\" line we've heard a dozen times before? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "02Zk9wR3ZLNjRfRXdDYWFMRnJ3?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLW9vYTlQLWN4T19ZRlFWME11WmVubENyZ0M4V1VnekVRSWdfM1Q",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Donna Mills, 85, draws the line at unexpected OnlyFans request: \u2018I\u2019m not going to\u2019 - Fox News",
+    "angle": "Donna Mills \u2014 yes, 'Knots Landing' Donna Mills \u2014 has an OnlyFans at 85, and she just drew a hard line on what she'll film for subscribers. It's the kind of 'wait, WHAT' celebrity moment that writes its own segment.",
+    "bullets": [
+      " Donna Mills, 85, starred on the classic primetime soap 'Knots Landing'",
+      " She revealed the reveal on ABC's 'Nightline' this past Friday",
+      " She's active on OnlyFans and fields requests from subscribers",
+      " Her response to the unexpected ask: 'I'm not going to'",
+      " An 85-year-old soap legend on OnlyFans \u2014 is this empowering or just wild to think about? Fox News (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.foxnews.com/entertainment/donna-mills-85-draws-line-unexpected-onlyfans-request-im-not-going",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Robert Pattinson says he's \"so happy\" Steven Soderbergh will complete filming on The Batman 2: \"To have someone who's as talented as Steven doing it is great\"",
+    "angle": "A directing shake-up on one of the biggest franchise sequels going is the kind of insider drama fans eat up, and Pattinson himself vouching for the swap only fuels the chatter.",
+    "bullets": [
+      " Robert Pattinson says he's \"so happy\" that Steven Soderbergh is stepping in to complete filming on The Batman 2",
+      " Pattinson's exact quote: \"To have someone who's as talented as Steven doing it is great\"",
+      " Soderbergh taking over finishing duties on a tentpole superhero sequel is a notable behind-the-scenes twist for the franchise",
+      " Would you trust a different big-name director finishing out your favorite franchise's next movie, or does that make you nervous?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.gamesradar.com/entertainment/dc-movies/the-batman-2-robert-pattinson-steven-soderbergh/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Republican leader embarrassed by Ali G film says he plans to sue Sacha Baron Cohen: \u2018A liar and a pervert\u2019",
+    "angle": "Sacha Baron Cohen's prank legacy strikes again \u2014 a Republican official got caught looking foolish on camera and is now threatening legal action, which is basically free promo for whatever Cohen's cooking up.",
+    "bullets": [
+      " A Republican leader says he was embarrassed by an Ali G-style film appearance.",
+      " He's now threatening to sue Sacha Baron Cohen over it.",
+      " His quote on Cohen: \"a liar and a pervert.\"",
+      " Do politicians ever learn not to sit down with a camera crew they don't fully vet?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/film/2026/oct/22/republican-leader-embarrassed-by-ali-g-film-says-he-plans-to-sue-sacha-baron-cohen-",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Good morning to Brazilian reporter Manuela Borges, who\u2019s been waiting eleven years for this petty moment",
+    "angle": "A Brazilian entertainment reporter just got a long-overdue moment of vindication, and the internet is eating up the sheer patience of an 11-year grudge finally paying off \u2014 it's the kind of delicious, slow-burn pettiness that always gets people talking.",
+    "bullets": [
+      " She reportedly waited 11 years for this specific moment.",
+      " It's being framed online as a 'petty' win, trending in the r/fauxmoi community.",
+      " Call in: what's the longest you've ever waited to get your own 'petty' moment of satisfaction?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/hvmfwfbc1txh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "NYC Mayor Zohran Mamdani got a nice big smooch from Pickles the seal during his visit to the New York Aquarium in honor of a $2 million investment to renovate the Sea Cliffs exhibit, which is home to rescue sea otters, sea lions, harbor seals, and penguins.",
+    "angle": "A sitting big-city mayor getting kissed by a seal is exactly the kind of wholesome, shareable photo-op that cuts through a heavy news cycle - it's trending because it's just plain delightful and screams great b-roll.",
+    "bullets": [
+      " NYC Mayor Zohran Mamdani stopped by the New York Aquarium and got a smooch from a seal named Pickles",
+      " Sea Cliffs is home to rescue sea otters, sea lions, harbor seals, and penguins",
+      " Best celebrity-meets-animal photo-op you've seen from a politician - better or worse than kissing a baby?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/msw9cn42fwxh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Camille Grammer blasts ex Kelsey Grammer for forgetting their daughter\u2019s birthday",
+    "angle": "A 'Real Housewives' alum publicly roasting her Frasier-famous ex for forgetting their daughter's birthday is pure celebrity-feud gold \u2014 petty, personal, and tailor-made for a social pile-on.",
+    "bullets": [
+      " Camille Grammer, of 'Real Housewives of Beverly Hills', called out ex-husband Kelsey Grammer online.",
+      " She topped it off by slapping a clown emoji right over his face.",
+      " Is dragging your ex online for a parenting slip-up fair game, or should co-parent beef stay off the timeline?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/26/parents/camille-grammer-blasts-kelsey-grammer-for-forgetting-daughters-birthday/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Zendaya shows out for hometown Valkyries during WNBA Finals",
+    "angle": "Zendaya's hometown pride tour continues \u2014 first her nephew's football game, now front row for the WNBA Finals. It's a fun excuse to talk about the WNBA's star-powered moment and which celebs actually show up for their city.",
+    "bullets": [
+      " Zendaya was courtside at Ballhalla for Game 5 of the WNBA Finals between the Valkyries and the Dream.",
+      " Just days earlier, she watched her nephew's football game at Folsom.",
+      " She's fully in her Bay Area hometown era this season, bouncing between local sports.",
+      " Which celebrity have you spotted going full superfan for their hometown team?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/26/sports/zendaya-shows-out-for-hometown-valkyries-during-wnba-finals/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Meghan Markle Is Heading Back to TV with Special Guest Role on Junior MasterChef Australia - People.com",
+    "angle": "Meghan Markle rarely does traditional TV guest spots these days, so a pop-up appearance on a kids' cooking competition is an unexpected and very shareable pairing worth a quick reaction from the hosts.",
+    "bullets": [
+      " Meghan Markle is set for a special guest role on Junior MasterChef Australia",
+      " Reported by People.com, marking another on-camera appearance for the Duchess of Sussex",
+      " Is a Junior MasterChef cameo a smart lifestyle-brand move for Meghan, or a bit of a reach? People (via Google News) (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "kZjTzBhYmVYSElNTzc3SWhfcE5XQnRpWVM2SUhCMVFXeTR3R255UENtLXQ0M3Jma2c?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYXdoSUc0d1NNSm55QnFwXzlIZzlBVi1XVkZ6Z2t4TGR4amFzdHc0VWRr",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Drew Barrymore and Kristen Bell Remove Makeup, Hair Extensions for Candid TV Interview - People.com",
+    "angle": "Two A-list actresses pulling off makeup and hair extensions on live TV taps right into the \"celebs getting real\" moment audiences can't stop watching \u2014 it's an easy way to talk aging, beauty standards, and Hollywood pressure without getting heavy.",
+    "bullets": [
+      " Drew Barrymore and Kristen Bell both removed their makeup *and* hair extensions during a candid sit-down interview.",
+      " Would you ever ditch the glam on live TV \u2014 call in and tell us if you could pull it off. People (via Google News) (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "BjRzY4R1F5dFpTc3ppVUMybVBEZHFqZ1VYX2MtWUw4MzN4aE1PejBaekhlUkY?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkp0MHBsVmhSNURyU0dfOFFBQV9xd3pyaVdzd2RST2lOWTRfeHdXdF",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018Ghosts: The Possession of Button House\u2019 Scares Up U.K., Ireland Box Office Win",
+    "angle": "A big-screen spinoff of the beloved BBC sitcom just outdrew a Warner Bros. DC horror movie at the UK/Ireland box office - proof that cozy horror-comedy can still beat comic-book muscle on opening weekend.",
+    "bullets": [
+      " Warner Bros.' DC horror thriller Clayface opened in second place with $2.6 million",
+      " Amazon MGM's Ali G: Who Iz I? rounded out the top three",
+      " A cozy sitcom spinoff just out-earned a DC comic-book movie - is horror-comedy the smarter box office bet right now than big-studio horror brands? variety.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/box-office/ghosts-the-possession-of-button-house-uk-ireland-box-office-1236931821/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "How this Brooklyn bar owner had Conan O'Brien in stitches on SubwayTakes",
+    "angle": "A random subway seat turned into viral gold when a Brooklyn bar owner matched wits with Conan O'Brien on his hit internet show \u2014 this is the kind of pure, unscripted comedy chemistry that blows up online because nobody saw it coming.",
+    "bullets": [
+      " Debbie Shields, a Brooklyn bar owner, sat down next to Conan O'Brien on the NYC subway for his show SubwayTakes",
+      " Shields says she's always the one cracking people up \u2014 but even she called this moment \"surreal\"",
+      " Ever had a total stranger turn into your comedy partner for sixty seconds flat?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.cbc.ca/radio/asithappens/nyc-bartender-conan-obrien-subwaytakes-viral-improv-9.7393860?cmp=rss",
+    "score": "86/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Lula Vows to Regulate Social Media Giants",
+    "angle": "Brazil's Lula is vowing to crack down on social media giants \u2014 and it taps right into the same fight North Americans are having over who should police what shows up in your feed.",
+    "bullets": [
+      " Should governments be the ones deciding what social media companies can and can't do \u2014 or is that a door you don't want opened?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.riotimesonline.com/lula-victory-speech-social-media-regulation-2026/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Autistic brains react less to being told \"you're wrong,\" new study finds. People with autism showed weaker brain responses to negative feedback, and unlike others, their reactions didn't change with task difficulty, which may help explain why adapting to change feels harder.",
+    "angle": "This is one of those science stories that reframes behavior people see every day \u2014 it gives a neurological reason why some autistic folks seem unbothered by correction, and why sudden change can hit so much harder.",
+    "bullets": [
+      " New study finds autistic brains show a noticeably weaker response when told \"you're wrong\"",
+      " In people without autism, that brain reaction changes based on how hard the task is \u2014 in autistic brains, it didn't shift at all",
+      " Researchers say that flat response may help explain why adapting to change feels especially tough for autistic people",
+      " Does this explain someone in your life who shrugs off being corrected but struggles when plans suddenly change?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.eurekalert.org/news-releases/1148010",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A regular customer at a Georgia gas station befriended its pregnant cashier and offered to adopt her baby after learning she couldn\u2019t raise him. Now Nolan\u2019s birth mother remains part of his life, and the two women have grown so close they\u2019re like sisters.",
+    "angle": "A chance friendship at a Georgia gas station turned into an open adoption \u2014 and instead of fading out, the birth mom stayed in the picture. It's the kind of modern, messy-in-a-good-way family story that makes for an easy, feel-good chat segment.",
+    "bullets": [
+      " A regular customer at a Georgia gas station befriended the store's pregnant cashier.",
+      " When she learned the cashier couldn't raise the baby, the customer offered to adopt him.",
+      " Call in: have you ever had a random, everyday connection turn into real family?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.yahoo.com/lifestyle/articles/georgia-mom-adopts-gas-station-135010059.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A simple liquid can stop cavities without drilling | Scientists have confirmed that silver diamine fluoride, an inexpensive liquid can stop tooth decay in seconds without drilling or anesthesia, potentially transforming cavity treatment for millions.",
+    "angle": "Everyone's got a cavity horror story, so a cheap liquid that kills decay in seconds with zero drilling and zero needles is exactly the kind of \"wait, really?\" health news that gets instant phone-line reaction.",
+    "bullets": [
+      " Silver diamine fluoride can stop tooth decay in just seconds - no drilling, no anesthesia.",
+      " It's a simple, inexpensive liquid, not a high-tech procedure.",
+      " Scientists say it could transform cavity treatment for millions of people.",
+      " If this liquid skips the drill entirely, who in your life finally books a dentist appointment?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.umich.edu/drill-free-cavity-care-one-minute-one-tiny-brush-one-pivotal-trial/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Paid parental leave is now required for eligible workers in Allegheny County, the first US county to mandate 12 weeks after a campaign led by nurses.",
+    "angle": "Allegheny County just became the first in the entire country to legally require paid parental leave \u2014 and it happened because nurses pushed for it. It's the kind of local win that could become a national blueprint, which is exactly why it's worth closing the show on.",
+    "bullets": [
+      " Allegheny County, PA is now the first county in the US to mandate paid parental leave for eligible workers",
+      " It's being framed as a potential model other counties and states could copy",
+      " Twelve weeks, one county \u2014 should this go nationwide, or is it still not enough?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://19thnews.org/2026/10/paid-parental-leave-nurses-allegheny-county/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "We found a Mindo Harlequin Toad (declared extinct in 1989)",
+    "angle": "A species wiped off the map by disease almost 40 years ago was just found hopping around a cloud forest in Ecuador - and it's the kind of real-life fairy tale ending that makes for a perfect feel-good closer.",
+    "bullets": [
+      " Wildlife photographer Jay and his team found survivors hiding in a tiny patch of the Mindo cloud forest in the Ecuadorian Andes.",
+      " They also found tadpoles of the species - the first time anyone has ever photographed or documented that stage of its life cycle.",
+      " 6 tadpoles were taken to a breeding facility to start an ex-situ colony, basically an insurance policy so the species can't go extinct again.",
+      " What's your favorite 'thought it was gone forever' comeback story - species, band, restaurant, anything?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.khamai.bio/saving_mindo_toad.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "At an Ontario grocery checkout, a mom staying in a shelter with her toddler discovered her gift cards for another store wouldn\u2019t work. Cashier Ada Everingham paid their $150 bill, and they\u2019ve since secured a transitional townhouse where the little girl has her own bed.",
+    "angle": "A shelter mom's gift cards failed at the register and a cashier just... covered it \u2014 no cameras, no ask for credit. It's the kind of small, unscripted kindness that makes people want to go do something nice themselves today.",
+    "bullets": [
+      " Cashier Ada Everingham paid a stranger's $150 grocery bill on the spot",
+      " Call in: what's the kindest thing a total stranger has ever done for you at a checkout?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.auroratoday.ca/local-news/a-miracle-mom-overwhelmed-by-kindness-of-cashier-who-paid-for-her-groceries-12930554",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Montreal man on the run from authorities takes pet raccoon for rabies vaccination",
+    "angle": "A Montreal man wanted by police apparently risked getting caught just to make sure his pet raccoon stayed up to date on vaccines \u2014 it's the kind of too-weird-not-to-be-true local headline that's built for a quick laugh on air.",
+    "bullets": [
+      " A Montreal man currently on the run from authorities reportedly showed up in public anyway.",
+      " Would you risk getting caught just to keep your pet's shots up to date?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/montreal/article/montreal-man-on-the-run-from-authorities-takes-pet-raccoon-for-rabies-vaccination/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Liz Truss Says UK Could Have Launched \"Several\" Mars Missions By 2040 If She Had Stayed PM",
+    "angle": "The UK's shortest-serving PM, out after 49 chaotic days, is now claiming she'd have launched multiple Mars missions by 2040 \u2014 the kind of self-mythologizing claim that's pure comedy gold for a goodbye segment.",
+    "bullets": [
+      " Liz Truss - UK's shortest-serving Prime Minister, in office for just 49 days in 2022",
+      " Claims Britain could've launched \"several\" Mars missions by 2040 had she stayed in power",
+      " Story surfaced on r/nottheonion, a subreddit for real headlines that read like satire",
+      " What's the most delusional \"if I were still in charge\" claim you've ever heard from a fired boss or ex?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Microsoft offers voluntary buyouts to 60,000 employees",
+    "angle": "One of the biggest names in tech just put a number on the table - up to 60,000 employees could walk away with a buyout instead of a pink slip. It's a story everybody with a 9-to-5 can relate to: would you take the money and run?",
+    "bullets": [
+      " Microsoft is offering voluntary buyouts to as many as 60,000 employees",
+      " It's a buyout, not a layoff - workers get to choose whether to take the exit package",
+      " If your company offered you a fat check to walk away tomorrow, are you taking it or staying put?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html?__source=iosappshare%7Ccom.apple.UIKit.activity.CopyT",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+    "angle": "Anthropic, the company behind the Claude AI chatbot, is reportedly sounding the alarm on 'catastrophic risk' to humanity from AI - at the exact same time it's gearing up for a blockbuster share listing.",
+    "bullets": [
+      " Anthropic - the AI company behind Claude - is the one issuing the warning.",
+      " It's dropping right before a blockbuster share listing for the company.",
+      " If your own company says AI could be catastrophic for humanity, should you really be selling shares in it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-26",
     "slot": "am",
     "category": "THE LIST",
     "title": "Monica McNutt \u2018mystified\u2019 how Taylor Swift hot mic moment got leaked during NBA Finals",
