@@ -1,5 +1,703 @@
 [
   {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "U.S. Justice Dept. charges James Comey, ex-FBI director, for a third time",
+    "angle": "This is the latest round in the ongoing Trump-DOJ-vs-Comey saga, and the fact that prosecutors kept building this case in secret for weeks makes it feel like more than just political noise.",
+    "bullets": [
+      " James Comey, the former FBI Director, has now been charged by the Justice Department for a third time.",
+      " Comey is denying the allegations outright and says he's gearing up to fight the case.",
+      " Third charge against the same guy \u2014 accountability finally catching up, or does this start to look like a pattern? torontosun.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://torontosun.com/news/world/u-s-justice-dept-charges-james-comey-ex-fbi-director-for-a-third-time",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "NFL Week 7: A divisional duel in Detroit, and Aaron Rodgers keeps winning - NBC News",
+    "angle": "NFL Week 7 had everything: a Super Bowl contender shaking off the rust, a nail-biter divisional grudge match, and Aaron Rodgers somehow still finding ways to win - exactly the kind of weekend that fuels Monday morning sports talk.",
+    "bullets": [
+      " A legit Super Bowl contender got back on track after a rough patch",
+      " Detroit hosted a thrilling NFC North divisional showdown",
+      " Aaron Rodgers keeps winning, extending his surprising late-career streak",
+      " One of the NFL's most unexpectedly good teams pulled off another comeback",
+      " Is Aaron Rodgers quietly having his best 'written off too early' redemption run in years? NBC News (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.nbcnews.com/sports/nfl/nfl-week-7-detroit-lions-green-bay-packers-aaron-rodgers-rcna605618",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Lawmaker urges South Korea's president to play Call of Duty: Modern Warfare 4, citing North Korea threat",
+    "angle": "A sitting lawmaker is seriously suggesting the president game out a national security crisis via Modern Warfare 4 - it's the kind of real-politics-meets-absurd-pitch moment that writes its own punchline.",
+    "bullets": [
+      " A South Korean lawmaker is publicly urging the president to play Call of Duty: Modern Warfare 4",
+      " Story is making rounds on r/nottheonion - the subreddit for real news too weird to believe",
+      " Could gaming actually prep a leader for real crisis decisions, or is this just a lawmaker trying to go viral?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://mbiz.heraldcorp.com/article/10912196",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Police Are Increasingly Pulling People Over Because AI Deems Their Driving Patterns \u201cSuspicious\u201d",
+    "angle": "Police departments are leaning on AI systems to flag \"suspicious\" driving patterns and trigger traffic stops \u2014 which raises the classic sci-fi question of who's really making the call when you get pulled over, you or an algorithm.",
+    "bullets": [
+      " Story centers on police increasingly using AI to analyze driving behavior",
+      " Those flags are said to be triggering real traffic stops, not just internal alerts",
+      " Would you trust a computer to decide your driving looked \"suspicious\" enough to get pulled over?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "In China, the AI bubble has already burst",
+    "angle": "If the world's biggest AI spender is already watching the bubble pop, that's a huge red flag for every market - including ours - riding the same hype wave.",
+    "bullets": [
+      " If China's AI bubble already burst, are we next - or are we different this time?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn\u2019t Real / In comments at a private police conference, Garrett Langley also said his wife advised him to never apologize.",
+    "angle": "Flock's license-plate-reading cameras are now in thousands of police departments across the US and Canada, and privacy advocates have been sounding alarms for years \u2014 so leaked audio of the CEO privately telling cops the backlash is fake, plus his wife's 'never apologize' advice, is exactly the kind of corporate-arrogance tape that goes viral.",
+    "bullets": [
+      " He told the room the public backlash against his company \"isn't real\"",
+      " He also shared that his wife's advice to him was to never apologize",
+      " Would you trust a company whose own CEO privately brags that the backlash against it isn't real?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "B.C. Conservatives celebrate winning election by burning down old growth forest",
+    "angle": "A wild claim ripping through r/canada right now: that B.C. Conservative supporters celebrated an election win by setting fire to old growth forest \u2014 the kind of environmental-meets-political outrage that's built for a cross-border audience, verified or not.",
+    "bullets": [
+      " No official confirmation yet from the party, police, or B.C. wildfire officials \u2014 this is currently a viral claim, not a confirmed incident.",
+      " If this checks out, is torching old growth forest to celebrate a win the real scandal here \u2014 bigger than the election itself?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thebeaverton.com/2026/10/b-c-conservatives-celebrate-winning-election-by-burning-down-old-growth-forest/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Neil Young Rocks Trump With $10M Suit Over Using That \u2018Free World\u2019 Tune Again",
+    "angle": "Trump's campaign apparently cranked up 'Rockin' in the Free World' again, and Neil Young is done asking nicely \u2014 this time he's suing for $10 million, reigniting the classic rock-vs-politician fight.",
+    "bullets": [
+      " Neil Young is suing Donald Trump for $10 million over unauthorized use of his song.",
+      " Reports suggest this isn't the first time Young has clashed with Trump over using his music at events.",
+      " Should politicians be allowed to use ANY song at rallies without asking the artist first?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://deadline.com/2026/10/neil-young-sues-trump-copyright-1237205848/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Donald Trump Posts 1,300+ Word Sunday Night Diatribe About \u201cComplete And Total Loser\u201d Bill Maher, Nine Days After Praising Their \u201cGreat Dinner\u201d",
+    "angle": "Nine days after publicly gushing over a dinner with Bill Maher, Trump dropped a 1,300+ word rant branding him a \"complete and total loser\" \u2014 a whiplash reversal that's catnip for anyone who follows Trump's social media mood swings.",
+    "bullets": [
+      " Trump's post ran over 1,300 words \u2014 a full-blown essay, not a quick jab.",
+      " He called Bill Maher a \"complete and total loser\" in the post.",
+      " Just nine days earlier, Trump had praised their \"great dinner\" together.",
+      " Nine days from 'great dinner' to 'total loser' \u2014 what did Maher say to flip the switch that fast?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://deadline.com/2026/10/trump-bill-maher-loser-truth-social-post-1237172835/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Heckler at Trump's Mississippi rally: \u201cShove that ballroom up your fat ass!\u201d",
+    "angle": "A rally heckler went viral for cursing out Trump over his White House ballroom project, right as that renovation has already been a punching bag online for weeks. It's the kind of blunt, shareable soundbite that's made for a debate on who's actually in the right here.",
+    "bullets": [
+      " A heckler interrupted Trump's rally in Mississippi with a profanity-laced shoutout.",
+      " Clip's been making rounds on Reddit's r/fauxmoi, racking up reactions for how blunt it is.",
+      " Funny gut-punch or straight-up disrespectful \u2014 where do you land on heckling a sitting president?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/nzyg3jlhexxh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "N.S. woman refused to comply with phone scammer, so would-be fraudster swatted her house",
+    "angle": "Phone scams turning into actual armed police response at your front door is the next-level nightmare version of a story everyone's already paranoid about \u2014 this one's got teeth because it could happen to literally anyone's parents.",
+    "bullets": [
+      " A Truro-area, Nova Scotia woman says she's \"shaken and terrified\" after refusing to comply with a phone scammer.",
+      " Heavily armed officers from two different departments showed up at her home.",
+      " Call in: what's the scariest scam call you've ever gotten, and did you hang up or play along?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/swatting-incident-truro-area-fraud-scammer-9.7396654?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "THE LIST",
+    "title": "Netanyahu's political survival on the line as Israel votes",
+    "angle": "Israel heads to the polls with Netanyahu's career on the ballot \u2014 voters are judging his handling of October 7, the Gaza and Iran wars, and Israel's growing isolation on the world stage. It's a global story with real stakes for Middle East stability.",
+    "bullets": [
+      " Benjamin Netanyahu faces a election on Tuesday that could decide whether his political career survives.",
+      " Voters are weighing his leadership since the 2023 Hamas-led attacks.",
+      " Israel is facing deepening international isolation heading into the election.",
+      " Does a leader who took his country through war deserve another term, or is it time to turn the page?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/israel-election-9.7397565?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Asia Pays Top Dollar For Canadian Oil Amid Slump in US Prices",
+    "angle": "While American oil prices are sliding, buyers in Asia are reportedly paying a premium for Canadian crude \u2014 a sign Canada may be leaning less on the US as its go-to energy customer, which matters big-time given the ongoing trade tension noise.",
+    "bullets": [
+      " Asian buyers are reportedly paying top dollar for Canadian crude right now",
+      " That premium is showing up at the same time US oil prices are slumping",
+      " Signals Canada may have real leverage to sell elsewhere instead of depending on the US market",
+      " If Asia wants to pay more for our oil than the US does, why are we still so dependent on American buyers?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-26/asia-pays-top-dollar-for-canadian-oil-amid-slump-in-us-prices",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Why a spate of gun-for-hire shootings in Toronto were likely paid for by Iran",
+    "angle": "A string of targeted, gun-for-hire shootings in Toronto is reportedly being traced back to Iran \u2014 meaning a foreign government may be using local criminals as hired muscle on Canadian soil, which is a wild, unsettling wrinkle most people assume only happens in spy movies.",
+    "bullets": [
+      " A spate of shootings in Toronto is being investigated as gun-for-hire hits, not random violence.",
+      " Investigators reportedly believe the attacks were likely paid for by Iran.",
+      " If a foreign government is quietly paying criminals to pull triggers in our own cities, how alarmed should Canadians actually be?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/investigates/iran-gun-for-hire-shootings-9.7396038?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Olivia Chow races to victory as head of progressive new Toronto council",
+    "angle": "Toronto's mayor heads into this term with a council that actually leans her way for once \u2014 a rare alignment that could decide how fast real change moves in Canada's biggest city.",
+    "bullets": [
+      " Olivia Chow comes out of this race with a more progressive council backing her up, not fighting her.",
+      " It's being called a win for the left-leaning bloc at Toronto city hall, beyond just the mayor's chair.",
+      " Does a council that finally agrees with the mayor get more done, or just move faster in one direction?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/toronto/olivia-chow-progressive-council-toronto-mayor-second-term-9.7396703?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "PQ accuses Ottawa of muzzling Quebec during upcoming Canada-EU summit",
+    "angle": "A Canada-EU summit lands in Montreal and the feds won't let Quebec's own leader say a word on the mic - that's prime fuel for the usual Quebec-vs-Ottawa turf war.",
+    "bullets": [
+      " PQ leader Paul St-Pierre Plamondon is accusing the federal government of muzzling Quebec",
+      " Ottawa reportedly refused to let him speak at the summit despite it being on Quebec soil",
+      " If a big international summit sets up shop in your backyard, should your province get a seat at the table - or does Ottawa call the shots, period?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/montreal/quebec-premier-speech-canada-eu-summit-montreal-9.7397619?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "LIVE3 Digital Channel",
+    "angle": "A new digital channel from a major Canadian broadcaster is worth a quick mention for anyone tracking how fast live TV is moving online - but there's barely any detail to go on yet.",
+    "bullets": [
+      " Anyone even notice the shift to digital-first channels anymore, or is it background noise at this point? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "3RwbDdRbm4zakd1ZkNPV3hPUnBSNlBRZUdaLXh1eXFoTkducDY2eVhtVEJhdXFNWUVNVWRCYVZqZE9kOVpMdzRSR0E?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtZGkyVlFzWlRaVjJmS3RwSkg0Qm9yNGJPYklnQkcybE5XZ21Pczc0X3M4R",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "Here is a look at results from mayoral elections across the GTHA",
+    "angle": "Mayoral elections just wrapped up across the Greater Toronto and Hamilton Area, and the results shape everything from property taxes to transit for millions of listeners - this is the kind of 'did my city change hands' story that gets phones lighting up.",
+    "bullets": [
+      " Call in - did your city keep its mayor or flip to someone new? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "FGLWc0WVZmcTVFZEZkR1Y2R3J6NVhmNjZ0b3pqRFdESQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZmM2NFd5SU5zeTlwRGpzOFF3dTEzZmMwU3l2MW1UMHJnb3IxRzcx",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "CANADIAN NEWS",
+    "title": "James Moore: David Eby treated B.C. voters like fools, and paid the price",
+    "angle": "A sharp opinion piece is accusing B.C. Premier David Eby of condescending to voters - and saying it's now biting him politically. Provincial leadership under fire always makes for good Canadian political chatter.",
+    "bullets": [
+      " Columnist James Moore - a former federal Conservative cabinet minister - is the one leveling the critique.",
+      " Do politicians who get called out for being condescending ever actually recover - or is that label impossible to shake? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "VZmZVY2aXhySUQyQ1J6Tk9XTzlGQXFVZGtuYWQ2c3BDV1o0cVRNOUlpWGE1ajgwdkxB?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTERRU1RGM2plZ1NGQ29zWTRid3VhODJqS2E0ZXRJTzhsZW81RTVE",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "John Oliver Says Republican Party 'Is at a Crossroads Right Now' Thanks to Rise of Right-Wing Extremism",
+    "angle": "A late-night host firing off on the Republican Party and right-wing extremism is exactly the kind of comedy-meets-politics soundbite that gets social media (and the phone lines) going.",
+    "bullets": [
+      " John Oliver says the Republican Party is \"at a crossroads right now\"",
+      " He's pointing to the rise of right-wing extremism inside the party as the turning point",
+      " Classic late-night format: comedy host, serious political target",
+      " Do you think late-night hosts actually move the needle on politics, or are they just preaching to the choir?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thewrap.com/creative-content/tv-shows/john-oliver-republican-party-at-crossroads-with-extremism-nazis/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Mia Khalifa entering the Ethan Klein cheating discourse with an important messageI",
+    "angle": "The Ethan Klein cheating scandal has been tearing through internet culture for days, and now a bigger name is wading in - that's exactly the kind of escalation that keeps a gossip story trending and gives hosts a fresh angle to riff on.",
+    "bullets": [
+      " Mia Khalifa reportedly weighed in on the ongoing Ethan Klein cheating scandal with what's being described as an \"important message\"",
+      " Should outsiders with huge platforms ever insert themselves into someone else's cheating scandal - or does that just pour gas on it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/qer2qvjtxwxh1.png",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Everybody involved with Netflix's Nobody Wants This just seems hellbent on gaslighting the only sensible person on the cast",
+    "angle": "Reddit's pop-culture crowd is piling on the writers of Netflix's rom-com hit, claiming the whole cast is ganging up to make the one levelheaded character look crazy - a classic 'is it just me or...' debate that's catnip for anyone binging the show.",
+    "bullets": [
+      " Call in and tell us: which TV show wrote one character into the ground just to make everyone else look good?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/kw5agbbofvxh1.jpeg",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Will There Be A \u2018Ted Lasso\u2019 Season 5? \u2018Ted Lasso\u2019 Stars Weigh In On The Future Of The Apple TV Series",
+    "angle": "Ted Lasso ended on a high note, but the cast is now publicly teasing whether there's more story left to tell - that's exactly the kind of 'will they or won't they' that keeps fans of a beloved show talking.",
+    "bullets": [
+      " Do we actually need a Season 5, or did Ted Lasso already stick the perfect landing?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://decider.com/2026/10/27/ted-lasso-season-5-apple-tv-info/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Macklemore returns to stage for first \u2018Free Palestine\u2019 concert after Ed Sheeran tour drama",
+    "angle": "He got the boot from Ed Sheeran's tour over his pro-Palestine stance, and instead of laying low, he walked right back out and doubled down in Dublin. That's the kind of 'did he really just say that' moment that gets a studio talking.",
+    "bullets": [
+      " Macklemore was dropped from Ed Sheeran's tour just last month.",
+      " His first show back was in Dublin.",
+      " On stage, he called out people who are \"threatened\" by the \"Free Palestine\" slogan.",
+      " Should artists lose gigs over political statements, or is that just canceling someone for speaking their mind?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/27/entertainment/macklemore-performs-first-free-palestine-concert-after-ed-sheeran-drama/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Meghan Markle to Co-Host \u2018Junior MasterChef Australia\u2019",
+    "angle": "The Duchess of Sussex is swapping Montecito for the MasterChef kitchen, popping up as a guest co-host on Junior MasterChef Australia next year - a surprisingly playful pivot for someone usually associated with Netflix docs and royal drama.",
+    "bullets": [
+      " Meghan Markle, Duchess of Sussex, is set to co-host Junior MasterChef Australia",
+      " She's billed as a \"special guest\" for a new series airing next year",
+      " She'll share hosting duties alongside chef and presenter Poh Ling Yew",
+      " Is this a fun left-field flex for Meghan, or does it feel like a random stretch from Suits to judging kids' souffl\u00e9s? variety.com (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/tv/global/meghan-markle-co-host-junior-masterchef-australia-1236931967/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Noah Wyle Named People\u2019s 2026 Sexiest Man Alive",
+    "angle": "He's been quietly breaking hearts since the ER days in the '90s, and now, decades later and riding high off 'The Pitt,' People finally made it official \u2014 a full-circle glow-up story that's basically a layup for a fun debate.",
+    "bullets": [
+      " Noah Wyle has been crowned People's Sexiest Man Alive for 2026 \u2014 his first time landing the title.",
+      " He's been on our screens turning heads since 1994, from 'ER' all the way to his current hit 'The Pitt.'",
+      " Wyle says he couldn't believe the news: \"I thought that sounded like a prank \u2014 just not in a million years.\""
+    ],
+    "debate": "Good call by People, or is there someone you'd have picked instead?",
+    "source": "variety.com (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/noah-wyle-people-2026-sexiest-man-alive-1236931645/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Meghan Markle Is Heading Back to TV with Special Guest Role on Junior MasterChef Australia - People.com",
+    "angle": "Meghan Markle keeps testing the waters back in entertainment, and this one's a curveball \u2014 a guest spot on Junior MasterChef Australia pulls her away from her usual lifestyle-brand lane into reality TV judging territory.",
+    "bullets": [
+      " Meghan Markle is set for a special guest role on Junior MasterChef Australia",
+      " Marks another step back into television for the former royal",
+      " Comes as she continues building out her As Ever lifestyle brand and Netflix projects",
+      " Is Meghan a legit fit for a cooking show judging panel, or is this just brand synergy with her lifestyle empire? People (via Google News) (Tier 2) | Score: 78/90 (45 fit + 8 source + 25 quality) -> LEAD"
+    ],
+    "debate": "kZjTzBhYmVYSElNTzc3SWhfcE5XQnRpWVM2SUhCMVFXeTR3R255UENtLXQ0M3Jma2c?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYXdoSUc0d1NNSm55QnFwXzlIZzlBVi1XVkZ6Z2t4TGR4amFzdHc0VWRr",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "\u2018The One About Matthew Perry\u2019 most shocking revelations: Overdoses, car accidents, and more",
+    "angle": "A new retrospective on Matthew Perry is peeling back the Friends-era smile to show the overdoses and crashes he hid from the public - the kind of gap between sitcom icon and real-life struggle that always gets people talking.",
+    "bullets": [
+      " Does knowing how much pain was behind the laughs change how you watch his old episodes now? Entertainment Weekly (via Google News) (Tier 2) | Score: 77/90 (45 fit + 8 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03cXM1YkZNOHpBNDFnZi1pdjRZYUZvOFpCVExwa2Rhc0Q4RFdqdFF4MV9",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "Takashi Yamazaki\u2019s Giant Robot \u2018Godzilla\u2019 Follow Up Just Cast Its Leads",
+    "angle": "Takashi Yamazaki went from an Oscar for Godzilla Minus One straight into a giant robot movie, and the cast is a genuinely odd mix worth talking about on air.",
+    "bullets": [
+      " Takashi Yamazaki, the director of Godzilla Minus One, is making a new giant robot movie titled \"Grandgear\"",
+      " It's set for release in January 2028",
+      " Paul Giamatti in a giant robot movie - is he the villain, the comic relief, or something nobody's guessing? gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/takashi-yamazakis-giant-robot-godzilla-follow-up-just-cast-its-leads-2000830950",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "How dismissed symptoms can push patients to breaking point: Patients with autoimmune diseases have been left feeling suicidal after feeling like their doctor was saying their symptoms were \u2018all in their head\u2019. Only 7% agreed with being told that their symptoms were \u201cpsychosomatic\u201d.",
+    "angle": "A new look at autoimmune patients finds almost nobody buys it when a doctor says their symptoms are 'psychosomatic' - and some say being brushed off for years pushed them to a breaking point, which is why this is blowing up as a bigger conversation about trust in medicine.",
+    "bullets": [
+      " Just 7% of autoimmune patients agreed when their doctor told them their symptoms were 'psychosomatic.'",
+      " Patients say being repeatedly dismissed by doctors pushed some to a genuine breaking point, including suicidal feelings.",
+      " Has a doctor ever told you it was 'all in your head' - and were they dead wrong?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.uea.ac.uk/about/news/article/how-dismissed-symptoms-can-push-patients-to-breaking-point",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "ENTERTAINMENT",
+    "title": "The Best Retro Gaming Gifts Under $100",
+    "angle": "Holiday gift-guide season is heating up, and this one taps straight into gaming nostalgia \u2014 cheap throwback gifts under $100 are a great excuse for the hosts to swap stories about their first console.",
+    "bullets": [
+      " What's the one retro game or console you'd want to unwrap again this Christmas? gizmodo.com (Tier 2) | Score: 74/90 (45 fit + 8 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/best-retro-gaming-gifts-under-100-dollars-gift-guide-2000830616",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "A regular customer at a Georgia gas station befriended its pregnant cashier and offered to adopt her baby after learning she couldn\u2019t raise him. Now Nolan\u2019s birth mother remains part of his life, and the two women have grown so close they\u2019re like sisters.",
+    "angle": "A regular customer at a Georgia gas station didn't just make small talk with the cashier \u2014 when she couldn't raise the baby she was carrying, she stepped in to adopt him, and the two women are now basically family.",
+    "bullets": [
+      " Would you ever make an offer that big to someone you only knew from behind a cash register?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.yahoo.com/lifestyle/articles/georgia-mom-adopts-gas-station-135010059.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "Birdwatching rewires the brain and slows cognitive decline",
+    "angle": "It sounds like a hobby for retirees, but there's a real brain-science angle here \u2014 researchers are tying time spent watching birds to sharper memory and slower cognitive decline, which makes for a fun 'surprising hobby benefits' chat.",
+    "bullets": [
+      " Researchers connect the habit to slower cognitive decline, not just stress relief.",
+      " It fits a growing pile of research on low-key outdoor hobbies doing more for your head than people assume.",
+      " What's the most 'boring' hobby you secretly love that turns out to be good for you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "LIFESTYLE CHAT",
+    "title": "A simple liquid can stop cavities without drilling | Scientists have confirmed that silver diamine fluoride, an inexpensive liquid can stop tooth decay in seconds without drilling or anesthesia, potentially transforming cavity treatment for millions.",
+    "angle": "Everyone's got a drill-and-needle dentist story, so a liquid that stops decay in seconds without either is an instant reaction-getter for a lifestyle segment.",
+    "bullets": [
+      " No drilling and no anesthesia needed, according to the research",
+      " Described as inexpensive, with potential to help millions of people avoid traditional cavity treatment",
+      " Would you trust a liquid over a drill, or do you want your dentist drilling it out the old-fashioned way?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.umich.edu/drill-free-cavity-care-one-minute-one-tiny-brush-one-pivotal-trial/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "We found a Mindo Harlequin Toad (declared extinct in 1989)",
+    "angle": "A wildlife photographer stumbled on living survivors of a species wiped off the map by disease decades ago \u2014 it's the ultimate good-news nature plot twist, and the fact they caught baby tadpoles on camera for the first time ever makes it a legit scientific win too.",
+    "bullets": [
+      " A wildlife photographer named Jay found survivors hiding in a tiny patch of the Mindo cloud forest high in the Ecuadorian Andes",
+      " His team photographed and documented the toad's tadpole stage for the very first time in recorded history",
+      " 6 tadpoles were moved to a breeding facility to start a safety-net colony outside the wild",
+      " Ask listeners: what's something \u2014 or someone \u2014 you'd written off for good that showed up again when you least expected it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.khamai.bio/saving_mindo_toad.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "US to Nominate Viktor Orb\u00e1n as UN Secretary General",
+    "angle": "Hungary's hardline, EU-clashing Prime Minister getting floated for the UN's top job is the kind of geopolitical plot twist that sounds made up \u2014 which is exactly why it's living on r/nottheonion right now.",
+    "bullets": [
+      " Viktor Orb\u00e1n \u2014 Hungary's long-serving, famously hardline nationalist Prime Minister \u2014 is reportedly the US pick for UN Secretary-General",
+      " Orb\u00e1n running the UN: chaos agent or the shakeup the UN actually needs?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.kyivpost.com/post/88188",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Russia proposes putting data centres underground to protect them from Ukrainian drones",
+    "angle": "Ukrainian drone strikes have gotten so effective that Russia's reportedly looking at burying its data centers underground like a Cold War bunker plan \u2014 a wild real-world admission of how much the drone war is reshaping infrastructure.",
+    "bullets": [
+      " It frames server farms as a legit military target now, not just office buildings.",
+      " Basically a modern-day bunker strategy \u2014 but for the cloud instead of people.",
+      " Nothing says 'the drone war is working' like a country deciding its wifi needs a bunker."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://novayagazeta.eu/en/articles/2026/10/26/russia-proposes-putting-data-centres-underground-to-protect-them-from-ukrainian-dr",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "'Real Life Pennywise': Mum Calls Police After Her Children Fear Man Living in Sewer Near Their Maryland Home",
+    "angle": "A Maryland mom reportedly rang up police because her kids are terrified of a man living in the storm drains near their house - cue every \"IT\" joke in the book, this is pure r/nottheonion gold with built-in horror-movie appeal.",
+    "bullets": [
+      " Location: a residential neighborhood in Maryland",
+      " Story originated from the r/nottheonion subreddit, so treat specifics as unconfirmed until verified",
+      " Would you call the cops if your kids swore there was a 'clown' living in the storm drain down the street?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.fashiontimes.co.uk/maryland-mother-raises-concerns-man-staying-culvert-1766380",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Police have reopened a criminal investigation into sexualised deepfakes made using X\u2019s chatbot Grok",
+    "angle": "A criminal investigation into sexualised deepfakes made with X's own AI chatbot Grok is back open \u2014 a real test of whether Elon Musk's platform can be held accountable for what its AI lets people generate.",
+    "bullets": [
+      " Police have reopened a criminal investigation tied to sexualised deepfake images created using Grok, the AI chatbot built into X.",
+      " It raises the bigger question of what guardrails \u2014 if any \u2014 exist on Grok's image generation.",
+      " If a platform's own AI can be used to make this stuff, who's actually on the hook \u2014 the user, or the company that built the chatbot?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thebureauinvestigates.com/stories/2026-10-22/grok-deepfake-case-reopened-after-bureau-reporting",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Anthropic reveals $80 billion loss, huge spending spree ahead of IPO",
+    "angle": "The AI arms race has a price tag now, and it's staggering \u2014 if a company this hot is bleeding $80 billion, it's a gut-check for the whole \"AI is printing money\" narrative everyone's been riding.",
+    "bullets": [
+      " Reports point to an $80 billion loss tied to Anthropic, the company behind the Claude chatbot.",
+      " Anthropic is one of the biggest names in the AI boom, going head-to-head with OpenAI.",
+      " Is massive AI spending visionary investment or a bubble about to pop?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nbcnews.com/business/markets/anthropic-releases-ipo-filing-ahead-highly-anticipated-stock-debut-rcna605676",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "You can now run Nintendo Switch games natively on iPhones and Macs",
+    "angle": "Gamers are buzzing that Switch titles can now run natively on iPhones and Macs \u2014 a huge leap for emulation that blurs the line between console and phone, and it's got Nintendo's notoriously trigger-happy legal team written all over it.",
+    "bullets": [
+      " If you could play Zelda on your phone right now for free, would you still buy a Switch \u2014 or is this just straight-up piracy with better marketing?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.techspot.com/news/114335-you-can-now-run-nintendo-switch-games-natively.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "am",
+    "category": "BREAKOUT WATCH",
+    "title": "Phantom Neuro Implants Neural Interface in Humans for the First Time",
+    "angle": "Phantom Neuro Implants Neural Interface in Humans for the First Time",
+    "bullets": [],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.prnewswire.com/news-releases/phantom-neuro-implants-neural-interface-in-humans-for-the-first-time-302912256.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
     "date": "2026-10-26",
     "slot": "pm",
     "category": "THE LIST",
