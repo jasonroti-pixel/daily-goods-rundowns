@@ -1,6 +1,762 @@
 [
   {
     "date": "2026-10-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "The US Government Is Hiding a Secret Court Ruling About How It Spies on Americans",
+    "angle": "A secret court reportedly made a major call on how the government can spy on Americans \u2014 and they won't let anyone see it. It's the kind of 'what are they hiding' story that taps right into the privacy paranoia everyone already has about their phone.",
+    "bullets": [
+      " A secret court ruling reportedly addresses how the US government surveils American citizens",
+      " Story is circulating widely on Reddit's r/technology, signaling strong public interest in the privacy angle",
+      " Does it freak you out more that they're spying, or that they're hiding the paperwork about it?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "A leaderless revolution has swept Serbia. The world should be watching",
+    "angle": "Months of grassroots, leaderless protests in Serbia have reportedly reshaped the country's politics, and it's got people everywhere asking whether a movement with no single face at the top can actually win - and whether it could happen anywhere else.",
+    "bullets": [
+      " Could a leaderless movement actually pull off real change here, or does every revolution eventually need a face people can rally around?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/commentisfree/2026/oct/27/a-leaderless-revolution-has-swept-serbia-the-world-should-be-watching",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Houston high school students have opened a public auto shop where they service local residents\u2019 cars under instructor supervision. Oil changes, tire rotations and inspections cost just $20 to $35 giving students real world experience while funding more opportunities for their training.",
+    "angle": "It's the kind of feel-good, watercooler story that cuts through the news cycle - real teenagers fixing real cars for real customers, and getting dirt-cheap prices out of it too.",
+    "bullets": [
+      " A Houston high school opened a public auto shop run entirely by students for local residents.",
+      " Oil changes, tire rotations and inspections cost just $20 to $35.",
+      " Students work under instructor supervision, getting hands-on, real-world mechanic training.",
+      " Shop proceeds go back into funding more training opportunities for future students.",
+      " Would you actually let a high schooler do your next oil change for $20?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.houstonchronicle.com/news/houston-texas/education/hisd/article/automotive-shop-open-business-22491380.php",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Brazil's Fl\u00e1vio Bolsonaro and family will get US visas after election loss, State Department says",
+    "angle": "The Bolsonaro name has been at the center of a US-Brazil diplomatic tug-of-war for months, so word that Fl\u00e1vio Bolsonaro and his family are getting American visas right after his father's camp lost power is the kind of political plot twist that makes people ask 'wait, why now?'",
+    "bullets": [
+      " Fl\u00e1vio Bolsonaro, son of former Brazilian president Jair Bolsonaro, is set to receive a US visa along with family members.",
+      " It follows the Bolsonaro camp's election loss in Brazil, adding a political wrinkle to the timing.",
+      " Story is circulating on r/nottheonion, a sign the irony of the timing isn't lost on readers.",
+      " Is this just routine visa paperwork, or does the timing make it look like a political favor \u2014 what's your read?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/brazil-flavio-bolsonaro-passport-lula-1f64bda20de066eeea04349e0319820a",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Microsoft And Epic Games Suddenly Agree That AI Is Theft",
+    "angle": "Two companies that almost never agree on anything just found common ground slamming AI - that's the kind of 'wait, what?' headline that gets people talking about whether AI really is built on stolen work.",
+    "bullets": [
+      " Microsoft and Epic Games - usually on opposite sides of the tech world - are both now calling AI's use of creative content outright theft.",
+      " It's the latest flashpoint in the bigger fight over AI systems training on other people's work without paying for it.",
+      " When rival tech giants agree AI is 'stealing,' are we finally hitting a tipping point - or is this just corporate posturing?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "BYD's latest EVs charge as fast as filling a tank of gas.",
+    "angle": "Gas station speed for an EV has been the holy grail that's kept skeptics away from switching - if BYD actually pulls this off at scale, it guts the single biggest excuse for not going electric.",
+    "bullets": [
+      " BYD's second-gen Blade Battery goes from 10% to 70% charge in just five minutes",
+      " Full charge takes about 9 minutes - comparable to filling a gas tank, which typically runs 3-5 minutes",
+      " Europe is only getting 3,000 of these chargers by 2027 - a drop in the bucket next to the 1.1 million gas stations already out there",
+      " Would a 9-minute full charge actually get YOU to buy an EV, or is range anxiety not really the reason you're holding out?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/r/Futurology/comments/1xgx00f/byds_latest_evs_charge_as_fast_as_filling_a_tank/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "America Needs Canada\u2019s Aluminum. Trump\u2019s Tariff Exposed Just How Badly.",
+    "angle": "Trump's tariffs were supposed to boost American industry, but they're exposing just how dependent the U.S. actually is on Canadian aluminum - a classic case of a trade war backfiring on your own supply chain.",
+    "bullets": [
+      " Canada is a dominant supplier of aluminum to the U.S., feeding everything from cars to canned drinks to aerospace parts",
+      " Do tariffs actually protect American jobs, or just make everyday stuff more expensive for everyone?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wsj.com/business/aluminum-tariff-canada-trump-f2555b38",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Jon Stewart on the midterms: \u2018Republicans running for Congress can\u2019t defend Trump\u2019s reckless record\u2019",
+    "angle": "With midterms looming, Jon Stewart is going after vulnerable Republicans directly, saying they can't run from Trump's record - that's exactly the kind of political flashpoint that gets phones ringing on both sides.",
+    "bullets": [
+      " Jon Stewart says Republicans running for Congress \"can't defend Trump's reckless record\"",
+      " Comment comes amid the lead-up to the midterm elections",
+      " Stewart has increasingly used his platform to target sitting lawmakers directly, not just the White House",
+      " Is Jon Stewart calling out a real vulnerability for the GOP, or just preaching to his own choir?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/culture/2026/oct/27/jon-stewart-midterms-republicans-congress-trump?CMP=oth_b-aplnews_d-1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Flavio Bolsonaro has fled Brazil to the U.S. after election defeat",
+    "angle": "A sitting senator and son of a former president skipping the country mid-investigation is the kind of international political drama that spills way past Brazil \u2014 especially with the U.S. as his landing spot.",
+    "bullets": [
+      " A Reuters source says Flavio Bolsonaro left Brazil with his wife and two daughters",
+      " Police say he failed to comply with a 24-hour order to surrender those passports",
+      " It's tied to a money laundering probe \u2014 which Bolsonaro denies",
+      " When politicians under investigation run straight to the U.S., should we be rolling out the welcome mat or the extradition papers?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/k1fmz9mgs1yh1.png",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Trump wades into Canadian politics with kudos for Parti Qu\u00e9b\u00e9cois, B.C. Conservative wins",
+    "angle": "Mid-meltdown over his own midterms, Trump still found time to cheer on separatist and conservative wins up north - a reminder his political commentary doesn't stop at the border, and Canadians are not thrilled about it.",
+    "bullets": [
+      " Donald Trump is deep in a tight midterm election battle at home right now",
+      " He still took time to publicly congratulate the newly elected premiers of Quebec and British Columbia",
+      " One shoutout went to the Parti Qu\u00e9b\u00e9cois, a party built around Quebec sovereignty",
+      " Should a sitting U.S. president be weighing in on Canadian provincial elections at all - and does a shoutout to Quebec separatists make it weirder?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/trump-canadian-politics-british-columbia-quebec-9.7398341?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Jennifer Thoss named Lytton's mayor after random draw breaks election tie",
+    "angle": "A small-town mayoral race ended in a flat-out dead tie, so officials had to break it the old-fashioned way \u2014 a random draw. It's the kind of 'wait, that's actually how democracy works?' story that makes for an easy watercooler debate.",
+    "bullets": [
+      " Jennifer Thoss and Denise O'Connor tied with exactly 45 votes apiece",
+      " A random draw held Tuesday was used to break the deadlock",
+      " Thoss, a former town councillor, comes out of it as the town's next mayor",
+      " Should an election ever get decided by pure luck instead of a revote?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/lytton-next-mayor-random-draw-9.7398797?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Alberta bill would stop provincial entities from considering diversity, equity and inclusion in hiring",
+    "angle": "This drops Alberta right into the middle of the biggest culture-war fight happening across North America right now \u2014 DEI in hiring \u2014 and pairs it with a totally unrelated but very relatable consent law, giving hosts two very different hooks in one bill.",
+    "bullets": [
+      " It's the very first bill introduced in the Alberta Legislature's fall sitting \u2014 meaning the government wanted this front and center.",
+      " Tucked into the same bill: new legal recourse for victims when someone shares intimate content of them without consent.",
+      " It mirrors a wave of DEI rollbacks already playing out across U.S. states and companies \u2014 now showing up north of the border.",
+      " Should DEI ever factor into who gets hired for a government job \u2014 or should it be qualifications only, full stop?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/edmonton/alberta-government-bill-stops-dei-hiring-9.7398443?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Big wins, shocking losses, and goodbye to a 46-year mayor: what to know about Ontario's 400+ elections",
+    "angle": "Municipal election night across Ontario delivered total chaos \u2014 longtime incumbents got bounced, dark-horse candidates pulled off upsets, and one mayor's 46-year reign is officially over.",
+    "bullets": [
+      " More than 400 municipalities across Ontario held elections on the same night",
+      " A sitting mayor's 46-year run in office came to an end",
+      " Results included both big incumbent wins and shocking upsets in the same cycle",
+      " 46 years in the mayor's chair \u2014 would you ever want the same person running your town that long, or is that exactly the problem?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/ontario-election-roundup-toronto-ottawa-hamilton-kw-london-9.7397644?cmp=rss",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canadian 'tremendously sorry' after spending stolen crypto on Lamborghini, BMWs, jewelry",
+    "angle": "A Canadian caught spending stolen crypto on a full luxury shopping spree is pure watercooler gold \u2014 the apology lands way softer than the receipts.",
+    "bullets": [
+      " A Canadian man admitted to blowing stolen cryptocurrency on a luxury spending spree.",
+      " His response once caught: he's \"tremendously sorry.\"",
+      " If stolen crypto landed in your account tomorrow, what's the first big purchase \u2014 be honest. ON-AIR BIT BREAKDOWN - Step 1: Round 1: The Cheap Flex - Warm-up round, quick answers -> Each host names the first small thing they'd buy with a surprise windfall. - Step 2: Round 2: The Mid-Tier Splurge - Raise the stakes -> Hosts one-up each other with a bigger purchase \u2014 think car, not coffee. - Step 3: Round 3: The Lambo Moment - Go big -> Each host reveals their 'if money were no object' dream buy. - Step 4: The Reveal - Tie it back to the story -> Compare answers to the real list: Lambo, BMWs, jewelry \u2014 who called it closest?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/trenton-johnston-sentencing-9.7397208",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Starlink shows why Canada can\u2019t outsource its sovereignty to Elon Musk",
+    "angle": "Starlink has quietly become critical infrastructure for rural and remote Canada, which means a huge chunk of national connectivity now runs through the whims of one unpredictable billionaire - that's the kind of sovereignty question that gets people fired up fast.",
+    "bullets": [
+      " Should Canada be leaning this hard on one billionaire's satellites for infrastructure this critical?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thestar.com/opinion/star-columnists/starlink-shows-why-canada-can-t-outsource-its-sovereignty-to-elon-musk/article_344",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Bill C-22: Time Is Running Out to Stop Canada\u2019s Surveillance Law",
+    "angle": "Bill C-22 would give authorities sweeping new power to monitor Canadians online, and critics say the window to stop it is closing fast \u2014 that's the kind of privacy-vs-security fight that gets phone lines lit up.",
+    "bullets": [
+      " Where's the line for you \u2014 more surveillance for safety, or hands off our data no matter what?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thedailybell.com/all-articles/editorials/bill-c-22-time-is-running-out-to-stop-canadas-surveillance-law/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Canada could restrict Roblox & Minecraft for under 16s as part of social media ban",
+    "angle": "This lands right in the middle of every Canadian parent's group chat - the government's social media crackdown might sweep up the games kids actually play, not just Instagram and TikTok, and that's a line a lot of families didn't see coming.",
+    "bullets": [
+      " Reports say Canada's proposed under-16 social media ban could extend to gaming platforms like Roblox and Minecraft, not just traditional social apps",
+      " Details on enforcement and exact age cutoffs are still thin - this is early-stage policy discussion, not a finalized law",
+      " Would you actually be okay with your kid getting locked out of Minecraft at 15, or does this feel like the government swinging way too wide?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.dexerto.com/roblox/canada-could-restrict-roblox-minecraft-for-under-16s-as-part-of-social-media-ban-3422196/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Meet Canada's 5 Eurovision finalists",
+    "angle": "Eurovision is Europe's biggest music spectacle, so any mention of Canadian finalists makes you wonder how we're even in the conversation \u2014 that mystery alone is worth digging into on air.",
+    "bullets": [
+      " Did either of you know Canada had any connection to Eurovision at all?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/eurovision-canada-finalists-9.7397690?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "'Healthy' to have conversation on abolishing Indian Act, First Nation chief says",
+    "angle": "A First Nations chief is publicly saying Canada should have an open conversation about abolishing the Indian Act entirely - a law that's governed Indigenous life for over 150 years. It's a third-rail topic that touches sovereignty, government control, and what real reconciliation looks like.",
+    "bullets": [
+      " A First Nation chief says it's \"healthy\" to openly discuss abolishing the Indian Act",
+      " Should Canada scrap the Indian Act entirely, or is reform the safer path forward?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/manitoba/indian-act-abolish-kinew-reactions-9.7398585?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Dementia doctors, provinces differ on question of advance consent in MAID",
+    "angle": "Doctors and provinces can't agree on whether someone with dementia should be able to lock in their choice for medical assistance in dying now, for a future they won't be able to consent to once the disease takes their capacity.",
+    "bullets": [
+      " Provinces are split on how far advance directives can go, creating a patchwork of rules depending on where you live",
+      " Dementia specialists are flagging the practical and ethical minefield of honoring a past wish for a person who, in the moment, may no longer express that wish",
+      " If future-you can't say yes anymore, should past-you's decision still count? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "MwRmwxUkJtTXptSEJ4MkV5MnNOR2c2OVppZGFrNUtwLXhJV3Z0WEp5MS1TZndmZ0tUSA?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZkNGTjUxVVh3cmlsX3k5bFcwMF9veklmT1NwNnhqOWthOVpqTG1UdUd",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Oscar nominee subtly teased her secret role in You Can See Everything in interview last year",
+    "angle": "An Oscar-nominated actress apparently dropped a low-key hint about a hidden part in 'You Can See Everything' way before anyone connected the dots, and now people are going back through old interview clips to catch the tease.",
+    "bullets": [
+      " An Oscar-nominated actress reportedly teased a secret role in 'You Can See Everything'",
+      " Fans are now circling back to the old clip trying to spot exactly what she said",
+      " Who's actually good at reading between the lines in interviews, you or your co-host? Entertainment Weekly (via Google News) (Tier 2) | Score: 81/90 (45 fit + 8 source + 28 quality) -> LEAD"
+    ],
+    "debate": "TRxYWVsVjhnbTNoek42M2tURlVUQ3hPdkJ3?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTGQwbmxVUTJ0WWZ0MXdqNWw4a3JseEs0Q213a1R3bUZMMUlFZ2tsa",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Jennifer Lawrence confirms she got a boob job, says she wants to be a \u2018sexy mom\u2019",
+    "angle": "Jennifer Lawrence just openly copped to getting breast implants, which taps right into the bigger convo about celebrities ditching the secrecy around plastic surgery \u2014 and doing it loud and proud postpartum.",
+    "bullets": [
+      " Jennifer Lawrence confirmed she got a boob job",
+      " She says the goal is to be a 'sexy mom'",
+      " Comes as more A-listers skip the denial game and just own their surgery",
+      " Is 'sexy mom' a confidence win or just more pressure moms don't need?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://ew.com/jennifer-lawrence-confirms-she-got-boob-job-12196991",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Natalie Portman says being sexualized as a child star forced her to become a 'good girl' as protection",
+    "angle": "Natalie Portman is opening up about how being sexualized as a child actress shaped her into a self-protective, straight-laced public persona for years \u2014 a candid look behind the curtain of child stardom that's bound to spark a real conversation about the industry.",
+    "bullets": [
+      " Natalie Portman says being sexualized as a child star pushed her to adopt a 'good girl' image.",
+      " She's framed the persona as a form of self-protection rather than a natural fit.",
+      " Did Hollywood force a generation of child stars into personas just to survive the business \u2014 and who's accountable for that?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/27/entertainment/natalie-portman-says-being-sexualized-as-a-child-star-forced-her-to-become-a-good-gi",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Macklemore\u2019s \u2018Free Palestine\u2019 sold-out show kicked off in Dublin with special guests Hozier, Kneecap and Ed Sheeran\u2019s own backing band",
+    "angle": "A sold-out Macklemore show in Dublin turned into a surprise supergroup moment when Hozier, Kneecap, and Ed Sheeran's own band jumped onstage - that's the kind of only-in-music-city crossover that gets fans and gossip accounts buzzing.",
+    "bullets": [
+      " Macklemore's Dublin show was completely sold out",
+      " Surprise guests included Hozier and Irish rap trio Kneecap",
+      " Members of Ed Sheeran's own backing band also joined in",
+      " Would you want your favorite low-key artist to turn their concert into a political statement, or just let the music do the talking?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.rollingstone.com/music/music-news/macklemore-free-palestine-tour-dublin-performers-1235648074/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Ms. Rachel: \u201cICE broke the wrist of a 20-year-old student who has special needs on his way to school. They had the wrong person, he's a U.S. citizen, not that that would be okay if he wasn't a U.S. citizen.",
+    "angle": "Ms. Rachel built her name on gentle kids' content, so when she goes viral for a furious, tearful callout of ICE, it's a story about a celebrity using her platform to go political - and that always gets people talking.",
+    "bullets": [
+      " Ms. Rachel claims ICE broke the wrist of a 20-year-old student with special needs on his way to school",
+      " She says agents had the wrong person - he's actually a U.S. citizen",
+      " He was allegedly left on the side of the road with no medical care and needed surgery",
+      " Her pointed line: \"not that that would be okay if he wasn't a U.S. citizen\"",
+      " Does it hit harder because it's Ms. Rachel saying it, or should a story like this matter just as much without the celebrity attached?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/loxw3ws28yxh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "U.S. and Cuban officials get into shouting match on floor of United Nations",
+    "angle": "This isn't some backroom diplomatic spat \u2014 US and Cuban officials actually raised their voices on the floor of the United Nations General Assembly, and it's the latest flare-up in a decades-long feud that's heating back up over US economic pressure on Cuba.",
+    "bullets": [
+      " U.S. and Cuban officials got into a full-on shouting match on the floor of the United Nations General Assembly.",
+      " It went down on Tuesday \u2014 not exactly standard UN decorum.",
+      " It's described as the latest in a series of public spats between the two longtime adversaries.",
+      " When grown diplomats start yelling on the world stage, does it actually change anything \u2014 or is it just theater for the cameras?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/u-s-coba-resolution-un-shouting-match-9.7398413?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "USC\u2019s embattled Lincoln Riley has resolute response to mounting criticism",
+    "angle": "USC football is cratering in what was supposed to be Riley's make-or-break year, and now there's real chatter about whether he survives \u2014 juicy because the guy running the athletic department never actually hired him.",
+    "bullets": [
+      " Lincoln Riley's Trojans just took their second loss in a season billed as make-or-break for him",
+      " They're now on the cusp of being out of the College Football Playoff picture entirely",
+      " Fueling the fire: USC athletic director Jen Cohen wasn't the one who hired Riley in the first place",
+      " Is Lincoln Riley actually in trouble, or is this just impatient fans overreacting to one bad stretch?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/27/sports/uscs-lincoln-riley-puts-doubters-on-notice-about-his-fit-at-school/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Tatum O\u2019Neal, 62, makes rare public outing with family 6 years after near-fatal stroke",
+    "angle": "The Oscar-winning \"Paper Moon\" star nearly died from a stroke back in 2020 - seeing her out and about with family now is a genuine good-news comeback moment worth celebrating on air.",
+    "bullets": [
+      " Tatum O'Neal, now 62, was spotted on a rare public outing with her family",
+      " She suffered a near-fatal stroke back in 2020",
+      " O'Neal famously won an Oscar as a child for \"Paper Moon\"",
+      " Call in: who's a star you've been quietly rooting for to bounce back?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/27/celebrity-news/tatum-oneal-62-makes-rare-public-outing-with-family-6-years-after-near-fatal-stroke/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Sacha Baron Cohen\u2019s \u2018Ali G: Who Iz I?\u2019 to Stream on Prime Video Days After Brief Theatrical Stint - The Hollywood Reporter",
+    "angle": "Sacha Baron Cohen brought Ali G back for the first time in decades, gave it a two-day theatrical blink-and-you-missed-it run, and now it's already landing on streaming - a classic 'did anyone actually see this in a theater' moment.",
+    "bullets": [
+      " Sacha Baron Cohen is back as Ali G in the new film \"Ali G: Who Iz I?\"",
+      " Amazon MGM Studios gave it just a two-day theatrical run before pulling it",
+      " Two-day theatrical runs before streaming - is that a flop, or just the new normal for comedy sequels nobody asked for? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/movies/movie-news/sacha-baron-cohen-ali-g-who-iz-i-prime-video-release-date-1236740382/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Yes, You Can Still See \u2018Musk\u2019 \u2014 Here\u2019s What\u2019s Happening With the Film\u2019s Release Plan -",
+    "angle": "Alex Gibney's four-hour deep-dive on Elon Musk is skipping its planned slow rollout and landing on VOD way ahead of schedule \u2014 a sign studios are rethinking how long to make audiences wait for buzzy docs.",
+    "bullets": [
+      " Its VOD release date is being moved up by several weeks",
+      " It's still playing in theaters even as the digital release accelerates",
+      " Early headlines made it sound like the film was being buried \u2014 that's not actually what's happening",
+      " Would you rather catch a buzzy documentary like this in theaters, or wait and stream it from your couch? Hollywood Reporter (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "http://www.hollywoodreporter.com/movies/movie-news/where-to-watch-elon-musk-documentary-1236740296/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Nick Bosa and girlfriend go full cartoon for Halloween as 49ers fans share fairly odd request",
+    "angle": "NFL couples dropping their Halloween costume reveals is a yearly viral ritual, and this one's got an extra hook \u2014 49ers fans flooding the comments with a weirdly specific costume request of their own.",
+    "bullets": [
+      " Nick Bosa's girlfriend Ella Ailiff revealed their Halloween costumes in a TikTok video posted Tuesday morning.",
+      " 49ers fans jumped into the comments with what's described as a \"fairly odd\" costume request.",
+      " What's the weirdest costume request a partner or fanbase has ever talked you into?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/27/sports/nick-bosa-and-girlfriend-go-full-cartoon-for-halloween-as-49ers-fans-share-fairly-odd-request/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Savannah Chrisley defends \u2018innocent\u2019 unborn child with Jason Galanis as relationship backlash mounts: \u2018You are not a controversy\u2019",
+    "angle": "A reality TV name, a convicted fraudster fianc\u00e9 nearly three decades older, and a pregnancy announcement wrapped in backlash \u2014 this is tailor-made tabloid catnip that splits audiences right down the middle.",
+    "bullets": [
+      " Savannah Chrisley, star of \"Chrisley Knows Best,\" is firing back at critics of her relationship.",
+      " She's engaged to Jason Galanis, a convicted fraudster who is 27 years older than her.",
+      " She directly addressed her unborn child online, writing: \"You are not a controversy.\"",
+      " Is the backlash really about protecting her, or are we just addicted to judging other people's love lives?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/27/celebrity-news/savannah-chrisley-defends-innocent-unborn-child-with-jason-galanis-as-relationship-b",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "HSBC reports third-quarter pretax profit in line with estimates on net interest income boost - CNBC",
+    "angle": "Europe's biggest bank just posted earnings right in line with Wall Street's guess - but the real headline is a $1 billion stock buyback, a sign the big banks are still swimming in cash even as everyone talks about an economic slowdown.",
+    "bullets": [
+      " HSBC, Europe's largest bank, reported third-quarter pretax profit that matched analysts' estimates",
+      " Profit got a lift from a boost in net interest income",
+      " Earnings were announced Tuesday",
+      " If your bank's doing fine and buying back a billion in stock, why does everyone still feel broke right now? CNBC (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.cnbc.com/2026/10/27/hsbc-third-quarter-profit-.html",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Autistic children\u2019s brains respond less to the emotional meaning of sentences, fMRI study finds. This may contribute to autistic children\u2019s social communication challenges.",
+    "angle": "A new brain-scan study suggests autistic kids' brains light up less for the emotional tone of a sentence, which researchers think may explain some social communication struggles \u2014 a story that hits home for the huge number of families touched by autism.",
+    "bullets": [
+      " fMRI scans showed autistic children's brains respond less to the emotional meaning of sentences than their peers.",
+      " Researchers say the gap may help explain some of the social communication challenges linked to autism.",
+      " Published via r/science, the study is already sparking discussion on how autism affects emotional processing of language.",
+      " Calling parents and teachers of autistic kids \u2014 does this match what you've actually seen, or does it feel off?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.psypost.org/autistic-childrens-brains-respond-less-to-the-emotional-meaning-of-sentences-fmri-study-finds/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Young adults with cancer report getting dismissed by doctors",
+    "angle": "This is blowing up because it taps into something a lot of people have felt firsthand \u2014 being brushed off by a doctor because of your age. It's a relatable, slightly infuriating story that gets people sharing their own health horror stories.",
+    "bullets": [
+      " Have you ever been told by a doctor you were \"too young\" for something that turned out to be serious?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.futurity.org/young-adults-cancer-3350622-2/?utm_campaign=young-adults-cancer-3350622-2",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Global happiness researchers reveal keys to a good life. Research found as much as 40 per cent of one\u2019s happiness is related to \u201cvolitional activities\u201d or how you choose to spend your time.",
+    "angle": "Everyone wants the secret to a good life, and researchers just put a number on it - it's not your job, your bank account, or your genes, it's literally how you spend your free time. Instant relatable hook for a lifestyle chat.",
+    "bullets": [
+      " Researchers say up to 40% of your overall happiness comes down to one factor: how you choose to spend your time.",
+      " Call in: what's the one thing you choose to do just for you every week that actually makes you happy?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.eurekalert.org/news-releases/1149284",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Child labor in Brazil falls 9.2% from 2024 to 2025",
+    "angle": "Genuine good-news stat to close the show on \u2014 a real, measurable drop in child labor shows progress is possible, and it's a nice note to end things on before the goodbyes.",
+    "bullets": [
+      " Child labor in Brazil fell 9.2% from 2024 to 2025",
+      " Flagged as feel-good news out of r/upliftingnews",
+      " A 9.2% drop in a year \u2014 that's real progress, not just a feel-good headline."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://agenciabrasil.ebc.com.br/en/geral/noticia/2026-10/child-labor-brazil-falls-92-2024-2025",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Ohio pastor reveals he\u2019s had 2 wives for 3 years: Having only 1 wife is 'unbiblical'",
+    "angle": "This is peak r/nottheonion material \u2014 a pastor casually dropping that he's secretly had two wives for three years, and defending it as a religious requirement, not a scandal. Instant watercooler material: is this a loophole, a cult red flag, or just bigamy with better PR?",
+    "bullets": [
+      " An Ohio pastor has gone public saying he's had two wives at the same time",
+      " He claims this has been going on for 3 years",
+      " His defense: he says having only one wife is 'unbiblical'",
+      " Story is making rounds via Reddit's r/nottheonion",
+      " Loophole, cult red flag, or just bigamy with a Bible verse attached \u2014 what do you call this?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.christianpost.com/news/ohio-pastor-reveals-hes-had-2-wives-for-3-years.html",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Hotel staff in Sicily find girl\u2019s missing teddy and give it VIP treatment before returning it with a heartfelt note written from the stuffed animal\u2019s perspective",
+    "angle": "A little girl left her teddy bear behind at a hotel in Sicily - instead of just shipping it back, the staff turned it into an adorable mini-adventure, and it's the kind of pure, no-catch kindness story that makes for an easy feel-good close.",
+    "bullets": [
+      " A young guest forgot her teddy bear at a hotel in Sicily, Italy.",
+      " Staff didn't just box it up - they gave the bear its own 'VIP' stay before sending it home.",
+      " Ten seconds flat - would this restore your faith in strangers, or is it almost TOO cute to be real?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://worldmanual.co.uk/2026/09/16/missing-teddy-gets-vip-treatment/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Naegleria fowleri, a brain-eating amoeba, is one of the most lethal infections in the world. UC San Diego researchers discovered a marine-derived molecule that kills the parasite faster and more selectively than current treatments.",
+    "angle": "It's one of the scariest words in medicine - \"brain-eating amoeba\" - and now there's actual hope against it, which is exactly the kind of science-is-wild story that gets people talking.",
+    "bullets": [
+      " Naegleria fowleri is considered one of the most lethal infections in the world",
+      " Researchers at UC San Diego found the breakthrough",
+      " It kills the parasite faster and more selectively than current treatments",
+      " Ask listeners: had they even heard of a \"brain-eating amoeba\" before today, and does this make them feel better or worse about swimming in lakes this summer?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://today.ucsd.edu/story/marine-molecule-may-help-combat-brain-eating-amoeba",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Woman in Banana Costume Slips into Action After Stumbling Upon Car Crash While Driving Home from Halloween Party",
+    "angle": "It's the kind of pure, no-catch feel-good story radio loves right after Halloween \u2014 someone still dressed as a banana stops to help total strangers after a car crash, and the visual alone is a built-in laugh-then-aww moment for listeners.",
+    "bullets": [
+      " A woman driving home from a Halloween party \u2014 still in a full banana costume \u2014 came across a car crash on the road.",
+      " Instead of driving past, she pulled over and jumped in to help at the scene.",
+      " What's the most ridiculous outfit you've ever been wearing when you had to suddenly be the responsible adult in the room? ON-AIR BIT BREAKDOWN - Step 1: Set Up The Scene - 30 seconds, cold open -> Host paints the picture: Halloween night, full banana costume, then \u2014 bam \u2014 a crash. Let the visual land before explaining what she actually did. - Step 2: The Costume Draft - 2-3 minutes, back-and-forth -> Hosts debate which classic Halloween costumes would actually help vs. hurt you in a real emergency (banana vs. doctor vs. inflatable dinosaur vs. mummy). - Step 3: Phone Lines Open - Caller segment -> Take calls/texts on listeners' own 'wrong outfit, right place' stories \u2014 embarrassing or heroic."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://people.com/woman-in-banana-costume-slips-into-action-after-stumbling-upon-car-crash-when-driving-home-from-halloween-p",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+    "angle": "It's the ultimate 'wait, what?' story \u2014 Anthropic is reportedly filing for what could be the biggest IPO in history, right as its own CEO keeps saying AI could be dangerous to humanity. That contradiction is pure radio gold.",
+    "bullets": [
+      " Anthropic has reportedly filed for an IPO that could be the biggest ever",
+      " At the same time, Anthropic's CEO has publicly warned about AI's risk to humanity",
+      " If the guy selling the rocket ship is also yelling 'this thing might explode,' do you still buy a ticket?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/anthropic-ipo-shares-public-ca2f4c282bef3201a392e59e3df2300c",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "It started with a joke about gold decor\u2014now two presidents are fighting over the cheesecake factory",
+    "angle": "A gold-decor joke somehow escalated into a diplomatic spat between two presidents - the kind of absurd headline that writes its own punchline and begs the question: how does a cheesecake chain become an international incident?",
+    "bullets": [
+      " What's the dumbest thing you've ever seen two grown adults actually fight about?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.chron.com/news/article/cheesecake-factory-trump-obama-22497504.php",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Google makes a privacy policy exception to use your Gmail and Photos data for ads",
+    "angle": "This one's hitting a nerve because it touches the two most personal corners of anyone's phone \u2014 your private emails and your camera roll \u2014 and people are asking whether 'we don't use your content for ads' ever really meant it.",
+    "bullets": [
+      " It's being framed as a narrow exception, not a blanket rewrite \u2014 but it chips away at a promise Google has leaned on for years: that inbox and photo content stays out of ads.",
+      " If Google can quietly carve exceptions into 'we don't read your stuff,' do you trust any privacy policy at face value anymore?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.androidauthority.com/google-personal-intelligence-privacy-3727111/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-27",
     "slot": "am",
     "category": "THE LIST",
     "title": "U.S. Justice Dept. charges James Comey, ex-FBI director, for a third time",
