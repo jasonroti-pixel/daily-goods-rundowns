@@ -1,6 +1,766 @@
 [
   {
     "date": "2026-10-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Scientists have developed a solar powered system that turns seawater into fresh water while capturing nearly all its salt as solid minerals instead of producing harmful brine. A related version also recovered about 50% of lithium from Great Salt Lake samples.",
+    "angle": "Fresh water shortages are a real global crisis, so a solar-powered fix that skips the toxic brine problem is a genuine big deal \u2014 and the fact it can also pull lithium out of the Great Salt Lake ties it straight into the EV battery race everyone's already talking about.",
+    "bullets": [
+      " Instead of dumping harmful brine back into the ocean, it captures almost all the salt as solid minerals.",
+      " A related version of the tech pulled about 50% of the lithium out of Great Salt Lake samples.",
+      " Lithium is the key ingredient in EV and phone batteries \u2014 so this isn't just a water story, it's a battery-supply story too.",
+      " If this scales up, would you trust \"lab-made\" drinking water in your tap \u2014 or does that sound like science fiction to you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://sciencedaily.com/releases/2026/09/260915100137.htm",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "A 24 year old US Coast Guard rescue swimmer spent nearly two hours pulling 16 people to safety in pitch darkness and 6 to 8 foot waves after their boat capsized 140 miles off Mexico's Baja California coast, while a helicopter crew guided the rescue using searchlights.",
+    "angle": "This is the kind of real-life hero story that stops a room \u2014 a 24 year old doing the job of ten people in the dark, hundreds of miles from land, with zero margin for error.",
+    "bullets": [
+      " A 24-year-old US Coast Guard rescue swimmer pulled 16 people from the water solo",
+      " Conditions: pitch darkness and 6 to 8 foot waves",
+      " A 24 year old just did two hours of work most of us couldn't do for two minutes \u2014 who's the most impressive 24 year old you personally know?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/coast-guard-rescue-boat-migrants-de15e35e618e195545d14dc3912fc599",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "'If not punished, mother cows will go extinct': Gujarat court sentences 3 to life imprisonment in cow slaughter case",
+    "angle": "A court in India just handed down life sentences \u2014 not for murder, but for slaughtering a cow \u2014 and the judge's jaw-dropping quote about saving the species from extinction is the kind of cultural head-scratcher that's made for debate on air.",
+    "bullets": [
+      " A court in Gujarat, India sentenced three people to life imprisonment for cow slaughter.",
+      " Cows are considered sacred in Hinduism, and several Indian states enforce strict anti-slaughter laws with severe penalties.",
+      " Does a life sentence for killing a cow sound like justice to you, or does the punishment not fit the crime?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.deccanherald.com/story/india/gujarat/if-not-punished-mother-cows-will-go-extinct-gujarat-court-sentences-3-to-life-impris",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Massive Leak Exposes 41,000 Homeland Security Workers\u2014Including Undercover ICE Agents",
+    "angle": "A data leak exposing tens of thousands of Homeland Security employees - including undercover ICE agents - is a national security story with real safety stakes, not just a tech headline, and it's landing right in the middle of the national debate over ICE's tactics and transparency.",
+    "bullets": [
+      " Those named reportedly include undercover ICE agents, whose identities are supposed to stay hidden",
+      " News is breaking out of r/technology, with details on the source of the leak still unclear",
+      " If undercover agents' identities are now public, does that change how safe - or how accountable - you think ICE actually is?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History",
+    "angle": "A viral claim is circulating that ICE has built one of the biggest anti-left surveillance operations in U.S. history \u2014 if even partly true, that's a huge story about government overreach and civil liberties that touches everyone, not just one city or group.",
+    "bullets": [
+      " Should people be worried about government agencies tracking political activity, or is this overblown?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Africa is on track to have the world\u2019s largest urban population in 2050, and is urbanizing at the rate of 2 cities the size of London every year. By 2050 its urban population is expected to be 1.4 billion, with an average age of 25.",
+    "angle": "By 2050 Africa's cities could hold more people than any region on Earth, and with an average age of just 25 while China, Europe and the US gray out, this is the clearest signal yet of where the world's next economic and cultural center of gravity is headed.",
+    "bullets": [
+      " Africa's urban population is projected to hit 1.4 billion by 2050",
+      " By 2050 Africa's average age will be just 25 \u2014 compare that to 42 in the US, 45 in Europe, and 50 in China",
+      " China's population is on track to halve by the end of the century",
+      " Which superpower actually wins the back half of this century \u2014 the one with the youngest population on Earth, or the one with the deepest pockets right now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/r/Futurology/comments/1xhzp5b/africa_is_on_track_to_have_the_worlds_largest/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Climate change must be declared a \"global health emergency\" to shape governments' policies after heat caused three million deaths between 2016 and 2023. By reducing worker productivity, warming has cost the global economy more than $1 trillion per year over the past three years",
+    "angle": "This isn't just about melting ice caps anymore \u2014 researchers are saying heat is killing millions and draining trillions from the global economy, which means it's hitting your wallet and your health, not just the environment.",
+    "bullets": [
+      " Researchers say extreme heat caused 3 million deaths between 2016 and 2023",
+      " Scientists are calling for climate change to be declared a \"global health emergency\"",
+      " Warming has cost the global economy more than $1 trillion per year over the past three years",
+      " Does slapping an \"emergency\" label on climate change actually change government policy, or is it just a headline?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.eurekalert.org/news-releases/1148895",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "EXCLUSIVE: U.S. ambassador warns Canada could shoulder blame if midterms go against Trump",
+    "angle": "A sitting U.S. ambassador publicly floating that Canada could get scapegoated if Trump's party loses the midterms is a wild escalation in an already tense cross-border relationship - and it's got Canadians online asking why they're suddenly a political punching bag for an election they can't even vote in.",
+    "bullets": [
+      " A U.S. ambassador is warning that Canada could get blamed if the midterms break against Trump",
+      " It's landing hard in Canadian circles - the story was flagged out of r/canada",
+      " Is it fair for a U.S. official to pin American election losses on Canada - or is this just blame-shifting ahead of a tough midterm?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/exclusive-us-ambassador-warns-canada-could-shoulder-blame-if-midterms-go-ag",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Pete Hoekstra warns Canada that he will personally annex one province for every state Trump loses in midterms",
+    "angle": "This plugs straight into the ongoing 'Canada as the 51st state' drama Trump's been stoking \u2014 now it's apparently coming from his own ambassador, tying provincial annexation threats to US midterm losses. It's the kind of over-the-top political rhetoric that's got Canadians (and Reddit) buzzing about just how serious - or unhinged - US-Canada relations have gotten.",
+    "bullets": [
+      " Pete Hoekstra, the US Ambassador to Canada, is reportedly behind the warning",
+      " It's blowing up on r/canada, with Canadians reacting to the escalating '51st state' rhetoric out of Washington",
+      " Is this just trolling, or is the US-Canada relationship actually this tense right now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thebeaverton.com/2026/10/pete-hoekstra-warns-canada-that-he-will-personally-annex-one-province-for-every-state-trum",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "U.S. steel CEO's 'confessions' for buying Stelco prompted government to call its lawyers: industry minister",
+    "angle": "A U.S. steel boss may have talked himself into a government investigation over his takeover of Canada's own Stelco \u2014 a sovereignty-and-jobs story that taps right into the ongoing U.S.-Canada trade nerves.",
+    "bullets": [
+      " Canada's Industry Minister says the U.S. CEO's own comments amounted to \"confessions\" about his real intentions for Stelco",
+      " Those remarks were serious enough that the federal government called in its lawyers",
+      " Stelco is a legacy Canadian steelmaker now in the hands of a U.S. owner",
+      " Should Canada have let a U.S. company buy one of its biggest steelmakers in the first place?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/politics/government-stelco-lawyers-confessions-9.7399595",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Jordan Klepper Says Barack Obama Set A Trap And Donald Trump Fell Right Into It",
+    "angle": "A comedian's political dig at two of the biggest names in American politics is exactly the kind of hot take that splits a room \u2014 and it's already lighting up entertainment feeds.",
+    "bullets": [
+      " Jordan Klepper says Barack Obama set a political trap for Donald Trump",
+      " Per Klepper, Trump walked right into it",
+      " Is this sharp political comedy or just more partisan pot-stirring \u2014 where do you land?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.huffpost.com/entry/jordan-klepper-donald-trump-obama-trap_n_6ae1cf25e4b0bcffa26a855f?utm_medium=Social&utm_s",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Brazilian President Luiz In\u00e1cio Lula da Silva reacts to Fl\u00e1vio Bolsonaro fleeing to the US: \u201cUnfortunately, the Bolsonaro family is like that. Brazil is his second homeland. His first homeland is bootlicking the United States, as he\u2019s got used to doing.\u201d",
+    "angle": "Brazil's president just torched a rival political dynasty on the world stage, accusing them of ditching their own country to hide out in the U.S. \u2014 a juicy, cross-border political feud with real friction between two major democracies.",
+    "bullets": [
+      " Luiz In\u00e1cio Lula da Silva fired back after Fl\u00e1vio Bolsonaro reportedly fled to the United States.",
+      " Lula's quote: \"Unfortunately, the Bolsonaro family is like that... Brazil is his second homeland.\"",
+      " He went further, saying the family's \"first homeland\" is \"bootlicking the United States.\"",
+      " When politicians flee to the U.S. to dodge trouble back home, are we a safe haven or just an escape hatch for the world's controversial power players?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/ks686wr2e8yh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "$40M Lotto Max ticket validated hours before midnight deadline: OLG",
+    "angle": "A Lotto Max winner cut it down to the wire, getting their ticket validated just hours before it would've expired worthless \u2014 the ultimate nightmare scenario that makes everyone check their old lottery tickets tonight.",
+    "bullets": [
+      " OLG (Ontario Lottery and Gaming) confirmed the validation.",
+      " It was claimed just hours before the midnight deadline \u2014 meaning it was about to become void."
+    ],
+    "debate": "Go check your junk drawer right now \u2014 when's the last time you actually looked at an old lottery ticket?",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/toronto/article/40m-lotto-max-ticket-validated-hours-before-midnight-deadline-olg/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "EU set to scrap \u2018associate member\u2019 offer for Canada",
+    "angle": "The EU was reportedly dangling a special 'associate member' status for Canada to tighten ties - and now that offer looks dead. It's a small diplomatic story with a big subtext: where does Canada actually fit as old alliances get reshuffled?",
+    "bullets": [
+      " Details on the original offer - and why it's being pulled now - are still thin, but the signal itself is the story: a door that was opening appears to be closing.",
+      " Should Canada be chasing a tighter bond with Europe right now, or is this just diplomatic noise?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.politico.eu/article/eu-set-to-scrap-associate-member-status-offer-for-canada/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Bank of Canada raises key interest rate, says another hike possible",
+    "angle": "Every mortgage renewal, car loan, and credit card bill in the country just got a little scarier, and the Bank of Canada just admitted this might not be the last hike.",
+    "bullets": [
+      " Translation: borrowing costs aren't done climbing yet",
+      " Who's feeling this one the most right now \u2014 are you holding off on a mortgage renewal or a big purchase because of these rates?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cp24.com/news/canada/2026/10/28/bank-of-canada-raises-key-interest-rate-says-another-hike-possible/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "'It feels fantastic,' Scott Gillingham says after winning another term as Winnipeg mayor",
+    "angle": "Scott Gillingham fought off a crowded field to keep his job as Winnipeg mayor, and the runner-up isn't some career politician \u2014 it's a newspaper CEO, which makes for a fun municipal plot twist.",
+    "bullets": [
+      " Scott Gillingham wins a second term as mayor of Winnipeg, per CBC projections",
+      " Winnipeg Sun CEO Kevin Klein finished in second place",
+      " Software developer Noah Redden came in a close third",
+      " A newspaper boss running for mayor and almost winning \u2014 is that a conflict of interest or just a guy with opinions and a platform?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/manitoba/winnipeg-votes-2026-mayor-9.7398017?cmp=rss",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "'Crypto King' Aiden Pleterski addresses jury at his fraud trial for first time, says he's innocent",
+    "angle": "Toronto's self-styled 'Crypto King,' accused of running a massive investment fraud, broke his silence at trial and told the jury flat out: he's innocent \u2014 a last-word moment that could swing how this one lands.",
+    "bullets": [
+      " Aiden Pleterski, who branded himself the 'Crypto King', is on trial for fraud in Toronto",
+      " He addressed the jury for the first time in his trial on Wednesday",
+      " His closing statement was brief \u2014 he thanked the jury and maintained he's innocent",
+      " He's stayed silent this whole trial \u2014 does speaking up now help him or just remind everyone what he's accused of?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/toronto/crypto-king-aiden-pleterski-fraud-trial-closing-statement-9.7399811?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Personal data of 40,000 U.S. Homeland Security employees leaked in security breach",
+    "angle": "A leak site just dumped personal info on over 40,000 U.S. Homeland Security employees \u2014 including people working undercover in surveillance and human intelligence, which raises real safety questions, not just privacy ones.",
+    "bullets": [
+      " More than 40,000 Department of Homeland Security employees are affected",
+      " Leaked details include staff working in sensitive fields like surveillance and human intelligence",
+      " If you worked undercover for the government, would you trust your employer to keep you safe after something like this?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/world/dhs-data-breach-leak-distributed-denial-of-secrets-9.7400488?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "\u2018I got to hand it to Subaru. They made a good car\u2019: Bear locks itself inside vehicle",
+    "angle": "A wild bear somehow let itself into a car but couldn't figure out how to get back out \u2014 a classic goofy Canadian wildlife story with a punchline review for Subaru's build quality.",
+    "bullets": [
+      " A bear locked itself inside a vehicle",
+      " What's the wildest 'animal breaks into my car' story you've got \u2014 call in or send it in. CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "lRoWE82NE9RUUlzbGZDYWJLUmtMbld4THA2N21MYkR0NWloZHZRU1hEMGtpeE45RDN4a29yMWdSTQ?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdWxqaXZFZEVVLUcxTVJ3djFWZE05Rjk0ME9tcVppMXhvNEJCWmZfUH",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "\u2018Flash bang\u2019 sound wakes residents in northeast Barrie neighbourhood",
+    "angle": "An unexplained loud bang waking up a whole neighbourhood overnight is instant watercooler material \u2014 everyone loves a good 'what was that noise' mystery, especially when nobody has an answer yet.",
+    "bullets": [
+      " A loud \"flash bang\"-style sound startled residents awake overnight in a northeast Barrie neighbourhood.",
+      " Fireworks, a transformer blowout, or something way weirder \u2014 what's your theory on the Barrie boom? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "xUVplUE0xVVZqLThfSmRSd2EwVndVNFpTbTM3b2RuTGlEcFJOUXAxZ1NmZXl1ZDM?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV3NKRnpIWWpmSXBSMnE4YjR0MzlBZWIwUHVlUGQ5MzN4MU9heGR",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Judi Dench Gives Hilarious, Heartfelt Interview at 91: Love, Grief and the Role That Got Away (Exclusive) - People.com",
+    "angle": "A living legend rarely goes this candid \u2014 at 91, Judi Dench is reportedly getting personal about love, loss, and the role she regrets missing, and that kind of raw honesty from a Dame always makes for great radio.",
+    "bullets": [
+      " Judi Dench, now 91, sat down for a rare, exclusive People interview",
+      " She reportedly gets candid on love and grief",
+      " She also opens up about \"the role that got away\" \u2014 a part she never landed",
+      " What's the 'role that got away' in YOUR life \u2014 the job, the chance, the person you still think about? People (via Google News) (Tier 2) | Score: 86/90 (45 fit + 8 source + 33 quality) -> LEAD"
+    ],
+    "debate": "hQVFJMUxZeHVCQTd4XzM2NC1rY2o0bjhMaWpMWnJsakgwdw?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVUpwYk5ldTUyVWZvYkdXaVhham5oVFNUcUI3S3Y0eFN2NkEtb2l3YlV",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'Oof': '60 Minutes' loses key ratings battle to 'America's Funniest Home Videos'",
+    "angle": "A legendary hard-news institution losing its Sunday night slot to home videos of dogs and skateboard wipeouts is the kind of TV ratings upset that writes its own punchline.",
+    "bullets": [
+      " '60 Minutes' \u2014 one of TV's most respected newsmagazines \u2014 lost a key ratings battle to 'America's Funniest Home Videos'",
+      " Does this say more about '60 Minutes' slipping or about how much people just want to laugh right now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.rawstory.com/60minutes-ratings-spiral/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "We don\u2019t do nepotism, says Jessica Biel, as son appears in her film",
+    "angle": "Hollywood's 'nepo baby' debate just got a new entry straight from the source, with Jessica Biel defending her own casting choice before anyone even accuses her of it.",
+    "bullets": [
+      " Jessica Biel is pushing back on the \"nepotism\" label after casting her own son in her latest film.",
+      " She's drawing a hard line, insisting it's not a nepotism move on her part.",
+      " It puts her right in the middle of Hollywood's ongoing nepo baby conversation.",
+      " Is it ever really 'not nepotism' when a star casts their own kid, or is that just the price of admission in Hollywood?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.telegraph.co.uk/news/2026/10/28/we-dont-do-nepotism-says-jessica-biel-as-son-appears-in-her/?WT.mc_id=tmgoff_redd",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Christina Ricci shares a message: \"Call me radical, but I\u2019d rather have my tax money fund your insulin and cancer treatment than bombs and warfare.\"",
+    "angle": "A Hollywood name wading straight into the guns-vs-butter debate is instant conversation fuel \u2014 healthcare costs and defense spending are two things everybody has an opinion on.",
+    "bullets": [
+      " Christina Ricci posted: \"Call me radical, but I'd rather have my tax money fund your insulin and cancer treatment than bombs and warfare.\"",
+      " Should celebrities use their platform for political takes, or is that a lane they should stay out of?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://i.redd.it/ntxz8l4n69yh1.jpeg",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Bernie Sanders: \"I will tell you why Elon Musk and the other billionaires are flooding the airwaves with racist, Islamophobic ads. Because they have nothing to say about the important issues facing working people\"",
+    "angle": "Bernie Sanders is accusing Elon Musk and other billionaires of bankrolling \"racist, Islamophobic\" ad campaigns to drown out real economic issues \u2014 a juicy political slap-fight that's catching fire across social feeds.",
+    "bullets": [
+      " Bernie Sanders named Elon Musk directly, accusing him and \"other billionaires\" of flooding the airwaves with ads.",
+      " Sanders specifically called the ads \"racist, Islamophobic\".",
+      " His theory: it's a smokescreen because they have \"nothing to say about the important issues facing working people.\"",
+      " Is Bernie landing a real punch here, or just stirring the pot with Musk for clicks?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/wzsdw8t9p8yh1",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Milwaukee Brewers defeat Tampa Bay Rays to become 1st-time World Series champions",
+    "angle": "Milwaukee waited over 50 years for this one, and the scrappy, lower-payroll Brewers just shocked the baseball world by knocking off Tampa Bay to win it all \u2014 the ultimate underdog story sports fans love to talk about.",
+    "bullets": [
+      " Milwaukee Brewers won their first-ever World Series title",
+      " Beat the Tampa Bay Rays 4-1 in Game 5",
+      " Clinching game played at Tropicana Field in St. Petersburg, Fla.",
+      " Series wrapped up on a Wednesday night",
+      " Who's your all-time favorite underdog champion \u2014 and does this Brewers run beat it?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/sports/baseball/mlb/brewers-win-world-series-game-5-rays-9.7400365?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Moody skies, ocean views and local talent: B.C. shines in new Crave series Yaga",
+    "angle": "A spooky Slavic folklore series just dropped on Crave and it's already trending hard, plus it turns out those eerie forests and coastlines are straight-up B.C. - perfect local pride story with Halloween right around the corner.",
+    "bullets": [
+      " Series is called Yaga, a supernatural mystery pulling from Slavic folklore around Baba Yaga",
+      " Premiered on Crave on Oct. 23 and has been trending high since",
+      " Producers say British Columbia was the perfect filming location for the moody, atmospheric look",
+      " Uses local B.C. talent and scenery - ocean views, overcast skies - to build the show's vibe",
+      " Have you noticed how many shows and movies are secretly filmed right here in B.C. - what's the most surprising one you've spotted?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/bc-filming-yaga-actors-9.7398527?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "2026 Airbnb Gala red carpet: Jessica Alba, Matthew McConaughey, Charli XCX and more",
+    "angle": "A random grab-bag of A-listers all showed up to the same party, which means instant pop-culture bingo for the hosts - who wore it best, who's an odd pairing, and why an Airbnb gala suddenly has this much star power.",
+    "bullets": [
+      " Jessica Alba hit the red carpet at the 2026 Airbnb Gala.",
+      " Matthew McConaughey was also among the big names spotted.",
+      " Pop star Charli XCX rounded out the star-studded guest list.",
+      " Best dressed of the night - Alba, McConaughey, or Charli XCX?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://pagesix.com/2026/10/28/photos/2026-airbnb-gala-red-carpet-jessica-alba-matthew-mcconaughey-charli-xcx-and-more/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Brewers handle Rays in Game 5 to win franchise\u2019s long-awaited first World Series crown",
+    "angle": "The Brewers just won the franchise's first-ever World Series, knocking off the Rays in Game 5 \u2014 a decades-long championship drought snapped overnight, and that's the kind of underdog payoff that gets even non-baseball fans talking.",
+    "bullets": [
+      " It's the first World Series title in franchise history for Milwaukee.",
+      " Ends a championship drought that's been the longest-running storyline for Brewers fans for generations."
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/28/sports/brewers-handle-rays-in-game-5-to-break-57-year-world-series-title-drought/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "\u201890s rock song hits No. 1 on the charts nearly 30 years after its debut",
+    "angle": "A rock song from the '90s is topping the charts again nearly 30 years after it first came out \u2014 proof a great hook never actually expires, and it's the kind of streaming-era fluke that makes people feel old and nostalgic at the same time.",
+    "bullets": [
+      " What's the one '90s song you'd bet could chart again today if it got the right viral moment? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "2lBUzVpbEZsd0VtY2M0YXdJand4NzVzTmtmNV9BQnRXREkxVFBNaFN6aE1FQ0w1Vkt6?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGNpTjRpZWJWNFY1SFhuVW9PMXlaMDBoMVVqSXJ0dmdIdDdXZVlfN",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Pink Defends Her Viral Makeup-Free Paparazzi Photo with Pointed Message - People.com",
+    "angle": "A candid, no-makeup shot of Pink went viral for all the wrong reasons, and instead of staying quiet she clapped back with a pointed message - which taps straight into the never-ending debate about how we scrutinize women's looks in public.",
+    "bullets": [
+      " Why is a celebrity just existing without makeup still treated like a scandal? People (via Google News) (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FSHdQY09XR2Y4RUZ3OXlyNmNSN2h4anlDVmpFRmNHNVFiU3hwZDJLa",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Former CEO faces backlash for admitting to using AI to answer what makes her daughter special",
+    "angle": "A former CEO is getting dragged online after admitting she used AI to help answer a simple, personal question about her own daughter \u2014 and it's tapping into a bigger nerve about parents outsourcing emotional moments to chatbots.",
+    "bullets": [
+      " A former CEO is facing online backlash after revealing she used AI to help answer the question of what makes her daughter special.",
+      " Limited details are available beyond the admission itself, but the reaction has been swift and pointed.",
+      " Is using AI to answer something personal about your own kid lazy parenting, or just a smart shortcut in a busy life? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUlVVYkdlWExidWR4YUZWVnRYY1hha0RKaWhMdkdEeWlocnRHY010b",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "NBA alum Lamar Odom launches OnlyFans account: \u2018Get to know the REAL me\u2019 - Page Six",
+    "angle": "A two-time NBA champion who made nine figures in salary alone is now selling subscriptions on an adult platform \u2014 that gap between his basketball legacy and this new chapter is exactly the kind of reinvention story people can't help but talk about.",
+    "bullets": [
+      " Lamar Odom, 46, officially launched his OnlyFans account this past Tuesday.",
+      " Over his NBA career he earned roughly $110 million in salary alone.",
+      " His bio leads with his r\u00e9sum\u00e9: a two-time NBA champion.",
+      " His pitch to fans: \"Get to know the REAL me.\"",
+      " Smart late-career rebrand or a sign a legend needs the cash \u2014 which is it? Page Six (via NewsAPI) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://pagesix.com/2026/10/27/celebrity-news/nba-alum-lamar-odom-launches-onlyfans-account/",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "After 20+ years of decline, US colorectal cancer rates are rising again, and not just in young people. A new NEJM Evidence study finds rates climbing in every age group up to 65-69, even where screening is high. COVID doesn't explain it, so scientists are studying environmental chemicals as a cause.",
+    "angle": "This isn't just a young-adults story anymore \u2014 a new study shows the rise is hitting nearly every age group, even with screening way up, which means something in our environment might be the real culprit.",
+    "bullets": [
+      " A new NEJM Evidence study found colorectal cancer rates rising again after 20+ years of steady decline.",
+      " Rates are rising even in populations where screening rates are high, so it's not just about catching more cases.",
+      " COVID doesn't explain it \u2014 researchers are now looking at environmental chemicals as a possible cause.",
+      " If screening's up and COVID's ruled out, what do you think is actually behind this \u2014 food, plastics, or something else in our daily lives?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.uchicagomedicine.org/forefront/cancer/rising-rates-of-colorectal-cancer",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Expert Judgement Can Be Easily Hacked by AI, Anthropic Study Finds",
+    "angle": "Anthropic just found that people take AI advice way more than they think \u2014 and then take credit for it themselves. That's a wild mirror to hold up to anyone who's ever asked ChatGPT or Claude for a second opinion.",
+    "bullets": [
+      " 86% of participants in the study ended up following Claude's advice when making a decision.",
+      " Only a small fraction of those people actually admitted the AI had shaped their choice.",
+      " Be honest \u2014 have you ever taken AI's advice and then told everyone it was 'just your gut'? gizmodo.com (Tier 2) | Score: 82/90 (45 fit + 8 source + 29 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://gizmodo.com/expert-judgement-can-be-easily-hacked-by-ai-anthropic-study-finds-2000832143",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "A new elementary school in Texas will be named after Marilyn Hampton, a retired custodian who spent 39 years at Aubrey Independent School District and did more than just custodial work during that time, including buying and delivering school supplies and helping students study for tests.",
+    "angle": "This is the ultimate underdog-wins story \u2014 a school district looked past the job title and honored the person who actually showed up for kids for four decades. It's the kind of feel-good moment that makes people think about who did that for THEM growing up.",
+    "bullets": [
+      " Marilyn Hampton spent 39 years as a custodian at Aubrey Independent School District in Texas.",
+      " A brand-new elementary school in the district will be named after her.",
+      " She went way beyond cleaning duties \u2014 buying and delivering school supplies to kids who needed them.",
+      " She also personally helped students study for tests.",
+      " Who's the janitor, bus driver, or lunch lady from YOUR school who deserves a building named after them? ON-AIR BIT BREAKDOWN - Step 1: Open the Phone Lines - 30-60 seconds, right after the story -> Ask listeners to call or text in the name of a school staffer \u2014 not a teacher \u2014 who went out of their way for them as a kid. - Step 2: Hosts Share First - Quick personal beat to prime the lines -> Each host names their own 'Marilyn Hampton' from school before taking caller stories."
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.1011now.com/2026/10/24/retired-custodian-gets-new-elementary-school-named-her-honor/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "Federal judge rules top US prosecutor in Los Angeles isn't legally serving",
+    "angle": "A federal judge just ruled the guy running the US Attorney's office in Los Angeles isn't actually legally holding that job - the kind of bureaucratic paperwork fumble that sounds made up but somehow isn't, which is exactly why it landed on r/nottheonion.",
+    "bullets": [
+      " A federal judge ruled the current top federal prosecutor in Los Angeles isn't legally serving in that role.",
+      " It raises an awkward follow-up question: what happens to cases that office has already been handling?",
+      " So... who's technically been in charge of prosecuting cases in LA this whole time?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://apnews.com/article/bill-essayli-federal-judge-rules-illegally-serving-c3e6aa99c9d90193d649b8565e4f213a",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "CLOSER: THE KICKER/GOODBYES",
+    "title": "California Baywatch Star Finds Her Footing With Feet Pics as OnlyFans Earnings Head Towards $1 Million: \u2018Definitely Stepping Outside My Comfort Zone\u2019",
+    "angle": "A former Baywatch star cashing in on foot pics is the perfect lighthearted, side-hustle-economy story to send listeners off with a laugh.",
+    "bullets": [
+      " A Baywatch alum is now selling feet pics on OnlyFans",
+      " Her earnings are reportedly closing in on $1 million",
+      " Her own words: it's 'definitely stepping outside my comfort zone'",
+      " Would you cash in on an unconventional side hustle for a shot at six figures?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://thenerdstash.com/california-baywatch-star-finds-her-footing-with-feet-pics-as-onlyfans-earnings-head-towards-1-million-definit",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Indian Supreme Court asks Pharma companies to cut costs of cancer drugs upto 70%",
+    "angle": "India's Supreme Court is leaning on pharmaceutical companies to cut cancer drug costs by up to 70%, and it instantly reignites the \"why do drugs cost so much here\" conversation North American listeners have about their own prescriptions.",
+    "bullets": [
+      " India's Supreme Court is pressuring pharmaceutical companies to cut cancer drug prices by as much as 70%.",
+      " It puts Big Pharma's pricing practices under a judicial spotlight, not just a regulatory one.",
+      " If a court can order a 70% price cut on cancer drugs over there, why can't that happen here?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/global-development/2026/oct/23/india-cuts-cost-cancer-drugs",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Taco Bell is giving away $13M in scholarships \u2014 and you don\u2019t need a GPA to apply",
+    "angle": "A fast food giant funding college dreams is the kind of good-news story that cuts through the noise \u2014 and ditching the GPA requirement opens it up to kids who get overlooked by every other scholarship out there.",
+    "bullets": [
+      " Taco Bell is giving away $13 million in scholarships",
+      " No GPA requirement to apply \u2014 a rare move for a scholarship program",
+      " Framed as a feel-good, barrier-breaking opportunity for students",
+      " Should more scholarships ditch the GPA requirement, or does that undersell academic effort?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.the-independent.com/life-style/taco-bell-scholarships-b3075136.html",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "In Americus, Georgia, a bakery\u2019s $5 \u201cDough Bucks\u201d buy hot breakfasts for anyone struggling to afford a meal. Customers pin vouchers to a board and add personal messages, so strangers can claim a free breakfast along with a little kindness from someone they\u2019ve never met.",
+    "angle": "This is the ultimate pay-it-forward story \u2014 a tiny Georgia town turned breakfast into a community safety net, and it's the kind of pure feel-good moment that spreads fast online because everyone wants to believe people are still this generous.",
+    "bullets": [
+      " Customers buy \"Dough Bucks\" vouchers for just $5 each",
+      " Vouchers get pinned to a board so anyone struggling to afford a meal can grab one for a free hot breakfast",
+      " Buyers often attach a personal note, so strangers get a meal and a kind word from someone they've never met",
+      " Would you want a 'pay it forward' board like this at your own go-to coffee shop or diner?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.walb.com/2026/10/23/americus-bakery-turns-5-donations-into-hot-meals-people-need/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "\u2018Elonville\u2019: US residents say Musk\u2019s xAI offered to buy homes if they don\u2019t sue over datacenter noise",
+    "angle": "Elon Musk's xAI is reportedly offering to buy out homeowners near its datacenter if they agree not to sue over the noise \u2014 a real-life 'company town' story with a nickname, 'Elonville,' that writes itself.",
+    "bullets": [
+      " Residents near an xAI datacenter say the company offered to buy their homes outright",
+      " Locals have started calling the area 'Elonville'",
+      " Story is circulating out of Reddit's r/technology community",
+      " Would you take the buyout and move, or stay and fight the noise in court?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi?CMP=Share_AndroidApp_Other",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Jamie Dornan Says There\u2019s \u2018Pressure\u2019 to Taking Over Aragorn Role in \u2018Lord of the Rings: Hunt for Gollum\u2019: I\u2019m Not \u2018Trying to Outdo\u2019 Viggo Mortensen",
+    "angle": "Recasting a beloved character is always instant debate bait, and Dornan taking over Aragorn from Viggo Mortensen for the LOTR prequel \"Hunt for Gollum\" is exactly that kind of fanbase lightning rod.",
+    "bullets": [
+      " Jamie Dornan is stepping into the Aragorn role for \"Lord of the Rings: Hunt for Gollum\"",
+      " He admits there's \"pressure\" taking over a role this iconic",
+      " Dornan says he's not \"trying to outdo\" original Aragorn actor Viggo Mortensen",
+      " Could anyone really replace Viggo Mortensen as Aragorn, or is this recast fighting an uphill battle before it even starts?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/film/news/hunt-for-gollum-jamie-dornan-aragorn-lord-of-rings-1236933354/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "\u2018Crystal Lake\u2019 Hits 1.3 Billion Minutes Watched in 11 Days, Becoming Peacock\u2019s No. 4 Scripted Debut Ever",
+    "angle": "In just under two weeks, 'Crystal Lake' became one of the biggest scripted launches Peacock has ever had \u2014 proof that streaming horror is still a huge draw and worth a quick pop-culture check-in with listeners.",
+    "bullets": [
+      " 'Crystal Lake' racked up 1.3 billion minutes watched in only 11 days on Peacock.",
+      " That haul makes it Peacock's No. 4 scripted debut of all time.",
+      " Another signal that horror/thriller originals are becoming a go-to growth engine for streamers chasing subscribers.",
+      " Have you binged 'Crystal Lake' yet, or has horror-prequel fatigue finally caught up with you?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://variety.com/2026/tv/news/crystal-lake-ratings-peacock-1236932312/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-28",
     "slot": "am",
     "category": "THE LIST",
     "title": "A world first basic income trial gave 211 Indigenous people in Peru\u2019s Amazon about \u00a32 a day for two years. Households unable to afford nutritious food fell from 73% to 26%, while 87% took part in rainforest protection, including tree planting and restoring water sources.",
