@@ -1,6 +1,662 @@
 [
   {
     "date": "2026-10-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "The $6.3 Billion Binance Hack Was Pulled Off in Just 20 Minutes",
+    "angle": "A heist bigger than most bank robberies combined, pulled off in less time than it takes to order lunch - this is the kind of number that makes people ask if their own money anywhere is actually safe.",
+    "bullets": [
+      " Reported price tag: $6.3 billion stolen from crypto exchange Binance",
+      " Binance is one of the world's largest crypto exchanges, so this isn't some obscure wallet getting drained",
+      " If a hacker can grab $6.3 billion in 20 minutes, would you ever trust your money with crypto?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 86/90 (45 fit + 12 source + 29 quality) -> LEAD",
+    "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+    "score": "86/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "86% drop in sewage discharges into Thames",
+    "angle": "86% drop in sewage discharges into Thames",
+    "bullets": [],
+    "debate": "l-transfers-to-thames-water?utm_source=substack&utm_medium=email",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thameswater.co.uk/news/2026/oct/86-drop-in-sewage-discharges-into-thames-as-the-operation-of-thames-tideway-tunne",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Serbia\u2019s students demand resignations in police, judiciary as they prepare to take power",
+    "angle": "A student-led protest movement in Serbia isn't just marching anymore \u2014 they're demanding resignations in police and the courts as they position themselves to actually take power, a genuinely wild escalation that's catching international attention.",
+    "bullets": [
+      " Serbian students are publicly demanding resignations within the police and judiciary.",
+      " It's a rare case of a youth protest movement moving from the streets toward actually running the government.",
+      " Would you trust a government built by protest-movement students over career politicians?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.nbcnews.com/world/europe/serbia-students-demand-resignations-police-judiciary-power-rcna606320?cid=sm_npd_nn_t",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Westboro police chief was \"hammered drunk,\" sleeping in unmarked cruiser outside liquor store, police say",
+    "angle": "It's the ultimate do-as-I-say-not-as-I-do story - the guy in charge of enforcing the law gets caught breaking it in spectacular fashion, which is exactly why it's blowing up on Reddit's r/nottheonion.",
+    "bullets": [
+      " He was discovered asleep in his own unmarked cruiser.",
+      " If a regular driver got found blackout drunk in a parked car outside a liquor store, they'd be arrested - so does the badge get him a pass, or should it make it worse?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbsnews.com/boston/news/westboro-police-chief-todd-minardi-leave",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Thousands of \u201cghost students\u201d use AI to steal millions in student loans, DOJ says",
+    "angle": "The DOJ just busted a nationwide scam where fraudsters used AI and stolen identities to enroll as fake college students and pocket the loan money \u2014 a wild new wrinkle in the AI fraud wave hitting everyday systems.",
+    "bullets": [
+      " DOJ charged five individuals in the first broad federal crackdown on so-called \"ghost students.\"",
+      " Fraudsters used AI plus stolen identities of hundreds of real Americans to pose as fake college students.",
+      " Feds seized over $750,000 in cryptocurrency tied to the scheme.",
+      " If AI can fake its way into college and walk off with your loan money, what system gets exploited next?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "OpenAI CEO says it's 'quite terrible' for your PC to have RAM",
+    "angle": "The OpenAI CEO is catching heat online for basically telling regular PC owners their memory chips are the inconvenience \u2014 right as AI's hunger for chips is widely blamed for squeezing supply and jacking up prices for everyone else.",
+    "bullets": [
+      " Sam Altman, CEO of OpenAI, called it \u201cquite terrible\u201d that your average PC still has RAM in it.",
+      " It lands right as the AI industry's chip demand keeps getting pointed to as the reason memory prices are climbing for everyday buyers.",
+      " Is it rich for the guy whose industry is gobbling up the world's chip supply to act like YOUR laptop having RAM is the inconvenience?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-sa",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+    "angle": "This sounds straight out of a spy movie \u2014 a material that hides objects from thermal/infrared cameras \u2014 and it's got obvious buzz for everything from military tech to \"could someone use this to dodge security cameras.\"",
+    "bullets": [
+      " Thermal cloaking tech existing in real life \u2014 cool breakthrough or should we be a little nervous about who gets it first?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "\u201860 Minutes\u2019 producers bailed on Senate story over Bari Weiss meddling fears: report",
+    "angle": "This is a big one for anyone who cares about press freedom \u2014 a flagship CBS newsmagazine allegedly pulling punches on a Senate story because producers were scared of their own new boss. It's the kind of behind-the-scenes media drama that fuels the whole 'is the news being controlled?' conversation right now.",
+    "bullets": [
+      " '60 Minutes' producers reportedly bailed on a story involving the Senate",
+      " Comes amid ongoing scrutiny over editorial control at CBS News",
+      " Is this smart editorial caution, or a newsroom that's already spooked into self-censoring?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.rawstory.com/bari-weiss-60-minutes-2678168373/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Abdul Al-Sayed: \u201cRFK Jr. was in town this week\u2026 He said that the 500 million Arabs in the world had never contributed anything to science. But to be fair, he is an expert on people who never contributed anything to science.\u201d",
+    "angle": "A sitting health official allegedly dismissing the scientific contributions of 500 million people is the kind of racially-charged soundbite that's built for outrage, and the clapback from a prominent physician/politician is going viral for being savage rather than diplomatic.",
+    "bullets": [
+      " RFK Jr. is quoted saying the 500 million Arabs in the world \"had never contributed anything to science\"",
+      " Was that comeback the perfect mic-drop, or did it stoop to the same level?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/6a9v93ggejyh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "THE LIST",
+    "title": "Pope Leo XIV has submitted a mail-in ballot for the US midterms, becoming the first pope to vote in a US election and likely the first to vote in a secular democratic election.",
+    "angle": "Pope Leo XIV reportedly mailed in a ballot for the US midterms \u2014 making him the first pope ever to vote in a US election, and maybe the first to vote in any secular democracy, period. That's a genuinely wild historical first that touches politics, religion, and American identity all at once.",
+    "bullets": [
+      " Pope Leo XIV has submitted a mail-in ballot for the US midterms",
+      " He'd be the first pope to ever vote in a US election",
+      " Likely the first pope in history to vote in any secular democratic election",
+      " Should the pope even be weighing in on American politics \u2014 or is this just a guy exercising his right to vote?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://edition.cnn.com/2026/10/30/europe/pope-leo-voting-us-midterms-intl?Date=20261030&Profile=CNN&utm_content=17933671",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Loss of Canadian shoppers a $64M hit to Washington State: report",
+    "angle": "This is the receipt for the 'Buy Canadian' movement - Washington State is feeling the real economic bite from Canadians skipping cross-border shopping trips, and it's a story that plays out the same way in border towns across the country.",
+    "bullets": [
+      " A new report pins the hit to Washington State's economy at $64 million",
+      " It's the clearest dollar figure yet on how border-town retail is being squeezed by the shift in Canadian spending habits",
+      " Have you personally cut out your cross-border shopping trips - and do you think it's actually making a dent?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://globalnews.ca/news/12126741/washington-state-canadian-shoppers-report/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Mark Carney: Canada has 'learned we are overdependent on the US'",
+    "angle": "Canada's PM is openly admitting the country put too many eggs in the American basket - a pretty blunt admission from a sitting Prime Minister about just how exposed Canada's economy is to whatever Washington decides to do next.",
+    "bullets": [
+      " Mark Carney says Canada has \"learned we are overdependent on the US\"",
+      " Comment points to Canada's economic and trade reliance on its southern neighbor",
+      " Comes amid ongoing friction over U.S. trade policy affecting Canadian industries",
+      " Should Canada be actively cutting ties with the U.S. economy, or is that just not realistic for a country that shares the world's longest border?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.dw.com/en/mark-carney-canada-has-learned-we-are-overdependent-on-the-us/a-79811469",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "CTV News went to Kentucky to see if Canada\u2019s bourbon bans are hurting them. Their response was blunt",
+    "angle": "Canadian stores have been boycotting American booze as part of the ongoing trade spat with the U.S., so CTV sent a crew straight to bourbon country to ask if it's actually landing a punch - a classic 'does the boycott even matter' gut-check for a Canadian audience.",
+    "bullets": [
+      " CTV News traveled to Kentucky - bourbon's home turf - to ask distillers how Canada's ban is hitting them.",
+      " Kentucky's response, per the report, was flat-out blunt.",
+      " Does boycotting American bourbon actually send a message, or are we just the ones missing out on good whiskey?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.ctvnews.ca/world/trumps-tariffs/article/ctv-news-went-to-kentucky-to-see-if-canadas-bourbon-bans-are-hurting-them-their",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Alberta separatist Jeff Rath kicked out of governing United Conservative Party",
+    "angle": "Alberta's independence talk keeps bubbling up, and now the governing party itself is drawing a hard line against it by cutting loose one of the movement's most outspoken voices.",
+    "bullets": [
+      " Jeff Rath, a well-known Alberta separatist, has been kicked out of the province's governing United Conservative Party.",
+      " Should a political party be allowed to boot a member just for openly backing separatism?"
+    ],
+    "debate": "https://www.cbc.ca/news/canada/calgary/alberta-separatist-jeff-rath-kicked-out-governing-united-conservative-party-9.7403521?cmp=rss",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Decision clearing path for Russia to join world juniors in Alberta is 'very unwelcome,' minister says",
+    "angle": "Canada's foreign affairs minister is publicly slamming the decision to let Russia back into hockey's world junior championship, tying it directly to the ongoing war in Ukraine \u2014 a flashpoint of sport colliding with geopolitics, happening on home ice in Alberta.",
+    "bullets": [
+      " Canada's foreign affairs minister called the decision a \"great disappointment\"",
+      " Tournament is set to be held in Alberta",
+      " Comes as Russia's invasion of Ukraine approaches its fifth year",
+      " Does hockey get to be \"just sports,\" or should Russia stay locked out as long as the war in Ukraine drags on?"
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/canada/russia-hockey-world-junior-championships-2027-canada-exploring-options-minister-says-9.7403796",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Some Backstreet Boys fans consider refund after Live Nation relocates them to cheaper, still-obstructed seats",
+    "angle": "A classic concert-ticket horror story out of Toronto - fans who paid for obstructed-view seats got moved by Live Nation, except the new seats are still obstructed. It's the kind of ticketing mess every concertgoer has a story about.",
+    "bullets": [
+      " Fans at a Backstreet Boys show in Toronto were relocated by Live Nation after their original seats had an obstructed view.",
+      " Some fans say they didn't know about the obstruction when they bought the original tickets.",
+      " A number of ticket holders are now considering asking for a refund.",
+      " Ever paid full price to watch a concert through a pole or a speaker stack - what did you do about it?"
+    ],
+    "debate": "https://www.cbc.ca/news/canada/toronto/live-nation-relocates-backstreet-boys-fans-to-cheaper-obstructed-seats-9.7403274?cmp=rss",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Alberta freezes education property tax rates for 3 years, promises $100M in savings",
+    "angle": "With affordability still the top kitchen-table complaint across the country, a government promising to freeze a tax line for three straight years is the kind of \"finally, some good news\" story that gets people checking their own property tax bill.",
+    "bullets": [
+      " Alberta is freezing education property tax rates for the next three years",
+      " It's a multi-year commitment, not a one-time rebate \u2014 meant to give homeowners predictable bills",
+      " Does a 3-year tax freeze actually move the needle on your bill, or is $100M spread across a whole province basically a rounding error? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "1l2SXRrb2k2R29zSElBVHJfQmFsUWY0bUZGbjctZ3RISGpzRzFQSWpjdzlDNGFQSXZheTd4bEJXcDJMaGlyNXRn?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQXdzck5GV3V1ZDQtVUMxOXJRNFNYN0MxcGhqUks2cGx0RjN3bXgzeU",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "CANADIAN NEWS",
+    "title": "Toronto family speaks out following \u2018terrifying\u2019 Bridle Path home invasion",
+    "angle": "A family in one of Canada's most exclusive neighborhoods is going public about a home invasion they call terrifying \u2014 and it taps into the real fear that no postal code, no matter how wealthy, is immune to crime.",
+    "bullets": [
+      " It happened on Bridle Path \u2014 long known as one of Canada's wealthiest residential streets",
+      " Does living on the richest street in the country actually make you safer \u2014 or just a bigger target? CTV News (via Google News) (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD"
+    ],
+    "debate": "WNKVzRqRW9ReFpaWHBn?oc=5",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMENXVFhiQkdwSVpJTS1GaTU4MWxndkVhVGV3aVY4bFlRa0czRHRrU",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Martin Scorsese Says His \u2018Cleopatra\u2019 Movie With Angelina Jolie Was \u2018Ruined\u2019 by Seth Rogen and the Sony Hack: \u2018It Was Gonna Be Really Wild\u2019",
+    "angle": "Martin Scorsese is revealing that his dream Angelina Jolie epic got torpedoed by one of Hollywood's wildest real-life scandals - the 2014 Sony hack - giving us a juicy 'movie that never was' story straight from a legend.",
+    "bullets": [
+      " Martin Scorsese wanted to make a Cleopatra movie starring Angelina Jolie",
+      " He says the project was 'ruined' by Seth Rogen and the Sony hack",
+      " Scorsese's verdict on what could've been: 'It was gonna be really wild'",
+      " What's the dream movie you wish actually got made - ask listeners for their favorite Hollywood 'almost happened' story. variety.com (Tier 2) | Score: 86/90 (45 fit + 8 source + 33 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://variety.com/2026/film/news/martin-scorsese-cleopatra-angelina-jolie-ruined-sony-hack-1236935596/",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Martin Scorsese\u2018s \u201cCleopatra\u201d never came to fruition, and he says the Angelina Jolie-starrer was nixed because of Seth Rogen and the Sony ha",
+    "angle": "A lost Scorsese epic with Angelina Jolie as Cleopatra actually existed \u2014 and he's now saying it got torched because of the Seth Rogen/Sony hack fallout with Kim Jong Un, which is a wild little piece of Hollywood history nobody knew.",
+    "bullets": [
+      " Martin Scorsese reveals he was developing a Cleopatra film starring Angelina Jolie",
+      " He says the project died because of fallout tied to the 2014 Sony hack",
+      " Scorsese's quote: \"they made fun of Kim Jong Un, and he got mad and blew up everybody at Columbia\"",
+      " A Scorsese/Jolie Cleopatra got nuked because of a Seth Rogen comedy \u2014 what's the one 'what if' movie you wish still existed? X/Twitter @Variety (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Variety/status/2116324188852253108",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Martin Scorsese Says His 'Cleopatra' Movie With Angelina Jolie Was 'Ruined' by Seth Rogen and the Sony Hack: 'It Was Gonna Be Really Wild' h",
+    "angle": "Martin Scorsese Says His 'Cleopatra' Movie With Angelina Jolie Was 'Ruined' by Seth Rogen and the Sony Hack: 'It Was Gonna Be Really Wild' h X/Twitter @Variety (Tier 1) | Score: 80/90 (45 fit + 12 source + 23 quality) -> LEAD",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "https://x.com/Variety/status/2116323289924616261",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "'Star Trek' Actor Wil Wheaton Tells Stephen Miller to Keep Patrick Stewart's Name Out of His 'Nazi Mouth'",
+    "angle": "A 'Star Trek: TNG' alum going scorched-earth on a top Trump official is exactly the kind of celebrity-vs-politics collision that blows up timelines \u2014 it's got nerd nostalgia, political rage, and a quote too spicy not to read verbatim.",
+    "bullets": [
+      " Wil Wheaton, who played Wesley Crusher on Star Trek: The Next Generation, fired off the line telling Stephen Miller to keep Patrick Stewart's name out of his \"Nazi mouth.**\"",
+      " Patrick Stewart played Captain Picard, Wheaton's on-screen mentor/castmate for seven seasons.",
+      " Stephen Miller is a senior Trump White House official long criticized by opponents for hardline, authoritarian-coded rhetoric.",
+      " Where's the line between a celebrity 'speaking out' and just torching their own brand for a political dunk?"
+    ],
+    "debate": "",
+    "source": "Reddit r/entertainment (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.thewrap.com/culture-lifestyle/culture/wil-wheaton-slams-stephen-miller-patrick-stewart-tribute/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Patrick Stewart and Ian McKellen Through the Years",
+    "angle": "A Reddit photo retrospective of Patrick Stewart and Ian McKellen is making the rounds because their real-life friendship is the rare Hollywood bond that's outlasted everything - decades of theater, X-Men, and just being each other's plus-one, which is catnip for a lifestyle audience that loves a good 'see, real friendship exists' story.",
+    "bullets": [
+      " This is the kind of \"grew old together\" friendship story people eat up - ask listeners who their own decades-long best friend is and watch the lines light up."
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/gallery/1xjvwx7",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "An incredibly astute and intuitive child refuses to go anywhere near the Trumps, even as they attempt to bribe him with candy",
+    "angle": "A viral r/fauxmoi moment about a child reportedly refusing to get anywhere near the Trump family \u2014 bribery with candy included \u2014 is exactly the kind of oddly specific, laugh-out-loud celebrity tidbit that gets people screenshotting and sending to the group chat.",
+    "bullets": [
+      " A child reportedly refused to go near the Trump family in a recent encounter.",
+      " Kids are famously terrible liars with their body language \u2014 so is a toddler's gut reaction the most honest review of a celebrity you'll ever get?"
+    ],
+    "debate": "",
+    "source": "Reddit r/fauxmoi (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://v.redd.it/oq812ch0moyh1",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Dune 3 popcorn buckets are even more unhinged than the original",
+    "angle": "The Dune: Part Two popcorn bucket became a meme for looking way too suggestive, and instead of quietly killing it for Part Three, theater chains leaned in harder - that's a guaranteed laugh and a 'wait, show me' moment for listeners.",
+    "bullets": [
+      " Dune: Part Two's popcorn bucket merch went viral for being widely called NSFW",
+      " Theater chains are bringing the bucket gimmick back for Dune: Part Three",
+      " Instead of toning it down, they reportedly doubled down on the design",
+      " Call in and tell us the weirdest piece of movie merch you've ever bought just because you felt pressured at the concession stand."
+    ],
+    "debate": "",
+    "source": "www.cbc.ca (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.cbc.ca/news/entertainment/dune-three-popcorn-bucket-9.7403047?cmp=rss",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Daytime Emmy Awards 2026 red carpet: Keke Palmer, Tracee Ellis Ross, Jennifer Hudson and more",
+    "angle": "The Daytime Emmys are the awards show nobody argues about but everybody still watches for the fashion, and this year's carpet pulled serious star power that crosses over way beyond daytime TV.",
+    "bullets": [
+      " Keke Palmer hit the red carpet for this year's ceremony.",
+      " Tracee Ellis Ross was also among the stars turning up.",
+      " Jennifer Hudson rounded out the big names spotted on the carpet.",
+      " Best-dressed on the carpet \u2014 who gets your vote, Keke, Tracee, or Jennifer?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Jalen Brunson fails to deliver in the clutch as Knicks fall short in NBA Cup opener to 76ers",
+    "angle": "The Knicks' go-to guy didn't come through when it mattered, and now a hated rivalry game turns into a referendum on whether this team can win the close ones.",
+    "bullets": [
+      " Jalen Brunson couldn't deliver in the clutch as the Knicks fell short",
+      " Is Brunson still 'clutch' or did the league figure him out?"
+    ],
+    "debate": "",
+    "source": "nypost.com (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://nypost.com/2026/10/30/sports/knicks-fall-short-in-nba-cup-opener-to-76ers/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Please Let the Internet Die | Online spaces are captured by oligarchs and saturated with slop\u2014and they\u2019re exacerbating humanity\u2019s worst impulses. It\u2019s time to start over.",
+    "angle": "A viral essay says the internet is broken beyond repair \u2014 run by a handful of billionaires and buried in AI slop \u2014 and it's striking a nerve because everyone's felt that same 'this app used to be fun' burnout.",
+    "bullets": [
+      " Its central claim: the modern internet is \"exacerbating humanity's worst impulses.\"",
+      " Ask it straight: is the internet actually unfixable now, or are we all just chronically online and cranky?"
+    ],
+    "debate": "",
+    "source": "Reddit r/technology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.wired.com/story/let-the-internet-die/",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "ENTERTAINMENT",
+    "title": "Josh Jacobs scores twice as Packers dispatch Panthers - ESPN",
+    "angle": "Thursday Night Football delivered chaos for the whole country to see - a scary hospital trip, a stoppage, and Carolina clawing back late before Green Bay closed it out.",
+    "bullets": [
+      " Josh Jacobs scored twice to lead the Packers past the Panthers on Thursday Night Football.",
+      " A player was taken to the hospital in the first half - then came back and played in the second half.",
+      " Play was stopped during the game amid the scare.",
+      " Carolina made a late push, but Green Bay held on for the win.",
+      " A guy goes to the hospital and comes BACK to play in the same game - would you have let him? ESPN (via NewsAPI) (Tier 1) | Score: 73/90 (45 fit + 12 source + 16 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.espn.com/nfl/story/_/id/50322670/nfl-green-bay-packers-panthers-jordan-love-bryce-young",
+    "score": "",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Crypto worth billions frozen after suspected Binance hack - BBC",
+    "angle": "A suspected hack at crypto giant Binance has billions in assets frozen, and nobody's saying exactly how much yet - that uncertainty, plus the eye-popping dollar figure floating around, is exactly the kind of story that gets people asking if their own money's safe anywhere digital.",
+    "bullets": [
+      " Binance.com, one of the world's biggest crypto exchanges, is at the center of a suspected security breach.",
+      " Binance.US - the separate platform built specifically for American traders - says it's not affected by the incident.",
+      " Details are still thin; Binance has not disclosed exactly how the breach happened or how much was actually taken.",
+      " Would you still keep your money on a crypto exchange after a headline like this? BBC News (via NewsAPI) (Tier 1) | Score: 81/90 (45 fit + 12 source + 24 quality) -> LEAD"
+    ],
+    "debate": "",
+    "source": "",
+    "url": "https://www.bbc.com/news/articles/cwg7xp8kx4v5o",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Type 2 diabetes breakthrough as 54% of younger adults achieved remission in just 6 months with an intensive diet and exercise programme, compared with only 4% receiving standard care in a clinical trial",
+    "angle": "This is the kind of health story people actually want to hear \u2014 proof that lifestyle changes can beat a lifelong diagnosis, not just manage it. It's relatable, hopeful, and gives listeners something concrete to try.",
+    "bullets": [
+      " 54% of younger adults with type 2 diabetes hit remission in just 6 months",
+      " Compare that to only 4% who got there on standard care",
+      " Trial focused specifically on younger adults, a group usually told this condition is for life",
+      " Could you commit to 6 months of intense diet and exercise if it meant reversing a diagnosis for good?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.sciencedaily.com/releases/2026/10/261029072129.htm",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "LIFESTYLE CHAT",
+    "title": "Republicans liked the exact same workplace diversity training more when it skipped buzzwords like \"diversity\" and \"privilege\" and used plain words like \"differences\" and \"unfair advantages\" instead. Same content, different labels, and they also rated it as less politically biased.",
+    "angle": "A new study found Republicans rated the exact same workplace training as less biased just by swapping buzzwords like 'diversity' and 'privilege' for 'differences' and 'unfair advantages' \u2014 proof that in the DEI debate, it might be more about the vocabulary than the actual message.",
+    "bullets": [
+      " Researchers tested the identical training content, just with different wording.",
+      " Swap \"diversity\" for \"differences\" and \"privilege\" for \"unfair advantages\" \u2014 and Republican participants liked it more.",
+      " Same group also rated the reworded version as less politically biased, despite zero change in substance.",
+      " Study out of r/science is reigniting the old \"it's just semantics\" vs. \"words matter\" fight.",
+      " If changing three words flips how 'fair' a training feels, is this about the message \u2014 or just better marketing? ON-AIR BIT BREAKDOWN - Step 1: Read Version A - ~20 seconds -> Host reads a corporate-speak line using 'diversity' and 'privilege' and gets the co-host's gut reaction. - Step 2: Read Version B - ~20 seconds -> Host reads the same line swapped to 'differences' and 'unfair advantages' and compares the reaction. - Step 3: Open the phones - Phone-in segment -> Ask listeners: did the second version actually sound fairer to you, or are you just noticing the trick now?"
+    ],
+    "debate": "",
+    "source": "Reddit r/science (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://news.cornell.edu/stories/2026/10/using-less-politically-charged-language-can-lower-temperature-dei-training",
+    "score": "78/90",
+    "is_backup": true
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "CLOSER: WHAT THE FRIDAY",
+    "title": "Drone causes bizarre delay during Packers-Panthers \u2018Thursday Night Football\u2019",
+    "angle": "Drone causes bizarre delay during Packers-Panthers \u2018Thursday Night Football\u2019 USA Today (via Google News) (Tier 2) | Score: 64/90 (40 fit + 8 source + 16 quality) -> STRONG",
+    "bullets": [],
+    "debate": "",
+    "source": "",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdEZlY3FFa0xWZk1OY1ZuZGhjRFlud0NCNUVTa0laenViZ3A0MWVWS2",
+    "score": "",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Catherine Breed has become the first person to swim California's entire 900 mile coastline, completing the journey in 111 days despite tropical storms, powerful currents and waves up to 8 feet, while promoting ocean conservation and encouraging more women and girls to get in the water.",
+    "angle": "A woman just became the first human ever to swim all 900 miles of California's coast \u2014 that's a feat nobody's pulled off, through storms and shark-infested currents, and she did it to get more women in the water.",
+    "bullets": [
+      " Catherine Breed is officially the first person ever to swim California's full 900-mile coastline.",
+      " She battled tropical storms, brutal currents, and waves reported up to 8 feet.",
+      " Her mission wasn't just the record \u2014 she's using it to push ocean conservation and get more women and girls into open-water swimming.",
+      " 111 days, 900 miles, open ocean \u2014 what's the longest you've ever stuck with a personal goal, and could you have lasted even one day of this?"
+    ],
+    "debate": "",
+    "source": "Reddit r/upliftingnews (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.theguardian.com/us-news/2026/oct/24/catherine-breed-interview-swim-california-coastline",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "British intelligence agency misplaced 'thousands' of storage devices, years later still can't say how many",
+    "angle": "A top-secret spy agency losing track of thousands of storage devices sounds like a joke, but it's real \u2014 and the fact that years later they *still* can't give a firm number is the kind of government-blunder story that writes its own punchline.",
+    "bullets": [
+      " A British intelligence agency has reportedly misplaced \"thousands\" of storage devices \u2014 think USB drives, hard drives, that kind of thing.",
+      " Here's the kicker: it's been years, and officials still can't say exactly how many are missing.",
+      " No confirmed breach, no dramatic leak \u2014 just a mystery pile of hardware that vanished somewhere inside one of the world's most secretive organizations."
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://assets.theregister.com/2026/10/30/20268/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Murder suspect offers guilty plea in exchange for a Philly cheesesteak",
+    "angle": "This is peak 'you can't make this up' news \u2014 a guy facing a murder charge allegedly tried to bargain his guilty plea for a Philly cheesesteak, and that's exactly the kind of absurd-but-true story that blows up online.",
+    "bullets": [
+      " A murder suspect reportedly offered to plead guilty \u2014 in exchange for a Philly cheesesteak.",
+      " Limited details available beyond the headline \u2014 no suspect name, location, or case specifics confirmed yet.",
+      " What's the one food you'd negotiate just about anything for?"
+    ],
+    "debate": "",
+    "source": "Reddit r/nottheonion (Tier 1) | Score: 58/90 (45 fit + 12 source + 11 quality - 10 penalty (Depressing/negative tone)) -> STRONG",
+    "url": "https://www.fox29.com/news/murder-suspect-offers-guilty-plea-exchange-philly-cheesesteak",
+    "score": "58/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Germany says it's planning space based anti-satellite weapons, & a space force division of the Luftwaffe numbering in the thousands.",
+    "angle": "This sounds like sci-fi but it's real: Germany's air force just admitted it's developing offensive capabilities all the way to geostationary orbit and won't rule out blowing things up up there. It's the kind of 'wait, what?' story that makes a great quick hit before a break.",
+    "bullets": [
+      " They're discussing turning Norway's And\u00f8ya Spaceport into a military launch site"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.reddit.com/r/Futurology/comments/1xjt8ky/germany_says_its_planning_space_based/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "Australian firm Cortical Labs connected 15 CL1 biological computers, each carrying roughly 1 million living human neurons on silicon, into a collective \"hive mind.\"",
+    "angle": "An Australian company wired together human neurons into a 'hive mind' computer that crushed regular AI at a task - this is the kind of real-life sci-fi story that gets people texting the show immediately.",
+    "bullets": [
+      " Cortical Labs linked 15 CL1 biological computers, each built with roughly 1 million living human neurons grown on silicon.",
+      " Standard AI (Deep Q Network) only hit about 32% of the max score on a navigation test.",
+      " One lone biological computer beat it at 40% - but networking them together as a 'hive' jumped the score to 70%.",
+      " Splitting the task among specialized brain-cell groups pushed results to about 80% - though researchers stress these are early, limited findings.",
+      " If a 'brain' made of real human neurons outperforms AI working together, are we building smarter machines - or something a little more alive than we're ready for?"
+    ],
+    "debate": "",
+    "source": "Reddit r/futurology (Tier 1) | Score: 66/90 (45 fit + 12 source + 21 quality - 12 penalty (Too technical/niche)) -> STRONG",
+    "url": "https://www.reddit.com/r/Futurology/comments/1xjnd75/australian_firm_cortical_labs_connected_15_cl1/",
+    "score": "66/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
+    "slot": "pm",
+    "category": "BREAKOUT WATCH",
+    "title": "CAS rules Russia must be allowed back in IIHF events effective immediately",
+    "angle": "Russia's been locked out of IIHF hockey since the Ukraine invasion in 2022, and now the Court of Arbitration for Sport just ordered the door open again - effective immediately. For a Canadian audience that lives and dies by international hockey, this is a lightning rod heading into World Juniors and Olympic qualifying conversations.",
+    "bullets": [
+      " Russia has been frozen out of IIHF play since being suspended over the invasion of Ukraine in 2022.",
+      " Should sports and politics stay separate, or does Russia skating back into international hockey this fast feel way too soon?"
+    ],
+    "debate": "",
+    "source": "Reddit r/canada (Tier 1) | Score: 78/90 (45 fit + 12 source + 21 quality) -> LEAD",
+    "url": "https://www.tsn.ca/hockey-canada/article/cas-rules-russia-must-allowed-back-in-iihf-effective-immediately/",
+    "score": "78/90",
+    "is_backup": false
+  },
+  {
+    "date": "2026-10-30",
     "slot": "am",
     "category": "THE LIST",
     "title": "North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History",
